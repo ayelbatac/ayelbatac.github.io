@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>anaphylaxis – &lt;a href='index.html' style='display: flex; align-items: center; gap: 0.5rem; text-decoration: none; color: white;'&gt; &lt;img src='logo.png' alt='Logo' style='height: 60px;'&gt; &lt;span&gt;&lt;strong&gt;Ayel L. R. Batac&lt;/strong&gt;&lt;/span&gt; &lt;/a&gt;</title>
+<title>&lt;a href='index.html' style='display: flex; align-items: center; gap: 0.5rem; text-decoration: none; color: white;'&gt; &lt;img src='logo.png' alt='Logo' style='height: 60px;'&gt; &lt;span&gt;&lt;strong&gt;Ayel L. R. Batac&lt;/strong&gt;&lt;/span&gt; &lt;/a&gt;</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -119,7 +90,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -171,89 +142,70 @@ window.Quarto = {
 
 
 
-<section id="anaphylaxis" class="level1">
-<h1>ANAPHYLAXIS</h1>
-<p><span class="math inline">\(~\)</span></p>
-<p>Anaphylaxis is a <strong>life-threatening allergic reaction</strong> that requires rapid recognition and immediate treatment with intramuscular <strong>epinephrine</strong>. Despite the availability of clinical guidelines and growing global awareness, the <strong>treatment of anaphylaxis remains inconsistent</strong>, particularly in low-resource settings and underserved regions. Barriers such as lack of access to epinephrine, delays in diagnosis, and inadequate emergency response systems contribute to preventable morbidity and mortality worldwide.</p>
-<section id="addressing-global-inequities-in-anaphylaxis-care" class="level2">
-<h2 class="anchored" data-anchor-id="addressing-global-inequities-in-anaphylaxis-care">Addressing Global Inequities in Anaphylaxis Care</h2>
-<p>There is growing recognition of <strong>geographic and structural disparities</strong> in anaphylaxis management. Across high-, middle-, and low-income countries, variations in treatment availability, affordability, and healthcare infrastructure lead to unequal outcomes for patients at risk of severe allergic reactions.</p>
-<p>My current research is synthesizing global evidence on:</p>
-<ul>
-<li><strong>International differences</strong> in anaphylaxis treatment and outcomes<br>
-</li>
-<li><strong>Access to epinephrine</strong>, including auto-injectors and ampoules<br>
-</li>
-<li><strong>Alignment with clinical guidelines</strong> across healthcare systems<br>
-</li>
-<li><strong>Barriers to timely care</strong>, including regulatory, cost, and training constraints</li>
-</ul>
-<p>This work aims to inform <strong>policy recommendations</strong> that promote more equitable, evidence-based emergency care for anaphylaxis across global settings.</p>
-<p><span class="math inline">\(~\)</span></p>
-</section>
-<section id="anaphylaxis-management-in-china" class="level2">
-<h2 class="anchored" data-anchor-id="anaphylaxis-management-in-china">Anaphylaxis Management in China</h2>
-<p>My recent work explored <strong>anaphylaxis management in mainland China</strong>, where access to <strong>epinephrine auto-injectors (EAIs)</strong> has historically been limited. A focused investigation into the <strong>introduction and integration of EAIs</strong> highlights key findings:</p>
-<ul>
-<li>Challenges in <strong>regulatory approval</strong> and market availability<br>
-</li>
-<li><strong>Cost-related barriers</strong> limiting patient and provider uptake<br>
-</li>
-<li>Gaps in <strong>clinical training</strong> and public awareness<br>
-</li>
-<li>Opportunities to integrate <strong>global best practices</strong> into national guidelines and emergency protocols</li>
-</ul>
-<p>Together, these efforts contribute to a broader understanding of how <strong>health systems can adapt</strong> to improve emergency response capacity for anaphylaxis and ensure that <strong>life-saving interventions are accessible and appropriately used</strong>.</p>
-<p><span class="math inline">\(~\)</span></p>
+<!-- DO NOT use # here -->
+<!-- Full-width Banner Section -->
+<div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%); height: 450px; overflow: hidden; margin-bottom: 2rem;">
+  <img src="idx.png" alt="Anaphylaxis Infographic" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
 
-<p style="font-size: 1.5rem; font-weight: bold; color: #1B153E; margin-bottom: 1rem;">
-  Featured Publication
-</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 1.5rem;">
-
-<!-- Infographic Image -->
-<div style="flex: 0 0 400px;">
-  <img src="eai_china.png" alt="Anaphylaxis Infographic - China" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 2rem;
+    background: linear-gradient(to top, rgba(27,21,62,0.7), rgba(27,21,62,0.4), transparent);
+    color: white;
+  ">
+    <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 0.5rem;">From Ampoules to Auto-Injectors</div>
+    <div style="margin-bottom: 0.5rem;">Expanding access to epinephrine auto-injectors: a new chapter in anaphylaxis treatment in China.</div>
+    <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="color: white; text-decoration: underline;">Read More</a>
+  </div>
 </div>
+<!-- Full-width Spotlight Section -->
+<div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
 
-  <!-- Publication Description -->
-  <div style="flex: 1; min-width: 250px;">
+  <!-- Title (HTML, not markdown) to avoid anchor icon -->
+  <div style="color: #1B153E; text-transform: uppercase; font-weight: bold; font-size: 1.75rem; margin-bottom: 2rem;">SPOTLIGHT</div>
 
-    <!-- Title -->
-    <p style="font-weight: bold; color: #1B153E;">
-      From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China
-    </p>
+  <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; gap: 2rem;">
 
-    <!-- Description -->
-    <p>
-      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with a focus on the introduction of epinephrine auto-injectors. The study highlights persistent challenges such as regulatory barriers, cost constraints, and provider awareness, and offers policy recommendations for integrating standardized, life-saving interventions into emergency response systems.
-    </p>
+    <!-- Tile 1: Anaphylaxis -->
+    <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="flex: 1; text-decoration: none; color: inherit; transition: transform 0.3s;">
+      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
+        <img src="journal_image_1.png" alt="Anaphylaxis Research" style="width: 100%; height: 230px; object-fit: cover;">
+        <div style="padding: 1rem;">
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Auto-injectors in China?</div>
+          <p style="margin-top: 0.5rem; color: #444;">Improving access to epinephrine auto-injectors in China.</p>
+        </div>
+      </div>
+    </a>
 
-<!-- Citation -->
-<p style="font-size: 0.70rem;">
-  <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
-    <strong>Batac ALR.</strong> From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: 10.1111/cea.70028. PMID: 40071384.
-  </a>
-</p>
+    <!-- Tile 2: Mpox -->
+    <a href="https://nccid.ca/debrief/mpox/" target="_blank" style="flex: 1; text-decoration: none; color: inherit; transition: transform 0.3s;">
+      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
+        <img src="mpox_idx.png" alt="Mpox Research" style="width: 100%; height: 230px; object-fit: cover;">
+        <div style="padding: 1rem;">
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Mpox Disease Debrief</div>
+          <p style="margin-top: 0.5rem; color: #444;">New mpox clades – what is the current risk to Canadians?</p>
+        </div>
+      </div>
+    </a>
 
-
+    <!-- Tile 3: Food Allergy Household Financial Burden Scoping Review -->
+    <a href="https://doi.org/10.1111/cea.14622" target="_blank" style="flex: 1; text-decoration: none; color: inherit; transition: transform 0.3s;">
+      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
+        <img src="journal_image_2.png" alt="Food Allergy Scoping Review" style="width: 100%; height: 230px; object-fit: cover;">
+        <div style="padding: 1rem;">
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Is food allergy expensive?</div>
+          <p style="margin-top: 0.5rem; color: #444;">Reviewing tools that measure the cost of food allergy</p>
+        </div>
+      </div>
+    </a>
 
   </div>
 </div>
 
-<p><span class="math inline">\(~\)</span></p>
-<p><span class="math inline">\(~\)</span></p>
-<p><em>Stay tuned — publications and data visualizations related to this work, including research on global disparities in anaphylaxis management, will be made available here soon.</em></p>
-<style>
-  h1, h2, h3, p {
-    color: #1B153E;
-  }
-</style>
 
-
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -328,7 +280,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/alrbatac\.github\.io\/abatac\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
