@@ -1,0 +1,92 @@
+---
+title: ""
+---
+
+# ANAPHYLAXIS
+
+$~$
+
+Anaphylaxis is a **life-threatening allergic reaction** that requires rapid recognition and immediate treatment with intramuscular **epinephrine**. Despite the availability of clinical guidelines and growing global awareness, the **treatment of anaphylaxis remains inconsistent**, particularly in low-resource settings and underserved regions. Barriers such as lack of access to epinephrine, delays in diagnosis, and inadequate emergency response systems contribute to preventable morbidity and mortality worldwide.
+
+## Addressing Global Inequities in Anaphylaxis Care
+
+There is growing recognition of **geographic and structural disparities** in anaphylaxis management. Across high-, middle-, and low-income countries, variations in treatment availability, affordability, and healthcare infrastructure lead to unequal outcomes for patients at risk of severe allergic reactions.
+
+My current research is synthesizing global evidence on:
+
+- **International differences** in anaphylaxis treatment and outcomes  
+- **Access to epinephrine**, including auto-injectors and ampoules  
+- **Alignment with clinical guidelines** across healthcare systems  
+- **Barriers to timely care**, including regulatory, cost, and training constraints  
+
+This work aims to inform **policy recommendations** that promote more equitable, evidence-based emergency care for anaphylaxis across global settings.
+
+$~$
+
+## Anaphylaxis Management in China
+
+My recent work explored **anaphylaxis management in mainland China**, where access to **epinephrine auto-injectors (EAIs)** has historically been limited. A focused investigation into the **introduction and integration of EAIs** highlights key findings:
+
+- Challenges in **regulatory approval** and market availability  
+- **Cost-related barriers** limiting patient and provider uptake  
+- Gaps in **clinical training** and public awareness  
+- Opportunities to integrate **global best practices** into national guidelines and emergency protocols  
+
+Together, these efforts contribute to a broader understanding of how **health systems can adapt** to improve emergency response capacity for anaphylaxis and ensure that **life-saving interventions are accessible and appropriately used**.
+
+$~$
+
+```{=html}
+
+<p style="font-size: 1.5rem; font-weight: bold; color: #1B153E; margin-bottom: 1rem;">
+  Featured Publication
+</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 1.5rem;">
+
+<!-- Infographic Image -->
+<div style="flex: 0 0 400px;">
+  <img src="eai_china.png" alt="Anaphylaxis Infographic - China" 
+       style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'">
+</div>
+
+  <!-- Publication Description -->
+  <div style="flex: 1; min-width: 250px;">
+
+    <!-- Title -->
+    <p style="font-weight: bold; color: #1B153E;">
+      From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China
+    </p>
+
+    <!-- Description -->
+    <p>
+      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with a focus on the introduction of epinephrine auto-injectors. The study highlights persistent challenges such as regulatory barriers, cost constraints, and provider awareness, and offers policy recommendations for integrating standardized, life-saving interventions into emergency response systems.
+    </p>
+
+<!-- Citation -->
+<p style="font-size: 0.70rem;">
+  <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
+    <strong>Batac ALR.</strong> From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: 10.1111/cea.70028. PMID: 40071384.
+  </a>
+</p>
+
+
+
+  </div>
+</div>
+
+```
+
+$~$
+
+$~$
+
+*Stay tuned — publications and data visualizations related to this work, including research on global disparities in anaphylaxis management, will be made available here soon.*
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+</style>

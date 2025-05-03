@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "c1cb8a8f"
+  },
+  "publications.qmd": {
+    "publications.html": "2004f187"
+  },
+  "about.qmd": {
+    "about.html": "d84184d6"
+  },
+  "infographics.qmd": {
+    "infographics.html": "75bfa99d"
+  },
+  "talks.qmd": {
+    "talks.html": "c6db5905"
+  },
+  "contact.qmd": {
+    "contact.html": "a6eee01e"
+  },
+  "research.qmd": {
+    "research.html": "799744d8"
+  },
+  "tb.qmd": {
+    "tb.html": "757a2c32"
+  },
+  "anaphylaxis.qmd": {
+    "anaphylaxis.html": "c4625a65"
+  },
+  "stbbi.qmd": {
+    "stbbi.html": "c91dc589"
+  }
+}

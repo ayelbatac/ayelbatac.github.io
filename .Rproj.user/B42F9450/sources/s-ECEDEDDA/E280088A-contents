@@ -1,0 +1,87 @@
+---
+title: ""
+---
+
+# RESEARCH
+
+## Research Summary
+
+My research centers on the social epidemiology of sexually transmitted and blood-borne infections (STBBIs), with a focus on marginalized and underserved populations, including men who have sex with men (MSM) and sex worker communities. I am particularly interested in STBBI and HIV prevention and control, with an emphasis on the structural, behavioural, and social determinants that shape health inequities.
+
+I also explore infectious disease prevention and response in low- and middle-income countries (LMICs) and low-resource settings. My current work includes evaluating pay-it-forward models as innovative behavioural interventions to improve access to gonorrhea and chlamydia testing among MSM, and I maintain broader interests in respiratory infections, including tuberculosis (TB), respiratory syncytial virus infection (RSV), influenza (flu), and coronavirus disease 2019 (COVID-19). While I have growing interests in implementation science and infectious disease modelling, my current focus lies in mixed-methods research, evidence synthesis, and epidemiological analysis. I am actively involved in knowledge translation (KT) and knowledge mobilization (KMb) efforts to bridge research into policy and practice and ensure that evidence informs real-world decision-making.
+
+In addition to my work in infectious diseases, I have a longstanding interest in allergy and clinical immunology, especially in the areas of epidemiology, evidence synthesis, and the health economics of allergy medications. I am also interested in the pharmacoeconomic evaluation of HIV prevention strategies, including pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP).
+
+$~$
+
+<h2 style="color: #1B153E; font-weight: 600; border-bottom: none; margin-bottom: 2rem;">Current Research</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+
+  <!-- STBBIs -->
+  <a href="stbbi.qmd" style="text-decoration: none;">
+    <img src="stbbi.png" alt="STBBIs" style="width: 100%; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+  </a>
+
+  <!-- TB -->
+  <a href="tb.qmd" style="text-decoration: none;">
+    <img src="tb.png" alt="Tuberculosis" style="width: 100%; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+  </a>
+
+  <!-- Mpox -->
+  <a href="mpox.qmd" style="text-decoration: none;">
+    <img src="mpox.png" alt="Mpox" style="width: 100%; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+  </a>
+
+  <!-- Anaphylaxis -->
+  <a href="anaphylaxis.qmd" style="text-decoration: none;">
+    <img src="anaphylaxis.png" alt="Anaphylaxis" style="width: 100%; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+  </a>
+
+</div>
+
+$~$
+
+## Research Interests
+
+- Social epidemiology of STBBIs and HIV  
+- Health equity among MSM and sex worker populations  
+- Respiratory infectious diseases (e.g., TB, RSV, flu, COVID-19)  
+- Infectious disease prevention and control in LMICs and low-resource settings  
+- Behavioural interventions for health service uptake (e.g., pay-it-forward)  
+- Mixed-methods research in public health and epidemiology  
+- Evidence synthesis (scoping and systematic reviews)  
+- Knowledge translation and knowledge mobilization (KT/KMb)  
+- Infectious disease modelling  
+- Implementation science  
+- Health economics and pharmacoeconomics (HIV, allergy)  
+- Allergy and clinical immunology (anaphylaxis, asthma, drug and food allergy)  
+
+## Research Areas
+
+- Epidemiology (communicable and non-communicable diseases)  
+- Sexually Transmitted and Blood-Borne Infections (STBBIs)  
+- HIV/AIDS  
+- Public Health  
+- Infectious Diseases  
+- Global Health  
+- Health Systems Research  
+- Health Economics and Outcomes Research  
+- Implementation Science  
+- Knowledge Translation and Mobilization  
+- Evidence Synthesis  
+- Allergy  
+- Clinical Immunology  
+- Pediatrics  
+
+## Keywords
+
+STBBIs, HIV/AIDS, MSM health, social epidemiology, behavioural interventions, LMICs, health equity, mixed-methods research, evidence synthesis, knowledge translation, knowledge mobilization, allergy, asthma, anaphylaxis, implementation science, mathematical modelling

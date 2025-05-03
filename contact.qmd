@@ -1,0 +1,69 @@
+---
+title: ""
+---
+
+# GET IN TOUCH
+
+Please fill out the form below to get in touch.  
+
+<span style="color: #DE2221; font-size: 0.9rem;">* indicates required field</span>
+
+```{=html}
+<form action="https://formsubmit.co/ayel.batac@gmail.com" method="POST" id="contact-form" style="width: 100%; max-width: 600px; margin-top: 2rem; padding: 2rem; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+
+  <!-- First Name and Last Name side by side -->
+  <div style="display: flex; gap: 1rem;">
+    <div style="flex: 1;">
+      <label for="first-name" style="font-weight: bold; color: #1B153E;">First Name <span style="color: #DE2221;">*</span></label><br>
+      <input type="text" id="first-name" name="First Name" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
+    </div>
+    <div style="flex: 1;">
+      <label for="last-name" style="font-weight: bold; color: #1B153E;">Last Name <span style="color: #DE2221;">*</span></label><br>
+      <input type="text" id="last-name" name="Last Name" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
+    </div>
+  </div>
+
+  <!-- Email field -->
+  <div style="margin-top: 1.5rem;">
+    <label for="email" style="font-weight: bold; color: #1B153E;">Email <span style="color: #DE2221;">*</span></label><br>
+    <input type="email" id="email" name="Email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
+  </div>
+
+  <!-- Subject field -->
+  <div style="margin-top: 1.5rem;">
+    <label for="subject" style="font-weight: bold; color: #1B153E;">Subject <span style="color: #DE2221;">*</span></label><br>
+    <input type="text" id="subject" name="Subject" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
+  </div>
+
+  <!-- Message field -->
+  <div style="margin-top: 1.5rem;">
+    <label for="message" style="font-weight: bold; color: #1B153E;">Message <span style="color: #DE2221;">*</span></label><br>
+    <textarea id="message" name="Message" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem; min-height: 150px;"></textarea>
+  </div>
+
+  <!-- Hidden field to activate Formsubmit's CAPTCHA -->
+  <input type="hidden" name="_captcha" value="true">
+
+  <!-- Submit button -->
+  <div style="margin-top: 2rem; text-align: center;">
+    <button type="submit" style="background-color: #1B153E; color: white; padding: 0.8rem 2rem; border: none; border-radius: 30px; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
+      Submit
+    </button>
+  </div>
+
+</form>
+
+<script>
+// Button hover effect
+const submitButton = document.querySelector('#contact-form button');
+submitButton.addEventListener('mouseover', function() {
+  this.style.backgroundColor = '#DE2221'; // Red hover
+  this.style.transform = 'scale(1.05)';
+});
+submitButton.addEventListener('mouseout', function() {
+  this.style.backgroundColor = '#1B153E'; // Indigo normal
+  this.style.transform = 'scale(1)';
+});
+</script>
+```
+
