@@ -121,3 +121,22 @@ a.quarto-anchor,
   height: 0 !important;
   overflow: hidden !important;
 }
+
+.explore-button {
+  background-color: #1B153E; /* Deep indigo */
+  color: white;
+  font-weight: 600;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+  min-width: 300px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.explore-button:hover {
+  background-color: #DE2221; /* Red hover */
+  color: white;
+}
