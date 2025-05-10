@@ -2,18 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ayelbatac.github.io/blog.html</loc>
-    <lastmod>2025-05-07T05:49:02.730Z</lastmod>
+    <lastmod>2025-05-10T06:28:30.862Z</lastmod>
   </url>
   <url>
     <loc>https://ayelbatac.github.io/infographics.html</loc>
     <lastmod>2025-05-06T05:39:34.789Z</lastmod>
   </url>
   <url>
-    <loc>https://ayelbatac.github.io/about.html</loc>
-    <lastmod>2025-05-07T18:57:02.536Z</lastmod>
+    <loc>https://ayelbatac.github.io/stbbi.html</loc>
+    <lastmod>2025-05-10T06:17:08.618Z</lastmod>
   </url>
   <url>
-    <loc>https://ayelbatac.github.io/anaphylaxis.html</loc>
+    <loc>https://ayelbatac.github.io/publications.html</loc>
+    <lastmod>2025-05-03T22:52:23.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ayelbatac.github.io/index.html</loc>
+    <lastmod>2025-05-07T07:25:47.668Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ayelbatac.github.io/talks.html</loc>
+    <lastmod>2025-05-04T06:50:11.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ayelbatac.github.io/why-i-work-in-hiv.html</loc>
+    <lastmod>2025-05-10T06:26:53.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ayelbatac.github.io/research.html</loc>
+    <lastmod>2025-05-07T19:02:25.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ayelbatac.github.io/contact.html</loc>
     <lastmod>2025-05-03T22:52:23.499Z</lastmod>
   </url>
   <url>
@@ -21,32 +41,16 @@
     <lastmod>2025-05-03T22:52:23.514Z</lastmod>
   </url>
   <url>
-    <loc>https://ayelbatac.github.io/contact.html</loc>
+    <loc>https://ayelbatac.github.io/anaphylaxis.html</loc>
     <lastmod>2025-05-03T22:52:23.499Z</lastmod>
   </url>
   <url>
-    <loc>https://ayelbatac.github.io/research.html</loc>
-    <lastmod>2025-05-07T19:02:25.719Z</lastmod>
+    <loc>https://ayelbatac.github.io/about.html</loc>
+    <lastmod>2025-05-07T18:57:02.536Z</lastmod>
   </url>
   <url>
-    <loc>https://ayelbatac.github.io/why-i-work-in-hiv.html</loc>
-    <lastmod>2025-05-07T05:48:14.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ayelbatac.github.io/talks.html</loc>
-    <lastmod>2025-05-04T06:50:11.939Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ayelbatac.github.io/index.html</loc>
-    <lastmod>2025-05-07T07:25:47.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ayelbatac.github.io/publications.html</loc>
-    <lastmod>2025-05-03T22:52:23.514Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ayelbatac.github.io/stbbi.html</loc>
-    <lastmod>2025-05-10T06:17:08.618Z</lastmod>
+    <loc>https://ayelbatac.github.io/stbbi-talk.html</loc>
+    <lastmod>2025-05-10T06:26:42.840Z</lastmod>
   </url>
   <url>
     <loc>https://ayelbatac.github.io/mpox.html</loc>
