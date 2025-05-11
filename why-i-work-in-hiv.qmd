@@ -1,0 +1,78 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+    anchor-links: false
+    include-in-header:
+      text: |
+        <title>Why I Work in HIV and STBBIs – Ayel L. R. Batac</title>
+        <meta name="description" content="A personal and professional reflection by Ayel L. R. Batac on working in HIV and STBBI research, and what drives a career in global public health." />
+        <meta name="keywords" content="Ayel Batac, HIV, STBBIs, public health, global health, personal journey, research career, knowledge translation, sexually transmitted infections, health equity, epidemiologist" />
+---
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+</style>
+
+# Why I Work in HIV and STBBIs: A Personal and Professional Journey
+
+May 7, 2025
+
+$~$
+
+When I began studying molecular biology as an undergraduate, I carried with me a deep sense of purpose. Like many students entering the life sciences, I was driven by a dream — to one day help cure cancer. I believed that if I could just understand disease at its most fundamental level, I could be part of the solution to one of the world’s greatest medical challenges.
+
+What captivated me most was the human body itself — its elegance, its complexity. Even in a state of health, it felt like an intricate puzzle. But the moment pathology entered the picture, that complexity multiplied. I remember thinking how difficult it was to grasp the body’s inner workings *even when nothing was wrong* — how much more difficult, then, when disease was involved. That realization gave me a new kind of respect for the scientific process, and also, quietly, a sense of doubt.
+
+As I progressed in my studies, that doubt grew. Despite decades of research and extraordinary investment, cancer remains without a cure. The more I learned, the more I understood that science — as powerful and beautiful as it is — doesn’t always move at the pace of our hopes. I started questioning whether this was the right path for me.
+
+Fortunately, I had the chance to step outside the lab and explore something new.
+
+I began working as a research assistant at the Children’s Hospital Research Institute of Manitoba, contributing to studies in population health, allergy, and clinical immunology. It was there that I got my first glimpse into the world of public health — and it shifted everything. I saw how public health wasn’t just about understanding disease, but about preventing it, supporting communities, and creating conditions where people could thrive. It wasn’t abstract. It was immediate, and it was deeply human.
+
+Then the COVID-19 pandemic arrived.
+
+I was given the opportunity to work as an infectious disease epidemiologist for the Government of Manitoba. In that role, I collaborated with epidemiologists, public health advisors, laboratory scientists, and medical officers of health. Together, we faced an unfolding crisis, with decisions needing to be made in real time. The work was urgent, collaborative, and fast-paced — and for the first time, I felt like I had found where I belonged.
+
+Unlike non-communicable diseases, which often require slow, long-term strategies, infectious diseases demand immediate action. They require basic science, clinical insight, and social understanding to come together — and that balance resonated with me. The field touched everything I cared about: biology, policy, data, and, most of all, people.
+
+After my experience with COVID-19, my attention turned to another crisis — one that had been ongoing for decades, but still demanded far more action: **HIV and sexually transmitted and blood-borne infections (STBBIs)**.
+
+From my molecular biology background, I knew how formidable HIV is as a virus. Its ability to mutate — thanks to its error-prone reverse transcriptase — makes it extremely difficult to treat permanently or prevent with a long-lasting vaccine. A cure remains elusive. But I also knew that despite the scientific challenges, we already have the tools to control HIV. What’s missing, too often, is access, education, and equity.
+
+So I made a quiet promise to myself:
+
+**If I can’t cure HIV, then I will help contain it.**
+
+This work became even more personal to me when I reflected on where I came from. Growing up in an Asian community, I saw how sexual health was often considered shameful — something not to be talked about, let alone prioritized. In the Philippines, where I have deep ties, HIV incidence has been rising, especially among young people and men who have sex with men (MSM). Despite progress in many parts of the world, stigma continues to be one of the greatest barriers to prevention and care in Southeast Asia.
+
+But the issue isn’t just cultural — it’s systemic.
+
+I think about the individuals who are afraid to get tested, not because they lack information, but because they fear judgment. I think about the communities that are left behind, blamed, or ignored. And I think about those who are forced to make unimaginable choices simply to survive.
+
+When I was just seven years old, I already knew of children my age who were selling sex. Not out of choice, but out of desperation — to afford school, to put food on the table, to care for their families. That reality has stayed with me ever since. It planted something in me — a quiet fire that still burns.
+
+**I dedicate my work to those children.**
+
+To those who had no childhood, no protection, and no choice. They deserved better, and they still do.
+
+Now, as a graduate student at the London School of Hygiene & Tropical Medicine, I’ve found a path that allows me to combine my scientific training with advocacy, compassion, and community. Through my work in HIV and STBBIs, I aim to contribute to a world where public health is not only evidence-based, but *people-centered*.
+
+My goal is not just to publish academic papers. I want to **translate knowledge into impact** — whether that’s through infographics that explain complex concepts, educational materials that reach underserved communities, or accessible writing like this blog. This site is a space where I share what I’m learning and working on, and where I hope others can learn, too.
+
+Most importantly, it’s a space to keep asking the questions that matter:
+
+- How do we reduce transmission — not just scientifically, but *equitably*?
+
+- How do we support people living with HIV — medically, *emotionally*, and *socially*?
+
+- How do we *dismantle* the stigma that continues to surround sexual health?
+
+Public health is not value-free. It is shaped by politics, by power, and by systems — and that’s what makes it both complicated and necessary. I don’t have all the answers. But I know I want to be part of the effort to ask better questions, to listen more carefully, and to act more boldly.
+
+Thank you for being here — and for caring about this work, too.
+
+-Ayel

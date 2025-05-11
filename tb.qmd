@@ -1,0 +1,58 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+    anchor-links: false
+    include-in-header:
+      text: |
+        <title>Tuberculosis Research – Ayel L. R. Batac</title>
+        <meta name="description" content="Ayel L. R. Batac conducts tuberculosis research with a focus on public health, surveillance, and global health contexts." />
+        <meta name="keywords" content="Ayel Batac, tuberculosis, TB, National Collaborating Centre for Infectious Diseases, NCCID, Public Health Agency of Canada, PHAC, public health, infectious diseases, surveillance, global health, STBBIs, HIV, knowledge translation, outbreak, Naujaat, Nunavut, Canada, Inuit, Arctic" />
+---
+
+# TUBERCULOSIS
+
+$~$
+
+Tuberculosis (TB) remains a major public health concern in remote Arctic communities across Canada, where incidence rates are consistently the highest in the country. Despite long-standing efforts to control and eliminate the disease, TB continues to re-emerge in the form of outbreaks, particularly in geographically isolated settings where social and structural challenges persist.
+
+In these contexts, barriers such as **limited access to healthcare**, **overcrowded housing**, and **long-standing distrust in public health systems** undermine prevention and control efforts. These challenges are often compounded by logistical obstacles—such as seasonal mobility, infrastructure limitations, and staff turnover—that constrain timely diagnosis and treatment.
+
+$~$
+
+## Community-Wide Screening as a Public Health Strategy
+
+One of the most promising interventions to disrupt TB transmission in high-burden regions is **community-wide screening (CWS)**. This approach involves proactively offering screening to all members of a community—regardless of symptoms—to detect both **latent TB infection (LTBI)** and **active TB disease**.
+
+The benefits of CWS include:
+
+- **Reducing time to diagnosis**, thereby interrupting transmission chains;
+- **Identifying latent infections** before they progress to active disease;
+- **Providing culturally adapted outreach and education** to increase participation;
+- **Strengthening community trust** through local leadership and engagement.
+
+Previous implementations of CWS in Nunavut, Canada, have demonstrated both effectiveness and cost-efficiency when adapted to local realities. When combined with targeted health promotion and community-driven planning, these initiatives support early detection, treatment uptake, and long-term disease control.
+
+## Ongoing Research
+
+My current work focuses on the **evaluation of a CWS** clinic conducted in response to a TB outbreak in Nunavut. This evaluation examines how the initiative:
+
+- Detected and treated both active and latent TB cases;
+- Promoted awareness and reduced stigma through bilingual outreach;
+- Addressed barriers to participation and treatment completion;
+- Applied lessons from previous CWS efforts to strengthen delivery.
+
+This research contributes to operational knowledge on how community-based strategies can strengthen TB prevention and control in remote, high-incidence regions.
+
+$~$
+
+$~$
+
+*Stay tuned — publications and data visualizations related to this work will be made available here soon.*
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+</style>
