@@ -47,7 +47,7 @@ $~$
 
 <div style="margin-top: 2rem;"></div>
 
-I am a data scientist, epidemiologist, and health economist in training, passionate about using research to inform public health policy, improve health equity, and drive evidence-based decision-making. I am currently pursuing a Master of Science in Public Health (Health Economics stream) at the London School of Hygiene and Tropical Medicine and bring over six years of experience in research, analytics, and applied public health.
+I am a data scientist, epidemiologist, and health economist in training, passionate about using research to inform public health policy, improve health equity, and drive evidence-based decision-making. I am currently pursuing a Master of Science in Public Health (Health Economics stream) at the London School of Hygiene and Tropical Medicine and bring over seven years of experience in research, analytics, and applied public health.
 
 My current work spans several urgent public health challenges: evaluating behavioural interventions to increase gonorrhea and chlamydia testing among men who have sex with men (MSM) in China; supporting risk communication and debrief initiatives related to mpox; contributing to tuberculosis screening efforts in high-incidence settings; and leading research on anaphylaxis treatment access and health system readiness, including global disparities in emergency care.
 
