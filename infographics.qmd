@@ -64,13 +64,13 @@ $~$
   </a>
 
   <!-- 8 image -->
-  <a href="accord_review.jpg" target="_blank">
-    <img src="accord_review.jpg" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="accord_review.png" target="_blank">
+    <img src="accord_review.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 9 image -->
-  <a href="accord_review_fr.jpg" target="_blank">
-    <img src="accord_review_fr.jpg" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="accord_review_fr.png" target="_blank">
+    <img src="accord_review_fr.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 10 image -->
