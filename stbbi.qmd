@@ -42,7 +42,9 @@ The pay-it-forward (PIF) model represents more than just an access intervention�
 Community engagement in this context refers to voluntary, health-promoting actions—such as peer outreach, advocacy, and public health participation—that reinforce the goals of PIF. Together, these approaches seek to:
 
 - Empower individuals to take collective ownership of sexual health;
+
 - Build trust between communities and health systems;
+
 - Expand reach and uptake of STI services, particularly in LMIC settings.
 
 ## Ongoing Research
@@ -50,8 +52,11 @@ Community engagement in this context refers to voluntary, health-promoting actio
 My current work involves the evaluation of a **randomized controlled trial (RCT)** of the pay-it-forward strategy among MSM in China. This includes:
 
 - Assessing **STI testing uptake** across different behavioural intervention arms;
+
 - Analyzing **giving behaviours** as markers of engagement and reciprocity;
+
 - Identifying **clinic-level and demographic factors** that influence outcomes;
+
 - Testing a **digital version of the PIF model** integrated with self-sampling to improve accessibility in low-resource settings.
 
 This research contributes to growing efforts to understand how **social innovation** and **behavioural science** can strengthen public health responses to STBBIs by expanding testing reach, building community resilience, and reframing how health systems engage with stigmatized populations.
@@ -61,7 +66,9 @@ This research contributes to growing efforts to understand how **social innovati
 To fully understand both the impact and implementation of the PIF model, this research uses a **mixed methods** design:
 
 - Quantitative evaluation through randomized controlled trials tracks behavioural outcomes, including uptake and donation patterns;
+
 - Qualitative interviews with participants and providers explore perceived barriers, motivations for giving, and emotional responses to the intervention;
+
 - Process evaluations assess feasibility, fidelity, and scalability in real-world settings.
 
 This integration of methods helps generate both rigorous evidence and context-specific insights that are essential for scale-up and adaptation.
@@ -70,9 +77,12 @@ This integration of methods helps generate both rigorous evidence and context-sp
 
 This work contributes to reimagining how public health systems can deliver STI testing in ways that are equitable, effective, and empowering. Key public health contributions include:
 
-- Demonstrating how **decentralized**, **community-driven financing models** can sustainably expand access to essential services; 
-- Advancing **stigma-sensitive**, **culturally tailored approaches** to testing that are attuned to the lived experiences of MSM and other marginalized groups; 
+- Demonstrating how **decentralized**, **community-driven financing models** can sustainably expand access to essential services;
+
+- Advancing **stigma-sensitive**, **culturally tailored approaches** to testing that are attuned to the lived experiences of MSM and other marginalized groups;
+
 - Informing health system strategies that align **social innovation with service delivery**, helping to bridge the gap between clinic-based care and community realities;
+
 - Contributing to global conversations on **universal health coverage**, equity, and the integration of sexual health into broader public health systems.
 
 By positioning STI testing as a collective act of care—rather than an individual burden—this research helps build a more inclusive foundation for sexual health equity.
