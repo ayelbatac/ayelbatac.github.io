@@ -27,6 +27,7 @@ format:
   }
   a.study-button:hover {
     background-color: #00AEC7;
+    color: white;
   }
 </style>
 
