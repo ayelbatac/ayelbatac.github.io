@@ -15,6 +15,19 @@ format:
   h1, h2, h3, p {
     color: #1B153E;
   }
+  a.study-button {
+    background-color: #1B153E;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  a.study-button:hover {
+    background-color: #00AEC7;
+  }
 </style>
 
 # U = U: The Science, the Message, and Why It Matters
@@ -42,14 +55,14 @@ This groundbreaking clinical trial followed over **1,700 mostly heterosexual cou
 
 **Only one linked transmission** occurred in the early treatment group, and it happened shortly after therapy began. In contrast, **27 linked transmissions** occurred in the delayed treatment group. This resulted in a **96% reduction in risk** — one of the first and strongest proofs that **ART can prevent transmission**.
 
-<div style="margin: 1rem 0;"><a href="https://doi.org/10.1056/nejmoa1105243" style="background-color: #1B153E; color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">Read the HPTN 052 Study Here</a></div>
+<div style="margin: 1rem 0;"><a href="https://doi.org/10.1056/nejmoa1105243" class="study-button">Read the HPTN 052 Study Here</a></div>
 
 #### 🧪 [**PARTNER Study (2016)**](https://doi.org/10.1001/jama.2016.5148)  
 This European study followed **888 couples** (340 gay male and 548 heterosexual) where one partner was HIV-positive and on effective ART. Over **1,238 couple-years of follow-up**, participants reported tens of thousands of condomless sex acts.
 
 **No HIV transmissions occurred between partners**. Of the 11 infections observed, genetic testing confirmed all came from outside the primary relationship. The takeaway? When someone is on ART and virally suppressed, **they don’t transmit HIV — even without condoms**.
 
-<div style="margin: 1rem 0;"><a href="https://doi.org/10.1001/jama.2016.5148" style="background-color: #1B153E; color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">Read the PARTNER Study Here</a></div>
+<div style="margin: 1rem 0;"><a href="https://doi.org/10.1001/jama.2016.5148" class="study-button">Read the PARTNER Study Here</a></div>
 
 #### 🧪 [**PARTNER2 Study (2019)**](https://doi.org/10.1016/s0140-6736(19)30418-0)  
 This follow-up study focused exclusively on **gay male couples** — a group often considered at higher risk for HIV transmission. Over **1,593 couple-years of follow-up**, participants reported about **76,088 acts of condomless anal sex** while the HIV-positive partner had a suppressed viral load.
@@ -58,7 +71,7 @@ Again, **no HIV transmissions occurred**. This study confirmed what PARTNER1 had
 
 These three landmark studies give us what is rare in public health: **definitive evidence**. People living with HIV who are undetectable **cannot transmit the virus through sex**. Full stop.
 
-<div style="margin: 1rem 0;"><a href="https://doi.org/10.1016/s0140-6736(19)30418-0" style="background-color: #1B153E; color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: bold; display: inline-block;">Read the PARTNER2 Study Here</a></div>
+<div style="margin: 1rem 0;"><a href="https://doi.org/10.1016/s0140-6736(19)30418-0" class="study-button">Read the PARTNER2 Study Here</a></div>
 
 ### Why This Message Matters
 
