@@ -17,7 +17,17 @@ format:
 
 <ul style="list-style: none; padding: 0; margin-top: 1rem;">
 
-  <!-- Blog Post 2 (Most Recent) -->
+  <!-- Blog Post 3 (Most Recent) -->
+  <li style="margin-bottom: 1.5rem;">
+    <a href="u-equals-u.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
+       onmouseover="this.style.color='#DE2221'" 
+       onmouseout="this.style.color='#1B153E'">
+      U = U: The Science, the Message, and Why It Matters
+    </a>
+    <div style="font-size: 0.9rem; color: #555;">Published: May 23, 2025</div>
+  </li>
+
+  <!-- Blog Post 2 -->
   <li style="margin-bottom: 1.5rem;">
     <a href="stbbi-talk.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 
