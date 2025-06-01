@@ -1,12 +1,13 @@
 ---
-title: ""
+title: "Mpox Research – Ayel L. R. Batac"
+title-block: false
 format:
   html:
     toc: false
     anchor-links: false
     include-in-header: 
       text: |
-        <title>Mpox – Ayel L. R. Batac</title>
+        <title>Mpox Research – Ayel L. R. Batac</title>
         <meta name="description" content="Research on mpox by Ayel L. R. Batac, focusing on public health response, surveillance, and knowledge translation." />
         <meta name="keywords" content="Ayel Batac, mpox, monkeypox, disease debrief, NCCID, Public Health Agency of Canada, public health, surveillance, knowledge translation, infectious diseases, global health, outbreak response, epidemiologist" />
 ---

@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Talks and Presentations – Ayel L. R. Batac"
+title-block: false
 format:
   html:
     toc: false

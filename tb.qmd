@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Tuberculosis Research – Ayel L. R. Batac"
+title-block: false
 format:
   html:
     toc: false
@@ -38,6 +39,7 @@ The benefits of CWS include:
 
 - **Strengthening community trust** through local leadership and engagement.
 
+
 Previous implementations of CWS in Nunavut, Canada, have demonstrated both effectiveness and cost-efficiency when adapted to local realities. When combined with targeted health promotion and community-driven planning, these initiatives support early detection, treatment uptake, and long-term disease control.
 
 ## Ongoing Research
@@ -54,6 +56,7 @@ My current work focuses on the **evaluation of a CWS** clinic conducted in respo
 
 
 - Applied lessons from previous CWS efforts to strengthen delivery.
+
 
 This research contributes to operational knowledge on how community-based strategies can strengthen TB prevention and control in remote, high-incidence regions.
 
