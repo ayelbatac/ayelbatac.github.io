@@ -1,5 +1,5 @@
 ---
-title: "Anaphylaxis Research – Ayel L. R. Batac"
+title: "Anaphylaxis Research - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header: 
       text: |
-        <title>Anaphylaxis Research – Ayel L. R. Batac</title>
+        <title>Anaphylaxis Research - Ayel L. R. Batac</title>
         <meta name="description" content="Evidence synthesis research on anaphylaxis in clinical immunology and public health." />
         <meta name="keywords" content="anaphylaxis, allergy, food allergy, clinical immunology, epinephrine, glucocorticoids, China, evidence synthesis, scoping review, public health, global health, research, Ayel Batac, epidemiologist" />
 ---

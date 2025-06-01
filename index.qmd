@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac – Home"
+title: "Ayel L. R. Batac - Home"
 title-block: false
 format:
   html:

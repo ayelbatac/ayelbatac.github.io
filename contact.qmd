@@ -1,5 +1,5 @@
 ---
-title: "Get In Touch – Ayel L. R. Batac"
+title: "Get In Touch - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header: 
       text: |
-        <title>Get In Touch – Ayel L. R. Batac</title>
+        <title>Get In Touch - Ayel L. R. Batac</title>
         <meta name="description" content="Get in touch with Ayel L. R. Batac for research inquiries, collaborations, or knowledge translation opportunities." />
         <meta name="keywords" content="Ayel Batac, contact, get in touch, research inquiries, collaborations, knowledge translation, global health, public health, epidemiologist, allergy, clinical immunology, pediatrics, STBBIs, HIV" />
 ---

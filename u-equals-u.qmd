@@ -1,5 +1,5 @@
 ---
-title: "U=U: The Science Is Clear – Ayel L. R. Batac"
+title: "U=U: The Science Is Clear - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>U=U: The Science Is Clear – Ayel L. R. Batac</title>
+        <title>U=U: The Science Is Clear - Ayel L. R. Batac</title>
         <meta name="description" content="An accessible explanation of Undetectable = Untransmittable (U=U), the science behind it, and why it matters for HIV prevention, stigma reduction, and public health." />
         <meta name="keywords" content="U=U, HIV, undetectable, untransmittable, HIV prevention, antiretroviral therapy, ART, stigma, public health, knowledge translation, Ayel Batac, global health, epidemiologist" />
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Why I Work in HIV and STBBIs – Ayel L. R. Batac"
+title: "Why I Work in HIV and STBBIs - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Why I Work in HIV and STBBIs – Ayel L. R. Batac</title>
+        <title>Why I Work in HIV and STBBIs - Ayel L. R. Batac</title>
         <meta name="description" content="A personal and professional reflection by Ayel L. R. Batac on working in HIV and STBBI research, and what drives a career in global public health." />
         <meta name="keywords" content="Ayel Batac, HIV, STBBIs, public health, global health, personal journey, research career, knowledge translation, sexually transmitted infections, health equity, epidemiologist" />
 ---

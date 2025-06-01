@@ -1,5 +1,5 @@
 ---
-title: "STBBI Research – Ayel L. R. Batac"
+title: "STBBI Research - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>STBBI Research – Ayel L. R. Batac</title>
+        <title>STBBI Research - Ayel L. R. Batac</title>
         <meta name="description" content="Ayel L. R. Batac conducts research on sexually transmitted and blood-borne infections (STBBIs), including gonorrhea and chlamydia, with a focus on public health, surveillance, and knowledge translation in global contexts such as China." />
         <meta name="keywords" content="Ayel Batac, STBBIs, gonorrhea, chlamydia, HIV, syphilis, China, MSM, sex, men, stigma, LMICs, global health, public health, RCT, trial, Joe Tucker, SESH Global" />
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tuberculosis Research – Ayel L. R. Batac"
+title: "Tuberculosis Research - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Tuberculosis Research – Ayel L. R. Batac</title>
+        <title>Tuberculosis Research - Ayel L. R. Batac</title>
         <meta name="description" content="Ayel L. R. Batac conducts tuberculosis research with a focus on public health, surveillance, and global health contexts." />
         <meta name="keywords" content="Ayel Batac, tuberculosis, TB, National Collaborating Centre for Infectious Diseases, NCCID, Public Health Agency of Canada, PHAC, public health, infectious diseases, surveillance, global health, STBBIs, HIV, knowledge translation, outbreak, Naujaat, Nunavut, Canada, Inuit, Arctic" />
 ---

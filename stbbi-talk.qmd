@@ -1,5 +1,5 @@
 ---
-title: "Let’s Talk About STBBIs – Ayel L. R. Batac"
+title: "Let’s Talk About STBBIs - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Let’s Talk About STBBIs – Ayel L. R. Batac</title>
+        <title>Let’s Talk About STBBIs - Ayel L. R. Batac</title>
         <meta name="description" content="An accessible introduction to sexually transmitted and blood-borne infections (STBBIs), why they matter, and how individuals and communities can take action." />
         <meta name="keywords" content="STBBIs, sexually transmitted infections, blood-borne infections, gonorrhea, chlamydia, HIV, condoms, protection, public health, health education, knowledge translation, Ayel Batac, global health, epidemiologist" />
 ---

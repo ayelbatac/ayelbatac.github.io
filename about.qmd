@@ -1,5 +1,5 @@
 ---
-title: "About – Ayel L. R. Batac"
+title: "About - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header: 
       text: |
-        <title>About – Ayel L. R. Batac</title>
+        <title>About - Ayel L. R. Batac</title>
         <meta name="description" content="Learn more about Ayel L. R. Batac, a data scientist and global health researcher specializing in HIV and STBBIs, with a focus on equity and knowledge translation." />
         <meta name="keywords" content="Ayel Batac, global health, public health, allergy, clinical immunology, COVID-19, vaccine hesitancy, food allergy, anaphylaxis, pediatrics, HIV, STBBIs, knowledge translation, equity, infectious diseases, clinical research, evidence-informed policy, epidemiologist, LSHTM, UNC, Southern Medical Univeristy, China, NCCID" />
 ---

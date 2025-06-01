@@ -1,5 +1,5 @@
 ---
-title: "Publications – Ayel L. R. Batac"
+title: "Publications - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header: 
       text: |
-        <title>Publications – Ayel L. R. Batac</title>
+        <title>Publications - Ayel L. R. Batac</title>
         <meta name="description" content="Peer-reviewed publications and scholarly work by Ayel L. R. Batac in allergy and infectious diseases." />
         <meta name="keywords" content="Ayel Batac, publications, research papers, peer-reviewed, global health, public health, allergy, food allergy, COVID-19, vaccine hesitancy, pediatrics, HIV, STBBIs, tuberculosis, mpox, anaphylaxis, knowledge translation, epidemiologist, data science" />
 ---
