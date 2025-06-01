@@ -140,3 +140,12 @@ a.quarto-anchor,
   background-color: #DE2221; /* Red hover */
   color: white;
 }
+
+/* Hide automatic page title blocks if they still appear */
+.quarto-title, 
+.quarto-title-block, 
+.quarto-title-banner, 
+.quarto-title-block.default {
+  display: none !important;
+}
+
