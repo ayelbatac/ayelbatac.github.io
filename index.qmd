@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Ayel L. R. Batac – Home"
+title-block: false
 format:
   html:
     toc: false
@@ -7,7 +8,6 @@ format:
     include-in-header: 
       text: |
         <meta name="google-site-verification" content="N1wLhwkq2kEpvFepxx8U30XxFHpsgKQDqCwYJtTHPuY" />
-        <title>Ayel L. R. Batac – Data Scientist and Public Health Researcher</title>
         <meta name="description" content="Ayel L. R. Batac is a data scientist and global health researcher specializing in HIV and sexually transmitted and blood-borne infections (STBBIs), with a focus on equity and evidence-informed decision-making." />
         <meta name="keywords" content="Ayel Batac, epidemiology, global health, public health, HIV, STBBIs, gonorrhea, chlamydia, mpox, tuberculosis, allergy, clinical immunology, food allergy, anaphylaxis, pediatrics, COVID-19, knowledge translation, evidence synthesis, systematic review, scoping review, Canada, United Kingdom, UK, LSHTM, University of Manitoba, China, LMICs, stigma, msm, sex workers" />
 ---
