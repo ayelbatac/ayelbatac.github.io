@@ -30,12 +30,12 @@ $~$
 
 **Ayel holds the following positions:**
 
-- Scientific Researcher, Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine  
-- Member, Centre for Epidemic Preparedness and Response, London School of Hygiene and Tropical Medicine  
-- Member, Centre for Data and Statistical Science for Health, London School of Hygiene and Tropical Medicine  
-- Member, Centre for Maternal, Adolescent, Reproductive, and Child Health, London School of Hygiene and Tropical Medicine
-- Member, Centre for Evaluation, London School of Hygiene and Tropical Medicine  
-- Research Affiliate, Institute for Global Health and Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill  
+- Scientific Researcher, Faculty of Public Health and Policy, London School of Hygiene & Tropical Medicine  
+- Member, Centre for Epidemic Preparedness and Response, London School of Hygiene & Tropical Medicine  
+- Member, Centre for Data and Statistical Science for Health, London School of Hygiene & Tropical Medicine  
+- Member, Centre for Maternal, Adolescent, Reproductive, and Child Health, London School of Hygiene & Tropical Medicine
+- Member, Centre for Evaluation, London School of Hygiene & Tropical Medicine  
+- Research Associate, Institute for Global Health and Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill  
 - Research Affiliate, Dermatology Hospital of Southern Medical University (南方医科大学皮肤病医院), Guangdong Provincial Dermatology Hospital (广东省皮肤病医院)  
 - Research Affiliate, SESH Global (Social Entrepreneurship to Spur Health)  
 - Research Partner, National Collaborating Centre for Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba  
@@ -47,9 +47,9 @@ $~$
 
 <div style="margin-top: 2rem;"></div>
 
-I am a data scientist, epidemiologist, and health economist in training, passionate about using research to inform public health policy, improve health equity, and drive evidence-based decision-making. I am currently pursuing a Master of Science in Public Health (Health Economics stream) at the London School of Hygiene and Tropical Medicine and bring over seven years of experience in research, analytics, and applied public health.
+I am a data scientist, epidemiologist, and health economist in training, passionate about using research to inform public health policy, improve health equity, and drive evidence-based decision-making. I am currently pursuing a Master of Science in Public Health (Health Economics) at the London School of Hygiene & Tropical Medicine and bring over seven years of experience in research, analytics, and applied public health.
 
-My current work spans several urgent public health challenges: evaluating behavioural interventions to increase gonorrhea and chlamydia testing among men who have sex with men (MSM) in China; supporting risk communication and debrief initiatives related to mpox; contributing to tuberculosis screening efforts in high-incidence settings; and leading research on anaphylaxis treatment access and health system readiness, including global disparities in emergency care.
+My current work spans several urgent public health challenges: evaluating behavioural interventions to increase gonorrhea and chlamydia testing among men who have sex with men (MSM) in China; supporting risk communication and debrief initiatives related to mpox; contributing to the evaluation of tuberculosis screening efforts in high-incidence settings; and leading research on anaphylaxis treatment access and health system readiness, including global disparities in emergency care.
 
 I have collaborated with researchers across Canada, the United States, the United Kingdom, Finland, Sweden, Italy, China, Japan, and Australia—contributing to projects rooted in epidemiology, evidence synthesis, and implementation research. My work has been published in peer-reviewed journals and aims to bridge the gap between academic research and real-world policy and practice.
 
