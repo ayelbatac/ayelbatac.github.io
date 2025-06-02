@@ -504,7 +504,7 @@ const collaborators = [
       <div style="font-family: Arial, sans-serif;">
         <div style="color: #1B153E; font-weight: bold;">${collab.city}</div>
         <div><em>${collab.institution}</em></div>
-        <div><em>Collaborators:</em> ${collab.names.join(", ")}</div>
+        <div><em>Collaborators:</em><ul>${collab.names.map(n => `<li>${n}</li>`).join('')}</ul></div>
       </div>
     `;
     const marker = L.circleMarker([collab.lat, collab.lng], {
