@@ -296,187 +296,391 @@ University of Manitoba, Winnipeg, Manitoba, Canada</p>
 
 <script>
   // Collaborator data with coordinates
-const collaborators = [
+const rawCollaborators = [
   {
     lat: 49.8951,
-    lng: -97.1384,
+    lng: -97.1466,
     city: "Winnipeg, Canada",
     institution: "Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
     names: [
-    "Michael A. Golding, MA",
-    "Kaitlyn A. Merrill, BSc(Hons)",
-    "Zoe Harbottle, BSc, MAHN",
-    "Manvir Bhamra, BSc, RD",
+      "Billy Hong, MD",
+      "Elinor Simons, MD, PhD",
+      "Elissa M. Abrams, MD, MPH, FRCPC",
+      "Jill A. Keddy-Grant, MD, FRCPC",
+      "Kaitlyn A. Merrill, BSc(Hons)",
+      "Manvir Bhamra, BSc, RD",
+      "Michael A. Golding, MA",
+      "Michelle A. Halbrich, MD, FRCPC",
+      "Thomas V. Gerstner, MD, FRCPC",
+      "Zoe Harbottle, BSc, MAHN"
+  ],
+  papers: [
+    {
+      title: "The burden of food allergy on children and teens: A systematic review",
+      url: "https://doi.org/10.1111/pai.13743"
+    },
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Guidance to enhance participant validity during virtual qualitative interviews and focus groups",
+      url: "https://doi.org/10.1016/j.anai.2023.01.005"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+
+  },
+  {
+  lat: 49.9031,
+  lng: -97.1586,
+  city: "Winnipeg, Canada",
+  institution: "Section of Allergy and Clinical Immunology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
+  names: [
+    "Elinor Simons, MD, PhD",
     "Elissa M. Abrams, MD, MPH, FRCPC",
     "Michelle A. Halbrich, MD, FRCPC",
-    "Elinor Simons, MD, PhD",
-    "Jill A. Keddy-Grant, MD, FRCPC",
-    "Thomas V. Gerstner, MD, FRCPC",
-    "Billy Hong, MD",
-    "Jennifer Protudjer, PhD"]
-  },
+    "Thomas V. Gerstner, MD, FRCPC"
+  ],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    }
+  ]
+},
   {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Section of Allergy and Clinical Immunology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-    names: [
+  lat: 49.9031,
+  lng: -97.1586,
+  city: "Winnipeg, Canada",
+  institution: "Section of Dermatology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
+  names: ["Jill A. Keddy-Grant, MD, FRCPC"],
+  papers: [
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    }
+  ]
+},
+{
+  lat: 49.8951,
+  lng: -97.1466,
+  city: "Winnipeg, Canada",
+  institution: "Children's Hospital Research Institute of Manitoba",
+  names: [
+    "Elinor Simons, MD, PhD",
     "Elissa M. Abrams, MD, MPH, FRCPC",
-    "Michelle A. Halbrich, MD, FRCPC",
-    "Elinor Simons, MD, PhD",
-    "Thomas V. Gerstner, MD, FRCPC"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Section of Dermatology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-    names: ["Jill A. Keddy-Grant, MD, FRCPC"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Children's Hospital Research Institute of Manitoba",
-    names: [
-    "Michael A. Golding, MA",
     "Kaitlyn A. Merrill, BSc(Hons)",
-    "Zoe Harbottle, BSc, MAHN",
-    "Manvir Bhamra, BSc, RD",
-    "Elissa M. Abrams, MD, MPH, FRCPC",
-    "Elinor Simons, MD, PhD",
     "Leslie E. Roos, PhD, CPsych",
-    "Jennifer Protudjer, PhD"]
-  },
+    "Manvir Bhamra, BSc, RD",
+    "Michael A. Golding, MA",
+    "Zoe Harbottle, BSc, MAHN"
+  ],
+  papers: [
+    {
+      title: "The burden of food allergy on children and teens: A systematic review",
+      url: "https://doi.org/10.1111/pai.13743"
+    },
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Guidance to enhance participant validity during virtual qualitative interviews and focus groups",
+      url: "https://doi.org/10.1016/j.anai.2023.01.005"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+ {
+  lat: 49.8951,
+  lng: -97.1466,
+  city: "Winnipeg, Canada",
+  institution: "Neil John Maclean Health Sciences Library, University of Manitoba",
+  names: ["Mê-Linh Lê, MA, MLIS"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 49.8951,
+  lng: -97.1466,
+  city: "Winnipeg, Canada",
+  institution: "Winnipeg Regional Health Authority Virtual Library, University of Manitoba",
+  names: ["Nicole Askin, MLIS"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    }
+  ]
+},
   {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Neil John Maclean Health Sciences Library, University of Manitoba",
-    names: ["Mê-Linh Lê, MA, MLIS"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Winnipeg Regional Health Authority Virtual Library, University of Manitoba",
-    names: ["Nicole Askin, MLIS"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
+    lat: 49.9039,
+    lng: -97.1597,
     city: "Winnipeg, Canada",
     institution: "Department of Psychiatry, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
     names: ["Billy Hong, MD"]
   },
+ {
+  lat: 49.80962,
+  lng: -97.13270,
+  city: "Winnipeg, Canada",
+  institution: "Department of Psychology, Faculty of Arts, University of Manitoba",
+  names: ["Leslie E. Roos, PhD, CPsych"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    }
+  ]
+},
+{
+  lat: 49.80962,
+  lng: -97.13270,
+  city: "Winnipeg, Canada",
+  institution: "Department of Economics, Faculty of Arts, University of Manitoba",
+  names: ["Gregory Mason, PhD"],
+  papers: [
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 49.90389,
+  lng: -97.15972,
+  city: "Winnipeg, Canada",
+  institution: "Children's Allergy and Asthma Education Centre, Health Sciences Centre Winnipeg",
+  names: ["Jo-Anne St-Vincent, BN, RN"],
+  papers: [
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    }
+  ]
+},
+{
+  lat: 49.8996,
+  lng: -97.1457,
+  city: "Winnipeg, Canada",
+  institution: "National Collaborating Centre for Infectious Diseases",
+  names: [
+    "Margaret Haworth-Brockman, MSc",
+    "Yoav Keynan, MD, PhD",
+    "Xiao-Ting Xie, PhD"
+  ],
+  papers: [
+    {
+      title: "Mpox Disease Debrief",
+      url: "https://nccid.ca/debrief/mpox/"
+    }
+  ]
+},
+{
+  lat: 57.7815,
+  lng: 14.1562,
+  city: "Jönköping, Sweden",
+  institution: "Department of Social Work, School of Health and Welfare, Jönköping University",
+  names: ["Nina V. Gunnarsson, PhD"],
+  papers: [
+    {
+      title: "The burden of food allergy on children and teens: A systematic review",
+      url: "https://doi.org/10.1111/pai.13743"
+    }
+  ]
+},
+{
+  lat: 59.3489,
+  lng: 18.0298,
+  city: "Stockholm, Sweden",
+  institution: "Karolinska Institutet",
+  names: ["Isac Kopsch, MD", "Erik Wilking, MD"],
+  papers: [
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    }
+  ]
+},
+ {
+  lat: 59.3489,
+  lng: 18.0298,
+  city: "Stockholm, Sweden",
+  institution: "Centre for Allergy Research, Karolinska Institutet",
+  names: ["Staffan Ahlstedt, PhD", "Roelinde Middelveld, PhD"],
+  papers: [
+    {
+      title: "The burden of food allergy on children and teens: A systematic review",
+      url: "https://doi.org/10.1111/pai.13743"
+    }
+  ]
+},
+{
+  lat: 59.3489,
+  lng: 18.0298,
+  city: "Stockholm, Sweden",
+  institution: "Institute of Environmental Medicine, Karolinska Institutet",
+  names: [
+    "Marina Jonsson, PhD",
+    "Roelinde Middelveld, PhD",
+    "Sandra Ekström, PhD",
+    "Staffan Ahlstedt, PhD"
+  ],
+  papers: [
+    {
+      title: "The burden of food allergy on children and teens: A systematic review",
+      url: "https://doi.org/10.1111/pai.13743"
+    },
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 59.3106,
+  lng: 18.0686,
+  city: "Stockholm, Sweden",
+  institution: "Department of Clinical Science and Education, Södersjukhuset, Karolinska Institutet",
+  names: [
+    "Marina Jonsson, PhD",
+    "Sandra Ekström, PhD"
+  ],
+  papers: [
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    }
+  ]
+},
   {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Department of Psychology, Faculty of Arts, University of Manitoba",
-    names: ["Leslie E. Roos, PhD, CPsych"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Department of Economics, Faculty of Arts, University of Manitoba",
-    names: ["Gregory Mason, PhD"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "Children's Allergy and Asthma Education Centre, Health Sciences Centre Winnipeg",
-    names: ["Jo-Anne St-Vincent, BN, RN"]
-  },
-  {
-    lat: 49.8951,
-    lng: -97.1384,
-    city: "Winnipeg, Canada",
-    institution: "National Collaborating Centre for Infectious Diseases",
-    names: ["Margaret Haworth-Brockman, MSc", "Yoav Keynan, MD, PhD", "Xiao-Ting Xie, PhD"]
-  },
-  {
-    lat: 57.7815,
-    lng: 14.1562,
-    city: "Jönköping, Sweden",
-    institution: "Department of Social Work, School of Health and Welfare, Jönköping University",
-    names: ["Nina V. Gunnarsson, PhD"]
-  },
-  {
-    lat: 59.3293,
-    lng: 18.0686,
-    city: "Stockholm, Sweden",
-    institution: "Karolinska Institutet",
-    names: ["Isac Kopsch, MD", "Erik Wilking, MD"]
-  },
-  {
-    lat: 59.3293,
-    lng: 18.0686,
-    city: "Stockholm, Sweden",
-    institution: "Centre for Allergy Research, Karolinska Institutet",
-    names: ["Staffan Ahlstedt, PhD", "Roelinde Middelveld, PhD"]
-  },
-  {
-    lat: 59.3293,
-    lng: 18.0686,
-    city: "Stockholm, Sweden",
-    institution: "Institute of Environmental Medicine, Karolinska Institutet",
-    names: ["Staffan Ahlstedt, PhD", "Roelinde Middelveld, PhD", "Marina Jonsson, PhD", "Sandra Ekström, PhD"]
-  },
-  {
-    lat: 59.3293,
-    lng: 18.0686,
-    city: "Stockholm, Sweden",
-    institution: "Department of Clinical Science and Education, Södersjukhuset, Karolinska Institutet",
-    names: ["Marina Jonsson, PhD", "Sandra Ekström, PhD"]
-  },
-  {
-    lat: 45.5017,
-    lng: -73.5673,
+    lat: 45.5031,
+    lng: -73.6244,
     city: "Montreal, Canada",
     institution: "Division of Allergy, Department of Pediatrics, Centre hospitalier universitaire Sainte-Justine (CHU Sainte-Justine)",
     names: ["Philippe Bégin, MD, PhD, FRCPC"]
   },
   {
-    lat: 45.5017,
-    lng: -73.5673,
+    lat: 45.5125,
+    lng: -73.5587,
     city: "Montreal, Canada",
     institution: "Division of Allergy, Department of Medicine, Centre Hospitalier de l'Université de Montréal",
     names: ["Philippe Bégin, MD, PhD, FRCPC"]
   },
   {
-    lat: 45.5017,
-    lng: -73.5673,
+    lat: 45.4725,
+    lng: -73.6000,
     city: "Montreal, Canada",
     institution: "Division of Pediatric Allergy, Clinical Immunology, and Dermatology, Department of Pediatrics, Montréal Children's Hospital",
     names: ["Moshe Ben-Shoshan, MD, MSc"]
   },
   {
-    lat: 45.5017,
-    lng: -73.5673,
+    lat: 45.4725,
+    lng: -73.6000,
     city: "Montreal, Canada",
     institution: "Centre for Outcomes Research and Evaluation, Research Institute of the McGill University Health Centre",
     names: ["Moshe Ben-Shoshan, MD, MSc"]
   },
   {
-    lat: 45.5017,
-    lng: -73.5673,
+    lat: 45.4725,
+    lng: -73.6000,
     city: "Montreal, Canada",
     institution: "Division of Clinical and Translational Research, Department of Medicine, School of Medicine, Faculty of Medicine and Health Sciences, McGill University",
     names: ["Moshe Ben-Shoshan, MD, MSc"]
   },
   {
-    lat: 43.6511,
-    lng: -79.3470,
+    lat: 43.6596,
+    lng: -79.3893,
     city: "Toronto, Canada",
     institution: "Department of Family and Community Medicine, Temerty Faculty of Medicine, University of Toronto",
     names: ["Laura Y. Feldman, MD, MPH"]
   },
   {
-    lat: 43.6511,
-    lng: -79.3470,
+    lat: 43.6591,
+    lng: -79.3928,
     city: "Toronto, Canada",
     institution: "Clinical Public Health Division, Dalla Lana School of Public Health, University of Toronto",
     names: ["Laura Y. Feldman, MD, MPH"]
@@ -531,22 +735,22 @@ const collaborators = [
     names: ["Jodi A. Shroba, MSN, CPNP"]
   },
   {
-    lat: 61.4978,
-    lng: 23.7610,
+    lat: 61.4981,
+    lng: 23.8197,
     city: "Tampere, Finland",
     institution: "Allergy Centre, Tampere University Hospital",
     names: ["Juho E. Kivistö, MD, PhD"]
   },
   {
-    lat: 61.4978,
-    lng: 23.7610,
+    lat: 61.4981,
+    lng: 23.8197,
     city: "Tampere, Finland",
     institution: "Faculty of Medicine and Health Technology, Tampere University",
     names: ["Juho E. Kivistö, MD, PhD"]
   },
   {
-    lat: 61.4978,
-    lng: 23.7610,
+    lat: 61.4981,
+    lng: 23.8197,
     city: "Tampere, Finland",
     institution: "Tampere Center for Child, Adolescent and Maternal Health Research, Tampere University",
     names: ["Juho E. Kivistö, MD, PhD"]
@@ -559,15 +763,15 @@ const collaborators = [
     names: ["Matthew J. Greenhawt, MD, MBA, MSc"]
   },
   {
-    lat: 60.1695,
-    lng: 24.9354,
+    lat: 60.1910,
+    lng: 24.9110,
     city: "Helsinki, Finland",
     institution: "Department of Dermatology, Allergology and Venereology, Faculty of Medicine, University of Helsinki",
     names: ["Mika J. Mäkelä, MD, PhD"]
   },
   {
-    lat: 60.1695,
-    lng: 24.9354,
+    lat: 60.1906,
+    lng: 24.9061,
     city: "Helsinki, Finland",
     institution: "Department of Allergology, Helsinki University Hospital, University of Helsinki",
     names: ["Mika J. Mäkelä, MD, PhD"]
@@ -629,15 +833,15 @@ const collaborators = [
     names: ["Andrew Wong-Pack, MD"]
   },
   {
-    lat: 23.1291,
+    lat: 23.1391,
     lng: 113.2644,
     city: "Guangzhou, China",
     institution: "Dermatology Hospital of Southern Medical University",
     names: ["Joseph D. Tucker, MD, PhD", "Lan Li, PhD"]
   },
   {
-    lat: 23.1371,
-    lng: 113.2581,
+    lat: 23.1391,
+    lng: 113.2644,
     city: "Guangzhou, China",
     institution: "SESH Global",
     names: ["Joseph D. Tucker, MD, PhD", "Weiming Tang, PhD", "Lan Li, PhD", "Ke Zhou, MSW"]
@@ -658,6 +862,34 @@ const collaborators = [
   }
 ];
 
+  // Grouping by city + institution
+  const grouped = {};
+  rawCollaborators.forEach(collab => {
+  const key = `${collab.city}___${collab.institution}`;
+  if (!grouped[key]) {
+    grouped[key] = {
+      lat: collab.lat,
+      lng: collab.lng,
+      city: collab.city,
+      institution: collab.institution,
+      names: new Set(),
+      papers: collab.papers || []  // <- keep papers
+    };
+  } else {
+    // Combine papers if already initialized and new ones exist
+    if (collab.papers) {
+      grouped[key].papers.push(...collab.papers);
+    }
+  }
+  collab.names.forEach(name => grouped[key].names.add(name));
+});
+
+  // Convert grouped data back to array, with names as list
+  const collaborators = Object.values(grouped).map(entry => ({
+  ...entry,
+  names: Array.from(entry.names)
+}));
+
   // Initialize the map
   const map = L.map("collab-map").setView([20, 0], 2);
 
@@ -675,13 +907,29 @@ const collaborators = [
 
   // Add markers to the cluster group
   collaborators.forEach((collab) => {
-    const popupContent = `
-      <div style="font-family: Arial, sans-serif;">
-        <div style="color: #1B153E; font-weight: bold;">${collab.city}</div>
-        <div><em>${collab.institution}</em></div>
-        <div><em>Collaborator(s):</em><ul>${collab.names.map(n => `<li>${n}</li>`).join('')}</ul></div>
+const popupContent = `
+  <div style="font-family: Arial, sans-serif; max-width: 270px;">
+    <div style="max-height: 250px; overflow-y: auto; padding-right: 6px;">
+      <div style="color: #1B153E;"><strong>${collab.city}</strong></div>
+      <div style="font-style: italic;">${collab.institution}</div>
+
+      <div style="margin-top: 0.5em;">
+        <strong>Collaborator(s):</strong>
+        <ul style="padding-left: 1.2em; margin-left: 0; list-style-position: inside;">
+          ${collab.names.map(name => `<li>${name}</li>`).join("")}
+        </ul>
       </div>
-    `;
+
+      ${collab.papers && collab.papers.length > 0 ? `
+        <div style="margin-top: 0.75em;">
+          <strong>Shared Research Output(s):</strong>
+          <ol style="padding-left: 1.2em; margin-left: 0; list-style-position: inside;">
+            ${collab.papers.map(p => `<li><a href="${p.url}" target="_blank" rel="noopener">${p.title}</a></li>`).join("")}
+          </ol>
+        </div>` : ""}
+    </div>
+  </div>
+`;
     const marker = L.circleMarker([collab.lat, collab.lng], {
       radius: 8,
       fillColor: "#DE2221", // red fill
