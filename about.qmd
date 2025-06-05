@@ -461,20 +461,69 @@ const rawCollaborators = [
     }
   ]
 },
-  {
-    lat: 45.5031,
-    lng: -73.6244,
-    city: "Montreal, Canada",
-    institution: "Division of Allergy, Department of Pediatrics, Centre hospitalier universitaire Sainte-Justine (CHU Sainte-Justine)",
-    names: ["Philippe Bégin, MD, PhD, FRCPC"]
-  },
-  {
-    lat: 45.5125,
-    lng: -73.5587,
-    city: "Montreal, Canada",
-    institution: "Division of Allergy, Department of Medicine, Centre Hospitalier de l'Université de Montréal",
-    names: ["Philippe Bégin, MD, PhD, FRCPC"]
-  },
+{
+  lat: 45.503278,
+  lng: -73.618827,
+  city: "Montreal, Canada",
+  institution: "Department of Medicine, Faculty of Medicine, Université de Montréal",
+  names: ["Philippe Bégin, MD, PhD, FRCPC"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    }
+  ]
+},
+{
+  lat: 45.5031,
+  lng: -73.6244,
+  city: "Montreal, Canada",
+  institution: "Section of Allergy, Immunology and Rheumatology, Department of Pediatrics, Centre hospitalier universitaire Sainte-Justine",
+  names: ["Philippe Bégin, MD, PhD, FRCPC"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    }
+  ]
+},
+ {
+  lat: 45.5125,
+  lng: -73.5587,
+  city: "Montreal, Canada",
+  institution: "Section of Allergy and Clinical Immunology, Department of Medicine, Centre hospitalier de l'Université de Montréal",
+  names: ["Philippe Bégin, MD, PhD, FRCPC"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    }
+  ]
+},
   {
     lat: 45.4725,
     lng: -73.6000,
@@ -482,20 +531,64 @@ const rawCollaborators = [
     institution: "Division of Pediatric Allergy, Clinical Immunology, and Dermatology, Department of Pediatrics, Montréal Children's Hospital",
     names: ["Moshe Ben-Shoshan, MD, MSc"]
   },
-  {
-    lat: 45.4725,
-    lng: -73.6000,
-    city: "Montreal, Canada",
-    institution: "Centre for Outcomes Research and Evaluation, Research Institute of the McGill University Health Centre",
-    names: ["Moshe Ben-Shoshan, MD, MSc"]
-  },
-  {
-    lat: 45.4725,
-    lng: -73.6000,
-    city: "Montreal, Canada",
-    institution: "Division of Clinical and Translational Research, Department of Medicine, School of Medicine, Faculty of Medicine and Health Sciences, McGill University",
-    names: ["Moshe Ben-Shoshan, MD, MSc"]
-  },
+{
+  lat: 45.4725,
+  lng: -73.6000,
+  city: "Montreal, Canada",
+  institution: "Division of Pediatric Allergy, Clinical Immunology, and Dermatology, Department of Pediatrics, Montréal Children's Hospital",
+  names: ["Moshe Ben-Shoshan, MD, MSc"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 45.4725,
+  lng: -73.6000,
+  city: "Montreal, Canada",
+  institution: "Division of Clinical and Translational Research, Department of Medicine, School of Medicine, Faculty of Medicine and Health Sciences, McGill University",
+  names: ["Moshe Ben-Shoshan, MD, MSc"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
   {
     lat: 43.6596,
     lng: -79.3893,
@@ -510,104 +603,236 @@ const rawCollaborators = [
     institution: "Clinical Public Health Division, Dalla Lana School of Public Health, University of Toronto",
     names: ["Laura Y. Feldman, MD, MPH"]
   },
-  {
-    lat: 43.6511,
-    lng: -79.3470,
-    city: "Toronto, Canada",
-    institution: "Science for All Audiences",
-    names: ["Erika Ladouceur"]
-  },
-  {
-    lat: 52.4862,
-    lng: -1.8904,
-    city: "Birmingham, UK",
-    institution: "School of Psychology, College of Health and Life Sciences, Aston University",
-    names: ["Rebecca C. Knibb, PhD"]
-  },
-  {
-    lat: -34.0659,
-    lng: 150.8133,
-    city: "Campbelltown, Australia",
-    institution: "School of Health Sciences, Western Sydney University",
-    names: ["Andrew T. Fong, MD, MHLM"]
-  },
-  {
-    lat: -37.8409,
-    lng: 144.9465,
-    city: "Melbourne, Australia",
-    institution: "Murdoch Children's Research Institute",
-    names: ["Andrew T. Fong, MD, MHLM"]
-  },
-  {
-    lat: -33.8688,
-    lng: 151.2093,
-    city: "Sydney, Australia",
-    institution: "The Children's Hospital at Westmead",
-    names: ["Andrew T. Fong, MD, MHLM", "Peter S. Hsu, MD, PhD"]
-  },
-  {
-    lat: 41.8781,
-    lng: -87.6298,
-    city: "Chicago, USA",
-    institution: "Northwestern University Feinberg School of Medicine",
-    names: ["Christopher M. Warren, PhD", "Priyanka Dadha, PhD", "Lucy A. Bilaver, PhD", "Ruchi S. Gupta, MD"]
-  },
-  {
-    lat: 39.0997,
-    lng: -94.5786,
-    city: "Kansas City, USA",
-    institution: "Children's Mercy Kansas City",
-    names: ["Jodi A. Shroba, MSN, CPNP"]
-  },
-  {
-    lat: 61.4981,
-    lng: 23.8197,
-    city: "Tampere, Finland",
-    institution: "Allergy Centre, Tampere University Hospital",
-    names: ["Juho E. Kivistö, MD, PhD"]
-  },
-  {
-    lat: 61.4981,
-    lng: 23.8197,
-    city: "Tampere, Finland",
-    institution: "Faculty of Medicine and Health Technology, Tampere University",
-    names: ["Juho E. Kivistö, MD, PhD"]
-  },
-  {
-    lat: 61.4981,
-    lng: 23.8197,
-    city: "Tampere, Finland",
-    institution: "Tampere Center for Child, Adolescent and Maternal Health Research, Tampere University",
-    names: ["Juho E. Kivistö, MD, PhD"]
-  },
-  {
-    lat: 39.7294,
-    lng: -104.8319,
-    city: "Aurora, USA",
-    institution: "Section of Allergy and Immunology, Department of Pediatrics, Children's Hospital Colorado, University of Colorado School of Medicine",
-    names: ["Matthew J. Greenhawt, MD, MBA, MSc"]
-  },
-  {
-    lat: 60.1910,
-    lng: 24.9110,
-    city: "Helsinki, Finland",
-    institution: "Department of Dermatology, Allergology and Venereology, Faculty of Medicine, University of Helsinki",
-    names: ["Mika J. Mäkelä, MD, PhD"]
-  },
-  {
-    lat: 60.1906,
-    lng: 24.9061,
-    city: "Helsinki, Finland",
-    institution: "Department of Allergology, Helsinki University Hospital, University of Helsinki",
-    names: ["Mika J. Mäkelä, MD, PhD"]
-  },
-  {
-    lat: 45.4064,
-    lng: 11.8768,
-    city: "Padua, Italy",
-    institution: "Department of Women's and Children's Health, University of Padua",
-    names: ["Antonella Muraro, MD, PhD"]
-  },
+{
+  lat: 43.6511,
+  lng: -79.3470,
+  city: "Toronto, Canada",
+  institution: "Science for All Audiences",
+  names: ["Erika Ladouceur"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    }
+  ]
+},
+{
+  lat: 52.4862,
+  lng: -1.8904,
+  city: "Birmingham, UK",
+  institution: "School of Psychology, College of Health and Life Sciences, Aston University",
+  names: ["Rebecca C. Knibb, PhD"],
+  papers: [
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    }
+  ]
+},
+{
+  lat: -34.0659,
+  lng: 150.8133,
+  city: "Campbelltown, Australia",
+  institution: "School of Health Sciences, Western Sydney University",
+  names: ["Andrew T. Fong, MD, MHLM"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: -37.8409,
+  lng: 144.9465,
+  city: "Melbourne, Australia",
+  institution: "Murdoch Children's Research Institute",
+  names: ["Andrew T. Fong, MD, MHLM"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: -33.8688,
+  lng: 151.2093,
+  city: "Sydney, Australia",
+  institution: "The Children's Hospital at Westmead",
+  names: ["Andrew T. Fong, MD, MHLM", "Peter S. Hsu, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 41.8781,
+  lng: -87.6298,
+  city: "Chicago, USA",
+  institution: "Northwestern University Feinberg School of Medicine",
+  names: ["Christopher M. Warren, PhD", "Priyanka Dadha, PhD", "Lucy A. Bilaver, PhD", "Ruchi S. Gupta, MD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    }
+  ]
+},
+{
+  lat: 39.0997,
+  lng: -94.5786,
+  city: "Kansas City, USA",
+  institution: "Children's Mercy Kansas City",
+  names: ["Jodi A. Shroba, MSN, CPNP"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+ {
+  lat: 61.4981,
+  lng: 23.8197,
+  city: "Tampere, Finland",
+  institution: "Allergy Centre, Tampere University Hospital",
+  names: ["Juho E. Kivistö, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 61.4981,
+  lng: 23.8197,
+  city: "Tampere, Finland",
+  institution: "Faculty of Medicine and Health Technology, Tampere University",
+  names: ["Juho E. Kivistö, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 61.4981,
+  lng: 23.8197,
+  city: "Tampere, Finland",
+  institution: "Tampere Center for Child, Adolescent and Maternal Health Research, Tampere University",
+  names: ["Juho E. Kivistö, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 39.7294,
+  lng: -104.8319,
+  city: "Aurora, USA",
+  institution: "Section of Allergy and Immunology, Department of Pediatrics, Children's Hospital Colorado, University of Colorado School of Medicine",
+  names: ["Matthew J. Greenhawt, MD, MBA, MSc"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 60.1910,
+  lng: 24.9110,
+  city: "Helsinki, Finland",
+  institution: "Department of Dermatology, Allergology and Venereology, Faculty of Medicine, University of Helsinki",
+  names: ["Mika J. Mäkelä, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 60.1906,
+  lng: 24.9061,
+  city: "Helsinki, Finland",
+  institution: "Department of Allergology, Helsinki University Hospital, University of Helsinki",
+  names: ["Mika J. Mäkelä, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 45.4064,
+  lng: 11.8768,
+  city: "Padua, Italy",
+  institution: "Department of Women's and Children's Health, University of Padua",
+  names: ["Antonella Muraro, MD, PhD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
   {
     lat: 63.7467,
     lng: -68.5169,
@@ -636,20 +861,56 @@ const rawCollaborators = [
     institution: "Johns Hopkins University",
     names: ["Kenji Fujiwara, MD, PhD"]
   },
-  {
-    lat: 49.2827,
-    lng: -123.1207,
-    city: "Vancouver, Canada",
-    institution: "Division of Allergy, Department of Pediatrics, Faculty of Medicine, University of British Columbia",
-    names: ["Edmond S. Chan, MD", "Elissa M. Abrams, MD, MPH, FRCPC"]
-  },
-  {
-    lat: 49.2827,
-    lng: -123.1207,
-    city: "Vancouver, Canada",
-    institution: "BC Children's Hospital Research Institute",
-    names: ["Edmond S. Chan, MD"]
-  },
+{
+  lat: 49.2827,
+  lng: -123.1207,
+  city: "Vancouver, Canada",
+  institution: "Division of Allergy, Department of Pediatrics, Faculty of Medicine, University of British Columbia",
+  names: ["Edmond S. Chan, MD", "Elissa M. Abrams, MD, MPH, FRCPC"],
+  papers: [
+    {
+      title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
+      url: "https://doi.org/10.1186/s13223-022-00723-w"
+    },
+    {
+      title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
+      url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
+      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
+      url: "https://doi.org/10.1186/s13223-023-00857-5"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
+{
+  lat: 49.2827,
+  lng: -123.1207,
+  city: "Vancouver, Canada",
+  institution: "BC Children's Hospital Research Institute",
+  names: ["Edmond S. Chan, MD"],
+  papers: [
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
+    }
+  ]
+},
   {
     lat: 43.2557,
     lng: -79.8711,
