@@ -18,6 +18,8 @@ $~$
 
 Anaphylaxis is a **life-threatening allergic reaction** that requires rapid recognition and immediate treatment with intramuscular **epinephrine**. Despite the availability of clinical guidelines and growing global awareness, the **treatment of anaphylaxis remains inconsistent**, particularly in low-resource settings and underserved regions. Barriers such as lack of access to epinephrine, delays in diagnosis, and inadequate emergency response systems contribute to preventable morbidity and mortality worldwide.
 
+$~$
+
 ## Understanding Global Variation in Anaphylaxis Treatment
 
 There is growing recognition of **global variation** in how anaphylaxis is treated across different healthcare systems. While epinephrine is the recommended first-line treatment, evidence shows it remains under-utilized worldwide, with antihistamines and glucocorticoids often used instead in emergency and acute care settings. This variation may be influenced by differences in clinical training, national guidelines, healthcare infrastructure, or cultural practices.
