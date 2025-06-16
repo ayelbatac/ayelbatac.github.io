@@ -16,68 +16,52 @@ format:
 
 $~$
 
-Sexually transmitted and blood-borne infections (STBBIs) remain a major global public health concern. Despite increasing awareness, **testing rates for STIs**—such as gonorrhea and chlamydia—remain **low worldwide**, especially among marginalized populations including **men who have sex with men (MSM)**. The underdiagnosis of asymptomatic infections continues to pose a barrier to effective treatment and control.
+**Sexually transmitted and blood-borne infections (STBBIs)** remain a major global public health concern. Despite increasing awareness, **testing rates for STIs**—such as gonorrhoea and chlamydia—remain **low worldwide**, especially among **marginalized populations** including **men who have sex with men (MSM)**. **Asymptomatic infections** often go undiagnosed, posing a barrier to **timely treatment** and **effective disease control**.
 
-In **low- and middle-income countries (LMICs)**, multiple factors such as **stigma**, **financial costs**, and **limited access to culturally sensitive services** reduce uptake of testing. In **East Asian contexts**, MSM often face structural exclusion and high levels of stigma, limiting their engagement with formal health systems and contributing to gaps in prevention and care.
+In **low- and middle-income countries**, multiple factors—such as **stigma**, **financial costs**, and **limited access to culturally responsive services**—reduce uptake of testing. In many settings, **MSM face structural exclusion** and **persistent stigma**, which limit their engagement with **formal health systems** and contribute to ongoing gaps in **prevention and care**.
 
 $~$
 
 ## Social Innovation in Action: What Is the Pay-It-Forward Model?
 
-The pay-it-forward (PIF) model is a **social innovation** approach that blends public health delivery with prosocial behaviour. In the context of STI testing, PIF offers individuals a free service—such as testing for gonorrhea and chlamydia—and then invites them to support someone else’s access through voluntary donations or encouraging messages.
+The pay-it-forward model is a **social innovation** approach that combines public health service delivery with prosocial behaviour. In the context of STI testing, the pay-it-forward model offers individuals a free service—such as testing for gonorrhoea and chlamydia—and then invites them to support someone else’s access to the same service through voluntary donations or encouraging messages.
 
 The model is built on three core pillars:
 
-- **Access**: Removing cost barriers to testing
+- **Access**: Removing cost barriers to testing  
+- **Altruism**: Harnessing the human tendency to give back after receiving support  
+- **Community engagement**: Fostering collective responsibility for health and well-being  
 
-- **Altruism**: Harnessing the human tendency to give back after receiving support
-
-- **Community engagement**: Fostering collective responsibility for health and well-being
-
-Unlike traditional models of subsidized or fee-for-service health care, PIF decentralizes financial burden while embedding a sense of solidarity and empowerment. It is especially valuable in contexts where stigma, mistrust of institutions, or cost inhibits access to care.
+Unlike traditional models of subsidized or fee-for-service health care, the pay-it-forward model shifts the financial burden away from centralized systems and fosters a sense of solidarity and empowerment. It is particularly valuable in settings where stigma, mistrust of institutions, or financial barriers limit access to care.
 
 ## Integrating Social Innovation and Community Engagement in STI Testing
 
-The pay-it-forward (PIF) model represents more than just an access intervention—it is a **social innovation strategy** designed to reimagine how STI services are delivered and experienced. When combined with community engagement, PIF helps foster environments where testing is **accessible**, **stigma-sensitive**, and **rooted in mutual support**.
+The pay-it-forward model is more than an access intervention—it is a **social innovation** strategy that reimagines how STI services are delivered and experienced. When paired with community engagement, the pay-it-forward approach helps create environments where testing is **accessible**, **sensitive to stigma**, and **grounded in mutual support**.
 
-Community engagement in this context refers to voluntary, health-promoting actions—such as anonymous messaging, advocacy, or participation in public health initiatives—that reinforce the goals of PIF. Together, these approaches seek to:
+In this context, community engagement refers to voluntary, health-promoting actions—such as anonymous messaging, advocacy, and participation in public health initiatives—that align with and reinforce the goals of the pay-it-forward model. Together, these approaches aim to:
 
-- Empower individuals to take collective ownership of sexual health
-
-
-- Build trust between communities and health systems
-
-
-- Expand reach and uptake of STI services, particularly in LMIC settings
+- Empower individuals to take collective ownership of sexual health  
+- Build trust between communities and health systems  
+- Expand reach and uptake of STI services, particularly in LMIC settings  
 
 ## Ongoing Research
 
 My current work involves the evaluation of a **randomized controlled trial (RCT)** of the pay-it-forward strategy among MSM in China. This includes:
 
-- Assessing **STI testing uptake** across different behavioural intervention arms
-
-
-- Analyzing **giving behaviours** as markers of engagement and reciprocity
-
-
-- Identifying **clinic-level and demographic factors** that influence outcomes
-
-
-- Testing a **digital version of the PIF model** integrated with self-sampling to improve accessibility in low-resource settings
+- Assessing **STI testing uptake** across different behavioural intervention arms  
+- Analyzing **giving behaviours** as markers of engagement and reciprocity  
+- Identifying **clinic-level and demographic factors** that influence outcomes  
+- Testing a **digital version of the pay-it-forward model** integrated with self-sampling to improve accessibility in low-resource settings  
 
 This research contributes to growing efforts to understand how **social innovation** and **behavioural science** can strengthen public health responses to STBBIs by expanding testing reach, building community resilience, and reframing how health systems engage with stigmatized populations.
 
 ## Methodological Approach
 
-To fully understand both the impact and implementation of the PIF model, this research uses a **mixed methods** design:
+To fully understand both the impact and implementation of the pay-it-forward model, this research uses a **mixed methods** design:
 
-- Quantitative evaluation through randomized controlled trials tracks behavioural outcomes, including uptake and donation patterns
-
-
-- Qualitative interviews with participants and providers explore perceived barriers, motivations for giving, and emotional responses to the intervention
-
-
-- Process evaluations assess feasibility, fidelity, and scalability in real-world settings
+- Quantitative evaluation through randomized controlled trials tracks behavioural outcomes, including uptake and donation patterns  
+- Qualitative interviews with participants and providers explore perceived barriers, motivations for giving, and emotional responses to the intervention  
+- Process evaluations assess feasibility, fidelity, and scalability in real-world settings  
 
 This integration of methods helps generate both rigorous evidence and context-specific insights that are essential for scale-up and adaptation.
 
@@ -85,16 +69,10 @@ This integration of methods helps generate both rigorous evidence and context-sp
 
 This research contributes to reimagining STI testing as a more equitable, effective, and empowering element of public health delivery. Key public health contributions include:
 
-- Demonstrating how **decentralized**, **community-driven financing models** can sustainably expand access to essential services
-
-
-- Advancing **stigma-sensitive**, **culturally tailored approaches** to testing that are attuned to the lived experiences of MSM and other marginalized groups
-
-
-- Informing health system strategies that align **social innovation with service delivery**, helping to bridge the gap between clinic-based care and community realities
-
-
-- Contributing to global conversations on **universal health coverage**, equity, and the integration of sexual health into broader public health systems
+- Demonstrating how **decentralized**, **community-driven financing models** can sustainably expand access to essential services  
+- Advancing **stigma-sensitive**, **culturally tailored approaches** to testing that are attuned to the lived experiences of MSM and other marginalized groups  
+- Informing health system strategies that align **social innovation with service delivery**, helping to bridge the gap between clinic-based care and community realities  
+- Contributing to global conversations on **universal health coverage**, equity, and the integration of sexual health into broader public health systems  
 
 By positioning STI testing as a collective act of care—rather than an individual burden—this research helps build a more inclusive foundation for sexual health equity.
 
