@@ -72,12 +72,12 @@ $~$
 - Infectious disease prevention and control in LMICs and low-resource settings  
 - Behavioural interventions for health service uptake (e.g., pay-it-forward)  
 - Mixed-methods research in public health and epidemiology  
-- Evidence synthesis (scoping and systematic reviews)  
+- Knowledge synthesis (scoping and systematic reviews)  
 - Knowledge translation and knowledge mobilization (KT/KMb)  
 - Infectious disease modelling  
 - Implementation science  
 - Health economics and pharmacoeconomics (HIV, allergy)  
-- Allergy and clinical immunology (anaphylaxis, asthma, drug and food allergy)  
+- Allergy (anaphylaxis, asthma, drug and food allergy)  
 
 ## Research Areas
 
@@ -91,9 +91,8 @@ $~$
 - Health Economics and Outcomes Research  
 - Implementation Science  
 - Knowledge Translation and Mobilization  
-- Evidence Synthesis  
+- Knowledge Synthesis  
 - Allergy  
-- Clinical Immunology  
 - Pediatrics  
 
 ## Keywords
