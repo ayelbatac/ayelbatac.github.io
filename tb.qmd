@@ -24,75 +24,56 @@ $~$
 
 ## Community-Wide Screening as a Public Health Strategy
 
-One of the most promising interventions to disrupt TB transmission in high-burden regions is **community-wide screening (CWS)**. This approach involves proactively offering screening to all members of a community—regardless of symptoms—to detect both **latent TB infection (LTBI)** and **active TB disease**.
+One of the most promising interventions to disrupt TB transmission in high-burden regions is **community-wide screening**. This approach involves proactively offering screening to all members of a community—regardless of symptoms—to detect both **latent TB infection (LTBI)** and **active TB disease**.
 
-The benefits of CWS include:
+The benefits of community-wide screening include:
 
-- **Reducing time to diagnosis**, thereby interrupting transmission chains;
+- **Reducing time to diagnosis**, thereby interrupting transmission chains  
+- **Identifying latent infections** before they progress to active disease  
+- **Providing culturally adapted outreach and education** to increase participation  
+- **Strengthening community trust** through local leadership and engagement  
 
-
-- **Identifying latent infections** before they progress to active disease;
-
-
-- **Providing culturally adapted outreach and education** to increase participation;
-
-
-- **Strengthening community trust** through local leadership and engagement.
-
-
-Previous implementations of CWS in Nunavut, Canada, have demonstrated both effectiveness and cost-efficiency when adapted to local realities. When combined with targeted health promotion and community-driven planning, these initiatives support early detection, treatment uptake, and long-term disease control.
+Previous implementations of community-wide screening in Nunavut, Canada, have demonstrated both effectiveness and cost-efficiency when adapted to local realities. When combined with targeted health promotion and community-driven planning, these initiatives support early detection, treatment uptake, and long-term disease control.
 
 ## Ongoing Research
 
-My current work focuses on the **evaluation of a CWS** clinic conducted in response to a TB outbreak in Nunavut. This evaluation examines how the initiative:
+My current work focuses on the **evaluation of a community-wide screening** clinic conducted in response to a TB outbreak in Nunavut. This evaluation examines how the initiative:
 
-- Detected and treated both active and latent TB cases;
-
-
-- Promoted awareness and reduced stigma through bilingual outreach;
-
-
-- Addressed barriers to participation and treatment completion;
-
-
-- Applied lessons from previous CWS efforts to strengthen delivery.
-
+- Detected and treated both active and latent TB cases  
+- Promoted awareness and reduced stigma through bilingual outreach  
+- Addressed barriers to participation and treatment completion  
+- Applied lessons from previous community-wide screening efforts to strengthen delivery  
 
 This research contributes to operational knowledge on how community-based strategies can strengthen TB prevention and control in remote, high-incidence regions.
 
 ## Methodological Approach
 
-This evaluation takes a **quantitative**, **epidemiological approach** to assess the outcomes of a CWS initiative conducted in response to a tuberculosis outbreak in Nunavut. Program data were analyzed to examine screening coverage, diagnostic outcomes, and treatment initiation for both active TB and LTBI.
+This evaluation takes a **quantitative**, **epidemiological approach** to assess the outcomes of a community-wide screening initiative conducted in response to a tuberculosis outbreak in Nunavut. Program data were analyzed to examine screening coverage, diagnostic outcomes, and treatment initiation for both active TB and LTBI.
 
-The study also highlights the critical role of **community engagement** and local leadership in the success of the CWS. The planning and implementation process incorporated culturally grounded strategies to promote trust, reduce stigma, and enhance participation. Clinic delivery was shaped by coordinated interagency efforts and informed by previous screening initiatives in the territory.
+The study also highlights the critical role of **community engagement** and local leadership in the success of the community-wide screening. The planning and implementation process incorporated culturally grounded strategies to promote trust, reduce stigma, and enhance participation. Clinic delivery was shaped by coordinated interagency efforts and informed by previous screening initiatives in the territory.
 
 By combining epidemiological findings with high-level insights into operational planning and community engagement, this evaluation provides practical evidence to guide future TB control efforts in remote and high-incidence settings—while respecting the local context and the principles of cultural safety.
 
 ## Contribution to Public Health
 
-This research advances understanding of how CWS can serve as an effective and context-sensitive strategy for TB control in remote Arctic communities. Key contributions include:
+This research advances understanding of how community-wide screening can serve as an effective and context-sensitive strategy for TB control in remote Arctic communities. Key contributions include:
 
-- **Providing real-world evidence** on the epidemiological impact of CWS in a high-incidence, underserved setting;
-
-- Highlighting the **role of community engagement** in increasing screening uptake and reducing barriers to participation;
-
-- Demonstrating how operational planning, when informed by **local knowledge** and **interagency collaboration**, can enhance intervention effectiveness;
-
-- Informing future TB response strategies that centre **cultural safety**, **community leadership**, and **adaptability to local realities**.
+- **Providing real-world evidence** on the epidemiological impact of community-wide screening in a high-incidence, underserved setting  
+- Highlighting the **role of community engagement** in increasing screening uptake and reducing barriers to participation  
+- Demonstrating how operational planning, when informed by **local knowledge** and **interagency collaboration**, can enhance intervention effectiveness  
+- Informing future TB response strategies that centre **cultural safety**, **community leadership**, and **adaptability to local realities**  
 
 By emphasizing trust, collaboration, and responsiveness to community needs, this work supports the broader vision of TB elimination in Nunavut and contributes to national public health goals rooted in equity and reconciliation.
 
 $~$
 
-$~$
-
-This research is being undertaken in collaboration with the Government of Nunavut, reflecting a mutual commitment to advancing community-led and culturally informed approaches to tuberculosis prevention and control in northern Canada.
-
-$~$
-
-$~$
-
 *Stay tuned — publications and data visualizations related to this work will be made available here soon.*
+
+$~$
+
+<small>
+This research is conducted in collaboration with the Government of Nunavut, reflecting a shared commitment to advancing community-led and culturally grounded approaches to tuberculosis prevention and control in northern Canada.
+</small>
 
 <style>
   h1, h2, h3, p {
