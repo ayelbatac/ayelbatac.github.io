@@ -1,0 +1,82 @@
+---
+title: "HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access"
+author: "Ayel L. R. Batac"
+format:
+  html:
+    toc: false
+    anchor-links: false
+    include-in-header: 
+      - text: |
+          <title>HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access - Ayel L. R. Batac</title>
+          <meta name="description" content="Ayel L. R. Batac conducts research on HIV prevention and decentralized PrEP access among MSM in low- and middle-income countries, with a focus on public health, health systems, and equity-driven innovation." />
+          <meta name="keywords" content="Ayel Batac, PrEP, HIV, MSM, global health, sexual health, stigma, LMICs, decentralized care, pharmacy PrEP, telehealth, mHealth, health systems, community health, implementation" />
+---
+
+# HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access
+
+**Human immunodeficiency virus (HIV)** continues to affect millions of people globally, with **men who have sex with men (MSM)** remaining disproportionately impacted. Biomedical innovations such as **pre-exposure prophylaxis (PrEP)**—a daily or event-driven medication that can prevent HIV acquisition—have significantly expanded the toolkit for HIV prevention. When taken correctly, PrEP reduces the risk of HIV transmission by more than 90%.
+
+Despite its effectiveness, **global uptake of PrEP remains uneven.** In **low- and middle-income countries (LMICs)**, where health systems often face severe resource constraints, access to PrEP is far from universal. MSM populations in these regions encounter additional layers of exclusion, including **criminalization, stigma, discrimination, lack of culturally competent providers**, and limited integration of HIV prevention into routine care.
+
+Access challenges are particularly stark in rural areas, among younger MSM, and in settings where healthcare services are underdeveloped or poorly trusted. As a result, PrEP remains out of reach for many people who need it most—perpetuating avoidable infections and widening health inequities.
+
+## Decentralizing Access: Reaching MSM Where They Are
+
+To address these challenges, researchers, policymakers, and community organisations are developing a range of **non-clinic-based delivery models** that bring HIV prevention services closer to the people who need them. These approaches decentralize PrEP delivery by moving it outside traditional healthcare settings and into **community, digital, or pharmacy-based platforms** that are more accessible, discreet, and community-embedded. They reflect a broader global shift toward differentiated service delivery and community-driven care that is often more accessible, less stigmatizing, and better suited to the realities of daily life for MSM in LMICs.
+
+Examples include:
+
+- **TelePrEP** services that offer virtual consultations, remote prescriptions, and home delivery.**
+- **Pharmacy-based** PrEP access that empowers pharmacists to initiate and monitor PrEP use.**
+- **Mobile outreach** programs that reach MSM at bars, shelters, parks, and other informal venues.**
+- **mHealth tools** that enable self-testing, automated reminders, digital counselling, and anonymous referrals.**
+- **Peer- and community-led delivery models** that build on local trust and engagement.**
+
+These approaches reduce dependency on overburdened clinic systems and actively challenge structural barriers to care. Decentralization not only expands reach—it also supports equity by meeting people where they are.
+
+## Understanding the Landscape of Decentralized PrEP Delivery
+
+Our current **knowledge synthesis work** investigates how decentralized PrEP delivery models are being implemented for MSM in LMICs. This work emerges at a time when global momentum is accelerating around PrEP expansion, differentiated service delivery, and digital health—particularly with a growing emphasis on key populations in HIV prevention strategies. While research on PrEP delivery models has grown, MSM in LMICs remain significantly underrepresented in both global syntheses and implementation evidence. This work helps to fill that gap by centring their experiences and the models designed to reach them.
+
+This work seeks to:
+
+- Identify **innovative and underreported models** currently in use or under development
+- Examine how these programs adapt to **legal, cultural, infrastructural, and political constraints**
+- Analyze key outcomes such as **uptake, retention, user satisfaction, and provider engagement**
+- Surface lessons from **community-led and task-shifted models**, especially those reaching underserved MSM subgroups
+- Translate findings into **insights that inform** future programs, funding decisions, and national HIV strategies
+
+## Building Responsive and Inclusive HIV Prevention Systems
+
+This project highlights the importance of building **health systems that respond to the lived realities of MSM**, particularly in low-resource or high-stigma environments. We focus on delivery approaches that:
+
+- Center **community knowledge and peer trust**
+- Minimize **logistical, financial, and social barriers** to prevention
+- Address the impact of **surveillance, fear, and criminalization**
+- Leverage **technology thoughtfully** while considering digital divides
+- Promote **human dignity and user agency** within HIV prevention systems
+- **Engage MSM communities in co-designing and adapting services** that reflect local values, norms, and needs.
+
+By understanding how decentralized models operate on the ground, this work contributes to more **resilient, responsive, and equitable health systems**—particularly for people pushed to the margins of care.
+
+## Contribution to Public Health
+
+This work addresses one of the most pressing challenges in global HIV prevention: **how to expand access to PrEP for populations consistently left behind by traditional health systems.** Despite the proven effectiveness of PrEP, structural, social, and legal barriers continue to prevent MSM in low- and middle-income countries from benefiting equally.
+
+By investigating **decentralized, community-centred, and digitally enabled PrEP delivery models**, this knowledge synthesis contributes to public health in several key ways:
+
+- **Supports evidence-informed innovation** by identifying real-world models that extend beyond clinic walls and meet MSM where they are.  
+- **Elevates implementation strategies** that promote equity, reduce stigma, and operate effectively in legally or socially hostile environments.  
+- **Provides actionable insights** for program implementers, NGOs, and policymakers seeking scalable, context-sensitive HIV prevention approaches.  
+- **Bridges the gap between research and practice** by synthesizing diverse forms of knowledge—peer-reviewed evidence, grey literature, and community reports—to inform adaptable solutions.  
+- **Advances global health equity** by centring the needs of MSM in LMICs, and reframing HIV prevention not just as access to medicine, but as access to dignity, autonomy, and safety.
+
+This research aims to shift how we think about HIV prevention—not just in terms of medication and delivery, but in terms of **systems design, trust-building, and community power.** It contributes to the growing effort to align **health equity**, **human rights**, and **universal access** in the global response to HIV.
+
+*Stay tuned — publications and data visualizations related to this work will be made available here soon.*
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+</style>
