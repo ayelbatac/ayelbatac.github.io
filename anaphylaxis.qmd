@@ -74,21 +74,19 @@ $~$
 
   <!-- Infographic Image -->
   <div style="flex: 0 0 400px;">
-    <a href="https://doi.org/10.1111/cea.70028" target="_blank" rel="noopener noreferrer">
-      <img src="eai_china.png" alt="Anaphylaxis Infographic - China" 
-           style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.3s ease;"
-           onmouseover="this.style.transform='scale(1.05)'" 
-           onmouseout="this.style.transform='scale(1)'">
-    </a>
+    <img src="eai_china.png" alt="Anaphylaxis Infographic - China" 
+         style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'">
   </div>
 
   <!-- Publication Description -->
   <div style="flex: 1; min-width: 250px;">
 
     <!-- Title -->
-    <h3 style="font-weight: bold; color: #1B153E;">
+    <p style="font-weight: bold; color: #1B153E;">
       From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China
-    </h3>
+    </p>
 
     <!-- Description -->
     <p>
@@ -96,9 +94,9 @@ $~$
     </p>
 
     <!-- Citation -->
-    <p style="font-size: 0.80rem;">
-      <a href="https://doi.org/10.1111/cea.70028" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
-        <strong>Batac ALR.</strong> From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. <em>Clin Exp Allergy.</em> 2025 Mar 12. doi: 10.1111/cea.70028. PMID: 40071384.
+    <p style="font-size: 0.70rem;">
+      <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
+        <strong>Batac ALR.</strong> From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: 10.1111/cea.70028. PMID: 40071384.
       </a>
     </p>
 
