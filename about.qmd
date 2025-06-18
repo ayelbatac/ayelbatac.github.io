@@ -26,8 +26,8 @@ $~$
 <!-- Name and Affiliations Section -->
 <div style="flex: 1; min-width: 250px; margin-left: 1rem;">
 
-### Ayel L. R. Batac
-**Epidemiologist and Sociobehavioural Health Scientist**
+### Ayel Luis R. Batac
+**Public Health Scientist and Mixed Methods Researcher**
 
 **Ayel holds the following positions:**
 
@@ -50,7 +50,7 @@ $~$
 
 I am an epidemiologist, social and behavioural health scientist, and health economist in training, dedicated to generating research that informs public health policy, advances health equity, and supports evidence-based decision-making.
 
-Currently, I am a second-year Master of Science student in Public Health (Health Economics) at the London School of Hygiene and Tropical Medicine, with over seven years of experience spanning research, data analytics, and applied public health practice.
+I am a second-year Master of Science student in Public Health (Health Economics) at the London School of Hygiene and Tropical Medicine, with over six years of experience spanning research, data analytics, and applied public health practice.
 
 My work addresses a range of urgent and evolving challenges in global health. I am currently contributing to the evaluation of behavioural interventions to increase sexually transmitted infection (STI) testing among men who have sex with men in China, and leading international research on anaphylaxis treatment access and emergency care readiness. I am also evaluating community-wide tuberculosis screening strategies in remote Arctic communities in Canada. I recently developed outbreak debrief guidance and clinical tools for mpox, supporting national efforts to strengthen public health communication and frontline clinical response during a rapidly changing epidemic.
 
