@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ayel L. R. Batac - Public Health Scientist</title>
+<title>PrEP 101: What It Is, Who It’s For, and What You Still Need to Know</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,19 +68,48 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <!-- meta.html -->
-<meta property="og:title" content="Ayel L. R. Batac - Public Health Scientist">
+<meta property="og:title" content="PrEP 101: What It Is, Who It’s For, and What You Still Need to Know">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://ayelbatac.github.io/logo.png">
 <meta property="og:url" content="https://ayelbatac.github.io">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ayel L. R. Batac - Public Health Scientist">
+<meta name="twitter:title" content="PrEP 101: What It Is, Who It’s For, and What You Still Need to Know">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://ayelbatac.github.io/logo.png">
-<meta name="google-site-verification" content="N1wLhwkq2kEpvFepxx8U30XxFHpsgKQDqCwYJtTHPuY">
-<meta name="description" content="Ayel L. R. Batac is an epidemiologist, social and behavioural health scientist, and global health researcher focused on HIV and sexually transmitted and blood-borne infections, using mixed methods to advance equity and evidence-informed public health.">
-<meta name="keywords" content="Ayel Batac, epidemiology, public health, global health, HIV, STI, STBBI, MSM, gonorrhea, chlamydia, LMICs, mpox, tuberculosis, COVID-19, vaccine, hesitancy, allergy, anaphylaxis, food allergy, atopic dermatitis, pediatrics, dermatology, evidence synthesis, knowledge synthesis, knowledge translation, scoping review, systematic review, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, Winnipeg, Manitoba, Canada, London, United Kingdom, UK, China">
+<title>PrEP 101 – Ayel L. R. Batac</title>
+<meta name="description" content="A clear and caring introduction to PrEP – what it is, how it works, and why it matters for HIV prevention.">
+<meta name="keywords" content="PrEP, HIV prevention, sexual health, condoms, STBBIs, public health, Ayel Batac, knowledge translation">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -103,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -158,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Ayel L. R. Batac - Public Health Scientist</h1>
+<h1 class="title">PrEP 101: What It Is, Who It’s For, and What You Still Need to Know</h1>
 </div>
 
 
@@ -175,154 +204,118 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<!-- DO NOT use # here -->
-<!-- Full-width Banner Section -->
-<div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%); height: 450px; overflow: hidden; margin-bottom: 2rem;">
-  <img src="idx.png" alt="Anaphylaxis Infographic" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-
-  <div style="
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    padding: 2rem;
-    background: linear-gradient(to top, rgba(27,21,62,0.7), rgba(27,21,62,0.4), transparent);
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+  .study-button {
+    display: inline-block;
+    background-color: #1B153E;
     color: white;
-  ">
-    <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 0.5rem;">From Ampoules to Auto-Injectors</div>
-    <div style="margin-bottom: 0.5rem;">Expanding access to epinephrine auto-injectors: a new chapter in anaphylaxis treatment in China.</div>
-    <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="color: white; text-decoration: underline;">Read More</a>
-  </div>
-</div>
-<!-- Full-width Spotlight Section -->
-<div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
-
-  <!-- Title (HTML, not markdown) to avoid anchor icon -->
-  <div style="color: #1B153E; text-transform: uppercase; font-weight: bold; font-size: 1.75rem; margin-bottom: 2rem;">SPOTLIGHT</div>
-
-  <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; gap: 2rem;">
-
-    <!-- Tile 1: Anaphylaxis -->
-    <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="flex: 1; text-decoration: none; color: inherit; transition: transform 0.3s;">
-      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
-        <img src="journal_image_1.png" alt="Anaphylaxis Research" style="width: 100%; height: 230px; object-fit: cover;">
-        <div style="padding: 1rem;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Auto-injectors in China?</div>
-          <p style="margin-top: 0.5rem; color: #444;">Improving access to epinephrine auto-injectors in China.</p>
-        </div>
-      </div>
-    </a>
-
-    <!-- Tile 2: Mpox -->
-    <a href="https://nccid.ca/debrief/mpox/" target="_blank" style="flex: 1; text-decoration: none; color: inherit; transition: transform 0.3s;">
-      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
-        <img src="mpox_idx.png" alt="Mpox Research" style="width: 100%; height: 230px; object-fit: cover;">
-        <div style="padding: 1rem;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Mpox Disease Debrief</div>
-          <p style="margin-top: 0.5rem; color: #444;">New mpox clades – what is the current risk to Canadians?</p>
-        </div>
-      </div>
-    </a>
-
-    <!-- Tile 3: Food Allergy Household Financial Burden Scoping Review -->
-    <a href="https://doi.org/10.1111/cea.14622" target="_blank" style="flex: 1; text-decoration: none; color: inherit; transition: transform 0.3s;">
-      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
-        <img src="journal_image_2.png" alt="Food Allergy Scoping Review" style="width: 100%; height: 230px; object-fit: cover;">
-        <div style="padding: 1rem;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Is food allergy expensive?</div>
-          <p style="margin-top: 0.5rem; color: #444;">Reviewing tools that measure the cost of food allergy.</p>
-        </div>
-      </div>
-    </a>
-
-  </div>
-</div>
-
-<!-- Full-width News and Stories Section -->
-<div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
-
-  <!-- Section Header and Button -->
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap;">
-    <h2 style="color: #1B153E; font-weight: bold; margin: 0; border: none;" class="anchored">NEWS AND STORIES</h2>
-
-    <a href="./blog.html" style="background-color: white; border: 2px solid #DE2221; padding: 0.6rem 1.2rem; text-decoration: none; color: #DE2221; font-weight: bold; border-radius: 6px; transition: background-color 0.3s ease;">
-      View more stories
-    </a>
-  </div>
-
-  <!-- News Cards -->
-  <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-
-    <!-- Blog Tile -->
-    <a href="./stbbi-talk.html" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-
-      <img src="stbbi-talk.png" alt="Let’s Talk About STBBIs" style="width: 100%; height: 200px; object-fit: cover;">
-
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;" class="anchored">
-          Let’s Talk About STBBIs
-        </h3>
-        <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-          An accessible introduction to STBBIs, why they matter, and how individuals and communities can take action.
-        </p>
-        <div style="font-size: 0.8rem; color: #777;">Blog Post · May 10, 2025</div>
-      </div>
-    </a>
-    
-    <!-- Blog Tile -->
-    <a href="./why-i-work-in-hiv.html" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-
-      <img src="blog1_thumb.png" alt="Why I Work in HIV" style="width: 100%; height: 200px; object-fit: cover;">
-
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;" class="anchored">
-          Why I Work in HIV and STBBIs
-        </h3>
-        <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-          A personal and professional journey through science, stigma, and public health.
-        </p>
-        <div style="font-size: 0.8rem; color: #777;">Blog Post · May 7, 2025</div>
-      </div>
-    </a>
-
-    <!-- Physician's Weekly Feature -->
-    <a href="https://www.physiciansweekly.com/exploring-the-relationship-between-maternal-infant-bonding-and-infantile-atopic-dermatitis-a-mixed-methods-study/" target="_blank" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-
-      <img src="physiciansweekly_thumb.png" alt="Physician's Weekly Atopic Dermatitis" style="width: 100%; height: 200px; object-fit: cover;">
-
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;" class="anchored">
-          Featured in Physician’s Weekly
-        </h3>
-        <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-          Exploring maternal-infant bonding and eczema — a lead-author study in the spotlight.
-        </p>
-        <div style="font-size: 0.8rem; color: #777;">News Feature · Dec 8, 2023</div>
-      </div>
-    </a>
-
-  </div>
-</div>
+    padding: 0.6rem 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 1rem;
+    transition: background-color 0.3s;
+  }
+  .study-button:hover {
+    background-color: #00AEC7;
+    color: white;
+  }
+</style>
+<section id="prep-101-what-it-is-who-its-for-and-what-you-still-need-to-know" class="level1">
+<h1>PrEP 101: What It Is, Who It’s For, and What You Still Need to Know</h1>
+<p>June 17, 2025</p>
+<p><span class="math inline">\(~\)</span></p>
+<p>PrEP — short for pre-exposure prophylaxis — powerfully prevents HIV when used properly. Yet many people still haven’t heard of it, don’t understand it, or aren’t sure if it’s for them. This blog breaks it down clearly, without stigma or confusion — just the facts and what they mean for you.</p>
+<section id="what-is-prep" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-prep">What Is PrEP?</h3>
+<p>PrEP (pre-exposure prophylaxis) is a medication strategy for people who do not have HIV but are at risk of being exposed to it. The most common form involves taking a daily oral pill that contains two antiretroviral medications — tenofovir disoproxil fumarate and emtricitabine — which work by stopping the virus from making copies of itself if it enters the body.</p>
+<p>Think of it like a seatbelt for your immune system — it’s there just in case, providing critical protection when needed.</p>
+<p>These tablets work by maintaining a steady level of medication in your bloodstream, so if the HIV virus enters the body, it encounters a hostile environment that prevents it from establishing an infection. Imagine PrEP like a security guard that stops the virus at the door.</p>
+<p>When taken consistently, daily PrEP reduces the risk of getting HIV from sex by about 99% and from injection drug use by at least 74%. [<a href="https://www.cdc.gov/hiv/basics/prep.html">CDC</a>]</p>
+<p>PrEP is also available in an injectable form — long-acting cabotegravir — which is administered every two months. This medication works slightly differently: it’s an integrase inhibitor, preventing the virus from integrating into human DNA after exposure. Imagine it as a lock that keeps the virus from ever getting inside your body’s cells. Health Canada approved long-acting cabotegravir for PrEP in 2024 [<a href="https://www.catie.ca/catie-news/health-canada-approves-apretude-the-first-long-acting-injectable-for-hiv-prevention">CATIE</a>].</p>
+<p>However, rollout is still limited. Availability varies across provinces and may depend on clinic access and prescribing practices.</p>
+<p>If you live outside Canada, check with your local health authority, sexual health clinic, or HIV organization to learn how to access PrEP where you are.</p>
+</section>
+<section id="who-should-consider-prep" class="level3">
+<h3 class="anchored" data-anchor-id="who-should-consider-prep">Who Should Consider PrEP?</h3>
+<p>PrEP is recommended for anyone at ongoing risk of HIV. This includes:</p>
+<ul>
+<li>People with an HIV-positive partner (especially if their partner is not undetectable — remember <strong>U=U</strong>!)</li>
+<li>People who have condomless sex with new or multiple partners</li>
+<li>Sex workers</li>
+<li>People who inject drugs</li>
+<li>People who share drug equipment</li>
+<li>People with a history of recent STBBIs</li>
+</ul>
+<p>If you’re aware that your sexual practices involve potential risk, you deserve information and tools — not judgment. PrEP might be right for you.</p>
+</section>
+<section id="what-prep-does-and-doesnt-do" class="level3">
+<h3 class="anchored" data-anchor-id="what-prep-does-and-doesnt-do">What PrEP Does (and Doesn’t) Do</h3>
+<p>PrEP protects against HIV. It does <strong>not</strong> protect against other sexually transmitted and blood-borne infections (STBBIs), such as:</p>
+<ul>
+<li>Gonorrhea</li>
+<li>Chlamydia</li>
+<li>Syphilis</li>
+<li>Herpes</li>
+<li>Hepatitis B and C</li>
+<li>HPV (which can lead to cervical, anal, and throat cancers)</li>
+</ul>
+<p>These infections are serious, too. Untreated STBBIs can lead to infertility, chronic pelvic pain, liver disease, neurological issues, and certain types of cancer — particularly cervical cancer linked to HPV.</p>
+<p><strong>Condoms remain essential.</strong> They help prevent many STBBIs and are an easy, effective way to protect your health and the health of your partners.</p>
+<p>STBBI rates have continued to rise in Canada even with increased PrEP availability — underscoring the need for comprehensive sexual health strategies. [<a href="https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html">PHAC STBBI Surveillance</a>]</p>
+<p>If you’re outside of Canada, check with your local health department or NGO for testing and STBBI education resources.</p>
+</section>
+<section id="is-prep-safe" class="level3">
+<h3 class="anchored" data-anchor-id="is-prep-safe">Is PrEP Safe?</h3>
+<p>Yes. PrEP is considered very safe for most people.</p>
+<p>Common short-term side effects include mild nausea, headache, or fatigue — which usually go away within the first few weeks.</p>
+<p>Some people may experience changes in kidney function or bone density over time, but these effects are rare and usually reversible once PrEP is stopped. That’s why regular check-ups and lab tests are part of the process.</p>
+<p>In Canada, for example, doctors typically order a few baseline tests before you start PrEP: - An HIV test - Liver and kidney function tests - Screening for hepatitis B (and sometimes C)</p>
+<p>Once you begin, expect follow-ups every three months to ensure your health is on track, check for STBBIs, and renew your prescription.</p>
+<p>You don’t need a referral to start. Your <strong>family doctor can help</strong>. If you feel uncomfortable asking in person, many clinics offer <strong>telehealth and mail-order PrEP services</strong> — helping reduce barriers caused by stigma or distance.</p>
+</section>
+<section id="how-to-access-prep-in-canada" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-access-prep-in-canada">How to Access PrEP in Canada</h3>
+<p>You can start by speaking with your family doctor or visiting a sexual health clinic. Here’s a typical process:</p>
+<ol type="1">
+<li><strong>Initial visit:</strong> Discuss your sexual health and interest in PrEP.</li>
+<li><strong>Screening:</strong> Your provider will test for HIV, hepatitis B and C, and check kidney and liver function.</li>
+<li><strong>Prescription:</strong> If everything looks good, you’ll receive a prescription.</li>
+<li><strong>Ongoing follow-up:</strong> Expect to check in every 3 months for testing and renewal.</li>
+</ol>
+<p>You can also access PrEP via community health clinics or online services in many provinces.</p>
+</section>
+<section id="is-prep-covered-in-canada" class="level3">
+<h3 class="anchored" data-anchor-id="is-prep-covered-in-canada">Is PrEP Covered in Canada?</h3>
+<p>Yes — but coverage varies by province:</p>
+<ul>
+<li><strong>BC, Alberta, Quebec, NWT, Yukon, and PEI:</strong> Publicly funded</li>
+<li><strong>Ontario and other provinces:</strong> Covered by private plans, Trillium Drug Program, or other supports</li>
+<li>Check your province’s public health website or <a href="https://www.catie.ca/en/prep-access">CATIE’s PrEP Access Guide</a> for updates</li>
+</ul>
+<p>If you’re outside of Canada, access and affordability will vary — but PrEP is included in WHO’s global HIV prevention guidelines.</p>
+</section>
+<section id="intersectionality-and-prep" class="level3">
+<h3 class="anchored" data-anchor-id="intersectionality-and-prep">Intersectionality and PrEP</h3>
+<p>PrEP isn’t just for one group. It’s a powerful tool for anyone — regardless of gender, identity, or background — who wants to protect their health.</p>
+<p>Sexual health should be inclusive, equitable, and stigma-free. Whether you’re a cisgender gay man, a trans woman, a heterosexual individual, or someone who doesn’t fit into a box, you deserve options.</p>
+</section>
+<section id="the-bottom-line" class="level3">
+<h3 class="anchored" data-anchor-id="the-bottom-line">The Bottom Line</h3>
+<p>PrEP is an empowering, evidence-based way to prevent HIV — and it’s one piece of a larger sexual health picture.</p>
+<p>If you think PrEP might be right for you, talk to your doctor. Protecting your health isn’t about fear — it’s about facts, care, and choice.</p>
+<p>And remember: <strong>condoms, testing, communication, and compassion still matter.</strong></p>
+<p>Learn more, ask questions, and take the steps that feel right for you.</p>
+<p>Because your health — and your peace of mind — are worth it.</p>
+<p>Thank you for being here. Let’s keep talking.</p>
+<p>– Ayel</p>
 
 
-<!-- Keep Exploring Section -->
-<div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
-
-  <h2 style="text-transform: uppercase; font-weight: bold; color: #1B153E; text-align: left; margin-bottom: 2rem; border: none;" class="anchored">KEEP EXPLORING</h2>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; max-width: 1200px; margin: 0 auto;">
-
-    <a href="about.html" class="explore-button">Learn more about me</a>
-    <a href="research.html" class="explore-button">View my current research work</a>
-    <a href="publications.html" class="explore-button">Browse my publications</a>
-    <a href="infographics.html" class="explore-button">Check out my infographics</a>
-    <a href="blog.html" class="explore-button explore-button-wide">Read my blog</a>
-
-  </div>
-</div>
-
-
-
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

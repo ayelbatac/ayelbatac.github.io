@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <meta name="google-site-verification" content="N1wLhwkq2kEpvFepxx8U30XxFHpsgKQDqCwYJtTHPuY" />
-        <meta name="description" content="Ayel L. R. Batac is a data scientist and global health researcher specializing in HIV and sexually transmitted and blood-borne infections (STBBIs), with a focus on equity and evidence-informed decision-making." />
-        <meta name="keywords" content="Ayel Batac, epidemiology, global health, public health, HIV, STBBIs, gonorrhea, chlamydia, mpox, tuberculosis, allergy, clinical immunology, food allergy, anaphylaxis, pediatrics, COVID-19, knowledge translation, evidence synthesis, systematic review, scoping review, Canada, United Kingdom, UK, LSHTM, University of Manitoba, China, LMICs, stigma, msm, sex workers" />
+        <meta name="description" content="Ayel L. R. Batac is an epidemiologist, social and behavioural health scientist, and global health researcher focused on HIV and sexually transmitted and blood-borne infections, using mixed methods to advance equity and evidence-informed public health." />
+        <meta name="keywords" content="Ayel Batac, epidemiology, public health, global health, HIV, STI, STBBI, MSM, gonorrhea, chlamydia, LMICs, mpox, tuberculosis, COVID-19, vaccine, hesitancy, allergy, anaphylaxis, food allergy, atopic dermatitis, pediatrics, dermatology, evidence synthesis, knowledge synthesis, knowledge translation, scoping review, systematic review, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, Winnipeg, Manitoba, Canada, London, United Kingdom, UK, China" />
 ---
 
 ```{=html}

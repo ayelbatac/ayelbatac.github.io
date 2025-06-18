@@ -1,0 +1,147 @@
+---
+title: "PrEP 101: What It Is, Who It’s For, and What You Still Need to Know"
+format:
+  html:
+    toc: false
+    anchor-links: false
+    include-in-header:
+      text: |
+        <title>PrEP 101 – Ayel L. R. Batac</title>
+        <meta name="description" content="A clear and caring introduction to PrEP – what it is, how it works, and why it matters for HIV prevention." />
+        <meta name="keywords" content="PrEP, HIV prevention, sexual health, condoms, STBBIs, public health, Ayel Batac, knowledge translation" />
+---
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+  .study-button {
+    display: inline-block;
+    background-color: #1B153E;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 1rem;
+    transition: background-color 0.3s;
+  }
+  .study-button:hover {
+    background-color: #00AEC7;
+    color: white;
+  }
+</style>
+
+# PrEP 101: What It Is, Who It’s For, and What You Still Need to Know
+
+June 17, 2025
+
+$~$
+
+PrEP — short for pre-exposure prophylaxis — powerfully prevents HIV when used properly. Yet many people still haven’t heard of it, don’t understand it, or aren’t sure if it’s for them. This blog breaks it down clearly, without stigma or confusion — just the facts and what they mean for you.
+
+### What Is PrEP?
+
+PrEP (pre-exposure prophylaxis) is a medication strategy for people who do not have HIV but are at risk of being exposed to it. The most common form involves taking a daily oral pill that contains two antiretroviral medications — tenofovir disoproxil fumarate and emtricitabine — which work by stopping the virus from making copies of itself if it enters the body.
+
+Think of it like a seatbelt for your immune system — it's there just in case, providing critical protection when needed.
+
+These tablets work by maintaining a steady level of medication in your bloodstream, so if the HIV virus enters the body, it encounters a hostile environment that prevents it from establishing an infection. Imagine PrEP like a security guard that stops the virus at the door.
+
+When taken consistently, daily PrEP reduces the risk of getting HIV from sex by about 99% and from injection drug use by at least 74%. [[CDC](https://www.cdc.gov/hiv/basics/prep.html)]
+
+PrEP is also available in an injectable form — long-acting cabotegravir — which is administered every two months. This medication works slightly differently: it's an integrase inhibitor, preventing the virus from integrating into human DNA after exposure. Imagine it as a lock that keeps the virus from ever getting inside your body’s cells. Health Canada approved long-acting cabotegravir for PrEP in 2024 [[CATIE](https://www.catie.ca/catie-news/health-canada-approves-apretude-the-first-long-acting-injectable-for-hiv-prevention)].
+
+However, rollout is still limited. Availability varies across provinces and may depend on clinic access and prescribing practices.
+
+If you live outside Canada, check with your local health authority, sexual health clinic, or HIV organization to learn how to access PrEP where you are.
+
+### Who Should Consider PrEP?
+
+PrEP is recommended for anyone at ongoing risk of HIV. This includes:
+
+- People with an HIV-positive partner (especially if their partner is not undetectable — remember **U=U**!)
+- People who have condomless sex with new or multiple partners
+- Sex workers
+- People who inject drugs
+- People who share drug equipment
+- People with a history of recent STBBIs
+
+If you’re aware that your sexual practices involve potential risk, you deserve information and tools — not judgment. PrEP might be right for you.
+
+### What PrEP Does (and Doesn’t) Do
+
+PrEP protects against HIV. It does **not** protect against other sexually transmitted and blood-borne infections (STBBIs), such as:
+
+- Gonorrhea
+- Chlamydia
+- Syphilis
+- Herpes
+- Hepatitis B and C
+- HPV (which can lead to cervical, anal, and throat cancers)
+
+These infections are serious, too. Untreated STBBIs can lead to infertility, chronic pelvic pain, liver disease, neurological issues, and certain types of cancer — particularly cervical cancer linked to HPV.
+
+**Condoms remain essential.** They help prevent many STBBIs and are an easy, effective way to protect your health and the health of your partners.
+
+STBBI rates have continued to rise in Canada even with increased PrEP availability — underscoring the need for comprehensive sexual health strategies. [[PHAC STBBI Surveillance](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)]
+
+If you're outside of Canada, check with your local health department or NGO for testing and STBBI education resources.
+
+### Is PrEP Safe?
+
+Yes. PrEP is considered very safe for most people.
+
+Common short-term side effects include mild nausea, headache, or fatigue — which usually go away within the first few weeks.
+
+Some people may experience changes in kidney function or bone density over time, but these effects are rare and usually reversible once PrEP is stopped. That’s why regular check-ups and lab tests are part of the process.
+
+In Canada, for example, doctors typically order a few baseline tests before you start PrEP:
+- An HIV test
+- Liver and kidney function tests
+- Screening for hepatitis B (and sometimes C)
+
+Once you begin, expect follow-ups every three months to ensure your health is on track, check for STBBIs, and renew your prescription.
+
+You don’t need a referral to start. Your **family doctor can help**. If you feel uncomfortable asking in person, many clinics offer **telehealth and mail-order PrEP services** — helping reduce barriers caused by stigma or distance.
+
+### How to Access PrEP in Canada
+
+You can start by speaking with your family doctor or visiting a sexual health clinic. Here's a typical process:
+
+1. **Initial visit:** Discuss your sexual health and interest in PrEP.
+2. **Screening:** Your provider will test for HIV, hepatitis B and C, and check kidney and liver function.
+3. **Prescription:** If everything looks good, you'll receive a prescription.
+4. **Ongoing follow-up:** Expect to check in every 3 months for testing and renewal.
+
+You can also access PrEP via community health clinics or online services in many provinces.
+
+### Is PrEP Covered in Canada?
+
+Yes — but coverage varies by province:
+
+- **BC, Alberta, Quebec, NWT, Yukon, and PEI:** Publicly funded
+- **Ontario and other provinces:** Covered by private plans, Trillium Drug Program, or other supports
+- Check your province’s public health website or [CATIE’s PrEP Access Guide](https://www.catie.ca/en/prep-access) for updates
+
+If you're outside of Canada, access and affordability will vary — but PrEP is included in WHO’s global HIV prevention guidelines.
+
+### Intersectionality and PrEP
+PrEP isn’t just for one group. It’s a powerful tool for anyone — regardless of gender, identity, or background — who wants to protect their health.
+
+Sexual health should be inclusive, equitable, and stigma-free. Whether you're a cisgender gay man, a trans woman, a heterosexual individual, or someone who doesn’t fit into a box, you deserve options.
+
+### The Bottom Line
+PrEP is an empowering, evidence-based way to prevent HIV — and it’s one piece of a larger sexual health picture.
+
+If you think PrEP might be right for you, talk to your doctor. Protecting your health isn’t about fear — it’s about facts, care, and choice.
+
+And remember: **condoms, testing, communication, and compassion still matter.**
+
+Learn more, ask questions, and take the steps that feel right for you.
+
+Because your health — and your peace of mind — are worth it.
+
+Thank you for being here. Let’s keep talking.
+
+– Ayel
