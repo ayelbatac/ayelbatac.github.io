@@ -51,8 +51,8 @@ format:
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="journal_image_1.png" alt="Anaphylaxis Research" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Auto-injectors in China?</div>
-          <p style="margin-top: 0.5rem; color: #444;">Improving access to epinephrine auto-injectors in China.</p>
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Autoinjectors in China?</div>
+          <p style="margin-top: 0.5rem; color: #444;">China joins the global standard—bringing life-saving anaphylaxis care within reach.</p>
         </div>
       </div>
     </a>
@@ -64,8 +64,8 @@ format:
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="mpox_idx.png" alt="Mpox Research" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Mpox Disease Debrief</div>
-          <p style="margin-top: 0.5rem; color: #444;">New mpox clades – what is the current risk to Canadians?</p>
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Mpox Clade I and IIa: A Canadian Risk Update</div>
+          <p style="margin-top: 0.5rem; color: #444;">New global variants raise questions—how prepared is Canada for emerging threats?</p>
         </div>
       </div>
     </a>
@@ -77,8 +77,8 @@ format:
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="journal_image_2.png" alt="Food Allergy Scoping Review" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Is food allergy expensive?</div>
-          <p style="margin-top: 0.5rem; color: #444;">Reviewing tools that measure the cost of food allergy.</p>
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">How Expensive Is Food Allergy?</div>
+          <p style="margin-top: 0.5rem; color: #444;">A new review examines household cost tools—are we accurately capturing the financial burden?</p>
         </div>
       </div>
     </a>
