@@ -22,7 +22,7 @@ Outbreaks have disproportionately affected **gay, bisexual, and other men who ha
 
 ## Research Focus
 
-As part of my research work with the **National Collaborating Centre for Infectious Diseases**, I led a project that sought to strengthen Canada’s mpox preparedness and response. This work focused on three key domains:
+As part of my work with the **National Collaborating Centre for Infectious Diseases**, I led a project that sought to strengthen Canada’s mpox preparedness and response. This work focused on three key domains:
 
 - **Critical Assessment of Emerging Clades**  
   Comprehensive evaluation of novel mpox clades, identifying variations in clinical presentation, disease progression, and transmissibility to inform updated case management and intervention strategies.
@@ -35,7 +35,7 @@ As part of my research work with the **National Collaborating Centre for Infecti
 
 ## Knowledge Translation and Mobilization
 
-This work culminated in the development of a **national mpox disease debrief** published by the National Collaborating Centre for Infectious Diseases. The debrief serves as a practical, evidence-based guide for public health professionals and primary care physicians, offering up-to-date information on mpox case definitions, transmission trends, and emerging clade characteristics.
+This work culminated in the development of a **disease debrief** published by the National Collaborating Centre for Infectious Diseases. The debrief serves as a practical, evidence-based guide for public health professionals and primary care physicians, offering up-to-date information on mpox case definitions, transmission trends, and emerging clade characteristics.
 
 ```{=html}
 <p style="font-size: 1.5rem; font-weight: 600; color: #1B153E; margin-bottom: 1rem;">
