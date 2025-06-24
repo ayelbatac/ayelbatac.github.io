@@ -106,58 +106,64 @@ format:
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
     <!-- Blog Tile -->
-    <a href="stbbi-talk.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
-       onmouseover="this.style.transform='scale(1.02)'" 
-       onmouseout="this.style.transform='scale(1)'">
+    <a href="stbbi-talk.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
 
-      <img src="stbbi-talk.png" alt="Let’s Talk About STBBIs" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="stbbi-talk.png" alt="Let’s Talk About STBBIs" style="width: 100%; height: 200px; object-fit: cover;">
 
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
-          Let’s Talk About STBBIs
-        </h3>
-        <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-          An accessible introduction to STBBIs, why they matter, and how individuals and communities can take action.
-        </p>
-        <div style="font-size: 0.8rem; color: #777;">Blog Post · May 10, 2025</div>
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Let’s Talk About STBBIs
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            An accessible introduction to STBBIs, why they matter, and how individuals and communities can take action.
+          </p>
+          <div style="font-size: 0.8rem; color: #777;">Blog Post · May 10, 2025</div>
+        </div>
       </div>
     </a>
-    
+
     <!-- Blog Tile -->
-    <a href="why-i-work-in-hiv.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
-       onmouseover="this.style.transform='scale(1.02)'" 
-       onmouseout="this.style.transform='scale(1)'">
+    <a href="why-i-work-in-hiv.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
 
-      <img src="blog1_thumb.png" alt="Why I Work in HIV" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="blog1_thumb.png" alt="Why I Work in HIV" style="width: 100%; height: 200px; object-fit: cover;">
 
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
-          Why I Work in HIV and STBBIs
-        </h3>
-        <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-          A personal and professional journey through science, stigma, and public health.
-        </p>
-        <div style="font-size: 0.8rem; color: #777;">Blog Post · May 7, 2025</div>
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Why I Work in HIV and STBBIs
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            A personal and professional journey through science, stigma, and public health.
+          </p>
+          <div style="font-size: 0.8rem; color: #777;">Blog Post · May 7, 2025</div>
+        </div>
       </div>
     </a>
 
     <!-- Physician's Weekly Feature -->
     <a href="https://www.physiciansweekly.com/exploring-the-relationship-between-maternal-infant-bonding-and-infantile-atopic-dermatitis-a-mixed-methods-study/" 
        target="_blank"
-       style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
-       onmouseover="this.style.transform='scale(1.02)'" 
-       onmouseout="this.style.transform='scale(1)'">
+       style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
 
-      <img src="physiciansweekly_thumb.png" alt="Physician's Weekly Atopic Dermatitis" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="physiciansweekly_thumb.png" alt="Physician's Weekly Atopic Dermatitis" style="width: 100%; height: 200px; object-fit: cover;">
 
-      <div style="padding: 1rem;">
-        <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
-          Featured in Physician’s Weekly
-        </h3>
-        <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-          Exploring maternal-infant bonding and eczema — a lead-author study in the spotlight.
-        </p>
-        <div style="font-size: 0.8rem; color: #777;">News Feature · Dec 8, 2023</div>
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Featured in Physician’s Weekly
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            Exploring maternal-infant bonding and eczema — a lead-author study in the spotlight.
+          </p>
+          <div style="font-size: 0.8rem; color: #777;">News Feature · Dec 8, 2023</div>
+        </div>
       </div>
     </a>
 
