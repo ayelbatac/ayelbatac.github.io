@@ -40,12 +40,11 @@ format:
     <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 0.5rem;">
       Fear vs. Facts
     </div>
-    <div style="margin-bottom: 0.5rem;">How real is the risk of COVID-19 vaccine-induced anaphylaxis versus the fear it causes? This study explores vaccine safety, allergy concerns, and what drives hesitancy in people with allergies.</div>
+    <div style="margin-bottom: 0.5rem;">How real is the risk of COVID-19 vaccine-induced anaphylaxis vs. the fear it causes? This new review explores vaccine safety, allergy concerns, and what drives hesitancy in people with allergies.</div>
     <a href="https://www.jaci-global.org/article/S2772-8293(25)00123-7/fulltext" target="_blank"
        style="color: #1b153e; text-decoration: underline;">Read More</a>
   </div>
 </div>
-
 
 ```
 
