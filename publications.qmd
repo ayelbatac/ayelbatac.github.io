@@ -64,61 +64,61 @@ format:
 
 <li>
   <a href="https://www.jaci-global.org/article/S2772-8293(25)00123-7/fulltext" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: an update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Jun 23. Epub ahead of print. doi: <span class="doi-text">10.1016/j.jacig.2025.100522.</span> <strong>[Invited review]</strong>
+    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: an update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Jun 23. Epub ahead of print. doi: <span class="doi-text">10.1016/j.jacig.2025.100522</span>. <strong>[Invited review]</strong>
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/cea.70028" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>. From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: <span class="doi-text">10.1111/cea.70028.</span> Epub ahead of print. PMID: 40071384. <strong>[Invited editorial; part of the virtual issue “Allergy in China” in Clin Exp Allergy]</strong>
+    <strong>Batac ALR</strong>. From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: <span class="doi-text">10.1111/cea.70028</span>. Epub ahead of print. PMID: 40071384. <strong>[Invited editorial; part of the virtual issue “Allergy in China” in Clin Exp Allergy]</strong>
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/cea.14622" class="citation-link" target="_blank" rel="noopener">
-    Harbottle Z, Golding MA, <strong>Batac ALR</strong>, Fong AT, Lê ML, Abrams EM, Chan ES, Ben-Shoshan M, Hsu PS, Shroba JA, Kivistö JE, Greenhawt MJ, Mason G, Mäkelä MJ, Muraro A, Ahlstedt S, Protudjer JLP. A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy. Clin Exp Allergy. 2025 Apr;55(4):357-360. doi: <span class="doi-text">10.1111/cea.14622.</span> Epub 2025 Jan 8. PMID: 39780029.
+    Harbottle Z, Golding MA, <strong>Batac ALR</strong>, Fong AT, Lê ML, Abrams EM, Chan ES, Ben-Shoshan M, Hsu PS, Shroba JA, Kivistö JE, Greenhawt MJ, Mason G, Mäkelä MJ, Muraro A, Ahlstedt S, Protudjer JLP. A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy. Clin Exp Allergy. 2025 Apr;55(4):357-360. doi: <span class="doi-text">10.1111/cea.14622</span>. Epub 2025 Jan 8. PMID: 39780029.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/cea.14493" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Golding MA, Merrill KA, Lê ML, Fong AT, Hsu PS, Warren CM, Dadha P, Abrams EM, Chan ES, Ben-Shoshan M, Bilaver LA, Gupta RS, Shroba JA, Kivistö JE, Greenhawt MJ, Mäkelä MJ, Muraro A, Ahlstedt S, Protudjer JLP. A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy. Clin Exp Allergy. 2024 Jul;54(7):524-527. doi: <span class="doi-text">10.1111/cea.14493.</span> Epub 2024 May 11. PMID: 38733299.
+    <strong>Batac ALR</strong>, Golding MA, Merrill KA, Lê ML, Fong AT, Hsu PS, Warren CM, Dadha P, Abrams EM, Chan ES, Ben-Shoshan M, Bilaver LA, Gupta RS, Shroba JA, Kivistö JE, Greenhawt MJ, Mäkelä MJ, Muraro A, Ahlstedt S, Protudjer JLP. A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy. Clin Exp Allergy. 2024 Jul;54(7):524-527. doi: <span class="doi-text">10.1111/cea.14493</span>. Epub 2024 May 11. PMID: 38733299.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1186/s13223-023-00857-5" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Bhamra M, Harbottle Z, Kopsch I, Wilking E, Jonsson M, Ekström S, Abrams EM, Halbrich MA, Simons E, Roos LE, Keddy-Grant JA, Gerstner TV, St-Vincent JA, Protudjer J. Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study. Allergy Asthma Clin Immunol. 2023 Nov 29;19(1):100. doi: <span class="doi-text">10.1186/s13223-023-00857-5.</span> PMID: 38031081; PMCID: PMC10687835.
+    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Bhamra M, Harbottle Z, Kopsch I, Wilking E, Jonsson M, Ekström S, Abrams EM, Halbrich MA, Simons E, Roos LE, Keddy-Grant JA, Gerstner TV, St-Vincent JA, Protudjer J. Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study. Allergy Asthma Clin Immunol. 2023 Nov 29;19(1):100. doi: <span class="doi-text">10.1186/s13223-023-00857-5</span>. PMID: 38031081; PMCID: PMC10687835.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1016/j.anai.2023.08.600" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence among people managing allergy. Ann Allergy Asthma Immunol. 2023 Dec;131(6):775-777. doi: <span class="doi-text">10.1016/j.anai.2023.08.600.</span> Epub 2023 Aug 29. PMID: 37652234.
+    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence among people managing allergy. Ann Allergy Asthma Immunol. 2023 Dec;131(6):775-777. doi: <span class="doi-text">10.1016/j.anai.2023.08.600</span>. Epub 2023 Aug 29. PMID: 37652234.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1016/j.jacig.2023.100079" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review. J Allergy Clin Immunol Glob. 2023 May;2(2):100079. doi: <span class="doi-text">10.1016/j.jacig.2023.100079.</span> Epub 2023 Feb 8. PMID: 36785543; PMCID: PMC9907785. <strong>[Invited review; recognized among the “Most Read Articles” in J Allergy Clin Immunol Glob (as of May 25, 2023)]</strong>
+    <strong>Batac ALR</strong>, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review. J Allergy Clin Immunol Glob. 2023 May;2(2):100079. doi: <span class="doi-text">10.1016/j.jacig.2023.100079</span>. Epub 2023 Feb 8. PMID: 36785543; PMCID: PMC9907785. <strong>[Invited review; recognized among the “Most Read Articles” in J Allergy Clin Immunol Glob (as of May 25, 2023)]</strong>
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1016/j.anai.2023.01.005" class="citation-link" target="_blank" rel="noopener">
-    Protudjer JLP, <strong>Batac ALR</strong>, Merrill KA, Golding MA, Knibb RC. Guidance to enhance participant validity during virtual qualitative interviews and focus groups. Ann Allergy Asthma Immunol. 2023 Apr;130(4):522-524. doi: <span class="doi-text">10.1016/j.anai.2023.01.005.</span> Epub 2023 Jan 14. PMID: 36649832.
+    Protudjer JLP, <strong>Batac ALR</strong>, Merrill KA, Golding MA, Knibb RC. Guidance to enhance participant validity during virtual qualitative interviews and focus groups. Ann Allergy Asthma Immunol. 2023 Apr;130(4):522-524. doi: <span class="doi-text">10.1016/j.anai.2023.01.005</span>. Epub 2023 Jan 14. PMID: 36649832.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1186/s13223-022-00723-w" class="citation-link" target="_blank" rel="noopener">
-    Golding MA, Askin N, <strong>Batac ALR</strong>, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol. Allergy Asthma Clin Immunol. 2022 Sep 18;18(1):83. doi: <span class="doi-text">10.1186/s13223-022-00723-w.</span> PMID: 36117177; PMCID: PMC9482742.
+    Golding MA, Askin N, <strong>Batac ALR</strong>, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol. Allergy Asthma Clin Immunol. 2022 Sep 18;18(1):83. doi: <span class="doi-text">10.1186/s13223-022-00723-w</span>. PMID: 36117177; PMCID: PMC9482742.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/pai.13743" class="citation-link" target="_blank" rel="noopener">
-    Golding MA, <strong>Batac ALR</strong>, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. doi: <span class="doi-text">10.1111/pai.13743.</span> PMID: 35338731. <strong>[Editor’s Choice article; selected for the virtual issue “Editor’s Choice and Junior Member Must Read Articles” in Pediatr Allergy Immunol (as of March 16, 2022)]</strong>
+    Golding MA, <strong>Batac ALR</strong>, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. doi: <span class="doi-text">10.1111/pai.13743</span>. PMID: 35338731. <strong>[Editor’s Choice article; selected for the virtual issue “Editor’s Choice and Junior Member Must Read Articles” in Pediatr Allergy Immunol (as of March 16, 2022)]</strong>
   </a>
 </li>
 
@@ -132,31 +132,31 @@ format:
 
 <li>
   <a href="https://doi.org/10.1186/s13223-024-00898-4" class="citation-link" target="_blank" rel="noopener">
-    Merrill KA, <strong>Batac ALR</strong>, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence amongst people managing allergy. 2022 CSACI Annual Scientific Meeting Book of Abstracts; 2022 Sep 23-25; Quebec City, QC. London (UK): BioMed Central; 2024 Aug. 12 p. (Allergy Asthma Clin Immunol; vol. 20, suppl. 2, no. 40). doi: <span class="doi-text">10.1186/s13223-024-00898-4.</span> PMID: 39107848; PMCID: PMC11301933.
+    Merrill KA, <strong>Batac ALR</strong>, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence amongst people managing allergy. 2022 CSACI Annual Scientific Meeting Book of Abstracts; 2022 Sep 23-25; Quebec City, QC. London (UK): BioMed Central; 2024 Aug. 12 p. (Allergy Asthma Clin Immunol; vol. 20, suppl. 2, no. 40). doi: <span class="doi-text">10.1186/s13223-024-00898-4</span>. PMID: 39107848; PMCID: PMC11301933.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1186/s13223-024-00898-4" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence amongst those living with allergy during the Covid pandemic (ACCORD): a scoping review. 2022 CSACI Annual Scientific Meeting Book of Abstracts; 2022 Sep 23-25; Quebec City, QC. London (UK): BioMed Central; 2024 Aug. 10 p. (Allergy Asthma Clin Immunol; vol. 20, suppl. 2, no. 33). doi: <span class="doi-text">10.1186/s13223-024-00898-4.</span> PMID: 39107848; PMCID: PMC11301933.
+    <strong>Batac ALR</strong>, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence amongst those living with allergy during the Covid pandemic (ACCORD): a scoping review. 2022 CSACI Annual Scientific Meeting Book of Abstracts; 2022 Sep 23-25; Quebec City, QC. London (UK): BioMed Central; 2024 Aug. 10 p. (Allergy Asthma Clin Immunol; vol. 20, suppl. 2, no. 33). doi: <span class="doi-text">10.1186/s13223-024-00898-4</span>. PMID: 39107848; PMCID: PMC11301933.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/all.15924" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Bhamra M, Harbottle Z, Kopsch I, Wilking E, Jonsson M, Ekström S, Abrams EM, Halbrich MA, Simons E, Roos LE, Keddy-Grant JA, Gerstner TV, St-Vincent J, Protudjer J. Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9‐11 June, 2023; 2023 Jun 9-11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 197 p. (Allergy; vol. 78, suppl. 112, no. 526). doi: <span class="doi-text">10.1111/all.15924.</span>
+    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Bhamra M, Harbottle Z, Kopsch I, Wilking E, Jonsson M, Ekström S, Abrams EM, Halbrich MA, Simons E, Roos LE, Keddy-Grant JA, Gerstner TV, St-Vincent J, Protudjer J. Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9‐11 June, 2023; 2023 Jun 9-11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 197 p. (Allergy; vol. 78, suppl. 112, no. 526). doi: <span class="doi-text">10.1111/all.15924</span>.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/all.15923" class="citation-link" target="_blank" rel="noopener">
-    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Askin N, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer J. Anaphylaxis and COVID-19 vaccine hesitancy: update on COVID-19 vaccine confidence amongst those living with allergy. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9‐11 June, 2023; 2023 Jun 9-11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 22 p. (Allergy; vol. 78, suppl. 112, no. 421). doi: <span class="doi-text">10.1111/all.15923.</span>
+    <strong>Batac ALR</strong>, Merrill KA, Golding MA, Askin N, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer J. Anaphylaxis and COVID-19 vaccine hesitancy: update on COVID-19 vaccine confidence amongst those living with allergy. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9‐11 June, 2023; 2023 Jun 9-11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 22 p. (Allergy; vol. 78, suppl. 112, no. 421). doi: <span class="doi-text">10.1111/all.15923</span>.
   </a>
 </li>
 
 <li>
   <a href="https://doi.org/10.1111/all.15923" class="citation-link" target="_blank" rel="noopener">
-    Merrill K, <strong>Batac ALR</strong>, Golding M, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos L, Protudjer V, Protudjer J. Access to allergist knowledge important in improving COVID-19 vaccine hesitancy and confidence amongst people managing allergy. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9‐11 June, 2023; 2023 Jun 9-11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 22 p. (Allergy; vol. 78, suppl. 112, no. 642). doi: <span class="doi-text">10.1111/all.15923.</span>
+    Merrill K, <strong>Batac ALR</strong>, Golding M, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos L, Protudjer V, Protudjer J. Access to allergist knowledge important in improving COVID-19 vaccine hesitancy and confidence amongst people managing allergy. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9‐11 June, 2023; 2023 Jun 9-11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 22 p. (Allergy; vol. 78, suppl. 112, no. 642). doi: <span class="doi-text">10.1111/all.15923</span>.
   </a>
 </li>
 
