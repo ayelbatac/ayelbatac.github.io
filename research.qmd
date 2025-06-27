@@ -70,31 +70,34 @@ $~$
 - Health equity among men who have sex with men (MSM) and sex worker populations  
 - Respiratory infectious diseases (e.g., tuberculosis [TB], respiratory syncytial virus [RSV], influenza, COVID-19)  
 - Infectious disease prevention and control in LMICs and low-resource settings  
+- Allergy (asthma, atopic dermatitis, drug allergy, food allergy, anaphylaxis)  
+- Allergen immunotherapy (subcutaneous immunotherapy [SCIT], sublingual immunotherapy [SLIT])  
+- Dermatoepidemiology  
 - Behavioural interventions for health service uptake (e.g., pay-it-forward model, behavioural economics models)  
 - Mixed-methods research in public health and epidemiology  
-- Knowledge synthesis in allergy and infectious diseases  
+- Knowledge synthesis in clinical allergy and immunology, and infectious diseases  
 - Knowledge translation and knowledge mobilization (KT/KMb)  
 - Infectious disease modelling  
 - Implementation science  
-- Health economics and pharmacoeconomics (HIV, allergy)  
-- Allergy (asthma, atopic dermatitis, drug allergy, food allergy, anaphylaxis)  
+- Health economics and pharmacoeconomics (HIV/AIDS, allergy)  
 
 ## Research Areas
 
 - Epidemiology (communicable and non-communicable diseases)  
+- Infectious Diseases  
 - Sexually Transmitted and Blood-Borne Infections (STBBIs)  
 - HIV/AIDS  
+- Allergy and Clinical Immunology  
+- Dermatology  
+- Pediatrics  
 - Public Health  
-- Infectious Diseases  
 - Global Health  
 - Health Systems Research  
 - Health Economics and Outcomes Research  
 - Implementation Science  
-- Knowledge Translation and Mobilization  
 - Knowledge Synthesis  
-- Allergy  
-- Pediatrics  
+- Knowledge Translation and Mobilization  
 
 ## Keywords
 
-Sexually transmitted and blood-borne infections, sexual health, HIV/AIDS, MSM health, low- and middle-income countries, health equity, allergy, social epidemiology, behavioural interventions, mixed-methods research, implementation science, knowledge synthesis, knowledge translation, knowledge mobilization, mathematical modelling
+Infectious diseases, epidemiology, sexually transmitted and blood-borne infections (STBBI), sexual health, HIV/AIDS, MSM health, allergy, clinical immunology, asthma, atopic dermatitis, drug allergy, food allergy, anaphylaxis, low- and middle-income countries, health equity, mixed-methods research, implementation science, knowledge synthesis, knowledge translation, knowledge mobilization, mathematical modelling
