@@ -8,7 +8,7 @@ format:
     include-in-header: 
       text: |
         <title>Research - Ayel L. R. Batac</title>
-        <meta name="description" content="Explore the research of Ayel L. R. Batac, a data scientist and global public health researcher specializing in STBBIs, mpox, tuberculosis, and topics in allergy and clinical immunology." />
+        <meta name="description" content="Explore the research of Ayel L. R. Batac, an epidemiologist and global public health researcher specializing in STBBIs, mpox, tuberculosis, and topics in allergy and clinical immunology." />
         <meta name="keywords" content="Ayel Batac, research, HIV, STBBIs, mpox, tuberculosis, anaphylaxis, food allergy, allergy, clinical immunology, COVID-19, vaccine hesitancy, infectious diseases, pediatrics, global health, public health, mixed methods, quantitative research, qualitative research, knowledge translation, epidemiologist" />
 ---
 
