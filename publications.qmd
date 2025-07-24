@@ -10,6 +10,12 @@ format:
         <title>Publications - Ayel L. R. Batac</title>
         <meta name="description" content="Peer-reviewed publications and scholarly work by Ayel L. R. Batac in allergy and infectious diseases." />
         <meta name="keywords" content="Ayel Batac, publications, research papers, peer-reviewed, global health, public health, allergy, food allergy, COVID-19, vaccine hesitancy, pediatrics, HIV, STBBIs, tuberculosis, mpox, anaphylaxis, knowledge translation, epidemiologist, data science" />
+        <style>
+          h2 {
+            border-bottom: none !important;
+            margin-bottom: 1.5em;
+          }
+        </style>
 ---
 
 # PUBLICATIONS
@@ -35,8 +41,6 @@ Protudjer JLP, **Batac ALR**, Merrill KA, Golding MA, Knibb RC. Guidance to enha
 Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol. Allergy Asthma Clin Immunol. 2022 Sep 18;18(1):83. [doi:10.1186/s13223-022-00723-w](https://doi.org/10.1186/s13223-022-00723-w). PMID: 36117177; PMCID: PMC9482742.
 
 Golding MA, **Batac ALR**, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. [doi:10.1111/pai.13743](https://doi.org/10.1111/pai.13743). PMID: 35338731. **(Editor’s Choice article; selected for the virtual issue “Editor’s Choice and Junior Member Must Read Articles” in Pediatr Allergy Immunol [as of March 16, 2022])**
-
----
 
 ## Non-Peer-Reviewed Publications
 
