@@ -48,7 +48,7 @@ format:
 
 ## Non-Peer-Reviewed Publications
 
-### Published Abstracts
+## Published Abstracts
 
 [Merrill KA, **Batac ALR**, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence amongst people managing allergy. 2022 CSACI Annual Scientific Meeting Book of Abstracts; 2022 Sep 23-25; Quebec City, QC. London (UK): BioMed Central; 2024 Aug. 12 p. (Allergy Asthma Clin Immunol; vol. 20, suppl. 2, no. 40). doi: 10.1186/s13223-024-00898-4. PMID: 39107848; PMCID: PMC11301933.](https://doi.org/10.1186/s13223-024-00898-4)
 
