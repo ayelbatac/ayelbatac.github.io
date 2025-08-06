@@ -8,8 +8,8 @@ format:
     include-in-header:
       text: |
         <title>Publications - Ayel L. R. Batac</title>
-        <meta name="description" content="Peer-reviewed publications and scholarly work by Ayel L. R. Batac in allergy and infectious diseases." />
-        <meta name="keywords" content="Ayel Batac, publications, research papers, peer-reviewed, global health, public health, allergy, food allergy, COVID-19, vaccine hesitancy, pediatrics, HIV, STBBIs, tuberculosis, mpox, anaphylaxis, knowledge translation, epidemiologist, data science" />
+        <meta name="description" content="Peer-reviewed publications and other scholarly work by Ayel L. R. Batac in allergy, clinical immunology, and infectious diseases." />
+        <meta name="keywords" content="Ayel Batac, publications, research papers, peer-reviewed, global health, public health, allergy, clinical immunology, food allergy, anaphylaxis, infectious diseases, HIV, STBBIs, sexually transmitted infections, tuberculosis, mpox, COVID-19, vaccine hesitancy, pediatrics, epidemiology, data science, knowledge translation" />
         <style>
           h2 {
             border-bottom: none !important;
