@@ -189,6 +189,11 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 
@@ -282,6 +287,11 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
@@ -419,7 +429,7 @@ const rawCollaborators = [
   lng: 18.0298,
   city: "Stockholm, Sweden",
   institution: "Karolinska Institutet",
-  names: ["Isac Kopsch, MD", "Erik Wilking, MD"],
+  names: ["Erik Wilking, MD", "Isac Kopsch, MD"],
   papers: [
     {
       title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
@@ -432,7 +442,7 @@ const rawCollaborators = [
   lng: 18.0298,
   city: "Stockholm, Sweden",
   institution: "Centre for Allergy Research, Karolinska Institutet",
-  names: ["Staffan Ahlstedt, PhD", "Roelinde Middelveld, PhD"],
+  names: ["Roelinde Middelveld, PhD", "Staffan Ahlstedt, PhD"],
   papers: [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
@@ -504,6 +514,11 @@ const rawCollaborators = [
     {
       title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
@@ -525,6 +540,11 @@ const rawCollaborators = [
     {
       title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
@@ -546,6 +566,11 @@ const rawCollaborators = [
     {
       title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
@@ -582,6 +607,11 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
@@ -611,21 +641,19 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
   {
-    lat: 43.6596,
-    lng: -79.3893,
-    city: "Toronto, Canada",
-    institution: "Department of Family and Community Medicine, Temerty Faculty of Medicine, University of Toronto",
-    names: ["Laura Y. Feldman, MD, MPH"]
-  },
-  {
     lat: 43.6591,
     lng: -79.3928,
     city: "Toronto, Canada",
-    institution: "Clinical Public Health Division, Dalla Lana School of Public Health, University of Toronto",
+    institution: "Dalla Lana School of Public Health, University of Toronto",
     names: ["Laura Y. Feldman, MD, MPH"]
   },
 {
@@ -642,6 +670,11 @@ const rawCollaborators = [
     {
       title: "Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review",
       url: "https://doi.org/10.1016/j.jacig.2023.100079"
+    },
+    {
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
+",
+      url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
 },
@@ -870,7 +903,21 @@ const rawCollaborators = [
     lng: -0.1276,
     city: "London, UK",
     institution: "Department of Clinical Research, Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine",
-    names: ["Joseph D. Tucker, MD, PhD", "Rosanna Ŵ. Peeling, PhD", "Michael Marks, MBBS, PhD"]
+    names: ["Joseph D. Tucker, MD, PhD", "Michael Marks, MBBS, PhD", "Rosanna Ŵ. Peeling, PhD"]
+  },
+    {
+    lat: 51.52277,
+    lng: –0.1356,
+    city: "London, UK",
+    institution: "Hospital for Tropical Diseases, University College London Hospitals NHS Foundation Trust",
+    names: ["Michael Marks, MBBS, PhD"]
+  },
+  {
+    lat: 51.5236,
+    lng: –0.1324,
+    city: "London, UK",
+    institution: "Division of Infection and Immunity, Faculty of Medical Sciences, University College London",
+    names: ["Michael Marks, MBBS, PhD"]
   },
   {
   lat: 49.2636,
@@ -941,7 +988,7 @@ const rawCollaborators = [
     lng: 113.3010,
     city: "Guangzhou, China",
     institution: "SESH Global",
-    names: ["Joseph D. Tucker, MD, PhD", "Ke Zhou, MSW", "Lan Li, PhD", "Weiming Tang, PhD"]
+    names: ["Gifty Marley, PhD", "Joseph D. Tucker, MD, PhD", "Ke Zhou, MSW", "Lan Li, PhD", "Weiming Tang, PhD"]
   },
   {
     lat: 35.8990,
@@ -955,7 +1002,14 @@ const rawCollaborators = [
     lng: -79.05227,
     city: "Chapel Hill, USA",
     institution: "Division of Infectious Diseases, Department of Medicine, School of Medicine, University of North Carolina at Chapel Hill",
-    names: ["Joseph D. Tucker, MD, PhD", "Weiming Tang, PhD"]
+    names: ["Joseph D. Tucker, MD, PhD", "Suzanne Day, PhD", "Weiming Tang, PhD"]
+  },
+  {
+    lat: 47.65555,
+    lng: –122.30320,
+    city: "Seattle, USA",
+    institution: "Division of Allergy and Infectious Diseases, Department of Medicine, School of Medicine, University of Washington",
+    names: ["Thomas S. Fitzpatrick, MD, MPH"]
   }
 ];
 
