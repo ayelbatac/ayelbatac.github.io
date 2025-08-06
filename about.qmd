@@ -27,7 +27,7 @@ $~$
 <div style="flex: 1; min-width: 250px; margin-left: 1rem;">
 
 ### Ayel Luis R. Batac
-**Epidemiologist, Social and Behavioural Health Scientist**
+**Data Scientist and Epidemiologist**
 
 **Ayel holds the following positions:**
 
@@ -48,7 +48,7 @@ $~$
 
 <div style="margin-top: 2rem;"></div>
 
-I am an epidemiologist, social and behavioural health scientist, and health economist in training, dedicated to generating research that informs public health policy, advances health equity, and supports evidence-based decision-making.
+I am a data scientist, epidemiologist, and health economist in training, dedicated to generating research that informs public health policy, advances health equity, and supports evidence-based decision-making.
 
 I am a second-year Master of Science student in Public Health (Health Economics) at the London School of Hygiene and Tropical Medicine, with over six years of experience spanning research, data analytics, and applied public health practice.
 
