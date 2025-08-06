@@ -22,7 +22,7 @@ format:
 
 ## Peer-Reviewed Publications
 
-[**Batac ALR**, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: an update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Nov;4(4):100522. doi: 10.1016/j.jacig.2025.100522. Epub 2025 Jun 23. **(Invited review)**](https://doi.org/10.1016/j.jacig.2025.100522)
+[**Batac ALR**, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Jun 23;4(4):100522. doi: 10.1016/j.jacig.2025.100522. PMID: 40740414; PMCID: PMC12309611. **(Invited review)**](https://doi.org/10.1016/j.jacig.2025.100522)
 
 [**Batac ALR**. From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: 10.1111/cea.70028. Epub ahead of print. PMID: 40071384. **(Invited editorial; part of the virtual issue “Allergy in China” in Clin Exp Allergy)**](https://doi.org/10.1111/cea.70028)
 
