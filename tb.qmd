@@ -48,7 +48,7 @@ This research contributes to operational knowledge on how community-based strate
 
 ## Methodological Approach
 
-This evaluation takes a **quantitative**, **epidemiological approach** to assess the outcomes of a community-wide screening initiative conducted in response to a tuberculosis outbreak in Nunavut. Program data were analyzed to examine screening coverage, diagnostic outcomes, and treatment initiation for both active TB and LTBI.
+This evaluation takes a **quantitative**, **epidemiological approach** to assess the outcomes of a community-wide screening initiative conducted in response to a tuberculosis outbreak in Nunavut. Program data were analysed to examine screening coverage, diagnostic outcomes, and treatment initiation for both active TB and LTBI.
 
 The study also highlights the critical role of **community engagement** and local leadership in the success of the community-wide screening. The planning and implementation process incorporated culturally grounded strategies to promote trust, reduce stigma, and enhance participation. Clinic delivery was shaped by coordinated interagency efforts and informed by previous screening initiatives in the territory.
 
@@ -63,11 +63,11 @@ This research advances understanding of how community-wide screening can serve a
 - Demonstrating how operational planning, when informed by **local knowledge** and **interagency collaboration**, can enhance intervention effectiveness  
 - Informing future TB response strategies that centre **cultural safety**, **community leadership**, and **adaptability to local realities**  
 
-By emphasizing trust, collaboration, and responsiveness to community needs, this work supports the broader vision of TB elimination in Nunavut and contributes to national public health goals rooted in equity and reconciliation.
+By emphasising trust, collaboration, and responsiveness to community needs, this work supports the broader vision of TB elimination in Nunavut and contributes to national public health goals rooted in equity and reconciliation.
 
 $~$
 
-*Stay tuned — publications and data visualizations related to this work will be made available here soon.*
+*Stay tuned — publications and data visualisations related to this work will be made available here soon.*
 
 $~$
 
