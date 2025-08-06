@@ -191,8 +191,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1111/cea.14622"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -289,8 +288,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1111/cea.14622"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -516,8 +514,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -542,8 +539,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -568,8 +564,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -609,8 +604,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1111/cea.14622"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -643,8 +637,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1111/cea.14622"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
@@ -672,8 +665,7 @@ const rawCollaborators = [
       url: "https://doi.org/10.1016/j.jacig.2023.100079"
     },
     {
-      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy
-",
+      title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
   ]
