@@ -888,7 +888,7 @@ const rawCollaborators = [
     lng: -68.5169,
     city: "Iqaluit, Canada",
     institution: "Department of Health, Government of Nunavut",
-    names: ["Ekua A. Agyemang, MBChB, MPH, FRCPC", "Kethika Kulleperuma, PhD", "Odette Wills, MSc"]
+    names: ["Ekua A. Agyemang, MBChB, MPH, FRCPC", "Keith Travers, MSc", "Kethika Kulleperuma, PhD", "Odette Wills, MSc", "Shanthi Palaniappan, MN"]
   },
   {
     lat: 51.5072,
