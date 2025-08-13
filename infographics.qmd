@@ -51,7 +51,7 @@ $~$
   
   <!-- 5 image -->
   <a href="eai_china.png" target="_blank">
-    <img src="eai_china.png" alt="EAI China Infographic" style="width: 100%; border-radius: 8px;">
+    <img src="eai_approved_china.png" alt="EAI China Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 6 image -->
