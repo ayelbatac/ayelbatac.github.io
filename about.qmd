@@ -1002,6 +1002,13 @@ const rawCollaborators = [
     city: "Seattle, USA",
     institution: "Division of Allergy and Infectious Diseases, Department of Medicine, School of Medicine, University of Washington",
     names: ["Thomas S. Fitzpatrick, MD, MPH"]
+  },
+  {
+    lat: 1.29536,
+    lng: 103.78051,
+    city: "Singapore, Singapore",
+    institution: "Saw Swee Hock School of Public Health, National University of Singapore",
+    names: ["Rayner Kay Jin Tan, PhD"]
   }
 ];
 
