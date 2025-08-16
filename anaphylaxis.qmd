@@ -92,13 +92,13 @@ $~$
 
     <!-- Description -->
     <p>
-      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with particular attention to the introduction of epinephrine auto-injectors. It highlights persistent challenges—including regulatory barriers, cost constraints, and limited provider awareness—and offers policy recommendations to support the integration of standardized, life-saving interventions into national emergency response systems.
+      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with particular attention to the introduction of adrenaline auto-injectors. It highlights persistent challenges, such as regulatory barriers, cost constraints, and limited provider awareness, and offers policy recommendations to support the integration of standardised, life-saving interventions into national emergency response systems.
     </p>
 
     <!-- Citation -->
     <p style="font-size: 0.70rem;">
       <a href="https://doi.org/10.1111/cea.70028" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
-        <strong>Batac ALR.</strong> From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Mar 12. doi: 10.1111/cea.70028. PMID: 40071384.
+        <strong>Batac ALR.</strong> From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Aug;55(8):600-602. doi: 10.1111/cea.70028. Epub 2025 Mar 12. PMID: 40071384.
       </a>
     </p>
 
