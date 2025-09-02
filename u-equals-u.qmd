@@ -1,5 +1,5 @@
 ---
-title: "U=U: The Science Is Clear - Ayel L. R. Batac"
+title: "U = U: The Science Is Clear - Ayel L. R. Batac"
 title-block: false
 format:
   html:
@@ -8,8 +8,8 @@ format:
     include-in-header:
       text: |
         <title>U = U: The Science Is Clear - Ayel L. R. Batac</title>
-        <meta name="description" content="An accessible explanation of Undetectable = Untransmittable (U=U), the science behind it, and why it matters for HIV prevention, stigma reduction, and public health." />
-        <meta name="keywords" content="U=U, HIV, undetectable, untransmittable, HIV prevention, antiretroviral therapy, ART, stigma, public health, knowledge translation, Ayel Batac, global health, epidemiologist" />
+        <meta name="description" content="An accessible explanation of Undetectable = Untransmittable (U = U), the science behind it, and why it matters for HIV prevention, stigma reduction, and public health." />
+        <meta name="keywords" content="U = U, U=U, HIV, undetectable, untransmittable, HIV prevention, antiretroviral therapy, ART, stigma, public health, knowledge translation, Ayel Batac, global health, epidemiologist" />
 ---
 
 <style>
@@ -134,7 +134,7 @@ This message isn’t just about reducing risk — it’s about changing lives:
 - ✅ **It builds trust in public health** by demonstrating how scientific evidence can empower people, not just diagnose them.
 - ✅ **It empowers people living with HIV** to live openly, form relationships, and plan families — all without fear of transmission.
 
-But while U=U addresses HIV prevention, it’s also important to remember:
+But while U = U addresses HIV prevention, it’s also important to remember:
 
 > 🛡️ **PrEP protects only against HIV — not other STIs.**
 
