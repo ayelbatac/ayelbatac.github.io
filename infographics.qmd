@@ -30,13 +30,13 @@ $~$
 <div class="infographic-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
 
   <!-- 1 image -->
-  <a href="fear_facts_future.png" target="_blank">
-    <img src="fear_facts_future.png" alt="Fear, Facts, and the Future Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="facts_in_fear_out.png" target="_blank">
+    <img src="facts_in_fear_out.png" alt="Fear, Facts, and the Future Infographic" style="width: 100%; border-radius: 8px;">
   </a>
   
   <!-- 2 image -->
-  <a href="fear_facts_future_fr.png" target="_blank">
-    <img src="fear_facts_future_fr.png" alt="Les faits, la peur Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="hesitation_vaccinale.png" target="_blank">
+    <img src="hesitation_vaccinale.png" alt="Infographie : La peur, les faits et l’avenir" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 3 image -->
@@ -46,7 +46,7 @@ $~$
   
   <!-- 4 image -->
   <a href="prep_pep_fr.png" target="_blank">
-    <img src="prep_pep_fr.png" alt="PPrE et PPE Infographic" style="width: 100%; border-radius: 8px;">
+    <img src="prep_pep_fr.png" alt="Infographie : PPrE et PPE" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 5 image -->
@@ -56,7 +56,7 @@ $~$
 
   <!-- 6 image -->
   <a href="hiv_fr.png" target="_blank">
-    <img src="hiv_fr.png" alt="I=I Infographic" style="width: 100%; border-radius: 8px;">
+    <img src="hiv_fr.png" alt="Infographie : I=I" style="width: 100%; border-radius: 8px;">
   </a>
   
   <!-- 7 image -->
@@ -75,13 +75,13 @@ $~$
   </a>
 
   <!-- 10 image -->
-  <a href="accord_review.png" target="_blank">
-    <img src="accord_review.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="allergic_reactions_are_rare.png" target="_blank">
+    <img src="allergic_reactions_are_rare.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 11 image -->
-  <a href="accord_review_fr.png" target="_blank">
-    <img src="accord_review_fr.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="reactions_allergiques_covid19.png" target="_blank">
+    <img src="reactions_allergiques_covid19.png" alt="Infographie : Les réactions allergiques sont rares" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 12 image -->
