@@ -30,51 +30,61 @@ $~$
 <div class="infographic-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
 
   <!-- 1 image -->
+  <a href="fear_facts_future.png" target="_blank">
+    <img src="fear_facts_future.png" alt="Fear, Facts, and the Future Infographic" style="width: 100%; border-radius: 8px;">
+  </a>
+  
+  <!-- 2 image -->
+  <a href="fear_facts_future_fr.png" target="_blank">
+    <img src="fear_facts_future_fr.png" alt="Les faits, la peur Infographic" style="width: 100%; border-radius: 8px;">
+  </a>
+
+  <!-- 3 image -->
   <a href="prep_pep.png" target="_blank">
     <img src="prep_pep.png" alt="PrEP and PEP Infographic" style="width: 100%; border-radius: 8px;">
   </a>
   
-  <!-- 2 image -->
+  <!-- 4 image -->
   <a href="prep_pep_fr.png" target="_blank">
     <img src="prep_pep_fr.png" alt="PPrE et PPE Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 3 image -->
+  <!-- 5 image -->
   <a href="hiv.png" target="_blank">
     <img src="hiv.png" alt="U=U Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 4 image -->
+  <!-- 6 image -->
   <a href="hiv_fr.png" target="_blank">
     <img src="hiv_fr.png" alt="I=I Infographic" style="width: 100%; border-radius: 8px;">
   </a>
   
-  <!-- 5 image -->
+  <!-- 7 image -->
   <a href="eai_approved_china.png" target="_blank">
     <img src="eai_approved_china.png" alt="EAI China Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 6 image -->
+  <!-- 8 image -->
   <a href="maternal_infant_bonding.png" target="_blank">
     <img src="maternal_infant_bonding.png" alt="Maternal Infant Bonding Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 7 image -->
+  <!-- 9 image -->
   <a href="accord_qual.jpg" target="_blank">
     <img src="accord_qual.jpg" alt="ACCORD Qualitative Study Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 8 image -->
+  <!-- 10 image -->
   <a href="accord_review.png" target="_blank">
     <img src="accord_review.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 9 image -->
+  <!-- 11 image -->
   <a href="accord_review_fr.png" target="_blank">
     <img src="accord_review_fr.png" alt="ACCORD Review Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
-  <!-- 10 image -->
+  <!-- 12 image -->
   <a href="child_burden.jpg" target="_blank">
     <img src="child_burden.jpg" alt="Child Burden Infographic" style="width: 100%; border-radius: 8px;">
   </a>
