@@ -1041,6 +1041,13 @@ const rawCollaborators = [
     city: "Singapore, Singapore",
     institution: "Saw Swee Hock School of Public Health, National University of Singapore",
     names: ["Rayner Kay Jin Tan, PhD"]
+  },
+  {
+    lat: 51.5257,
+    lng: -0.1251,
+    city: "London, United Kingdom",
+    institution: "Department of Global Health and Development, Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine",
+    names: ["Yang Zhao, PhD"]
   }
 ];
 
