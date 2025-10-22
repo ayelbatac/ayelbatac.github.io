@@ -329,9 +329,15 @@ const rawCollaborators = [
     lng: -97.158570,
     city: "Winnipeg, Canada",
     institution: "Department of Medical Microbiology and Infectious Diseases, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-    names: ["Rosanna Ŵ. Peeling, PhD"]
-    },
- {
+    names: ["Rosanna Ŵ. Peeling, PhD"],
+    papers: [
+    {
+      title: "Syphilis self-testing and implications for syphilis control and prevention",
+      url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+    ]
+  },
+  {
   lat: 49.80962,
   lng: -97.13270,
   city: "Winnipeg, Canada",
@@ -727,7 +733,7 @@ const rawCollaborators = [
 {
   lat: 41.8781,
   lng: -87.6298,
-  city: "Chicago, USA",
+  city: "Chicago, United States",
   institution: "Northwestern University Feinberg School of Medicine",
   names: ["Christopher M. Warren, PhD", "Lucy A. Bilaver, PhD", "Priyanka Dadha, PhD", "Ruchi S. Gupta, MD"],
   papers: [
@@ -740,7 +746,7 @@ const rawCollaborators = [
 {
   lat: 39.0997,
   lng: -94.5786,
-  city: "Kansas City, USA",
+  city: "Kansas City, United States",
   institution: "Children's Mercy Kansas City",
   names: ["Jodi A. Shroba, MSN, CPNP"],
   papers: [
@@ -808,7 +814,7 @@ const rawCollaborators = [
 {
   lat: 39.7294,
   lng: -104.8319,
-  city: "Aurora, USA",
+  city: "Aurora, United States",
   institution: "Section of Allergy and Immunology, Department of Pediatrics, Children's Hospital Colorado, University of Colorado School of Medicine",
   names: ["Matthew J. Greenhawt, MD, MBA, MSc"],
   papers: [
@@ -883,23 +889,41 @@ const rawCollaborators = [
   {
     lat: 51.5072,
     lng: -0.1276,
-    city: "London, UK",
+    city: "London, United Kingdom",
     institution: "Department of Clinical Research, Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine",
-    names: ["Joseph D. Tucker, MD, PhD", "Michael Marks, MBBS, PhD", "Rosanna Ŵ. Peeling, PhD"]
+    names: ["Joseph D. Tucker, MD, PhD", "Michael Marks, MBBS, PhD", "Rosanna Ŵ. Peeling, PhD"],
+    papers: [
+    {
+      title: "Syphilis self-testing and implications for syphilis control and prevention",
+      url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+    ]
   },
     {
     lat: 51.52277,
     lng: -0.1356,
-    city: "London, UK",
+    city: "London, United Kingdom",
     institution: "Hospital for Tropical Diseases, University College London Hospitals NHS Foundation Trust",
-    names: ["Michael Marks, MBBS, PhD"]
+    names: ["Michael Marks, MBBS, PhD"],
+    papers: [
+    {
+      title: "Syphilis self-testing and implications for syphilis control and prevention",
+      url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+    ]
   },
   {
     lat: 51.5236,
     lng: -0.1324,
-    city: "London, UK",
+    city: "London, United Kingdom",
     institution: "Division of Infection and Immunity, Faculty of Medical Sciences, University College London",
-    names: ["Michael Marks, MBBS, PhD"]
+    names: ["Michael Marks, MBBS, PhD"],
+    papers: [
+    {
+      title: "Syphilis self-testing and implications for syphilis control and prevention",
+      url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+    ]
   },
   {
   lat: 49.2636,
@@ -963,33 +987,51 @@ const rawCollaborators = [
     lng: 113.2935,
     city: "Guangzhou, China",
     institution: "Dermatology Hospital of Southern Medical University (南方医科大学皮肤病医院)",
-    names: ["Lan Li, PhD"]
+    names: ["Weiming Tang, PhD"]
   },
   {
     lat: 23.1390,
     lng: 113.3010,
     city: "Guangzhou, China",
     institution: "SESH Global",
-    names: ["Gifty Marley, PhD", "Joseph D. Tucker, MD, PhD", "Ke Zhou, MSW", "Lan Li, PhD", "Weiming Tang, PhD"]
+    names: ["Gifty Marley, PhD", "Joseph D. Tucker, MD, PhD", "Ke Zhou, MSW", "Lan Li, PhD", "Weiming Tang, PhD"],
+    papers: [
+    {
+      title: "Syphilis self-testing and implications for syphilis control and prevention",
+      url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+    ]
   },
   {
     lat: 35.8990,
     lng: -79.0476,
-    city: "Chapel Hill, USA",
+    city: "Chapel Hill, United States",
     institution: "Institute for Global Health and Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill",
-    names: ["Joseph D. Tucker, MD, PhD", "Ke Zhou, MSW", "Lan Li, PhD", "Weiming Tang, PhD"]
+    names: ["Joseph D. Tucker, MD, PhD", "Ke Zhou, MSW", "Lan Li, PhD", "Weiming Tang, PhD"],
+    papers: [
+    {
+    title: "Syphilis self-testing and implications for syphilis control and prevention",
+    url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+  ]
   },
   {
     lat: 35.90605,
     lng: -79.05227,
-    city: "Chapel Hill, USA",
+    city: "Chapel Hill, United States",
     institution: "Division of Infectious Diseases, Department of Medicine, School of Medicine, University of North Carolina at Chapel Hill",
-    names: ["Joseph D. Tucker, MD, PhD", "Suzanne Day, PhD", "Weiming Tang, PhD"]
+    names: ["Joseph D. Tucker, MD, PhD", "Suzanne Day, PhD", "Weiming Tang, PhD"],
+    papers: [
+    {
+      title: "Syphilis self-testing and implications for syphilis control and prevention",
+      url: "https://doi.org/10.1128/jcm.00982-25"
+    }
+    ]
   },
   {
     lat: 47.65555,
     lng: -122.30320,
-    city: "Seattle, USA",
+    city: "Seattle, United States",
     institution: "Division of Allergy and Infectious Diseases, Department of Medicine, School of Medicine, University of Washington",
     names: ["Thomas S. Fitzpatrick, MD, MPH"]
   },
