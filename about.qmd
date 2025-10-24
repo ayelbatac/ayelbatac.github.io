@@ -641,7 +641,7 @@ const rawCollaborators = [
     lng: -79.3928,
     city: "Toronto, Canada",
     institution: "Dalla Lana School of Public Health, University of Toronto",
-    names: ["Laura Y. Feldman, MD, MPH"]
+    names: ["Laura Y. Feldman, MD, MPH, CCFP"]
   },
 {
   lat: 43.6511,
@@ -978,7 +978,7 @@ const rawCollaborators = [
     lng: -79.8711,
     city: "Hamilton, Canada",
     institution: "Division of Clinical Immunology and Allergy, Department of Medicine, Faculty of Health Sciences, McMaster University",
-    names: ["Andrew Wong-Pack, MD"]
+    names: ["Andrew Wong-Pack, MD, FRCPC"]
   },
   {
     lat: 23.1470,
