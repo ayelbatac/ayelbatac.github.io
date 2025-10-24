@@ -98,7 +98,7 @@ University of Manitoba, Winnipeg, Canada
 
 ### COLLABORATIONS
 
-Recent external collaboration(s) on country/territory level. Dive into details by clicking on the dots.
+Recent external collaborations and shared outputs on country/territory level. Dive into details by clicking on the dots.
 
 ```{=html}
 <!-- Load Leaflet CSS and JS -->
