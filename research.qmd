@@ -14,7 +14,7 @@ format:
 
 # RESEARCH
 
-## Research Summary
+## RESEARCH SUMMARY
 
 My research centres on the social epidemiology of sexually transmitted and blood-borne infections (STBBIs), with a focus on marginalised and underserved populations, including men who have sex with men (MSM) and sex worker communities. I am particularly interested in STBBI prevention and control, with an emphasis on the structural, behavioural, and social determinants that shape health inequities.
 
@@ -64,7 +64,7 @@ Learn more by clicking on each tile.
 
 $~$
 
-## Research Interests
+## RESEARCH INTERESTS
 
 - Social epidemiology of sexually transmitted and blood-borne infections (STBBIs)  
 - Health equity among men who have sex with men (MSM) and sex worker populations  
@@ -80,7 +80,7 @@ $~$
 - Implementation science  
 - Health economics and pharmacoeconomics (allergic and infectious diseases)  
 
-## Research Areas
+## RESEARCH AREAS
 
 - Epidemiology (communicable and non-communicable diseases)  
 - Infectious diseases  
@@ -97,6 +97,6 @@ $~$
 - Knowledge synthesis  
 - Knowledge translation and mobilisation  
 
-## Keywords
+## KEYWORDS
 
 Infectious diseases, epidemiology, sexually transmitted and blood-borne infections (STBBI), sexual health, HIV/AIDS, MSM health, allergy, clinical immunology, asthma, atopic dermatitis, drug allergy, food allergy, anaphylaxis, low- and middle-income countries, health equity, mixed-methods research, implementation science, knowledge synthesis, knowledge translation, knowledge mobilization, mathematical modelling
