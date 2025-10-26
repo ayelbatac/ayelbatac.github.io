@@ -24,7 +24,7 @@ In addition to my work in infectious diseases, I have a longstanding interest in
 
 $~$
 
-<h2 style="color: #1B153E; font-weight: 600; border-bottom: none; margin-bottom: 0.5rem;">Current Research</h2>
+<h2 style="color: #1B153E; font-weight: 600; border-bottom: none; margin-bottom: 0.5rem;">CURRENT RESEARCH</h2>
 
 Learn more by clicking on each tile.
 
