@@ -83,19 +83,19 @@ $~$
 ## RESEARCH AREAS
 
 - Epidemiology (communicable and non-communicable diseases)  
-- Infectious diseases  
-- Sexually transmitted and blood-borne infections (STBBIs)  
+- Infectious Diseases  
+- Sexually Transmitted and Blood-Borne Infections (STBBIs)  
 - HIV/AIDS  
-- Allergy and clinical immunology  
+- Allergy and Clinical Immunology  
 - Dermatology  
 - Paediatrics  
-- Public health  
-- Global health  
-- Health systems research  
-- Health economics and outcomes research  
-- Implementation science  
-- Knowledge synthesis  
-- Knowledge translation and mobilisation  
+- Public Health  
+- Global Health  
+- Health Systems Research  
+- Health Economics and Outcomes Research  
+- Implementation Science  
+- Knowledge Synthesis  
+- Knowledge Translation and Mobilisation  
 
 ## KEYWORDS
 
