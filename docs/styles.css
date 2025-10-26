@@ -164,7 +164,7 @@ a.quarto-anchor,
 
 /* Prevent content from being hidden under the fixed navbar */
 body {
-  padding-top: 90px; /* adjust based on your navbar height */
+  padding-top: 200px; /* adjust based on your navbar height */
 }
 
 /* Optional: subtle shadow when scrolling (for depth) */
