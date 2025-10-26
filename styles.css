@@ -149,3 +149,187 @@ a.quarto-anchor,
   display: none !important;
 }
 
+/* ==========================================================
+   FIXED NAVBAR (new section)
+   ========================================================== */
+
+/* Keep navbar/header fixed at top while scrolling */
+.navbar, header.navbar, header.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* keeps it on top of all content */
+}
+
+/* Prevent content from being hidden under the fixed navbar */
+body {
+  padding-top: 90px; /* adjust based on your navbar height */
+}
+
+/* Optional: subtle shadow when scrolling (for depth) */
+.navbar.scrolled {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Smooth scrolling for internal links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ==========================================================
+   EXISTING NAVBAR & SITE STYLES
+   ========================================================== */
+
+/* Navbar/header background color */
+.navbar {
+  background-color: #1B153E;  /* Main color (deep indigo) */
+}
+
+/* Align navbar content: brand on left, links and search bar on right */
+.navbar .container-fluid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Navbar links aligned to the right */
+.navbar-nav {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+/* Navbar collapse ensures right alignment */
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+/* Navbar link styles */
+.navbar .nav-link {
+  color: white;               
+  padding: 0.5rem 1rem;        
+  border-radius: 0.25rem;      
+  transition: background-color 0.3s ease;  
+}
+
+/* Navbar link hover effect */
+.navbar .nav-link:hover {
+  background-color: #DE2221;   /* Complementary color (red) */
+  color: white;                
+}
+
+/* Navbar brand (site title) color */
+.navbar .navbar-brand {
+  color: white;
+}
+
+/* Page background color */
+body {
+  background-color: white;
+  color: #1B153E; /* Indigo for all text */
+}
+
+/* Global link styles (default body text links) */
+a {
+  color: #1B153E;              /* Main color for links */
+  text-decoration: none;       
+}
+
+/* Body text links hover effect (not navbar) */
+body a:hover {
+  color: #DE2221;              /* Complementary color on hover */
+}
+
+/* Recent Publications section link hover effect */
+.recent-pubs a:hover {
+  color: #DE2221 !important;  /* Complementary red */
+}
+
+/* Entire footer background and text color */
+footer,
+footer .container,
+footer .container-fluid,
+footer .page-footer {
+  background-color: #1B153E !important;  /* Indigo background */
+  color: white !important;               /* White text */
+  padding: 1rem 0;
+  text-align: center;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Ensure all nested elements in footer remain styled correctly */
+footer *,
+footer a,
+footer p,
+footer span,
+footer div,
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6 {
+  color: white !important;
+  background-color: transparent !important;
+}
+
+/* Set body background to indigo to fill space below footer */
+body {
+  background-color: #1B153E !important;
+  color: #1B153E;
+  margin: 0;
+  padding: 0;
+}
+
+/* Keep main content area white if needed */
+main,
+.page-content,
+.content,
+body > div,
+body > main {
+  background-color: white;
+}
+
+/* Completely hide all anchor link icons on headings */
+a.header-anchor,
+a.quarto-anchor,
+.anchorjs-link {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+.explore-button {
+  background-color: #1B153E; /* Deep indigo */
+  color: white;
+  font-weight: 600;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+  min-width: 300px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.explore-button:hover {
+  background-color: #DE2221; /* Red hover */
+  color: white;
+}
+
+/* Hide automatic page title blocks if they still appear */
+.quarto-title, 
+.quarto-title-block, 
+.quarto-title-banner, 
+.quarto-title-block.default {
+  display: none !important;
+}
+
+
