@@ -9,72 +9,72 @@ format:
       text: |
         <title>STBBI Research - Ayel L. R. Batac</title>
         <meta name="description" content="Ayel L. R. Batac conducts research on sexually transmitted and blood-borne infections (STBBIs), including syphilis, gonorrhoea, and chlamydia, with a focus on public health, diagnostics, surveillance, and knowledge translation in global contexts such as China." />
-        <meta name="keywords" content="Ayel Batac, sexually transmitted and blood-borne infections, STBBIs, gonorrhea, gonorrhoea, chlamydia, syphilis, HIV, China, MSM, men who have sex with men, stigma, LMICs, low- and middle-income countries, global health, public health, randomized controlled trial, randomised controlled trial, RCT, trial, Joseph Tucker, Rosanna Peeling, SESH Global, sexual health" />
+        <meta name="keywords" content="Ayel Batac, sexually transmitted infections, STI, STIs, sexually transmitted and blood-borne infections, STBBI, STBBIs, gonorrhea, gonorrhoea, chlamydia, syphilis, HIV, China, men who have sex with men, MSM, stigma, low- and middle-income countries, LMICs, global health, public health, sexual health, randomized controlled trial, randomised controlled trial, RCT, trial, Joseph Tucker, Rosanna Peeling, Weiming Tang, SESH Global, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, SMU" />
 ---
 
 # SEXUALLY TRANSMITTED AND BLOOD-BORNE INFECTIONS
 
 $~$
 
-**Sexually transmitted and blood-borne infections (STBBIs)** remain a major global public health concern. Despite increasing awareness, **testing rates for STBBIs**—such as gonorrhoea and chlamydia—remain **low worldwide**, especially among marginalised populations including **men who have sex with men (MSM)**. Asymptomatic infections often go undiagnosed, posing a barrier to timely treatment and effective disease control.
+**Sexually transmitted and blood-borne infections (STBBIs)** continue to represent a major global public health challenge. Despite increasing awareness, **testing rates** for infections such as gonorrhoea and chlamydia **remain low worldwide**, particularly among marginalised populations including **men who have sex with men (MSM)**. Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
 
-In low- and middle-income countries (LMICs), multiple factors—such as **stigma**, **financial costs**, and **limited access to culturally responsive services**—reduce uptake of testing. In many settings, MSM face structural exclusion and persistent stigma, which limit their engagement with formal health systems and contribute to ongoing gaps in prevention and care.
+In many low- and middle-income countries (LMICs), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalisation often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
 
 $~$
 
-## Social Innovation in Action: What Is the Pay-It-Forward Model?
+## Social Innovation for Health: The Pay-It-Forward Approach
 
-The pay-it-forward model is a **social innovation** approach that combines public health service delivery with prosocial behaviour. In the context of STBBI testing, the pay-it-forward model offers individuals a free service, such as testing for gonorrhoea and chlamydia, and then invites them to support someone else’s access to the same service through voluntary donations or encouraging messages.
+The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STBBI prevention and testing, it offers individuals free diagnostic services—such as testing for gonorrhoea and chlamydia—and then invites them to support another person’s access to testing through voluntary contributions or messages of encouragement.
 
-The model is built on three core pillars:
+The approach is grounded in three key principles:
 
-- **Access**: Removing cost barriers to testing  
-- **Altruism**: Harnessing the human tendency to give back after receiving support  
-- **Community engagement**: Fostering collective responsibility for health and well-being  
+- **Access:** Removing financial barriers to testing  
+- **Altruism:** Encouraging reciprocity and the act of giving back  
+- **Community engagement:** Strengthening shared responsibility for health and well-being  
 
-Unlike traditional models of subsidised or fee-for-service health care, the pay-it-forward model shifts the financial burden away from centralised systems and fosters a sense of solidarity and empowerment. It is particularly valuable in settings where stigma, mistrust of institutions, or financial barriers limit access to care.
+Unlike traditional fee-for-service or centrally funded systems, the pay-it-forward approach promotes solidarity and empowerment within communities. It provides a practical model for improving access to essential services in settings where stigma, financial constraints, or mistrust of institutions restrict care.
 
 ## Integrating Social Innovation in STBBI Testing
 
-The pay-it-forward model is more than an access intervention—it is a **social innovation** strategy that reimagines how STBBI services are delivered and experienced. When paired with community engagement, the pay-it-forward approach helps create environments where testing is **accessible**, **sensitive to stigma**, and **grounded in mutual support**.
+The pay-it-forward approach represents more than a mechanism for service delivery; it redefines how communities participate in public health. When combined with community engagement, it creates enabling environments where testing becomes accessible, supportive, and responsive to stigma.
 
-In this context, community engagement refers to voluntary, health-promoting actions such as anonymous messaging, advocacy, and participation in public health initiatives, all of which align with and reinforce the goals of the pay-it-forward model. Together, these approaches aim to:
+Community engagement activities—including peer outreach, anonymous messaging, and local advocacy—help strengthen collective ownership of sexual health and reinforce trust between health systems and communities. Together, these efforts:
 
-- Empower individuals to take collective ownership of sexual health  
-- Build trust between communities and health systems  
-- Expand reach and uptake of STBBI services, particularly in LMIC settings  
+- Empower individuals to take part in collective health promotion  
+- Foster trust and cooperation between communities and health services  
+- Expand the reach and uptake of STBBI testing, particularly in LMIC settings  
 
-## Ongoing Research
+## Ongoing Research and Evidence Generation
 
-My current work involves the evaluation of a **randomised controlled trial (RCT)** of the pay-it-forward strategy among MSM in China. This includes:
+My current research evaluates the effectiveness and implementation of the pay-it-forward approach among MSM in China through a **randomised controlled trial (RCT)**. Key areas of focus include:
 
-- Assessing **STBBI testing uptake** across different behavioural intervention arms  
-- Analysing **giving behaviours** as markers of engagement and reciprocity  
-- Identifying **clinic-level and demographic factors** that influence outcomes  
-- Testing a **digital version of the pay-it-forward model** integrated with self-sampling to improve accessibility in low-resource settings  
+- Uptake of STBBI testing across different behavioural intervention arms  
+- Giving behaviours as indicators of community engagement and reciprocity  
+- Clinic-level and demographic determinants of testing outcomes  
+- Adaptation of a digital, self-sampling version of the pay-it-forward approach to enhance accessibility in low-resource contexts  
 
-This research contributes to growing efforts to understand how **social innovation** and **behavioural science** can strengthen public health responses to STBBIs by expanding testing reach, building community resilience, and reframing how health systems engage with stigmatised populations.
+This research contributes to the growing global evidence base on how social innovation and behavioural science can strengthen health systems, improve testing coverage, and address the needs of populations most affected by stigma and inequity.
 
 ## Methodological Approach
 
-To fully understand both the impact and implementation of the pay-it-forward model, this research uses a **mixed methods** design:
+The research applies a **mixed-methods design** to capture both impact and implementation outcomes:
 
-- Quantitative evaluation through randomised controlled trials tracks behavioural outcomes, including uptake and donation patterns  
-- Qualitative interviews with participants and providers explore perceived barriers, motivations for giving, and emotional responses to the intervention  
-- Process evaluations assess feasibility, fidelity, and scalability in real-world settings  
+- **Quantitative analysis:** Randomised controlled trials assess behavioural and clinical outcomes, including testing uptake and donation patterns.  
+- **Qualitative inquiry:** In-depth interviews with participants and providers explore motivations, perceived barriers, and emotional responses.  
+- **Process evaluation:** Implementation fidelity, feasibility, and scalability are assessed under real-world conditions.  
 
-This integration of methods helps generate both rigorous evidence and context-specific insights that are essential for scale-up and adaptation.
+This comprehensive approach supports both rigorous evidence generation and context-sensitive insights that inform adaptation and scale-up.
 
 ## Contribution to Public Health
 
-This research contributes to reimagining STBBI testing as a more equitable, effective, and empowering element of public health delivery. Key public health contributions include:
+The pay-it-forward approach demonstrates how social innovation can advance equity, inclusion, and sustainability within public health systems. Evidence from ongoing research highlights its potential to:
 
-- Demonstrating how **decentralised**, **community-driven financing models** can sustainably expand access to essential services  
-- Advancing **stigma-sensitive**, **culturally tailored approaches** to testing that are attuned to the lived experiences of MSM and other marginalised groups  
-- Informing health system strategies that align **social innovation with service delivery**, helping to bridge the gap between clinic-based care and community realities  
-- Contributing to global conversations on **universal health coverage**, equity, and the integration of sexual health into broader public health systems  
+- Expand access to essential health services through community-driven and decentralised financing models  
+- Promote stigma-sensitive and culturally responsive testing practices tailored to the experiences of MSM and other key populations  
+- Strengthen the interface between health systems and communities by embedding social innovation within service delivery  
+- Contribute to global efforts toward universal health coverage and equitable access to sexual and reproductive health services  
 
-By positioning STBBI testing as a collective act of care—rather than an individual burden—this research helps build a more inclusive foundation for sexual health equity.
+By framing STBBI testing as a **collective act of care**, the pay-it-forward approach aligns with broader global health goals to build inclusive, resilient, and people-centred systems for sexual health and well-being.
 
 $~$
 
