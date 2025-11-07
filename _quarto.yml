@@ -30,7 +30,7 @@ website:
         href: contact.qmd
 
   page-footer:
-    center: "Copyright © 2025 Ayel L. R. Batac. All Rights Reserved."
+    center: "© 2025 Ayel L. R. Batac. All Rights Reserved."
 
 format:
   html:
