@@ -9,25 +9,25 @@ format:
       text: |
         <title>Anaphylaxis Research - Ayel L. R. Batac</title>
         <meta name="description" content="Evidence synthesis research on anaphylaxis in clinical immunology and public health." />
-        <meta name="keywords" content="anaphylaxis, allergy, food allergy, clinical immunology, epinephrine, glucocorticoids, China, evidence synthesis, scoping review, public health, global health, research, Ayel Batac, epidemiologist" />
+        <meta name="keywords" content="anaphylaxis, allergy, food allergy, clinical immunology, adrenaline, epinephrine, glucocorticoids, China, evidence synthesis, scoping review, public health, global health, research, Ayel Batac, epidemiologist" />
 ---
 
 # ANAPHYLAXIS
 
 $~$
 
-**Anaphylaxis** is an acute, **potentially fatal systemic allergic reaction** that requires rapid recognition and immediate treatment with **intramuscular epinephrine**. Despite the availability of clinical guidelines and growing global awareness, the treatment of anaphylaxis **remains inconsistent**, particularly in low-resource settings. Barriers—including limited access to epinephrine, diagnostic delays, and inadequate emergency response systems—continue to drive preventable morbidity and mortality worldwide.
+**Anaphylaxis** is an acute, **potentially fatal systemic allergic reaction** that requires rapid recognition and immediate treatment with **intramuscular adrenaline (epinephrine)**. Despite the availability of clinical guidelines and growing global awareness, the treatment of anaphylaxis **remains inconsistent**, particularly in low-resource settings. Barriers—including limited access to adrenaline, diagnostic delays, and inadequate emergency response systems—continue to drive preventable morbidity and mortality worldwide.
 
 $~$
 
 ## Understanding Global Variation in Anaphylaxis Treatment
 
-There is growing recognition of **global variation** in how anaphylaxis is treated across different healthcare systems. While epinephrine is the recommended first-line treatment, evidence shows it remains under-utilised worldwide, with antihistamines and glucocorticoids often used instead in emergency and acute care settings. This variation may be influenced by differences in clinical training, national guidelines, healthcare infrastructure, or cultural practices.
+There is growing recognition of **global variation** in how anaphylaxis is treated across different healthcare systems. While adrenaline is the recommended first-line treatment, evidence shows it remains under-utilised worldwide, with antihistamines and glucocorticoids often used instead in emergency and acute care settings. This variation may be influenced by differences in clinical training, national guidelines, healthcare infrastructure, or cultural practices.
 
 Our current research is synthesising global evidence on:
 
 - **International differences** in anaphylaxis treatment and outcomes  
-- **Access to epinephrine**, including auto-injectors (EAIs) and ampoules  
+- **Access to adrenaline**, including auto-injectors (AAIs) and ampoules  
 - **Alignment with clinical guidelines** across healthcare systems  
 - **Barriers to timely care**, including regulatory, cost, and training constraints  
 
@@ -37,7 +37,7 @@ $~$
 
 ## Anaphylaxis Treatment in China
 
-In this work, I examined the introduction and integration of epinephrine auto-injectors (EAIs) in mainland China, highlighting several persistent challenges in a context where access had historically been limited:
+In this work, I examined the introduction and integration of adrenaline auto-injectors (AAIs) in mainland China, highlighting several persistent challenges in a context where access had historically been limited:
 
 - Outlined the evolving landscape of anaphylaxis management in China    
 - Highlighted systemic barriers to EAI access and implementation  
@@ -51,11 +51,11 @@ $~$
 
 ## Contribution to Public Health
 
-Anaphylaxis is both a clinical emergency and a public health concern. Our research addresses critical gaps in how anaphylaxis is recognised, treated, and prevented across diverse health systems. By examining variations in treatment practices and barriers to epinephrine access, this work informs strategies to reduce preventable morbidity and mortality on a population level.
+Anaphylaxis is both a clinical emergency and a public health concern. Our research addresses critical gaps in how anaphylaxis is recognised, treated, and prevented across diverse health systems. By examining variations in treatment practices and barriers to adrenaline access, this work informs strategies to reduce preventable morbidity and mortality on a population level.
 
 Key public health contributions include:
 
-- Generating evidence to support **policy and regulatory reform** on epinephrine access  
+- Generating evidence to support **policy and regulatory reform** on adrenaline access  
 - Informing **training and education strategies** for clinicians, emergency responders, and the public  
 - Identifying opportunities to **standardise emergency care protocols** in alignment with global best practices  
 - Contributing to **health equity initiatives** by addressing disparities in access to life-saving treatment  

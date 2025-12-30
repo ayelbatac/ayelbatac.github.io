@@ -38,7 +38,7 @@ format:
     color: #1b153e;
   ">
     <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 0.5rem;">
-      Fear vs. Facts
+      Facts In, Fear Out
     </div>
     <div style="margin-bottom: 0.5rem;">How real is the risk of COVID-19 vaccine-induced anaphylaxis vs. the fear it causes? This new review explores vaccine safety, allergy concerns, and what drives hesitancy in people with allergies.</div>
     <a href="https://doi.org/10.1016/j.jacig.2025.100522" target="_blank"
@@ -195,11 +195,11 @@ format:
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; max-width: 1200px; margin: 0 auto;">
 
-    <a href="about.html" class="explore-button">Learn more about me</a>
-    <a href="research.html" class="explore-button">View my current research work</a>
-    <a href="publications.html" class="explore-button">Browse my publications</a>
-    <a href="infographics.html" class="explore-button">Check out my infographics</a>
-    <a href="blog.html" class="explore-button explore-button-wide">Read my blog</a>
+    <a href="about.html" class="explore-button">About Me</a>
+    <a href="research.html" class="explore-button">Research Work</a>
+    <a href="publications.html" class="explore-button">Publications</a>
+    <a href="infographics.html" class="explore-button">Infographics</a>
+    <a href="blog.html" class="explore-button explore-button-wide">Blog</a>
 
   </div>
 </div>
