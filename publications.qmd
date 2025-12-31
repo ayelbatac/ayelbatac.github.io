@@ -108,7 +108,7 @@ padding: 0 0 1.5rem 0;
 
 [Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol. Allergy Asthma Clin Immunol. 2022 Sep 18;18(1):83. doi: 10.1186/s13223-022-00723-w. PMID: 36117177; PMCID: PMC9482742.](https://doi.org/10.1186/s13223-022-00723-w)
 
-[Golding MA, **Batac ALR**, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. doi: 10.1111/pai.13743. PMID: 35338731.]((https://doi.org/10.1111/pai.13743) **(Editor’s Choice article; part of the virtual issue [**“Editor’s Choice and Junior Member Must Read Articles”**](https://onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1399-3038.editors-choice-junior-member-must-read-articles) in Pediatric Allergy and Immunology)**
+[Golding MA, **Batac ALR**, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. doi: 10.1111/pai.13743. PMID: 35338731.](https://doi.org/10.1111/pai.13743) **(Editor’s Choice article; part of the virtual issue [**“Editor’s Choice and Junior Member Must Read Articles”**](https://onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1399-3038.editors-choice-junior-member-must-read-articles) in Pediatric Allergy and Immunology)**
 
 <div style="margin-top: 2rem;"></div>
 
