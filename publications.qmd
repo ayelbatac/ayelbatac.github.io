@@ -88,11 +88,11 @@ padding: 0 0 1.5rem 0;
 
 ## Peer-Reviewed Publications
 
-[**Batac ALR**, Marks M, Tucker JD, Peeling RŴ. Syphilis self-testing and implications for syphilis control and prevention. J Clin Microbiol. 2025 Oct 21:e0098225. doi: 10.1128/jcm.00982-25. Epub ahead of print. PMID: 41117600. **(Invited submission; selected as Editor's Pick)**](https://doi.org/10.1128/jcm.00982-25)
+[**Batac ALR**, Marks M, Tucker JD, Peeling RŴ. Syphilis self-testing and implications for syphilis control and prevention. J Clin Microbiol. 2025 Oct 21:e0098225. doi: 10.1128/jcm.00982-25. Epub ahead of print. PMID: 41117600.](https://doi.org/10.1128/jcm.00982-25) **(Invited submission; selected as Editor's Pick)**
 
-[**Batac ALR**, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Jun 23;4(4):100522. doi: 10.1016/j.jacig.2025.100522. PMID: 40740414; PMCID: PMC12309611. **(Invited submission)**](https://doi.org/10.1016/j.jacig.2025.100522)
+[**Batac ALR**, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Jun 23;4(4):100522. doi: 10.1016/j.jacig.2025.100522. PMID: 40740414; PMCID: PMC12309611.](https://doi.org/10.1016/j.jacig.2025.100522) **(Invited submission)**
 
-[**Batac ALR**. From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Aug;55(8):600-602. doi: 10.1111/cea.70028. Epub 2025 Mar 12. PMID: 40071384. **(Invited submission; part of the virtual issue “Allergy in China” in Clin Exp Allergy)**](https://doi.org/10.1111/cea.70028)
+[**Batac ALR**. From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China. Clin Exp Allergy. 2025 Aug;55(8):600-602. doi: 10.1111/cea.70028. Epub 2025 Mar 12. PMID: 40071384.](https://doi.org/10.1111/cea.70028) **(Invited submission; part of the virtual issue [“Allergy in China”](https://onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1365-2222.allergy-in-china) in Clinical & Experimental Allergy)**
 
 [Harbottle Z, Golding MA, **Batac ALR**, Fong AT, Lê ML, Abrams EM, Chan ES, Ben-Shoshan M, Hsu PS, Shroba JA, Kivistö JE, Greenhawt MJ, Mason G, Mäkelä MJ, Muraro A, Ahlstedt S, Protudjer JLP. A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy. Clin Exp Allergy. 2025 Apr;55(4):357-360. doi: 10.1111/cea.14622. Epub 2025 Jan 8. PMID: 39780029.](https://doi.org/10.1111/cea.14622)
 
@@ -102,13 +102,13 @@ padding: 0 0 1.5rem 0;
 
 [**Batac ALR**, Merrill KA, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence among people managing allergy. Ann Allergy Asthma Immunol. 2023 Dec;131(6):775-777. doi: 10.1016/j.anai.2023.08.600. Epub 2023 Aug 29. PMID: 37652234.](https://doi.org/10.1016/j.anai.2023.08.600)
 
-[**Batac ALR**, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review. J Allergy Clin Immunol Glob. 2023 May;2(2):100079. doi: 10.1016/j.jacig.2023.100079. Epub 2023 Feb 8. PMID: 36785543; PMCID: PMC9907785. **(Invited submission; recognised among the “Most Read Articles” in J Allergy Clin Immunol Glob [as of May 25, 2023])**](https://doi.org/10.1016/j.jacig.2023.100079)
+[**Batac ALR**, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review. J Allergy Clin Immunol Glob. 2023 May;2(2):100079. doi: 10.1016/j.jacig.2023.100079. Epub 2023 Feb 8. PMID: 36785543; PMCID: PMC9907785.](https://doi.org/10.1016/j.jacig.2023.100079) **(Invited submission; Article ranked among the most-read in Journal of Allergy and Clinical Immunology: Global (May 2023))**
 
 [Protudjer JLP, **Batac ALR**, Merrill KA, Golding MA, Knibb RC. Guidance to enhance participant validity during virtual qualitative interviews and focus groups. Ann Allergy Asthma Immunol. 2023 Apr;130(4):522-524. doi: 10.1016/j.anai.2023.01.005. Epub 2023 Jan 14. PMID: 36649832.](https://doi.org/10.1016/j.anai.2023.01.005)
 
 [Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol. Allergy Asthma Clin Immunol. 2022 Sep 18;18(1):83. doi: 10.1186/s13223-022-00723-w. PMID: 36117177; PMCID: PMC9482742.](https://doi.org/10.1186/s13223-022-00723-w)
 
-[Golding MA, **Batac ALR**, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. doi: 10.1111/pai.13743. PMID: 35338731. **(Editor’s Choice article; selected for the virtual issue “Editor’s Choice and Junior Member Must Read Articles” in Pediatr Allergy Immunol [as of March 16, 2022])**](https://doi.org/10.1111/pai.13743)
+[Golding MA, **Batac ALR**, Gunnarsson NV, Ahlstedt S, Middelveld R, Protudjer JLP. The burden of food allergy on children and teens: A systematic review. Pediatr Allergy Immunol. 2022 Mar;33(3):e13743. doi: 10.1111/pai.13743. PMID: 35338731.]((https://doi.org/10.1111/pai.13743)) **(Editor’s Choice article; part of the virtual issue [“Editor’s Choice and Junior Member Must Read Articles”](https://onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1399-3038.editors-choice-junior-member-must-read-articles) in Pediatric Allergy and Immunology)**
 
 <div style="margin-top: 2rem;"></div>
 
