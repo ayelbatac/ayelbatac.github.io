@@ -188,6 +188,105 @@ format:
 
 ```{=html}
 
+<!-- Full-width Research section -->
+<div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
+
+  <!-- Section Header and Button -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap;">
+    <h2 style="color: #1B153E; font-weight: bold; margin: 0; border: none;">MY RESEARCH</h2>
+
+    <a href="research.qmd" style="background-color: white; border: 2px solid #DE2221; padding: 0.6rem 1.2rem; text-decoration: none; color: #DE2221; font-weight: bold; border-radius: 6px; transition: background-color 0.3s ease;">
+      Learn more about my work
+    </a>
+  </div>
+
+  <!-- Research Theme Cards -->
+  <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+
+    <!-- Theme Tile -->
+    <a href="stbbi.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
+
+        <img src="stbbi2.png" alt="STBBI" style="width: 100%; height: 200px; object-fit: cover;">
+
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Sexually Transmitted and Blood-Borne Infections
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            Reimagining STBBI testing through community, equity, and innovation.
+          </p>
+          
+        </div>
+      </div>
+    </a>
+
+    <!-- Theme Tile -->
+    <a href="tb.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
+
+        <img src="tb2.png" alt="Tuberculosis" style="width: 100%; height: 200px; object-fit: cover;">
+
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Tuberculosis
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            Strengthening tuberculosis outbreak response in remote Arctic communities.
+          </p>
+        </div>
+      </div>
+    </a>
+
+    <!-- Mpox -->
+    <a href="mpox.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
+
+        <img src="mpox2.png" alt="Mpox" style="width: 100%; height: 200px; object-fit: cover;">
+
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Mpox
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            Translating emerging mpox evidence into public health action.
+          </p>
+        </div>
+      </div>
+    </a>
+    
+   <!-- Anaphylaxis -->
+    <a href="anaphylaxis.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
+
+        <img src="anaphylaxis2.png" alt="Anaphylaxis" style="width: 100%; height: 200px; object-fit: cover;">
+
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Anaphylaxis
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            Improving access to life-saving anaphylaxis treatment worldwide.
+          </p>
+        </div>
+      </div>
+    </a>
+
+  </div>
+</div>
+
+```
+
+```{=html}
+
 <!-- Keep Exploring Section -->
 <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
 
