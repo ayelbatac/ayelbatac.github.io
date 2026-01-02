@@ -87,6 +87,35 @@ ul.task-list li input[type="checkbox"] {
   }
 </style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -220,6 +249,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="institutional-reports" class="level2">
 <h2 class="anchored" data-anchor-id="institutional-reports">Institutional Reports</h2>
 <p><a href="https://nccid.ca/debrief/mpox/"><strong>Batac ALR</strong>, Haworth-Brockman M. Mpox disease debrief. Winnipeg (MB): National Collaborating Centre for Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba; 2025 Feb.&nbsp;Available from nccid.ca/debrief/mpox.</a></p>
+<p><span class="math inline">\(~\)</span></p>
+<p><span class="math inline">\(~\)</span></p>
 <hr>
 <!-- Research Platforms Section -->
 <div style="
