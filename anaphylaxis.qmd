@@ -22,16 +22,16 @@ $~$
 
 ## Understanding Global Variation in Anaphylaxis Treatment
 
-There is growing recognition of **global variation** in how anaphylaxis is treated across different healthcare systems. While adrenaline is the recommended first-line treatment, evidence shows it remains under-utilised worldwide, with antihistamines and glucocorticoids often used instead in emergency and acute care settings. This variation may be influenced by differences in clinical training, national guidelines, healthcare infrastructure, or cultural practices.
+There is growing recognition of **global variation** in how anaphylaxis is treated across different healthcare systems. While adrenaline is the recommended first-line treatment, evidence shows it remains under-utilized worldwide, with antihistamines and glucocorticoids often used instead in emergency and acute care settings. This variation may be influenced by differences in clinical training, national guidelines, healthcare infrastructure, or cultural practices.
 
-Our current research is synthesising global evidence on:
+Our current research is synthesizing global evidence on:
 
 - **International differences** in anaphylaxis treatment and outcomes  
 - **Access to adrenaline**, including auto-injectors (AAIs) and ampoules  
 - **Alignment with clinical guidelines** across healthcare systems  
 - **Barriers to timely care**, including regulatory, cost, and training constraints  
 
-This research aims to characterise diverse treatment practices across global contexts. The findings are intended to **inform policy recommendations** that support more consistent, evidence-based emergency care for anaphylaxis worldwide.
+This research aims to characterize diverse treatment practices across global contexts. The findings are intended to **inform policy recommendations** that support more consistent, evidence-based emergency care for anaphylaxis worldwide.
 
 $~$
 
@@ -40,7 +40,7 @@ $~$
 In this work, I examined the introduction and integration of adrenaline auto-injectors (AAIs) in mainland China, highlighting several persistent challenges in a context where access had historically been limited:
 
 - Outlined the evolving landscape of anaphylaxis management in China    
-- Highlighted systemic barriers to EAI access and implementation  
+- Highlighted systemic barriers to AAI access and implementation  
 - Identified gaps in clinical training and public awareness  
 - Explored how global best practices may inform national protocols  
 - Contributed to broader discussions on health equity and emergency preparedness  
@@ -51,13 +51,13 @@ $~$
 
 ## Contribution to Public Health
 
-Anaphylaxis is both a clinical emergency and a public health concern. Our research addresses critical gaps in how anaphylaxis is recognised, treated, and prevented across diverse health systems. By examining variations in treatment practices and barriers to adrenaline access, this work informs strategies to reduce preventable morbidity and mortality on a population level.
+Anaphylaxis is both a clinical emergency and a public health concern. Our research addresses critical gaps in how anaphylaxis is recognized, treated, and prevented across diverse health systems. By examining variations in treatment practices and barriers to adrenaline access, this work informs strategies to reduce preventable morbidity and mortality on a population level.
 
 Key public health contributions include:
 
 - Generating evidence to support **policy and regulatory reform** on adrenaline access  
 - Informing **training and education strategies** for clinicians, emergency responders, and the public  
-- Identifying opportunities to **standardise emergency care protocols** in alignment with global best practices  
+- Identifying opportunities to **standardize emergency care protocols** in alignment with global best practices  
 - Contributing to **health equity initiatives** by addressing disparities in access to life-saving treatment  
 - Supporting **international collaboration** on anaphylaxis research and response planning  
 
@@ -92,7 +92,7 @@ $~$
 
     <!-- Description -->
     <p>
-      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with particular attention to the introduction of adrenaline auto-injectors. It highlights persistent challenges, such as regulatory barriers, cost constraints, and limited provider awareness, and offers policy recommendations to support the integration of standardised, life-saving interventions into national emergency response systems.
+      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with particular attention to the introduction of adrenaline auto-injectors. It highlights persistent challenges, such as regulatory barriers, cost constraints, and limited provider awareness, and offers policy recommendations to support the integration of standardized, life-saving interventions into national emergency response systems.
     </p>
 
     <!-- Citation -->
@@ -108,9 +108,7 @@ $~$
 
 $~$
 
-$~$
-
-*Stay tuned — publications and data visualisations related to this work will be made available here soon.*
+*Stay tuned — publications and data visualizations related to this work will be made available here soon.*
 
 $~$
 
