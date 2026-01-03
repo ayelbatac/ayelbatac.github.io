@@ -18,7 +18,17 @@ format:
 
 <ul style="list-style: none; padding: 0; margin-top: 1rem;">
 
-  <!-- Blog Post 3 (Most Recent) -->
+  <!-- Blog Post 4 (Most Recent) -->
+  <li style="margin-bottom: 1.5rem;">
+    <a href="syphilis-self-testing.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
+       onmouseover="this.style.color='#DE2221'" 
+       onmouseout="this.style.color='#1B153E'">
+      Syphilis Self-Testing: Access Is the Intervention
+    </a>
+    <div style="font-size: 0.9rem; color: #555;">Published: Jan 2, 2026</div>
+  </li>
+  
+  <!-- Blog Post 3 -->
   <li style="margin-bottom: 1.5rem;">
     <a href="u-equals-u.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 

@@ -22,7 +22,7 @@ format:
 
 ## Peer-Reviewed Publications
 
-[**Batac ALR**, Marks M, Tucker JD, Peeling RŴ. Syphilis self-testing and implications for syphilis control and prevention. J Clin Microbiol. 2025 Oct 21:e0098225. doi: 10.1128/jcm.00982-25. Epub ahead of print. PMID: 41117600.](https://doi.org/10.1128/jcm.00982-25) **(Invited submission; selected as Editor's Pick)**
+[**Batac ALR**, Marks M, Tucker JD, Peeling RŴ. Syphilis self-testing and implications for syphilis control and prevention. J Clin Microbiol. 2025 Dec 17;63(12):e0098225. doi: 10.1128/jcm.00982-25. Epub 2025 Oct 21. PMID: 41117600; PMCID: PMC12710337.](https://doi.org/10.1128/jcm.00982-25) **(Invited submission; selected as Editor's Pick)**
 
 [**Batac ALR**, Merrill KA, Golding MA, Harbottle Z, Askin N, Bégin P, Ben-Shoshan M, Ladouceur E, Protudjer V, Protudjer JLP. Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy. J Allergy Clin Immunol Glob. 2025 Jun 23;4(4):100522. doi: 10.1016/j.jacig.2025.100522. PMID: 40740414; PMCID: PMC12309611.](https://doi.org/10.1016/j.jacig.2025.100522) **(Invited submission)**
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Blog - Ayel L. R. Batac</title>
+<title>Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,19 +68,48 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <!-- meta.html -->
-<meta property="og:title" content="Blog - Ayel L. R. Batac">
+<meta property="og:title" content="Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://ayelbatac.github.io/logo.png">
 <meta property="og:url" content="https://ayelbatac.github.io">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Blog - Ayel L. R. Batac">
+<meta name="twitter:title" content="Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://ayelbatac.github.io/logo.png">
-<title>Blog - Ayel L. R. Batac</title>
-<meta name="description" content="Reflections on global health, infectious diseases, and knowledge translation in public health research.">
-<meta name="keywords" content="Ayel Batac, blog, global health, public health, infectious diseases, HIV, STBBIs, knowledge translation, health equity, epidemiologist, science communication, Canada, Philippines">
+<title>Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac</title>
+<meta name="description" content="A reflection on syphilis self-testing, diagnostic systems, and why access to testing remains a public health challenge even in well-resourced settings.">
+<meta name="keywords" content="syphilis, syphilis self-testing, diagnostics, decentralized diagnostics, STBBIs, public health, health equity, testing access, global health, knowledge translation, Ayel Batac">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -158,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog - Ayel L. R. Batac</h1>
+<h1 class="title">Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac</h1>
 </div>
 
 
@@ -175,43 +204,184 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="blog" class="level1">
-<h1>BLOG</h1>
-<p style="color: #1B153E; font-size: 1.2rem; margin-top: 1.5rem;">
-Latest Posts
-</p>
-<ul style="list-style: none; padding: 0; margin-top: 1rem;">
-<!-- Blog Post 4 (Most Recent) -->
-<li style="margin-bottom: 1.5rem;">
-<a href="./syphilis-self-testing.html" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'"> Syphilis Self-Testing: Access Is the Intervention </a>
-<div style="font-size: 0.9rem; color: #555;">
-Published: Jan 2, 2026
-</div>
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+  a.study-button {
+    background-color: #1B153E;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  a.study-button:hover {
+    background-color: #DE2221;
+    color: white;
+  }
+</style>
+<section id="syphilis-self-testing-access-is-the-intervention" class="level1">
+<h1>Syphilis Self-Testing: Access Is the Intervention</h1>
+<p>January 2, 2026</p>
+<div style="
+  border-left: 6px solid #1B153E;
+  background-color: #F4F3FA;
+  padding: 1.2rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+">
+<strong style="color:#1B153E; font-size:1.05rem;"> TL;DR </strong>
+<ul style="margin-top: 0.75rem; color:#1B153E;">
+<li>
+<strong>Syphilis is treatable</strong>, yet cases continue to rise.
 </li>
-<!-- Blog Post 3 -->
-<li style="margin-bottom: 1.5rem;">
-<a href="./u-equals-u.html" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'"> U = U: The Science, the Message, and Why It Matters </a>
-<div style="font-size: 0.9rem; color: #555;">
-Published: May 23, 2025
-</div>
+<li>
+The problem is not treatment. <strong>It’s access to timely testing.</strong>
 </li>
-<!-- Blog Post 2 -->
-<li style="margin-bottom: 1.5rem;">
-<a href="./stbbi-talk.html" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'"> Let’s Talk About STBBIs: What They Are, Why They Matter, and What You Can Do </a>
-<div style="font-size: 0.9rem; color: #555;">
-Published: May 10, 2025
-</div>
+<li>
+Centralized diagnostic systems work well for many, but still miss people at highest risk.
 </li>
-<!-- Blog Post 1 -->
-<li style="margin-bottom: 1.5rem;">
-<a href="./why-i-work-in-hiv.html" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'"> Why I Work in HIV and STBBIs: A Personal and Professional Journey </a>
-<div style="font-size: 0.9rem; color: #555;">
-Published: May 7, 2025
-</div>
+<li>
+Decentralized approaches, including <strong>syphilis self-testing</strong>, have expanded access in many global settings.
+</li>
+<li>
+Self-testing is not a replacement for healthcare, but a <strong>powerful entry point into care</strong> when designed with equity in mind.
 </li>
 </ul>
+</div>
+<p>What happens when a health system is designed to work well, but not for everyone?</p>
+<p>I have lived in both Southeast Asia and Canada, and have experienced health systems that approach access and diagnostics in very different ways. Growing up across these two contexts shaped how I understand health, access, and who systems are really built for, long before I had the language of public health to describe it.</p>
+<p>The contrast between these settings is striking. In the Philippines, access to healthcare often depends on proximity, cost, and community. In Canada, healthcare is more structured and centralized, accessed through clinics, hospitals, and laboratories. Over time, and through training and experience in public health, these differences became clearer, especially in how diagnostic systems influence who is reached and who is missed.</p>
+<p>That perspective has stayed with me, and it shaped a <a href="https://doi.org/10.1128/jcm.00982-25"><strong>recent invited commentary</strong></a> I co-authored with colleagues in the <a href="https://journals.asm.org/journal/jcm"><strong>Journal of Clinical Microbiology</strong></a>.</p>
+<p>I was fortunate to work on this commentary with colleagues who are global leaders in diagnostics and infectious disease research: <a href="https://www.lshtm.ac.uk/aboutus/people/marks.michael"><strong>Dr.&nbsp;Michael Marks</strong></a>, <a href="https://www.lshtm.ac.uk/aboutus/people/tucker.joe"><strong>Dr.&nbsp;Joseph Tucker</strong></a>, and <a href="https://www.lshtm.ac.uk/aboutus/people/peeling.rosanna"><strong>Dr.&nbsp;Rosanna Peeling</strong></a>. Their work has helped shape how we think about diagnostics, self-testing, and health system design across diverse settings.</p>
+<p>At the heart of our commentary is a deceptively simple question:</p>
+<blockquote class="blockquote">
+<p><strong>If syphilis is treatable, why are cases still rising, and who is being missed by the way we test?</strong></p>
+</blockquote>
+<section id="centralized-diagnostics-strengths-and-limits" class="level3">
+<h3 class="anchored" data-anchor-id="centralized-diagnostics-strengths-and-limits">Centralized Diagnostics: Strengths and Limits</h3>
+<p>In Canada, sexually transmitted and blood-borne infections (STBBI) testing relies heavily on a centralized diagnostic model. Most testing occurs in laboratories and hospitals. Specimens are sent to central laboratories, confirmatory testing follows established algorithms, and results are reviewed by clinicians who can initiate treatment and arrange follow-up care.</p>
+<p>This system has real strengths. Centralized diagnostics support high-quality laboratory confirmation, clinical oversight, and strong linkage to care. For many people, this model works well.</p>
+<p>But it also assumes something that is not always true. It assumes people can and will engage with clinic-based care.</p>
+<p><a href="https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/sexually-transmitted-blood-borne-infections-activities-2018-2019-to-2022-2023.html"><strong>Across Canada, STBBIs have increased steadily over the past decade</strong></a>, including ongoing rises in syphilis. These trends have drawn attention to longstanding challenges in ensuring timely access to testing, follow-up, and prevention services.</p>
+<p>Centralized systems can contribute to delayed diagnoses, uneven geographic access, and limited surge capacity during outbreaks. For individuals facing stigma, geographic isolation, limited mobility, housing precarity, or mistrust in healthcare systems, laboratory-based testing can be difficult to access or avoided altogether. The result is fewer opportunities for testing, longer intervals between infection and diagnosis, and reduced effectiveness of surveillance and outbreak response.</p>
+<p>Over time, I have come to see that these are not failures of individuals, but failures of design. A system can be technically strong and still miss those at highest risk.</p>
+</section>
+<section id="what-decentralized-diagnostics-have-shown-us" class="level3">
+<h3 class="anchored" data-anchor-id="what-decentralized-diagnostics-have-shown-us">What Decentralized Diagnostics Have Shown Us</h3>
+<p>In many parts of Asia and Africa, decentralized diagnostic strategies have emerged not as a convenience, but as a necessity. Rapid self-tests for STBBIs are common across much of Asia not because prevalence is higher, but because these tools fit the region’s public health realities.</p>
+<p>Several practical reasons explain their widespread use.</p>
+<div style="margin-left: 1rem;">
+<p><strong>1. Large populations and limited laboratory access</strong></p>
+<p>Many countries across Asia serve very large and diverse populations, including rural and remote communities where access to full laboratory infrastructure is limited. Rapid tests do not require advanced equipment, can be used in small clinics or outreach settings, and deliver results within minutes rather than days.</p>
+<p><strong>2. A public health focus on “test and treat”</strong></p>
+<p>Rapid tests support same-day diagnosis and treatment. This is critical where patients may not return for follow-up visits, where travel costs and time off work are real barriers, and where delays increase the risk of onward transmission.</p>
+<p><strong>3. Cost and scalability</strong></p>
+<p>Compared to laboratory-based polymerase chain reaction (PCR) or culture testing, rapid tests are generally cheaper per patient, easier to distribute at scale, and less dependent on highly trained laboratory personnel.</p>
+<p><strong>4. Integration into existing programs</strong></p>
+<p>Rapid self-tests for STBBI are often bundled with HIV self-testing, antenatal care, and services for sex workers, migrants, and other key populations to prevent congenital syphilis and reduce HIV transmission.</p>
+<p><strong>5. Stigma and discretion</strong></p>
+<p>In some settings, STBBI-related stigma discourages clinic visits. Rapid self-tests help by enabling fast, private testing, reducing the need for multiple visits, and supporting outreach-based or anonymous testing models.</p>
+</div>
+<p>There is an important nuance here. Rapid tests trade some diagnostic precision for access. They are excellent tools for screening, but reactive results often require confirmatory laboratory testing. This is not a sign of lower standards, but of context-appropriate medicine that prioritizes reach, timeliness, and public health impact.</p>
+<p>This is something I see clearly through my work in China.</p>
+<p>Multiple randomized controlled trials in China have demonstrated the promise of syphilis self-testing, particularly when integrated with HIV testing. One pragmatic trial among men who have sex with men evaluated the secondary distribution of dual HIV and syphilis self-testing kits within social networks. Compared with site-based testing, participants who received self-testing kits tested more frequently and were more likely to motivate others in their networks to test. Importantly, individuals with reactive self-test results accessed laboratory-based confirmatory testing, and no adverse events were reported, including no evidence of social harm, coercion, or negative impacts on mental health.</p>
+<div style="margin: 1rem 0;">
+<a href="https://doi.org/10.2196/70775" class="study-button">Read the China Study here</a>
+</div>
+<p>Similar evidence comes from Zimbabwe. A randomized controlled trial comparing facility-based syphilis testing with community-based self-testing among gay, bisexual, and transgender men found higher uptake in the self-testing arm, along with lower costs per test. While barriers remained, bringing testing into communities increased uptake and reduced costs for users.</p>
+<div style="margin: 1rem 0;">
+<a href="https://doi.org/10.1071/sh23038" class="study-button">Read the Zimbabwe Study here</a>
+</div>
+<p>Across settings, decentralized approaches have expanded diagnostic reach, shortened the time from testing to results, reduced pressure on central laboratories, and improved responsiveness during outbreaks. Most importantly, they have reached people who were not being reached before.</p>
+<blockquote class="blockquote">
+<p><strong>For me, this reinforces a simple truth: how we design testing systems determines who gets counted, and who gets care.</strong></p>
+</blockquote>
+</section>
+<section id="where-syphilis-self-testing-fits-in" class="level3">
+<h3 class="anchored" data-anchor-id="where-syphilis-self-testing-fits-in">Where Syphilis Self-Testing Fits In</h3>
+<p>Syphilis self-testing allows individuals to test themselves, typically using a finger-prick blood sample, outside of a clinic setting and receive results within minutes.</p>
+<p>Recently, the <a href="https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis"><strong>first over-the-counter syphilis self-test was authorized in the United States</strong></a>. This represents a meaningful shift in how we think about STI diagnostics, particularly in high-income countries that have long relied almost exclusively on centralized laboratory models.</p>
+<p>Evidence from multiple countries shows that syphilis self-tests are accurate, usable, and acceptable. Many users are first-time testers, meaning people who had not previously accessed clinic-based testing at all.</p>
+<p>That alone makes syphilis self-testing worth paying attention to.</p>
+</section>
+<section id="self-testing-as-an-entry-point-to-care" class="level3">
+<h3 class="anchored" data-anchor-id="self-testing-as-an-entry-point-to-care">Self-Testing as an Entry Point to Care</h3>
+<p>Syphilis self-testing is not a stand-alone solution.</p>
+<p>Current self-tests detect <a href="https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/syphilis/screening-diagnostic-testing.html"><strong>treponemal antibodies</strong></a>, which can remain positive for life. Reactive results always require confirmatory laboratory testing. Clear instructions and strong linkage to care are essential to avoid confusion or harm.</p>
+<p>When positioned correctly, self-testing can function as a powerful entry point into care, particularly for people who are underserved by centralized systems.</p>
+<p>Experience with HIV self-testing offers a clear lesson. Impact depends not only on the test itself, but on the system around it. Community distribution, user support, referral pathways, and public investment are what turn diagnostics into effective public health tools.</p>
+<p>Syphilis self-testing must follow the same principle.</p>
+</section>
+<section id="designing-for-equity" class="level3">
+<h3 class="anchored" data-anchor-id="designing-for-equity">Designing for Equity</h3>
+<p>Self-testing is not automatically equitable.</p>
+<p>If syphilis self-tests are only available online, in pharmacies, or at a cost, they risk excluding people without internet access, stable housing, or disposable income. If linkage to care is not embedded, individuals may be left with results but no support.</p>
+<p>From my perspective, shaped by lived experience and global public health work, the goal should not be to choose between centralized or decentralized diagnostics. The goal should be to combine their strengths.</p>
+<p><strong>We need systems that preserve strong linkage to care while also meeting people where they are.</strong></p>
+<div style="
+  border: 1.5px solid #1B153E;
+  background-color: #FFFFFF;
+  padding: 1.5rem;
+  margin: 2.5rem 0;
+  border-radius: 6px;
+">
+<p><strong style="
+    display: block;
+    color: #1B153E;
+    font-size: 1.05rem;
+    margin-bottom: 0.75rem;
+  "> What This Means in Practice </strong></p>
+<ul style="color:#1B153E; margin-left: 1.1rem;">
+<li>
+<strong>For policymakers:</strong> invest in hybrid diagnostic models that combine accessibility with strong linkage to care.
+</li>
+<li>
+<strong>For clinicians and public health practitioners:</strong> view self-testing as an entry point, not a threat to care.
+</li>
+<li>
+<strong>For communities and advocates:</strong> push for testing options that reflect how people actually live, move, and seek care.
+</li>
+<li>
+<strong>For all of us:</strong> question who is being missed when systems are designed for convenience rather than equity.
+</li>
+</ul>
+</div>
+</section>
+<section id="the-bottom-line" class="level3">
+<h3 class="anchored" data-anchor-id="the-bottom-line">The Bottom Line</h3>
+<p>Syphilis self-testing is not a silver bullet, but it is a meaningful intervention.</p>
+<p>Used thoughtfully, it can expand access, normalize testing, activate social networks, and help reach people who are currently being missed, even in countries with well-established healthcare systems.</p>
+<p><strong>Access without equity is not access.</strong><br>
+<strong>Testing that works for some, but not for all, is not enough.</strong></p>
+<p>Thank you for being here.<br>
+Let’s keep talking.</p>
+<p>-Ayel</p>
+<p><span class="math inline">\(~\)</span></p>
+<hr>
+<p><span class="math inline">\(~\)</span></p>
+<section id="read-the-commentary" class="level4">
+<h4 class="anchored" data-anchor-id="read-the-commentary">Read the Commentary</h4>
+<p>The <a href="https://doi.org/10.1128/jcm.00982-25"><strong>full commentary</strong></a> is available in the <a href="https://journals.asm.org/journal/jcm"><strong>Journal of Clinical Microbiology</strong></a> (Editor’s Pick).</p>
+<div style="margin: 1rem 0;">
+<a href="https://doi.org/10.1128/jcm.00982-25" class="study-button">Read the full commentary here</a>
+</div>
+<div style="font-size: 0.70em; margin-top: 2rem;">
+<p>Commentary Authors</p>
+<p>This commentary was written by a team of researchers whose work spans diagnostics, infectious diseases, and global public health, with a shared focus on access, equity, and real-world impact.</p>
+<p>I am <strong>Ayel L. R. Batac</strong>, a MSc Public Health student and researcher at the London School of Hygiene &amp; Tropical Medicine, and an affiliated researcher with the University of North Carolina at Chapel Hill and SESH Global, the China hub of the Social Innovation in Health Initiative. My research focuses on the social epidemiology of sexually transmitted and blood-borne infections, with an emphasis on inequities in access to testing and prevention among marginalized populations.</p>
+<p><a href="https://www.lshtm.ac.uk/aboutus/people/marks.michael"><strong>Dr.&nbsp;Michael Marks</strong></a> is a Professor of Medicine at the London School of Hygiene &amp; Tropical Medicine and an infectious diseases consultant at the Hospital for Tropical Diseases, University College London Hospitals NHS Foundation Trust. His research focuses on the epidemiology, diagnosis, and control of infectious diseases, including syphilis and other neglected tropical diseases, with particular emphasis on community-based treatment strategies and integrated approaches to disease control.</p>
+<p><a href="https://www.lshtm.ac.uk/aboutus/people/tucker.joe"><strong>Dr.&nbsp;Joseph Tucker</strong></a> is a Professor of Global Health at the London School of Hygiene &amp; Tropical Medicine and a Professor of Medicine at the University of North Carolina at Chapel Hill. His work centers on the prevention and control of sexually transmitted infections, including syphilis, and on the use of crowdsourcing, social networks, and community-driven approaches to expand access to testing and care, particularly in global and low-resource settings.</p>
+<p><a href="https://www.lshtm.ac.uk/aboutus/people/peeling.rosanna"><strong>Dr.&nbsp;Rosanna Peeling</strong></a> is an Emeritus Professor of Diagnostics Research at the London School of Hygiene &amp; Tropical Medicine and a global leader in diagnostic innovation. Trained as a medical microbiologist, her work has been foundational in shaping how diagnostics for HIV, syphilis, and other infectious diseases are developed, evaluated, and implemented across diverse global contexts.</p>
+<p>Reference: Batac ALR, Marks M, Tucker JD, Peeling RŴ. Syphilis self-testing and implications for syphilis control and prevention. J Clin Microbiol. 2025 Dec 17;63(12):e0098225. doi: 10.1128/jcm.00982-25. Epub 2025 Oct 21. PMID: 41117600; PMCID: PMC12710337.</p>
+</div>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
