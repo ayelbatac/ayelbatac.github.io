@@ -16,15 +16,15 @@ format:
 
 $~$
 
-**Sexually transmitted and blood-borne infections (STBBIs)** continue to represent a major global public health challenge. Despite increasing awareness, **testing rates** for infections such as gonorrhoea and chlamydia **remain low worldwide**, particularly among marginalised populations including **men who have sex with men (MSM)**. Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
+**Sexually transmitted and blood-borne infections (STBBIs)** continue to represent a major global public health challenge. Despite increasing awareness, **testing rates** for infections such as gonorrhoea and chlamydia **remain low worldwide**, particularly among marginalized populations including **men who have sex with men (MSM)**. Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
 
-In many low- and middle-income countries (LMICs), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalisation often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
+In many low- and middle-income countries (LMICs), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalization often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
 
 $~$
 
 ## Social Innovation for Health: The Pay-It-Forward Approach
 
-The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STBBI prevention and testing, it offers individuals free diagnostic services—such as testing for gonorrhoea and chlamydia—and then invites them to support another person’s access to testing through voluntary contributions or messages of encouragement.
+The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STBBI prevention and testing, it offers individuals free diagnostic services—such as testing for gonorrhea and chlamydia—and then invites them to support another person’s access to testing through voluntary contributions or messages of encouragement.
 
 The approach is grounded in three key principles:
 
@@ -38,7 +38,7 @@ Unlike traditional fee-for-service or centrally funded systems, the pay-it-forwa
 
 The pay-it-forward approach represents more than a mechanism for service delivery; it redefines how communities participate in public health. When combined with community engagement, it creates enabling environments where testing becomes accessible, supportive, and responsive to stigma.
 
-Community engagement activities—including peer outreach, anonymous messaging, and local advocacy—help strengthen collective ownership of sexual health and reinforce trust between health systems and communities. Together, these efforts:
+Community engagement activities—including peer outreach, peer messaging, and local advocacy—help strengthen collective ownership of sexual health and reinforce trust between health systems and communities. Together, these efforts:
 
 - Empower individuals to take part in collective health promotion  
 - Foster trust and cooperation between communities and health services  
@@ -46,10 +46,10 @@ Community engagement activities—including peer outreach, anonymous messaging, 
 
 ## Ongoing Research and Evidence Generation
 
-My current research evaluates the effectiveness and implementation of the pay-it-forward approach among MSM in China through a **randomised controlled trial (RCT)**. Key areas of focus include:
+My current research evaluates the effectiveness and implementation of the pay-it-forward approach among MSM in China through a **randomized controlled trial (RCT)**. Key areas of focus include:
 
 - Uptake of STBBI testing across different behavioural intervention arms  
-- Giving behaviours as indicators of community engagement and reciprocity  
+- Prosocial behaviours as indicators of community engagement and reciprocity  
 - Clinic-level and demographic determinants of testing outcomes  
 - Adaptation of a digital, self-sampling version of the pay-it-forward approach to enhance accessibility in low-resource contexts  
 
@@ -59,7 +59,7 @@ This research contributes to the growing global evidence base on how social inno
 
 The research applies a **mixed-methods design** to capture both impact and implementation outcomes:
 
-- **Quantitative analysis:** Randomised controlled trials assess behavioural and clinical outcomes, including testing uptake and donation patterns.  
+- **Quantitative analysis:** Randomized controlled trials assess behavioural and clinical outcomes, including testing uptake and donation patterns.  
 - **Qualitative inquiry:** In-depth interviews with participants and providers explore motivations, perceived barriers, and emotional responses.  
 - **Process evaluation:** Implementation fidelity, feasibility, and scalability are assessed under real-world conditions.  
 
@@ -69,7 +69,7 @@ This comprehensive approach supports both rigorous evidence generation and conte
 
 The pay-it-forward approach demonstrates how social innovation can advance equity, inclusion, and sustainability within public health systems. Evidence from ongoing research highlights its potential to:
 
-- Expand access to essential health services through community-driven and decentralised financing models  
+- Expand access to essential health services through community-driven and decentralized financing models  
 - Promote stigma-sensitive and culturally responsive testing practices tailored to the experiences of MSM and other key populations  
 - Strengthen the interface between health systems and communities by embedding social innovation within service delivery  
 - Contribute to global efforts toward universal health coverage and equitable access to sexual and reproductive health services  
@@ -78,9 +78,7 @@ By framing STBBI testing as a **collective act of care**, the pay-it-forward app
 
 $~$
 
-$~$
-
-*Stay tuned — publications and data visualisations related to this work will be made available here soon.*
+*Stay tuned — publications and data visualizations related to this work will be made available here soon.*
 
 <style>
   h1, h2, h3, p {
