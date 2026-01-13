@@ -57,9 +57,9 @@ January 2, 2026
 
 What happens when a health system is designed to work well, but not for everyone?
 
-I have lived in both Southeast Asia and Canada, and have experienced health systems that approach access and diagnostics in very different ways. Growing up across these two contexts shaped how I understand health, access, and who systems are really built for, long before I had the language of public health to describe it.
+I have lived in both Southeast Asia and North America, and have experienced health systems that approach access and diagnostics in very different ways. Growing up across these two contexts shaped how I understand health, access, and who systems are really built for, long before I had the language of public health to describe it.
 
-The contrast between these settings is striking. In the Philippines, access to healthcare often depends on proximity, cost, and community. In Canada, healthcare is more structured and centralized, accessed through clinics, hospitals, and laboratories. Over time, and through training and experience in public health, these differences became clearer, especially in how diagnostic systems influence who is reached and who is missed.
+The contrast between these settings is striking. In many countries in Southeast Asia, access to healthcare often depends on proximity, cost, and community. In Canada and the United States, healthcare is more structured and centralized, accessed through clinics, hospitals, and laboratories. Over time, and through training and experience in public health, these differences became clearer, especially in how diagnostic systems influence who is reached and who is missed.
 
 That perspective has stayed with me, and it shaped a [**recent invited commentary**](https://doi.org/10.1128/jcm.00982-25) I co-authored with colleagues in the [**Journal of Clinical Microbiology**](https://journals.asm.org/journal/jcm).
 
@@ -71,7 +71,7 @@ At the heart of our commentary is a deceptively simple question:
 
 ### Centralized Diagnostics: Strengths and Limits
 
-In Canada, sexually transmitted and blood-borne infections (STBBI) testing relies heavily on a centralized diagnostic model. Most testing occurs in laboratories and hospitals. Specimens are sent to central laboratories, confirmatory testing follows established algorithms, and results are reviewed by clinicians who can initiate treatment and arrange follow-up care.
+In Canada, sexually transmitted and blood-borne infections (STBBI) testing relies heavily on a centralized diagnostic model. Most testing occurs in labs and hospitals. Specimens are sent to central laboratories, confirmatory testing follows established algorithms, and results are reviewed by clinicians who can initiate treatment and arrange follow-up care.
 
 This system has real strengths. Centralized diagnostics support high-quality laboratory confirmation, clinical oversight, and strong linkage to care. For many people, this model works well.
 
@@ -133,7 +133,7 @@ Across settings, decentralized approaches have expanded diagnostic reach, shorte
 
 Syphilis self-testing allows individuals to test themselves, typically using a finger-prick blood sample, outside of a clinic setting and receive results within minutes.
 
-Recently, the [**first over-the-counter syphilis self-test was authorized in the United States**](https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis). This represents a meaningful shift in how we think about STI diagnostics, particularly in high-income countries that have long relied almost exclusively on centralized laboratory models.
+Recently, the [**first over-the-counter syphilis self-test was authorized in the United States**](https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis). This represents a meaningful shift in how we think about STBBI diagnostics, particularly in high-income countries that have long relied almost exclusively on centralized laboratory models.
 
 Evidence from multiple countries shows that syphilis self-tests are accurate, usable, and acceptable. Many users are first-time testers, meaning people who had not previously accessed clinic-based testing at all.
 
