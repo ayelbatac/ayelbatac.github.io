@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac - Data Scientist and Epidemiologist"
+title: "Ayel L. R. Batac - Epidemiologist and Implementation Scientist"
 title-block: false
 format:
   html:
@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <meta name="google-site-verification" content="N1wLhwkq2kEpvFepxx8U30XxFHpsgKQDqCwYJtTHPuY" />
-        <meta name="description" content="Ayel L. R. Batac is a data scientist, epidemiologist, and global health researcher focused on infectious diseases, allergy, and clinical immunology, using mixed methods to advance equity and evidence-informed public health." />
-        <meta name="keywords" content="Ayel Batac, epidemiology, public health, global health, infectious diseases, clinical immunology, HIV, STI, sexually transmitted infections, STBBI, MSM, gonorrhea, chlamydia, mpox, tuberculosis, COVID-19, vaccine hesitancy, allergy, anaphylaxis, food allergy, atopic dermatitis, pediatrics, dermatology, evidence synthesis, knowledge synthesis, knowledge translation, scoping review, systematic review, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, Winnipeg, Manitoba, Canada, London, United Kingdom, UK, China, consultant" />
+        <meta name="description" content="Ayel L. R. Batac is an epidemiologist and implementation scientist working in global health, focused on evidence-informed public health across infectious disease and allergy and immunology." />
+        <meta name="keywords" content="Ayel Batac, epidemiologist, implementation scientist, public health, global health, evidence-informed public health, health equity, health systems, implementation science, mixed-methods research, infectious disease, HIV, sexually transmitted infections, STI, STBBI, MSM, gonorrhea, chlamydia, mpox, tuberculosis, COVID-19, vaccine hesitancy, allergy, clinical immunology, anaphylaxis, food allergy, atopic dermatitis, pediatrics, evidence synthesis, knowledge synthesis, knowledge translation, scoping review, systematic review, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, Winnipeg, Manitoba, Canada, London, United Kingdom, China" />
 ---
 
 ```{=html}
