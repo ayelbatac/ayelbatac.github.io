@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <title>About - Ayel L. R. Batac</title>
-        <meta name="description" content="Learn more about Ayel L. R. Batac, a data scientist, epidemiologist, and global health researcher whose work spans infectious diseases, allergy and clinical immunology, equity, knowledge translation, and mixed methods research." />
-        <meta name="keywords" content="Ayel Batac, data science, epidemiology, public health, global health, infectious diseases, clinical immunology, HIV, sexually transmitted infections, STI, STBBI, MSM, gonorrhea, chlamydia, mpox, tuberculosis, COVID-19, vaccine hesitancy, allergy, anaphylaxis, food allergy, atopic dermatitis, pediatrics, dermatology, evidence synthesis, knowledge synthesis, knowledge translation, scoping review, systematic review, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, National Collaborating Centre for Infectious Diseases, NCCID, Winnipeg, Manitoba, Canada, London, United Kingdom, UK, China" />
+        <meta name="description" content="Learn more about Ayel L. R. Batac, an epidemiologist and implementation scientist working in global health, whose research spans infectious disease, allergy and clinical immunology, health equity, and evidence-informed public health." />
+        <meta name="keywords" content="Ayel Batac, epidemiologist, implementation scientist, data science, epidemiology, public health, global health, evidence-informed public health, health equity, implementation science, mixed-methods research, infectious disease, HIV, sexually transmitted infections, STI, STBBI, MSM, gonorrhea, chlamydia, mpox, tuberculosis, COVID-19, vaccine hesitancy, allergy, clinical immunology, anaphylaxis, food allergy, atopic dermatitis, pediatrics, dermatology, evidence synthesis, knowledge synthesis, knowledge translation, scoping review, systematic review, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, National Collaborating Centre for Infectious Diseases, NCCID, Winnipeg, Manitoba, Canada, London, United Kingdom, UK, China" />
 ---
 
 # ABOUT
@@ -27,7 +27,7 @@ $~$
 <div style="flex: 1; min-width: 250px; margin-left: 1rem;">
 
 ### Ayel Luis R. Batac
-**Data Scientist and Epidemiologist**
+**Epidemiologist and Implementation Scientist**
 
 **Ayel holds the following positions:**
 
@@ -38,8 +38,6 @@ $~$
 - Member, Centre for Evaluation, London School of Hygiene and Tropical Medicine  
 - Research Affiliate, Institute for Global Health and Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill  
 - Research Affiliate, Dermatology Hospital of Southern Medical University (南方医科大学皮肤病医院), Guangdong Provincial Dermatology Hospital (广东省皮肤病医院)  
-- Research Affiliate, SESH Global (Social Engagement to Spur Health)  
-- Research Affiliate, Social Innovation in Health Initiative (SIHI) China, TDR, the Special Programme for Research and Training in Tropical Diseases, World Health Organization  
 - Research Partner, National Collaborating Centre for Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba  
 
 </div>
