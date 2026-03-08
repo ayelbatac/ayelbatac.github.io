@@ -165,8 +165,8 @@ const rawCollaborators = [
       "Michelle A. Halbrich, MD, FRCPC",
       "Thomas V. Gerstner, MD, FRCPC",
       "Zoe Harbottle, BSc, MAHN"
-  ],
-  papers: [
+            ],
+    papers: [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
       url: "https://doi.org/10.1111/pai.13743"
@@ -203,21 +203,21 @@ const rawCollaborators = [
       title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
-  ]
+          ]
 
   },
   {
-  lat: 49.9031,
-  lng: -97.1586,
-  city: "Winnipeg, Canada",
-  institution: "Section of Allergy and Clinical Immunology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-  names: [
+    lat: 49.9031,
+    lng: -97.1586,
+    city: "Winnipeg, Canada",
+    institution: "Section of Allergy and Clinical Immunology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
+    names: [
     "Elinor Simons, MD, PhD",
     "Elissa M. Abrams, MD, MPH, FRCPC",
     "Michelle A. Halbrich, MD, FRCPC",
     "Thomas V. Gerstner, MD, FRCPC"
-  ],
-  papers: [
+            ],
+    papers: [
     {
       title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
       url: "https://doi.org/10.1186/s13223-022-00723-w"
@@ -234,36 +234,36 @@ const rawCollaborators = [
       title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
       url: "https://doi.org/10.1186/s13223-023-00857-5"
     }
-  ]
-},
+            ]
+  },
   {
-  lat: 49.9031,
-  lng: -97.1586,
-  city: "Winnipeg, Canada",
-  institution: "Section of Dermatology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-  names: ["Jill A. Keddy-Grant, MD, FRCPC"],
-  papers: [
+    lat: 49.9031,
+    lng: -97.1586,
+    city: "Winnipeg, Canada",
+    institution: "Section of Dermatology, Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
+    names: ["Jill A. Keddy-Grant, MD, FRCPC"],
+    papers: [
     {
       title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
       url: "https://doi.org/10.1186/s13223-023-00857-5"
     }
-  ]
-},
-{
-  lat: 49.8951,
-  lng: -97.1466,
-  city: "Winnipeg, Canada",
-  institution: "Children's Hospital Research Institute of Manitoba",
-  names: [
-    "Elinor Simons, MD, PhD",
-    "Elissa M. Abrams, MD, MPH, FRCPC",
-    "Kaitlyn A. Merrill, BSc(Hons)",
-    "Leslie E. Roos, PhD, CPsych",
-    "Manvir Bhamra, BSc, RD",
-    "Michael A. Golding, MA",
-    "Zoe Harbottle, BSc, MAHN"
-  ],
-  papers: [
+            ]
+  },
+  {
+    lat: 49.8951,
+    lng: -97.1466,
+    city: "Winnipeg, Canada",
+    institution: "Children's Hospital Research Institute of Manitoba",
+    names: [
+      "Elinor Simons, MD, PhD",
+      "Elissa M. Abrams, MD, MPH, FRCPC",
+      "Kaitlyn A. Merrill, BSc(Hons)",
+      "Leslie E. Roos, PhD, CPsych",
+      "Manvir Bhamra, BSc, RD",
+      "Michael A. Golding, MA",
+      "Zoe Harbottle, BSc, MAHN"
+            ],
+    papers: [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
       url: "https://doi.org/10.1111/pai.13743"
@@ -300,15 +300,15 @@ const rawCollaborators = [
       title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
-  ]
-},
- {
-  lat: 49.8951,
-  lng: -97.1466,
-  city: "Winnipeg, Canada",
-  institution: "Neil John Maclean Health Sciences Library, University of Manitoba",
-  names: ["Mê-Linh Lê, MA, MLIS"],
-  papers: [
+            ]
+  },
+  {
+    lat: 49.8951,
+    lng: -97.1466,
+    city: "Winnipeg, Canada",
+    institution: "Neil John Maclean Health Sciences Library, University of Manitoba",
+    names: ["Mê-Linh Lê, MA, MLIS"],
+    papers: [
     {
       title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
       url: "https://doi.org/10.1111/cea.14493"
@@ -317,9 +317,9 @@ const rawCollaborators = [
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
     }
-  ]
-},
-{
+            ]
+  },
+  {
   lat: 49.8951,
   lng: -97.1466,
   city: "Winnipeg, Canada",
@@ -335,13 +335,19 @@ const rawCollaborators = [
       url: "https://doi.org/10.1016/j.jacig.2023.100079"
     }
   ]
-},
+  },
   {
     lat: 49.9039,
     lng: -97.1597,
     city: "Winnipeg, Canada",
     institution: "Department of Psychiatry, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-    names: ["Billy Hong, MD"]
+    names: ["Billy Hong, MD"],
+    papers: [
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
+    }
+            ]
   },
   {
     lat: 49.900150,
@@ -354,15 +360,15 @@ const rawCollaborators = [
       title: "Syphilis self-testing and implications for syphilis control and prevention",
       url: "https://doi.org/10.1128/jcm.00982-25"
     }
-    ]
+          ]
   },
   {
-  lat: 49.80962,
-  lng: -97.13270,
-  city: "Winnipeg, Canada",
-  institution: "Department of Psychology, Faculty of Arts, University of Manitoba",
-  names: ["Leslie E. Roos, PhD, CPsych"],
-  papers: [
+    lat: 49.80962,
+    lng: -97.13270,
+    city: "Winnipeg, Canada",
+    institution: "Department of Psychology, Faculty of Arts, University of Manitoba",
+    names: ["Leslie E. Roos, PhD, CPsych"],
+    papers: [
     {
       title: "vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol",
       url: "https://doi.org/10.1186/s13223-022-00723-w"
@@ -380,42 +386,42 @@ const rawCollaborators = [
       url: "https://doi.org/10.1186/s13223-023-00857-5"
     }
   ]
-},
-{
-  lat: 49.80962,
-  lng: -97.13270,
-  city: "Winnipeg, Canada",
-  institution: "Department of Economics, Faculty of Arts, University of Manitoba",
-  names: ["Gregory Mason, PhD"],
-  papers: [
+  },
+  {
+    lat: 49.80962,
+    lng: -97.13270,
+    city: "Winnipeg, Canada",
+    institution: "Department of Economics, Faculty of Arts, University of Manitoba",
+    names: ["Gregory Mason, PhD"],
+    papers: [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
     }
   ]
-},
-{
-  lat: 49.90389,
-  lng: -97.15972,
-  city: "Winnipeg, Canada",
-  institution: "Children's Allergy and Asthma Education Centre, Health Sciences Centre Winnipeg",
-  names: ["Jo-Anne St-Vincent, BN, RN"],
-  papers: [
+  },
+  {
+    lat: 49.90389,
+    lng: -97.15972,
+    city: "Winnipeg, Canada",
+    institution: "Children's Allergy and Asthma Education Centre, Health Sciences Centre Winnipeg",
+    names: ["Jo-Anne St-Vincent, BN, RN"],
+    papers: [
     {
       title: "Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study",
       url: "https://doi.org/10.1186/s13223-023-00857-5"
     }
   ]
-},
-{
-  lat: 49.8996,
-  lng: -97.1457,
-  city: "Winnipeg, Canada",
-  institution: "National Collaborating Centre for Infectious Diseases",
-  names: [
-    "Margaret Haworth-Brockman, MSc",
-    "Yoav Keynan, MD, PhD",
-    "Xiao-Ting Xie, PhD"
+  },
+  {
+    lat: 49.8996,
+    lng: -97.1457,
+    city: "Winnipeg, Canada",
+    institution: "National Collaborating Centre for Infectious Diseases",
+    names: [
+      "Margaret Haworth-Brockman, MSc",
+      "Yoav Keynan, MD, PhD",
+      "Xiao-Ting Xie, PhD"
   ],
   papers: [
     {
@@ -531,6 +537,10 @@ const rawCollaborators = [
     {
       title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
+    },
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
     }
   ]
 },
@@ -556,6 +566,10 @@ const rawCollaborators = [
     {
       title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
+    },
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
     }
   ]
 },
@@ -581,8 +595,12 @@ const rawCollaborators = [
     {
       title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
+    },
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
     }
-  ]
+          ]
 },
   {
     lat: 45.4725,
@@ -662,14 +680,26 @@ const rawCollaborators = [
     lng: -79.3928,
     city: "Toronto, Canada",
     institution: "Dalla Lana School of Public Health, University of Toronto",
-    names: ["Laura Y. Feldman, MD, MPH, CCFP"]
+    names: ["Laura Y. Feldman, MD, MPH, CCFP"],
+    papers: [
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
+    }
+            ]
   },
   {
     lat: 43.6629,
     lng: -79.3958,
     city: "Toronto, Canada",
     institution: "Division of Clinical Immunology and Allergy, Department of Medicine, Temerty Faculty of Medicine, University of Toronto",
-    names: ["Andrew Wong-Pack, MD, FRCPC"]
+    names: ["Andrew Wong-Pack, MD, FRCPC"],
+    papers: [
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
+    }
+            ]
   },
 {
   lat: 43.6511,
@@ -690,7 +720,7 @@ const rawCollaborators = [
       title: "Fear, facts, and the future: An update on coronavirus disease 2019 vaccine-induced anaphylaxis and vaccine hesitancy among those living with allergy",
       url: "https://doi.org/10.1016/j.jacig.2025.100522"
     }
-  ]
+          ]
 },
 {
   lat: 52.4862,
@@ -703,7 +733,7 @@ const rawCollaborators = [
       title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
       url: "https://doi.org/10.1016/j.anai.2023.08.600"
     }
-  ]
+          ]
 },
 {
   lat: -34.0659,
@@ -719,8 +749,12 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
     }
-  ]
+          ]
 },
 {
   lat: -37.8409,
@@ -736,8 +770,12 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
     }
-  ]
+          ]
 },
 {
   lat: -33.8688,
@@ -753,8 +791,12 @@ const rawCollaborators = [
     {
       title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
       url: "https://doi.org/10.1111/cea.14622"
+    },
+    {
+      title: "Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol",
+      url: "https://doi.org/10.1111/cea.70273"
     }
-  ]
+          ]
 },
 {
   lat: 41.8781,
