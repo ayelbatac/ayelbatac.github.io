@@ -22,7 +22,7 @@ format:
 
 ## Peer-Reviewed Publications
 
-[**Batac ALR**, Wong-Pack A, Lê ML, Reyes JCR, Bhamra M, Hong B, Feldman LY, Fong AT, Bégin P. Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol. Clin Exp Allergy. 2026 Mar 6. doi: 10.1111/cea.70273. Epub ahead of print.](https://onlinelibrary.wiley.com/doi/10.1111/cea.70273)
+[**Batac ALR**, Wong-Pack A, Lê ML, Reyes JCR, Bhamra MK, Hong B, Feldman LY, Fong AT, Bégin P. Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol. Clin Exp Allergy. 2026 Mar 6. doi: 10.1111/cea.70273. Epub ahead of print. PMID: 41792974.](https://onlinelibrary.wiley.com/doi/10.1111/cea.70273)
 
 [**Batac ALR**, Marks M, Tucker JD, Peeling RŴ. Syphilis self-testing and implications for syphilis control and prevention. J Clin Microbiol. 2025 Dec 17;63(12):e0098225. doi: 10.1128/jcm.00982-25. Epub 2025 Oct 21. PMID: 41117600; PMCID: PMC12710337.](https://doi.org/10.1128/jcm.00982-25) **(Invited submission; selected as Editor's Pick)**
 
