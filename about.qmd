@@ -154,18 +154,7 @@ const rawCollaborators = [
     lng: -97.1466,
     city: "Winnipeg, Canada",
     institution: "Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-    names: [
-      "Billy Hong, MD",
-      "Elinor Simons, MD, PhD",
-      "Elissa M. Abrams, MD, MPH, FRCPC",
-      "Jill A. Keddy-Grant, MD, FRCPC",
-      "Kaitlyn A. Merrill, BSc(Hons)",
-      "Manvir Bhamra, BSc, RD",
-      "Michael A. Golding, MA",
-      "Michelle A. Halbrich, MD, FRCPC",
-      "Thomas V. Gerstner, MD, FRCPC",
-      "Zoe Harbottle, BSc, MAHN"
-            ],
+    names: ["Billy Hong, MD", "Elinor Simons, MD, PhD", "Elissa M. Abrams, MD, MPH, FRCPC", "Jill A. Keddy-Grant, MD, FRCPC", "Kaitlyn A. Merrill, BSc(Hons)", "Manvir Bhamra, BSc, RD", "Michael A. Golding, MA", "Michelle A. Halbrich, MD, FRCPC", "Thomas V. Gerstner, MD, FRCPC", "Zoe Harbottle, BSc, MAHN"],
     papers: [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
