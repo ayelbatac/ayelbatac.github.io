@@ -34,9 +34,9 @@ format:
 
 [**Batac ALR**, Golding MA, Merrill KA, Lê ML, Fong AT, Hsu PS, Warren CM, Dadha P, Abrams EM, Chan ES, Ben-Shoshan M, Bilaver LA, Gupta RS, Shroba JA, Kivistö JE, Greenhawt MJ, Mäkelä MJ, Muraro A, Ahlstedt S, Protudjer JLP. A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy. Clin Exp Allergy. 2024 Jul;54(7):524-527. doi: 10.1111/cea.14493. Epub 2024 May 11. PMID: 38733299.](https://doi.org/10.1111/cea.14493)
 
-[**Batac ALR**, Merrill KA, Golding MA, Bhamra M, Harbottle Z, Kopsch I, Wilking E, Jonsson M, Ekström S, Abrams EM, Halbrich MA, Simons E, Roos LE, Keddy-Grant JA, Gerstner TV, St-Vincent JA, Protudjer J. Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study. Allergy Asthma Clin Immunol. 2023 Nov 29;19(1):100. doi: 10.1186/s13223-023-00857-5. PMID: 38031081; PMCID: PMC10687835.](https://doi.org/10.1186/s13223-023-00857-5)
-
 [**Batac ALR**, Merrill KA, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence among people managing allergy. Ann Allergy Asthma Immunol. 2023 Dec;131(6):775-777. doi: 10.1016/j.anai.2023.08.600. Epub 2023 Aug 29. PMID: 37652234.](https://doi.org/10.1016/j.anai.2023.08.600)
+
+[**Batac ALR**, Merrill KA, Golding MA, Bhamra M, Harbottle Z, Kopsch I, Wilking E, Jonsson M, Ekström S, Abrams EM, Halbrich MA, Simons E, Roos LE, Keddy-Grant JA, Gerstner TV, St-Vincent JA, Protudjer J. Infantile atopic dermatitis and maternal-infant bonding: a mixed methods study. Allergy Asthma Clin Immunol. 2023 Nov 29;19(1):100. doi: 10.1186/s13223-023-00857-5. PMID: 38031081; PMCID: PMC10687835.](https://doi.org/10.1186/s13223-023-00857-5)
 
 [**Batac ALR**, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review. J Allergy Clin Immunol Glob. 2023 May;2(2):100079. doi: 10.1016/j.jacig.2023.100079. Epub 2023 Feb 8. PMID: 36785543; PMCID: PMC9907785.](https://doi.org/10.1016/j.jacig.2023.100079) **(Invited submission; article ranked among the most-read in Journal of Allergy and Clinical Immunology: Global, May 2023)**
 
