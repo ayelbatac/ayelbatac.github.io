@@ -1,5 +1,5 @@
 ---
-title: "Infographics - Ayel L. R. Batac"
+title: "Ayel L. R. Batac - Knowledge Translation - Infographics"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header: 
       text: |
-        <title>Infographics - Ayel L. R. Batac</title>
+        <title>Ayel L. R. Batac - Knowledge Translation - Infographics</title>
         <meta name="description" content="Public health infographics by Ayel L. R. Batac, translating research on infectious diseases, allergy, and clinical immunology into accessible visuals." />
         <meta name="keywords" content="Ayel Batac, infographics, HIV, STBBIs, public health, global health, allergy, food allergy, COVID-19, vaccine hesitancy, pediatrics, psychological, social, psychosocial burden, knowledge translation, health communication, data visualization, epidemiologist, health equity" />
 ---

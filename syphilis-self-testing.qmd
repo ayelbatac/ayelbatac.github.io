@@ -1,5 +1,5 @@
 ---
-title: "Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac"
+title: "Ayel L. R. Batac - Syphilis Self-Testing: Access Is the Intervention"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Syphilis Self-Testing: Access Is the Intervention - Ayel L. R. Batac</title>
+        <title>Ayel L. R. Batac - Syphilis Self-Testing: Access Is the Intervention</title>
         <meta name="description" content="A reflection on syphilis self-testing, diagnostic systems, and why access to testing remains a public health challenge even in well-resourced settings." />
         <meta name="keywords" content="syphilis, syphilis self-testing, diagnostics, decentralized diagnostics, STBBIs, public health, health equity, testing access, global health, knowledge translation, Ayel Batac" />
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Talks and Presentations - Ayel L. R. Batac"
+title: "Ayel L. R. Batac - Talks and Presentations"
 title-block: false
 format:
   html:
@@ -7,8 +7,8 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Talks and Presentations - Ayel L. R. Batac</title>
-        <meta name="description" content="Presentations and invited talks by Ayel L. R. Batac on data science, global public health, HIV, STBBIs, and knowledge translation." />
+        <title>Ayel L. R. Batac - Talks and Presentations</title>
+        <meta name="description" content="Presentations and invited talks by Ayel L. R. Batac on allergy and clinical immunology." />
         <meta name="keywords" content="Ayel Batac, talks, presentations, public health, HIV, STBBIs, knowledge translation, global health, data science, mpox, tuberculosis, anaphylaxis, oral presentations, poster presentations, Canada, Europe, Germany, Quebec" />
 ---
 

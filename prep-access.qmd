@@ -1,13 +1,13 @@
 ---
-title: "HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access"
-author: "Ayel L. R. Batac"
+title: "Ayel L. R. Batac - HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access"
+title-block: false
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header: 
-      - text: |
-          <title>HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access - Ayel L. R. Batac</title>
+    include-in-header:
+      text: |
+          <title>Ayel L. R. Batac - HIV Prevention Pre-Exposure Prophylaxis (PrEP) Access</title>
           <meta name="description" content="Ayel L. R. Batac conducts research on HIV prevention and decentralized PrEP access among MSM in low- and middle-income countries, with a focus on public health, health systems, and equity-driven innovation." />
           <meta name="keywords" content="Ayel Batac, PrEP, HIV, MSM, global health, sexual health, stigma, LMICs, decentralized care, pharmacy PrEP, telehealth, mHealth, health systems, community health, implementation" />
 ---

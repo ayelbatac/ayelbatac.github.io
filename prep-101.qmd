@@ -1,12 +1,12 @@
 ---
-title: "PrEP 101: What It Is, Who It’s For, and What You Still Need to Know"
+title: "Ayel L. R. Batac - PrEP 101: What It Is, Who It’s For, and What You Still Need to Know"
 format:
   html:
     toc: false
     anchor-links: false
     include-in-header:
       text: |
-        <title>PrEP 101 – Ayel L. R. Batac</title>
+        <title>Ayel L. R. Batac - PrEP 101: What It Is, Who It’s For, and What You Still Need to Know</title>
         <meta name="description" content="A clear and caring introduction to PrEP – what it is, how it works, and why it matters for HIV prevention." />
         <meta name="keywords" content="PrEP, HIV prevention, sexual health, condoms, STBBIs, public health, Ayel Batac, knowledge translation" />
 ---
