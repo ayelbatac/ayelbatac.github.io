@@ -108,20 +108,18 @@ A standard of care that cannot be reached is not a standard at all.
 
 ### Treatment Variation Is Structural
 
-In some regions, evidence suggests that adrenaline is not always administered as initial therapy. Antihistamines or corticosteroids may be given first, delays may occur, or alternative routes may be used that diverge from guideline recommendations.
-
+In some regions, evidence suggests that adrenaline is not always administered as initial therapy. Antihistamines or corticosteroids may be given first, delays may occur, or alternative routes may be used that diverge from guideline recommendations.    
 It's easy to frame this as non-adherence. More often, it reflects structural realities.
 
-Medication availability differs.
-Cost shapes what families can keep at home.
-Regulatory approval determines which products enter a market.
-Provider training influences clinical instincts.
-Distribution systems and insurance coverage affect affordability and continuity of access.
+- Medication availability differs.    
+- Cost shapes what families can keep at home.   
+- Regulatory approval determines which products enter a market.   
+- Provider training influences clinical instincts.    
+- Distribution systems and insurance coverage affect affordability and continuity of access.
 
 These factors shape treatment long before an emergency unfolds.
 
-Anaphylaxis is physiological. Treatment is structural.
-
+Anaphylaxis is physiological. Treatment is structural.    
 And when structure differs, outcomes can differ as well.
 
 These realities make the emergence of new treatment options particularly consequential.
@@ -130,16 +128,15 @@ These realities make the emergence of new treatment options particularly consequ
 
 The treatment landscape for anaphylaxis is evolving.
 
-A newly approved option, **neffy®**, is the first FDA-approved needle-free nasal spray for the emergency treatment of severe allergic reactions, including anaphylaxis, in adults and children. Recent North American pediatric food allergy guidance acknowledges intranasal adrenaline as a comparable alternative to intramuscular injection in appropriate clinical contexts. Emerging pharmacokinetic data and expert consensus suggest that intranasal administration can achieve therapeutic levels comparable to intramuscular delivery. This is meaningful progress.
+A newly approved option, [**neffy®**](https://www.neffy.com/), is the first US Food and Drug Administration (FDA)-approved needle-free nasal spray for the emergency treatment of severe allergic reactions, including anaphylaxis, in adults and children. [Recent North American pediatric food allergy guidance acknowledges intranasal adrenaline as a comparable alternative to intramuscular injection in appropriate clinical contexts](https://doi.org/10.1016/j.anai.2025.03.027). [Emerging pharmacokinetic data and expert consensus suggest that intranasal administration can achieve therapeutic levels comparable to intramuscular delivery](https://doi.org/10.1016/j.jaip.2024.10.006). This is meaningful progress.
 
-A needle-free option may reduce hesitation, increase acceptability in schools, and simplify administration for caregivers. In emergencies, ease of use matters.
+A needle-free option may reduce hesitation, increase acceptability in schools, and simplify administration for parents and caregivers. In emergencies, ease of use matters.
 
 Yet experience with other therapies reminds us that innovation alone does not resolve inequity. New treatments often enter well-resourced markets first, and their uptake depends on pricing, regulation, distribution, and reimbursement.
 
-The question is not only whether intranasal adrenaline works. It is whether it will be equitably reachable.
+The question is not only whether intranasal adrenaline works. It's whether it will be equitably reachable.
 
-Will it narrow disparities in access to first-line treatment?
-Or will it initially widen them?
+Will it narrow disparities in access to first-line treatment? Or will it initially widen them?
 
 Innovation can expand what is clinically possible, but only access determines who ultimately benefits.
 
@@ -157,9 +154,7 @@ How do rural and urban settings differ?
 How do cost structures and regulatory frameworks shape what is realistically available at the point of care?    
 Where do evidence gaps persist?
 
-When a life-saving therapy exists but is inconsistently reachable, that's not merely clinical variation. It reflects structural inequity.
-
-And structural inequity shapes outcomes.
+When a life-saving therapy exists but is inconsistently reachable, that's not merely clinical variation. It reflects structural inequity. And structural inequity shapes outcomes.
 
 Evidence tells us what should be done. Systems determine whether it can be done.
 
@@ -175,11 +170,9 @@ No child’s survival should depend on where they were born.
 
 ### The Bottom Line
 
-Anaphylaxis is life-threatening.
-We know the first-line treatment.
-New tools like intranasal adrenaline are expanding our options.
+Anaphylaxis is life-threatening. We know what first-line treatment should be. Emerging options, including intranasal adrenaline, are expanding what's possible.
 
-But guidelines are global. Access is not.
+Guidelines are global. Access is not.
 
 Until first-line treatment is reachable everywhere, consensus alone will not save lives.
 
