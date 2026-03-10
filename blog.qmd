@@ -18,7 +18,17 @@ format:
 
 <ul style="list-style: none; padding: 0; margin-top: 1rem;">
 
-  <!-- Blog Post 4 (Most Recent) -->
+  <!-- Blog Post 5 (Most Recent) -->
+  <li style="margin-bottom: 1.5rem;">
+    <a href="guidelines-global-acess-structural-gaps-anaphylaxis-treatment.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
+       onmouseover="this.style.color='#DE2221'" 
+       onmouseout="this.style.color='#1B153E'">
+      Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment
+    </a>
+    <div style="font-size: 0.9rem; color: #555;">Published: Mar 9, 2026</div>
+  </li>
+  
+  <!-- Blog Post 4 -->
   <li style="margin-bottom: 1.5rem;">
     <a href="syphilis-self-testing.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 

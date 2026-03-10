@@ -1,0 +1,188 @@
+---
+title: "Ayel L. R. Batac - Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment"
+title-block: false
+format:
+  html:
+    toc: false
+    anchor-links: false
+    include-in-header:
+      text: |
+        <title>Ayel L. R. Batac - Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment</title>
+        <meta name="description" content="A reflection on global variation in anaphylaxis treatment, adrenaline access, and why structural inequities shape emergency care despite international guideline consensus." />
+        <meta name="keywords" content="anaphylaxis, anaphylaxis treatment, epinephrine access, adrenaline access, epinephrine auto-injector, adrenaline auto-injector, intranasal epinephrine, intranasal adrenaline, neffy, emergency care, World Allergy Organization, Ayel Batac" />
+---
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+  a.study-button {
+    background-color: #1B153E;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  a.study-button:hover {
+    background-color: #DE2221;
+    color: white;
+  }
+</style>
+
+# Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment
+
+March 9, 2026
+
+<div style="
+  border-left: 6px solid #1B153E;
+  background-color: #F4F3FA;
+  padding: 1.2rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+">
+  <strong style="color:#1B153E; font-size:1.05rem;">
+    TL;DR
+  </strong>
+  <ul style="margin-top: 0.75rem; color:#1B153E;">
+    <li><strong>Anaphylaxis is life-threatening</strong> and requires immediate treatment with <strong>adrenaline</strong>.</li>
+    <li>International guidelines are clear, but <strong>access</strong> to recommended treatment varies widely across health systems.</li>
+    <li>New options like <strong>intranasal adrenaline</strong> expand what is possible.</li>
+    <li>Yet possibility without access is not protection.</li>
+  </ul>
+</div>
+
+What happens when a life-saving treatment is clearly defined, globally endorsed, and yet not consistently reachable?
+
+Anaphylaxis is one of the most time-sensitive emergencies in medicine. Across North America, Europe, Latin America, and Australasia, guidelines converge on the same message: **use adrenaline**, **use it promptly**, and **use it intramuscularly**.
+
+The science is settled. But access to that science is not evenly distributed.
+
+Having lived in both the Philippines and Canada, I have seen how differently medications are accessed, priced, and normalized. Cost structures, regulation, and distribution systems shape what families are able to keep at home long before an emergency unfolds.
+
+Over time, and through training in public health and clinical research, that contrast became clearer. A standard of care can be internationally agreed upon and still unevenly implemented. Guidelines may be global. Access is local.
+
+That perspective shaped an [**editorial**](https://doi.org/10.1111/cea.70028) I authored on the [introduction of adrenaline auto-injectors in mainland China](https://doi.org/10.1111/cea.70028). It also continues to inform my collaborative work with physician and allied health partners across Canada and Australia.
+
+At the heart of this work is a deceptively simple question:
+
+> [**If adrenaline is the first-line treatment for anaphylaxis everywhere, why does anaphylaxis treatment still look so different in practice?**](https://doi.org/10.1111/cea.70273)
+
+That question led us to examine how anaphylaxis is actually managed across different health systems, and to develop a [**scoping review protocol**](https://doi.org/10.1111/cea.70273) as the framework for that investigation.
+
+A life-saving recommendation that cannot be reached is not a recommendation at all.
+It becomes a promise unevenly kept.
+
+### Living Between Two Medication Systems
+
+In the Philippines, nebulizers were common in homes and clinics. A nebulizer machine was often a one-time purchase, and salbutamol solution was relatively inexpensive and widely available. For many households, this felt practical and economical.
+
+Metered-dose inhalers, commonly known as "puffers", were different. They required refills and carried higher upfront costs, which could make them feel less sustainable over time, even if they were more portable and clinically standard elsewhere.
+
+In Canada, the opposite is true. Inhalers are routine and readily available, while nebulizers are typically reserved for specific clinical situations.
+
+Neither system is irrational. Each reflects its own cost structures, regulatory environment, and distribution networks.
+
+Medication choice is rarely just about pharmacology. It's about **access**.
+
+That lens informs how I think about anaphylaxis treatment globally.
+
+### The Reality of Adrenaline Access
+
+International consensus on anaphylaxis management is remarkably consistent. The [**World Allergy Organization**](https://www.worldallergy.org/), representing more than 100 national allergy societies, unequivocally endorses [**intramuscular adrenaline as first-line treatment**](https://doi.org/10.1016/j.waojou.2020.100472). That position is echoed by major regional bodies, including the [American Academy of Allergy, Asthma & Immunology](https://www.aaaai.org/), the [Canadian Society of Allergy and Clinical Immunology](https://www.csaci.ca/), the [European Academy of Allergy & Clinical Immunology](https://eaaci.org/), the [Australasian Society of Clinical Immunology and Allergy](https://www.allergy.org.au/), and the [Latin American Society of Allergy, Asthma and Immunology](https://slaai.org/).
+
+Across continents and health systems, the **standard is the same**.   
+But recommendation does not guarantee availability.
+
+In many parts Asia, including the Philippines, adrenaline auto-injectors are not routinely stocked in retail pharmacies. Families may instead rely on ampoules that require drawing up the medication, calculating the correct dose, and administering it properly. Elsewhere, access is constrained by cost, regulatory approval, or limited distribution.
+
+I wrote about this tension in [**Clinical & Experimental Allergy**](https://doi.org/10.1111/cea.70028), reflecting on the introduction of auto-injectors in mainland China. In 2023, they were approved for clinical use in the Guangdong-Hong Kong-Macao Greater Bay Area, yet broader availability across mainland China remains limited.
+
+Guidelines may be international. Implementation is local.
+
+An allergic reaction does not change based on geography, but access to first-line treatment often does.
+
+A standard of care that cannot be reached is not a standard at all.
+
+### Treatment Variation Is Structural
+
+In some regions, evidence suggests that adrenaline is not always administered as initial therapy. Antihistamines or corticosteroids may be given first, delays may occur, or alternative routes may be used that diverge from guideline recommendations.
+
+It's easy to frame this as non-adherence. More often, it reflects structural realities.
+
+Medication availability differs.
+Cost shapes what families can keep at home.
+Regulatory approval determines which products enter a market.
+Provider training influences clinical instincts.
+Distribution systems and insurance coverage affect affordability and continuity of access.
+
+These factors shape treatment long before an emergency unfolds.
+
+Anaphylaxis is physiological. Treatment is structural.
+
+And when structure differs, outcomes can differ as well.
+
+These realities make the emergence of new treatment options particularly consequential.
+
+### A Changing Landscape: Intranasal Adrenaline
+
+The treatment landscape for anaphylaxis is evolving.
+
+A newly approved option, **neffy®**, is the first FDA-approved needle-free nasal spray for the emergency treatment of severe allergic reactions, including anaphylaxis, in adults and children. Recent North American pediatric food allergy guidance acknowledges intranasal adrenaline as a comparable alternative to intramuscular injection in appropriate clinical contexts. Emerging pharmacokinetic data and expert consensus suggest that intranasal administration can achieve therapeutic levels comparable to intramuscular delivery. This is meaningful progress.
+
+A needle-free option may reduce hesitation, increase acceptability in schools, and simplify administration for caregivers. In emergencies, ease of use matters.
+
+Yet experience with other therapies reminds us that innovation alone does not resolve inequity. New treatments often enter well-resourced markets first, and their uptake depends on pricing, regulation, distribution, and reimbursement.
+
+The question is not only whether intranasal adrenaline works. It is whether it will be equitably reachable.
+
+Will it narrow disparities in access to first-line treatment?
+Or will it initially widen them?
+
+Innovation can expand what is clinically possible, but only access determines who ultimately benefits.
+
+### Why This Work Matters
+
+Much of the literature on anaphylaxis focuses on incidence, risk factors, and triggers. Those questions matter.
+
+Far less attention has been paid to how treatment is delivered across healthcare systems, yet in a time-sensitive emergency, delivery is everything.
+
+Mapping global variation is not about ranking countries. It's about identifying patterns.
+
+Where is adrenaline consistently administered first?    
+Where is it underused or delayed?   
+How do rural and urban settings differ?   
+How do cost structures and regulatory frameworks shape what is realistically available at the point of care?    
+Where do evidence gaps persist?
+
+When a life-saving therapy exists but is inconsistently reachable, that's not merely clinical variation. It reflects structural inequity.
+
+And structural inequity shapes outcomes.
+
+Evidence tells us what should be done. Systems determine whether it can be done.
+
+### The Bigger Question
+
+Emergency care is often assumed to be standardized, particularly when guidelines are clear and internationally endorsed.
+
+In reality, emergency response reflects the same inequities that shape every other part of health. Systems determine what medications are stocked, what families can afford to keep at home, what products receive regulatory approval, and what training clinicians receive. Those decisions are made long before an allergic reaction occurs, yet they shape what happens when it does.
+
+Clear guidelines are necessary, but they are not sufficient.
+
+No child’s survival should depend on where they were born.
+
+### The Bottom Line
+
+Anaphylaxis is life-threatening.
+We know the first-line treatment.
+New tools like intranasal adrenaline are expanding our options.
+
+But guidelines are global. Access is not.
+
+Until first-line treatment is reachable everywhere, consensus alone will not save lives.
+
+Thank you for being here. Let’s keep talking.
+
+-Ayel
