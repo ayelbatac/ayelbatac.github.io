@@ -130,3 +130,11 @@ Because knowledge is more than power. It's protection. It's freedom. And it's a 
 Thank you for being here. Let’s keep talking.
 
 -Ayel
+
+<div style="font-size: 0.70em; margin-top: 3rem;">
+
+**Disclaimer:** Mention of specific medications, drugs, or therapeutic agents in this blog is for informational and educational purposes only and does not constitute endorsement, recommendation, or promotion by the author. Clinical decisions should be made in consultation with qualified healthcare professionals and based on current evidence and applicable regulatory guidance.
+
+The author declares no financial relationships with manufacturers of any drugs or medications mentioned in this post.
+
+</div>
