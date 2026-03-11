@@ -8,14 +8,8 @@ format:
     include-in-header:
       text: |
         <title>Ayel L. R. Batac - Publications</title>
-        <meta name="description" content="Peer-reviewed publications and other scholarly work by Ayel L. R. Batac in infectious diseases and allergy and clinical immunology." />
-        <meta name="keywords" content="Ayel Batac, publications, research papers, peer-reviewed, global health, public health, allergy, clinical immunology, food allergy, anaphylaxis, infectious diseases, HIV, STBBIs, sexually transmitted infections, tuberculosis, mpox, COVID-19, vaccine hesitancy, pediatrics, epidemiology, data science, knowledge translation" />
-        <style>
-          h2 {
-            border-bottom: none !important;
-            margin-bottom: 0.50em;
-          }
-        </style>
+        <meta name="description" content="Peer-reviewed publications by Ayel L. R. Batac in allergy and clinical immunology and infectious diseases." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, publications, peer-reviewed publications, allergy and clinical immunology, infectious diseases, food allergy, anaphylaxis, atopic dermatitis, HIV, sexually transmitted infections, mpox, tuberculosis, COVID-19, pediatrics, epidemiology, implementation science, systematic review, evidence synthesis, public health, global health" />
 ---
 
 # PUBLICATIONS

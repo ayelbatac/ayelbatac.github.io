@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <title>Ayel L. R. Batac - Knowledge Translation - Blog</title>
-        <meta name="description" content="Reflections on global health, infectious diseases, and knowledge translation in public health research." />
-        <meta name="keywords" content="Ayel Batac, blog, global health, public health, infectious diseases, HIV, STBBIs, knowledge translation, health equity, epidemiologist, science communication, Canada, Philippines" />
+        <meta name="description" content="Blog by Ayel L. R. Batac with reflections on global health, infectious diseases, and knowledge translation in public health research." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, blog, global health, public health, epidemiology, implementation science, infectious diseases, HIV, sexually transmitted infections, mpox, COVID-19, knowledge translation, science communication, health equity, public health research, Canada, Philippines, China" />
 ---
 
 # BLOG

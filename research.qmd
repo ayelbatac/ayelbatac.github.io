@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <title>Ayel L. R. Batac - Research</title>
-        <meta name="description" content="Explore research work of Ayel L. R. Batac, an epidemiologist, implementation scientist, and global health researcher whose work spans infectious diseases, allergy and clinical immunology." />
-        <meta name="keywords" content="Ayel Batac, research, HIV, STBBIs, mpox, tuberculosis, anaphylaxis, food allergy, allergy, clinical immunology, COVID-19, vaccine hesitancy, infectious diseases, pediatrics, global health, public health, mixed methods, quantitative research, qualitative research, knowledge translation, epidemiologist" />
+        <meta name="description" content="Research by Ayel L. R. Batac, epidemiologist and implementation scientist studying infectious diseases, allergy and clinical immunology, and global health." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, epidemiologist, public health researcher, implementation scientist, implementation science, infectious diseases, HIV, STI, mpox, COVID-19, tuberculosis, allergy and clinical immunology, food allergy, drug allergy, anaphylaxis, immunotherapy, pediatrics, maternal and child health, vaccine hesitancy, stigma, community-based research, participatory research, public health, global health, mixed methods research, systematic review, RCT, Canada" />
 ---
 
 # RESEARCH
