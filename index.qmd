@@ -120,12 +120,32 @@ format:
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
     <!-- Blog Tile -->
+    <a href="guidelines-global-acess-structural-gaps-anaphylaxis-treatment.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'">
+
+        <img src="epinephrine.png" alt="Syphilis Self-Testing" style="width: 100%; height: 200px; object-fit: cover;">
+
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+            Structural Gaps in Anaphylaxis Treatment
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            Why does life-saving treatment for anaphylaxis remain unevenly accessible?
+          </p>
+          <div style="font-size: 0.8rem; color: #777;">Blog Post · Mar 10, 2026</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Blog Tile -->
     <a href="syphilis-self-testing.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
 
-        <img src="sst.png" alt="Syphilis Self-Testing" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="syphilis-self-test.png" alt="Syphilis Self-Testing" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
           <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
@@ -134,7 +154,7 @@ format:
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
             A look at how testing systems shape who is reached, who is missed, and the role of syphilis self-testing.
           </p>
-          <div style="font-size: 0.8rem; color: #777;">Blog Post · Mar 10, 2026</div>
+          <div style="font-size: 0.8rem; color: #777;">Blog Post · Jan 2, 2026</div>
         </div>
       </div>
     </a>
