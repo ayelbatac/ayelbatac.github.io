@@ -46,15 +46,15 @@ format:
 
 ## Non-Peer-Reviewed Publications
 
-## Preprints
+### Preprints
 
 [Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the coviD pandemic (ACCORD): a scoping review protocol. Version: 1. Research Square [Preprint]. 2022 Apr 19. Available from: https://doi.org/10.21203/rs.3.rs-1555382/v1](https://doi.org/10.21203/rs.3.rs-1555382/v1)
 
-## Registered Protocols
+### Registered Protocols
 
 [**Batac ALR**, Wong-Pack A, Lê ML, Reyes JCR, Bhamra M, Hong B, Feldman LY, Fong AT, Bégin P. Global variation in anaphylaxis treatment: a scoping review protocol. Open Science Framework [Registration]. 2025 Oct 31. Available from: https://doi.org/10.17605/osf.io/rme3y](https://doi.org/10.17605/osf.io/rme3y)
 
-## Published Abstracts
+### Published Abstracts
 
 [Merrill KA, **Batac ALR**, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. A qualitative investigation into vaccine hesitancy and confidence amongst people managing allergy. 2022 CSACI Annual Scientific Meeting Book of Abstracts; 2022 Sep 23–25; Quebec City, QC. London (UK): BioMed Central; 2024 Aug. 12 p. (Allergy Asthma Clin Immunol; vol. 20, suppl. 2, no. 40). doi: 10.1186/s13223-024-00898-4. PMID: 39107848; PMCID: PMC11301933.](https://doi.org/10.1186/s13223-024-00898-4)
 
@@ -66,13 +66,13 @@ format:
 
 [Merrill K, **Batac ALR**, Golding M, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos L, Protudjer V, Protudjer J. Access to allergist knowledge important in improving COVID-19 vaccine hesitancy and confidence amongst people managing allergy. Special Issue: Abstracts from the European Academy of Allergy and Clinical Immunology Hybrid Congress, 9–11 June, 2023; 2023 Jun 9–11; Hamburg, Germany. Copenhagen (Denmark): Wiley; 2023 Dec. 22 p. (Allergy; vol. 78, suppl. 112, no. 642). doi: 10.1111/all.15923.](https://doi.org/10.1111/all.15923)
 
-## Government Reports
+### Government Reports
 
 **Batac ALR**, Struck S, Loeppky C. COVID-19 in Children, Schools, and Early Learning and Child Care Facilities: 2021–2022 Annual Report. Winnipeg (MB): Epidemiology and Surveillance, Provincial Information Management and Analytics, Health Policy and Planning Division, Department of Health, Seniors and Long-Term Care, Government of Manitoba; 2022. 30 p.
 
 **Batac ALR**, Struck S, Loeppky C. COVID-19 in Children, Schools, and Early Learning and Child Care Facilities: 2020–2021 Annual Report. Winnipeg (MB): Epidemiology and Surveillance, Provincial Information Management and Analytics, Health Policy and Planning Division, Department of Health, Seniors and Long-Term Care, Government of Manitoba; 2021. 28 p.
 
-## Institutional Reports
+### Institutional Reports
 
 [**Batac ALR**, Haworth-Brockman M. Mpox disease debrief. Winnipeg (MB): National Collaborating Centre for Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba; 2025 Feb. Available from nccid.ca/debrief/mpox.](https://nccid.ca/debrief/mpox/)
 
