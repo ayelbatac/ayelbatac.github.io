@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac - Why I Work in HIV and STBBIs: A Personal and Professional Journey"
+title: "Ayel L. R. Batac - Why I Work in HIV and STIs: A Personal and Professional Journey"
 title-block: false
 format:
   html:
@@ -7,9 +7,9 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Ayel L. R. Batac - Why I Work in HIV and STBBIs: A Personal and Professional Journey</title>
-        <meta name="description" content="A personal and professional reflection by Ayel L. R. Batac on working in HIV and STBBI research, and what drives a career in global public health." />
-        <meta name="keywords" content="Ayel Batac, HIV, STBBIs, public health, global health, personal journey, research career, knowledge translation, sexually transmitted infections, health equity, epidemiologist" />
+        <title>Ayel L. R. Batac - Why I Work in HIV and STIs: A Personal and Professional Journey</title>
+        <meta name="description" content="A personal and professional reflection by Ayel L. R. Batac on working in HIV and STI research, and what drives a career in global public health." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, HIV, STI, public health, global health, personal journey, research career, knowledge translation, sexually transmitted infections, health equity, epidemiologist" />
 ---
 
 <style>
@@ -18,7 +18,7 @@ format:
   }
 </style>
 
-# Why I Work in HIV and STBBIs: A Personal and Professional Journey
+# Why I Work in HIV and STIs: A Personal and Professional Journey
 
 May 7, 2025
 
@@ -40,7 +40,7 @@ I was given the opportunity to work as an infectious disease epidemiologist for 
 
 Unlike non-communicable diseases, which often require slow, long-term strategies, infectious diseases demand immediate action. They require basic science, clinical insight, and social understanding to come together – and that balance resonated with me. The field touched everything I cared about: biology, policy, data, and, most of all, people.
 
-After my experience with COVID-19, my attention turned to another crisis. One that had been ongoing for decades, but still demanded far more action: **HIV and sexually transmitted and blood-borne infections (STBBIs)**.
+After my experience with COVID-19, my attention turned to another crisis. One that had been ongoing for decades, but still demanded far more action: **HIV and sexually transmitted and infections (STIs)**.
 
 From my molecular biology background, I knew how formidable HIV is as a virus. Its ability to mutate (thanks to its error-prone reverse transcriptase) makes it extremely difficult to treat permanently or prevent with a long-lasting vaccine. A cure remains elusive. But I also knew that despite the scientific challenges, we already have the tools to control HIV. What’s missing, too often, is access, education, and equity.
 
@@ -58,7 +58,7 @@ When I was just seven years old, I already knew of children my age who were sell
 
 To those who had no childhood, no protection, and no choice. They deserved better, and they still do.
 
-Now, as a graduate student at the London School of Hygiene & Tropical Medicine, I found a path that allows me to combine my scientific training with advocacy, compassion, and community. Through my work in HIV and STBBIs, I aim to contribute to a world where public health is not only evidence-based, but **people-centered**.
+Now, as a graduate student at the London School of Hygiene & Tropical Medicine, I found a path that allows me to combine my scientific training with advocacy, compassion, and community. Through my work in HIV and STIs, I aim to contribute to a world where public health is not only evidence-based, but **people-centered**.
 
 My goal is not just to publish academic papers. I want to **translate knowledge into impact**. Whether that’s through infographics that explain complex concepts, educational materials that reach underserved communities, or accessible writing like this blog. This site is a space where I share what I’m learning and working on, and where I hope others can learn, too.
 
