@@ -8,7 +8,7 @@ format:
     include-in-header:
       text: |
         <title>Ayel L. R. Batac - Tuberculosis Research</title>
-        <meta name="description" content="Ayel L. R. Batac conducts tuberculosis research with a focus on public health, surveillance, and global health contexts." />
+        <meta name="description" content="Research on tuberculosis by Ayel L. R. Batac, focusing on epidemiology, diagnostics, and global public health approaches to tuberculosis prevention and control." />
         <meta name="keywords" content="Ayel Batac, tuberculosis, TB, outbreak, community engagement, community-wide screening, respiratory, infectious diseases, public health, Nunavut, Inuit, Arctic, Canada, National Collaborating Centre for Infectious Diseases, NCCID, Public Health Agency of Canada, PHAC" />
 ---
 

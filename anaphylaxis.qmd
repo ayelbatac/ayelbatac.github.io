@@ -8,7 +8,7 @@ format:
     include-in-header: 
       text: |
         <title>Ayel L. R. Batac - Anaphylaxis Research</title>
-        <meta name="description" content="Evidence synthesis research on anaphylaxis in clinical immunology and public health." />
+        <meta name="description" content="Research on anaphylaxis by Ayel L. R. Batac, focusing on prevention, emergency treatment access, and public health strategies to improve management of severe allergic reactions." />
         <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, anaphylaxis, allergy, allergic reaction, adrenaline, epinephrine, emergency, public health, global health, health policy, health equity, health evaluation, China" />
 ---
 
