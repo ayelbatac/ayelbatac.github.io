@@ -9,7 +9,7 @@ format:
       text: |
         <title>Ayel L. R. Batac - Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do</title>
         <meta name="description" content="An accessible introduction to sexually transmitted infections (STIs), why they matter, and how individuals and communities can take action." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, sexually transmitted infections, STI, gonorrhea, chlamydia, HIV, condoms, protection, public health, health education, knowledge translation, global health" />
+        <meta name="keywords" content="Ayel Batac, blog, sexually transmitted infections, STI, gonorrhea, chlamydia, HIV, condoms, protection, public health, health education, knowledge translation, global health" />
 ---
 
 <style>

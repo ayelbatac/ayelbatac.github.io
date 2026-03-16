@@ -9,7 +9,7 @@ format:
       text: |
         <title>Ayel L. R. Batac - Why I Work in Public Health: A Personal and Professional Journey</title>
         <meta name="description" content="A personal and professional reflection by Ayel L. R. Batac on working in HIV and STI research, and what drives a career in global public health." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, HIV, STI, public health, global health, personal journey, research career, knowledge translation, sexually transmitted infections, health equity, epidemiologist" />
+        <meta name="keywords" content="Ayel Batac, blog, allergy, immunology, HIV, AIDS, sexually transmitted infection, STI, research, epidemiology, public health, global health, health equity, knowledge translation" />
 ---
 
 <style>
