@@ -39,6 +39,13 @@ Learn more about each research theme by clicking on each tile.
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
   </a>
 
+  <!-- Diagnostics -->
+  <a href="diagnostics.qmd" style="text-decoration: none;">
+    <img src="diagnostics1.png" alt="Diagnostics" style="width: 100%; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+  </a>
+
   <!-- Tuberculosis -->
   <a href="tuberculosis.qmd" style="text-decoration: none;">
     <img src="tb.png" alt="Tuberculosis" style="width: 100%; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
