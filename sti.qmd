@@ -9,7 +9,7 @@ format:
       text: |
         <title>Ayel L. R. Batac - Sexually Transmitted Infections Research</title>
         <meta name="description" content="Ayel L. R. Batac conducts research on sexually transmitted infections (STIs), including syphilis, gonorrhoea, and chlamydia, with a focus on public health, diagnostics, surveillance, and knowledge translation in global contexts such as China." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, sexually transmitted infections, STI, STIs, gonorrhea, chlamydia, syphilis, HIV, China, men who have sex with men, MSM, stigma, low- and middle-income countries, LMICs, global health, public health, sexual health, randomized controlled trial, RCT, trial, Joseph Tucker, Rosanna Peeling, Weiming Tang, SESH Global, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, SMU" />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, sexually transmitted infections, STI, gonorrhea, chlamydia, syphilis, HIV, stigma, low- and middle-income countries, LMIC, public health, global health, sexual health, Guangzhou, China, SESH Global, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina, UNC, Southern Medical University" />
 ---
 
 # SEXUALLY TRANSMITTED INFECTIONS
@@ -20,11 +20,9 @@ $~$
 
 In many low- and middle-income countries (LMICs), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalization often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
 
-$~$
-
 ## Social Innovation for Health: The Pay-It-Forward Approach
 
-The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STI prevention and testing, it offers individuals free diagnostic services—such as testing for gonorrhea and chlamydia—and then invites them to support another person’s access to testing through voluntary contributions or messages of encouragement.
+The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STI prevention and testing, it offers individuals free diagnostic services, such as testing for gonorrhea and chlamydia, and then invites them to support another person’s access to testing through voluntary contributions.
 
 The approach is grounded in three key principles:
 
@@ -36,17 +34,17 @@ Unlike traditional fee-for-service or centrally funded systems, the pay-it-forwa
 
 ## Integrating Social Innovation in STI Testing
 
-The pay-it-forward approach represents more than a mechanism for service delivery; it redefines how communities participate in public health. When combined with community engagement, it creates enabling environments where testing becomes accessible, supportive, and responsive to stigma.
+The pay-it-forward approach represents more than a mechanism for service delivery—it redefines how communities participate in public health. When combined with community engagement, it creates enabling environments where testing becomes accessible, supportive, and responsive to stigma.
 
-Community engagement activities—including peer outreach, peer messaging, and local advocacy—help strengthen collective ownership of sexual health and reinforce trust between health systems and communities. Together, these efforts:
+Community engagement activities, including peer outreach and local advocacy, help strengthen collective ownership of sexual health and reinforce trust between health systems and communities. Together, these efforts:
 
-- Empower individuals to take part in collective health promotion  
+- Empower individuals to take part in **collective health promotion**  
 - Foster trust and cooperation between communities and health services  
 - Expand the reach and uptake of STI testing, particularly in LMIC settings  
 
 ## Ongoing Research and Evidence Generation
 
-My current research evaluates the effectiveness and implementation of the pay-it-forward approach among MSM in China through a **randomized controlled trial (RCT)**. Key areas of focus include:
+My current research evaluates the effectiveness and implementation of the pay-it-forward approach among MSM in China through a randomized controlled trial (RCT). Key areas of focus include:
 
 - Uptake of STI testing across different behavioural intervention arms  
 - Prosocial behaviours as indicators of community engagement and reciprocity  
@@ -59,9 +57,9 @@ This research contributes to the growing global evidence base on how social inno
 
 The research applies a **mixed-methods design** to capture both impact and implementation outcomes:
 
-- **Quantitative analysis:** Randomized controlled trials assess behavioural and clinical outcomes, including testing uptake and donation patterns.  
-- **Qualitative inquiry:** In-depth interviews with participants and providers explore motivations, perceived barriers, and emotional responses.  
-- **Process evaluation:** Implementation fidelity, feasibility, and scalability are assessed under real-world conditions.  
+- Quantitative analysis: Randomized controlled trials assess behavioural and clinical outcomes, including testing uptake and donation patterns.  
+- Qualitative inquiry: In-depth interviews with participants and providers explore motivations, perceived barriers, and emotional responses.  
+- Process evaluation: Implementation fidelity, feasibility, and scalability are assessed under real-world conditions.  
 
 This comprehensive approach supports both rigorous evidence generation and context-sensitive insights that inform adaptation and scale-up.
 
