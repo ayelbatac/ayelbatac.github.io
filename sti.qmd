@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac - Sexually Transmitted and Blood-Borne Infections Research"
+title: "Ayel L. R. Batac - Sexually Transmitted Infections Research"
 title-block: false
 format:
   html:
@@ -7,16 +7,16 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Ayel L. R. Batac - Sexually Transmitted and Blood-Borne Infections Research</title>
-        <meta name="description" content="Ayel L. R. Batac conducts research on sexually transmitted and blood-borne infections (STBBIs), including syphilis, gonorrhoea, and chlamydia, with a focus on public health, diagnostics, surveillance, and knowledge translation in global contexts such as China." />
-        <meta name="keywords" content="Ayel Batac, sexually transmitted infections, STI, STIs, sexually transmitted and blood-borne infections, STBBI, STBBIs, gonorrhea, gonorrhoea, chlamydia, syphilis, HIV, China, men who have sex with men, MSM, stigma, low- and middle-income countries, LMICs, global health, public health, sexual health, randomized controlled trial, randomised controlled trial, RCT, trial, Joseph Tucker, Rosanna Peeling, Weiming Tang, SESH Global, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, SMU" />
+        <title>Ayel L. R. Batac - Sexually Transmitted Infections Research</title>
+        <meta name="description" content="Ayel L. R. Batac conducts research on sexually transmitted infections (STIs), including syphilis, gonorrhoea, and chlamydia, with a focus on public health, diagnostics, surveillance, and knowledge translation in global contexts such as China." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, sexually transmitted infections, STI, STIs, gonorrhea, chlamydia, syphilis, HIV, China, men who have sex with men, MSM, stigma, low- and middle-income countries, LMICs, global health, public health, sexual health, randomized controlled trial, RCT, trial, Joseph Tucker, Rosanna Peeling, Weiming Tang, SESH Global, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, Southern Medical University, SMU" />
 ---
 
-# SEXUALLY TRANSMITTED AND BLOOD-BORNE INFECTIONS
+# SEXUALLY TRANSMITTED INFECTIONS
 
 $~$
 
-**Sexually transmitted and blood-borne infections (STBBIs)** continue to represent a major global public health challenge. Despite increasing awareness, **testing rates** for infections such as gonorrhoea and chlamydia **remain low worldwide**, particularly among marginalized populations including **men who have sex with men (MSM)**. Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
+**Sexually transmitted infections (STIs)** continue to represent a major global public health challenge. Despite increasing awareness, **testing rates** for infections such as gonorrhoea and chlamydia **remain low worldwide**, particularly among marginalized populations including **men who have sex with men (MSM)**. Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
 
 In many low- and middle-income countries (LMICs), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalization often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
 
@@ -24,7 +24,7 @@ $~$
 
 ## Social Innovation for Health: The Pay-It-Forward Approach
 
-The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STBBI prevention and testing, it offers individuals free diagnostic services—such as testing for gonorrhea and chlamydia—and then invites them to support another person’s access to testing through voluntary contributions or messages of encouragement.
+The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STI prevention and testing, it offers individuals free diagnostic services—such as testing for gonorrhea and chlamydia—and then invites them to support another person’s access to testing through voluntary contributions or messages of encouragement.
 
 The approach is grounded in three key principles:
 
@@ -34,7 +34,7 @@ The approach is grounded in three key principles:
 
 Unlike traditional fee-for-service or centrally funded systems, the pay-it-forward approach promotes solidarity and empowerment within communities. It provides a practical model for improving access to essential services in settings where stigma, financial constraints, or mistrust of institutions restrict care.
 
-## Integrating Social Innovation in STBBI Testing
+## Integrating Social Innovation in STI Testing
 
 The pay-it-forward approach represents more than a mechanism for service delivery; it redefines how communities participate in public health. When combined with community engagement, it creates enabling environments where testing becomes accessible, supportive, and responsive to stigma.
 
@@ -42,13 +42,13 @@ Community engagement activities—including peer outreach, peer messaging, and l
 
 - Empower individuals to take part in collective health promotion  
 - Foster trust and cooperation between communities and health services  
-- Expand the reach and uptake of STBBI testing, particularly in LMIC settings  
+- Expand the reach and uptake of STI testing, particularly in LMIC settings  
 
 ## Ongoing Research and Evidence Generation
 
 My current research evaluates the effectiveness and implementation of the pay-it-forward approach among MSM in China through a **randomized controlled trial (RCT)**. Key areas of focus include:
 
-- Uptake of STBBI testing across different behavioural intervention arms  
+- Uptake of STI testing across different behavioural intervention arms  
 - Prosocial behaviours as indicators of community engagement and reciprocity  
 - Clinic-level and demographic determinants of testing outcomes  
 - Adaptation of a digital, self-sampling version of the pay-it-forward approach to enhance accessibility in low-resource contexts  
@@ -74,7 +74,7 @@ The pay-it-forward approach demonstrates how social innovation can advance equit
 - Strengthen the interface between health systems and communities by embedding social innovation within service delivery  
 - Contribute to global efforts toward universal health coverage and equitable access to sexual and reproductive health services  
 
-By framing STBBI testing as a **collective act of care**, the pay-it-forward approach aligns with broader global health goals to build inclusive, resilient, and people-centred systems for sexual health and well-being.
+By framing STI testing as a **collective act of care**, the pay-it-forward approach aligns with broader global health goals to build inclusive, resilient, and people-centred systems for sexual health and well-being.
 
 $~$
 

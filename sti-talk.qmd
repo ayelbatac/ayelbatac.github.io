@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac - Let’s Talk About STBBIs: What They Are, Why They Matter, and What You Can Do"
+title: "Ayel L. R. Batac - Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do"
 title-block: false
 format:
   html:
@@ -7,9 +7,9 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Ayel L. R. Batac - Let’s Talk About STBBIs: What They Are, Why They Matter, and What You Can Do</title>
-        <meta name="description" content="An accessible introduction to sexually transmitted and blood-borne infections (STBBIs), why they matter, and how individuals and communities can take action." />
-        <meta name="keywords" content="STBBIs, sexually transmitted infections, blood-borne infections, gonorrhea, chlamydia, HIV, condoms, protection, public health, health education, knowledge translation, Ayel Batac, global health, epidemiologist" />
+        <title>Ayel L. R. Batac - Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do</title>
+        <meta name="description" content="An accessible introduction to sexually transmitted infections (STIs), why they matter, and how individuals and communities can take action." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, sexually transmitted infections, STI, gonorrhea, chlamydia, HIV, condoms, protection, public health, health education, knowledge translation, global health" />
 ---
 
 <style>
@@ -18,22 +18,22 @@ format:
   }
 </style>
 
-# Let’s Talk About STBBIs: What They Are, Why They Matter, and What You Can Do
+# Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do
 
 May 10, 2025
 
 $~$
 
 Sexual health is a part of health. Full stop.
-Yet even in 2025, sexually transmitted and blood-borne infections (STBBIs) remain heavily stigmatized, misunderstood, and under-discussed. And because we don't talk about them enough, we allow misinformation, fear, and shame to take the place of facts, care, and prevention.
+Yet even in 2025, sexually transmitted infections (STIs) remain heavily stigmatized, misunderstood, and under-discussed. And because we don't talk about them enough, we allow misinformation, fear, and shame to take the place of facts, care, and prevention.
 
 This blog post is my small way of changing that – by starting with the basics, and by sharing some of my own perspective.
 
 ### What Are STBBIs?
 
-STBBIs – short for **sexually transmitted and blood-borne infections** – are infections that are primarily spread through sexual contact or exposure to infected blood. They can be passed through vaginal, anal, or oral sex, as well as through needle sharing, blood transfusions (where screening is limited), or from a birthing parent to child during pregnancy or childbirth.
+STIs – short for **sexually transmitted infections** – are infections that are primarily spread through sexual contact or exposure to infected blood. They can be passed through vaginal, anal, or oral sex, as well as through needle sharing, blood transfusions (where screening is limited), or from a birthing parent to child during pregnancy or childbirth.
 
-Some of the most common STBBIs include:
+Some of the most common STIs include:
 
 - Chlamydia
 
@@ -51,7 +51,7 @@ Some of the most common STBBIs include:
 
 Each of these infections is different – in symptoms, transmission, and treatment – but they share one thing in common: **they are all manageable, preventable, and in many cases, treatable**.
 
-### How Common Are STBBIs?
+### How Common Are STIs?
 
 Very common. More common than most people think.
 [**According to the World Health Organization, more than 1 million STIs are acquired every day worldwide**](https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)). Many people living with STBBIs do not even know they have one, because symptoms are often mild or absent. This is why testing is so important.
