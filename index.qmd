@@ -165,7 +165,7 @@ format:
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
 
-        <img src="stbbi-talk.png" alt="Let’s Talk About STIs" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="sti-talk.png" alt="Let’s Talk About STIs" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
           <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
@@ -185,7 +185,7 @@ format:
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
 
-        <img src="blog1_thumb.png" alt="Why I Work in HIV" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="public-health.png" alt="Why I Work in HIV" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
           <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
