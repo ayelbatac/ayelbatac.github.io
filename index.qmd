@@ -180,7 +180,7 @@ format:
     </a>
 
     <!-- Blog Tile -->
-    <a href="why-i-work-in-hiv.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a href="why-i-work-in-public-health.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">

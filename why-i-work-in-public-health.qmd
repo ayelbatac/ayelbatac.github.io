@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac - Why I Work in HIV and STIs: A Personal and Professional Journey"
+title: "Ayel L. R. Batac - Why I Work in Public Health: A Personal and Professional Journey"
 title-block: false
 format:
   html:
@@ -7,7 +7,7 @@ format:
     anchor-links: false
     include-in-header:
       text: |
-        <title>Ayel L. R. Batac - Why I Work in HIV and STIs: A Personal and Professional Journey</title>
+        <title>Ayel L. R. Batac - Why I Work in Public Health: A Personal and Professional Journey</title>
         <meta name="description" content="A personal and professional reflection by Ayel L. R. Batac on working in HIV and STI research, and what drives a career in global public health." />
         <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, HIV, STI, public health, global health, personal journey, research career, knowledge translation, sexually transmitted infections, health equity, epidemiologist" />
 ---
@@ -18,7 +18,7 @@ format:
   }
 </style>
 
-# Why I Work in HIV and STIs: A Personal and Professional Journey
+# Why I Work in Public Health: A Personal and Professional Journey
 
 May 7, 2025
 
