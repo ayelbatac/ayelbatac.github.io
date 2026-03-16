@@ -9,7 +9,7 @@ format:
       text: |
         <title>Ayel L. R. Batac - Syphilis Self-Testing: Access Is the Intervention</title>
         <meta name="description" content="A reflection on syphilis self-testing, diagnostic systems, and why access to testing remains a public health challenge even in well-resourced settings." />
-        <meta name="keywords" content="Ayel Batac, syphilis, syphilis self-testing, diagnostics, decentralized diagnostics, STI, STBBI, STI testing, public health, global health, infectious diseases, health equity, testing access, knowledge translation" />
+        <meta name="keywords" content="Ayel Batac, syphilis, syphilis self-testing, diagnostics, decentralized diagnostics, STI, STI testing, public health, global health, infectious diseases, health equity, testing access, knowledge translation" />
 ---
 
 <style>
@@ -71,13 +71,13 @@ At the heart of our commentary is a deceptively simple question:
 
 ### Centralized Diagnostics: Strengths and Limits
 
-In Canada, sexually transmitted and blood-borne infections (STBBI) testing relies heavily on a centralized diagnostic model. Most testing occurs in labs and hospitals. Specimens are sent to central laboratories, confirmatory testing follows established algorithms, and results are reviewed by clinicians who can initiate treatment and arrange follow-up care.
+In Canada, sexually transmitted infections (STIs) testing relies heavily on a centralized diagnostic model. Most testing occurs in labs and hospitals. Specimens are sent to central laboratories, confirmatory testing follows established algorithms, and results are reviewed by clinicians who can initiate treatment and arrange follow-up care.
 
 This system has real strengths. Centralized diagnostics support high-quality laboratory confirmation, clinical oversight, and strong linkage to care. For many people, this model works well.
 
 But it also assumes something that is not always true. It assumes people can and will engage with clinic-based care.
 
-[**Across Canada, STBBIs have increased steadily over the past decade**](https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/sexually-transmitted-blood-borne-infections-activities-2018-2019-to-2022-2023.html), including ongoing rises in syphilis. These trends have drawn attention to longstanding challenges in ensuring timely access to testing, follow-up, and prevention services.
+[**Across Canada, STIs have increased steadily over the past decade**](https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/sexually-transmitted-blood-borne-infections-activities-2018-2019-to-2022-2023.html), including ongoing rises in syphilis. These trends have drawn attention to longstanding challenges in ensuring timely access to testing, follow-up, and prevention services.
 
 Centralized systems can contribute to delayed diagnoses, uneven geographic access, and limited surge capacity during outbreaks. For individuals facing stigma, geographic isolation, limited mobility, housing precarity, or mistrust in healthcare systems, laboratory-based testing can be difficult to access or avoided altogether. The result is fewer opportunities for testing, longer intervals between infection and diagnosis, and reduced effectiveness of surveillance and outbreak response.
 
@@ -85,7 +85,7 @@ Over time, I have come to see that these are not failures of individuals, but fa
 
 ### What Decentralized Diagnostics Have Shown Us
 
-In many parts of Asia and Africa, decentralized diagnostic strategies have emerged not as a convenience, but as a necessity. Rapid self-tests for STBBIs are common across much of Asia not because prevalence is higher, but because these tools fit the region’s public health realities.
+In many parts of Asia and Africa, decentralized diagnostic strategies have emerged not as a convenience, but as a necessity. Rapid self-tests for STIs are common across much of Asia not because prevalence is higher, but because these tools fit the region’s public health realities.
 
 Several practical reasons explain their widespread use.
 
@@ -105,11 +105,11 @@ Compared to laboratory-based polymerase chain reaction (PCR) or culture testing,
 
 **4. Integration into existing programs**
 
-Rapid self-tests for STBBI are often bundled with HIV self-testing, antenatal care, and services for sex workers, migrants, and other key populations to prevent congenital syphilis and reduce HIV transmission.
+Rapid self-tests for STIs are often bundled with HIV self-testing, antenatal care, and services for sex workers, migrants, and other key populations to prevent congenital syphilis and reduce HIV transmission.
 
 **5. Stigma and discretion**
 
-In some settings, STBBI-related stigma discourages clinic visits. Rapid self-tests help by enabling fast, private testing, reducing the need for multiple visits, and supporting outreach-based or anonymous testing models.
+In some settings, STI-related stigma discourages clinic visits. Rapid self-tests help by enabling fast, private testing, reducing the need for multiple visits, and supporting outreach-based or anonymous testing models.
 
 </div>
 
@@ -133,7 +133,7 @@ Across settings, decentralized approaches have expanded diagnostic reach, shorte
 
 Syphilis self-testing allows individuals to test themselves, typically using a finger-prick blood sample, outside of a clinic setting and receive results within minutes.
 
-Recently, the [**first over-the-counter syphilis self-test was authorized in the United States**](https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis). This represents a meaningful shift in how we think about STBBI diagnostics, particularly in high-income countries that have long relied almost exclusively on centralized laboratory models.
+Recently, the [**first over-the-counter syphilis self-test was authorized in the United States**](https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis). This represents a meaningful shift in how we think about STI diagnostics, particularly in high-income countries that have long relied almost exclusively on centralized laboratory models.
 
 Evidence from multiple countries shows that syphilis self-tests are accurate, usable, and acceptable. Many users are first-time testers, meaning people who had not previously accessed clinic-based testing at all.
 
