@@ -9,14 +9,14 @@ format:
       text: |
         <title>Ayel L. R. Batac - Mpox Research</title>
         <meta name="description" content="Research on mpox by Ayel L. R. Batac, focusing on public health response, surveillance, and knowledge translation." />
-        <meta name="keywords" content="Ayel Batac, mpox, monkeypox, disease debrief, NCCID, Public Health Agency of Canada, public health, surveillance, knowledge translation, infectious diseases, global health, outbreak response, epidemiologist" />
+        <meta name="keywords" content="Ayel Batac, mpox, infectious diseases, outbreak, surveillance, public health, global health, knowledge translation, National Collaborating Centre for Infectious Diseases, NCCID" />
 ---
 
 # MPOX
 
 <p><br></p>
 
-**Mpox** is an emerging zoonotic disease that has re-entered the global spotlight due to recent multi-country outbreaks. Once geographically confined, the current epidemiological landscape is marked by **the rise of new viral clades**, necessitating updated approaches to surveillance, clinical guidance, and risk communication.
+**Mpox** is an emerging zoonotic disease that has re-entered the global spotlight due to recent multi-country outbreaks. Once geographically confined, the current epidemiological landscape is marked by the **rise of new viral clades**, necessitating updated approaches to surveillance, clinical guidance, and risk communication.
 
 Outbreaks have disproportionately affected **gay, bisexual, and other men who have sex with men (GBMSM)**, and responses have required a balance of urgency, equity, and clarity in public health messaging. Amid this evolving context, my work aims to inform national-level responses in Canada through applied research and knowledge translation.
 

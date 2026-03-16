@@ -9,16 +9,14 @@ format:
       text: |
         <title>Ayel L. R. Batac - Anaphylaxis Research</title>
         <meta name="description" content="Evidence synthesis research on anaphylaxis in clinical immunology and public health." />
-        <meta name="keywords" content="anaphylaxis, allergy, food allergy, clinical immunology, adrenaline, epinephrine, glucocorticoids, China, evidence synthesis, scoping review, public health, global health, research, Ayel Batac, epidemiologist" />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, anaphylaxis, allergy, allergic reaction, adrenaline, epinephrine, emergency, public health, global health, health policy, health equity, health evaluation, China" />
 ---
 
 # ANAPHYLAXIS
 
 $~$
 
-**Anaphylaxis** is an acute, **potentially fatal systemic allergic reaction** that requires rapid recognition and immediate treatment with **intramuscular adrenaline (epinephrine)**. Despite the availability of clinical guidelines and growing global awareness, the treatment of anaphylaxis **remains inconsistent**, particularly in low-resource settings. Barriers—including limited access to adrenaline, diagnostic delays, and inadequate emergency response systems—continue to drive preventable morbidity and mortality worldwide.
-
-$~$
+**Anaphylaxis** is an acute and **potentially life-threatening systemic allergic reaction** that requires rapid recognition and immediate treatment with **intramuscular adrenaline (epinephrine)**. Despite the availability of clinical guidelines and increasing global awareness, the management of anaphylaxis remains **inconsistent**, particularly in low-resource settings. Several barriers contribute to this gap, including limited access to adrenaline, delays in diagnosis, and inadequate emergency response systems. These challenges continue to drive preventable morbidity and mortality worldwide.
 
 ## Understanding Global Variation in Anaphylaxis Treatment
 
@@ -33,8 +31,6 @@ Our current research is synthesizing global evidence on:
 
 This research aims to characterize diverse treatment practices across global contexts. The findings are intended to **inform policy recommendations** that support more consistent, evidence-based emergency care for anaphylaxis worldwide.
 
-$~$
-
 ## Anaphylaxis Treatment in China
 
 In this work, I examined the introduction and integration of adrenaline auto-injectors (AAIs) in mainland China, highlighting several persistent challenges in a context where access had historically been limited:
@@ -46,8 +42,6 @@ In this work, I examined the introduction and integration of adrenaline auto-inj
 - Contributed to broader discussions on health equity and emergency preparedness  
 
 This work underscores the need for sustained policy attention, enhanced clinical training, and system-level adaptation to expand access to life-saving anaphylaxis treatment and strengthen emergency preparedness.
-
-$~$
 
 ## Contribution to Public Health
 
@@ -113,7 +107,7 @@ $~$
 $~$
 
 <small>
-This research is conducted under my leadership in collaboration with physician and allied health partners in Canada, the United States, the United Kingdom, and Australia. It reflects a shared commitment to advancing evidence-based, patient-centred approaches to the prevention, recognition, and management of anaphylaxis.
+This research is conducted under my leadership in collaboration with physician and allied health partners in Canada, the United Kingdom, and Australia. It reflects a shared commitment to advancing evidence-based and patient-centred approaches to the prevention, recognition, and management of anaphylaxis.
 </small>
 
 <style>
