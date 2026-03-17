@@ -75,7 +75,7 @@ $~$
 
 - Social epidemiology of sexually transmitted infections (STI)  
 - Infectious disease prevention and control in low- and middle-income countries (LMIC) and low-resource settings  
-- Respiratory tract infections (e.g., tuberculosis [TB], respiratory syncytial virus [RSV], influenza [flu], COVID-19)  
+- Respiratory tract infections (COVID-19, influenza [flu], respiratory syncytial virus [RSV], tuberculosis [TB])  
 - Health equity among men who have sex with men (MSM) and sex worker populations  
 - Allergy (anaphylaxis, asthma, atopic dermatitis, drug allergy, food allergy)  
 - Allergen immunotherapy (subcutaneous immunotherapy [SCIT], sublingual immunotherapy [SLIT])  
