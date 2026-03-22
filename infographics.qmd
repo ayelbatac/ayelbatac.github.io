@@ -8,7 +8,7 @@ format:
     include-in-header: 
       text: |
         <title>Ayel L. R. Batac - Knowledge Translation - Infographics</title>
-        <meta name="description" content="Public health infographics by Ayel L. R. Batac translating research on infectious diseases and allergy and clinical immunology into accessible visual knowledge." />
+        <meta name="description" content="Explore infographics by Ayel L. R. Batac translating research into accessible visual summaries for knowledge translation." />
         <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, infographics, knowledge translation, public health communication, health communication, data visualization, epidemiology infographics, infectious diseases, HIV, sexually transmitted infections, mpox, COVID-19, vaccine hesitancy, allergy and clinical immunology, food allergy, anaphylaxis, pediatrics, public health, global health, health equity" />
 ---
 

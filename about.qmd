@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <title>Ayel L. R. Batac - About</title>
-        <meta name="description" content="Learn more about Ayel L. R. Batac, an epidemiologist and implementation scientist working in global health, whose research spans infectious disease, allergy and clinical immunology, health equity, and evidence-informed public health." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, epidemiologist, implementation scientist, public health researcher, global health researcher, epidemiology, implementation science, infectious diseases research, allergy and clinical immunology research, mixed methods research, evidence synthesis, systematic review, scoping review, knowledge translation, health equity, community-based research, participatory research, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina at Chapel Hill, UNC, National Collaborating Centre for Infectious Diseases, NCCID, Winnipeg, Manitoba, Canada, London, UK, China" />" />
+        <meta name="description" content="Get to know Ayel L. R. Batac, a public health scientist and health systems researcher working at the intersection of global health, allergy and clinical immunology, and infectious diseases." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, implementation scientist, epidemiologist, health economist, epidemiology, implementation science, health economics, allergy and clinical immunology, allergy, anaphylaxis, asthma, atopic dermatitis, food allergy, infectious diseases, STI, HIV, mpox, tuberculosis, COVID-19, public health, global health, mixed methods, evidence synthesis, systematic review, scoping review, knowledge translation, health equity, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina, UNC, National Collaborating Centre for Infectious Diseases, NCCID, Winnipeg, Manitoba, Canada, London, UK, China" />
 ---
 
 # ABOUT
@@ -27,7 +27,7 @@ $~$
 <div style="flex: 1; min-width: 250px; margin-left: 1rem;">
 
 ### Ayel Luis R. Batac
-**Epidemiologist and Implementation Scientist**
+**Public Health Researcher and Implementation Scientist**
 
 **Ayel holds the following positions:**
 
@@ -50,7 +50,7 @@ $~$
 
 I am a public health scientist and a health systems researcher, committed to research that informs public health policy, advances health equity, and supports evidence-based decision-making. I am currently pursuing a Master of Science in Public Health with a concentration in Health Economics at the London School of Hygiene and Tropical Medicine and bring over six years of experience in research, data analytics, and applied public health practice. My current work includes evaluating behavioural interventions to increase sexually transmitted infection (STI) testing among men who have sex with men (MSM) in China; leading international research on access to anaphylaxis treatment and emergency care readiness; and assessing tuberculosis screening strategies in remote Arctic communities in Canada.
 
-My earlier work focused on pediatrics, allergy and clinical immunology, and public health and preventive medicine. I examined coronavirus disease 2019 (COVID-19) vaccine hesitancy and risk factors for vaccine-induced allergic reactions, with the goal of supporting safe and inclusive immunization strategies. I also studied the impact of atopic dermatitis on the maternal–infant bond, reflecting an early interest in the psychosocial dimensions of chronic disease and the broader role of health systems. Across this work, I have developed expertise in both quantitative and qualitative research methods, integrating epidemiology, health systems research, implementation science, and the social and behavioural sciences. I take a mixed-methods approach not only as a research strategy, but as a reflection of the complexity inherent in public health inquiry.
+My earlier work focused on pediatrics, allergy and clinical immunology, and public health and preventive medicine. I examined coronavirus disease 2019 (COVID-19) vaccine hesitancy and risk factors for vaccine-induced allergic reactions, with the goal of supporting safe and inclusive immunization strategies. I also studied the impact of atopic dermatitis on the maternal–infant bond, reflecting an early interest in the psychosocial dimensions of chronic disease and the broader role of health systems. Across this work, I have developed expertise in both quantitative and qualitative research methods, integrating epidemiology, health systems research, implementation science, and the social and behavioural sciences. I take a mixed methods approach not only as a research strategy, but as a reflection of the complexity inherent in public health inquiry.
 
 At the core of my research is a commitment to equity and real-world impact. I aim to make evidence both accessible and actionable for healthcare providers, policymakers, and frontline implementers. By combining statistical analysis, qualitative inquiry, and systems thinking, I strive to build a more complete understanding of how health systems function and how they can be strengthened. My collaborations with researchers across North America, Europe, Asia, and Australia, as well as publications in leading journals in allergy and clinical immunology, reflect a sustained focus on translating knowledge into practice to drive meaningful improvements in health outcomes, particularly for populations with the greatest need.
 

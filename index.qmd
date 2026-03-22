@@ -1,5 +1,5 @@
 ---
-title: "Ayel L. R. Batac - Epidemiologist and Implementation Scientist"
+title: "Ayel L. R. Batac - Implementation Scientist and Health Systems Researcher"
 title-block: false
 format:
   html:
@@ -8,8 +8,8 @@ format:
     include-in-header: 
       text: |
         <meta name="google-site-verification" content="N1wLhwkq2kEpvFepxx8U30XxFHpsgKQDqCwYJtTHPuY" />
-        <meta name="description" content="Ayel L. R. Batac is an epidemiologist and implementation scientist working in global health, with research in infectious diseases, allergy and clinical immunology, and evidence-informed public health." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, epidemiologist, implementation scientist, implementation science, public health, global health, infectious diseases, HIV, sexually transmitted infections, mpox, tuberculosis, COVID-19, allergy and clinical immunology, anaphylaxis, food allergy, pediatrics, vaccine hesitancy, mixed methods research, systematic review, University of Manitoba, LSHTM, UNC Chapel Hill, Winnipeg, Canada, London, UK, China" />
+        <meta name="description" content="Ayel L. R. Batac is a public health scientist and health systems researcher working at the intersection of global health, allergy and clinical immunology, infectious diseases, and evidence-informed public health." />
+        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, implementation scientist, epidemiologist, health economist, epidemiology, implementation science, health economics, allergy and clinical immunology, allergy, anaphylaxis, asthma, atopic dermatitis, food allergy, infectious diseases, STI, HIV, mpox, tuberculosis, COVID-19, public health, global health, mixed methods, evidence synthesis, systematic review, scoping review, knowledge translation, health equity, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina, UNC, National Collaborating Centre for Infectious Diseases, NCCID, Winnipeg, Manitoba, Canada, London, UK, China" />
 ---
 
 ```{=html}
@@ -40,7 +40,7 @@ format:
     <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 0.5rem;">
       Syphilis Self-Testing Is Here
     </div>
-    <div style="margin-bottom: 0.5rem;">What does over-the-counter syphilis testing mean for STI prevention and control?</div>
+    <div style="margin-bottom: 0.5rem;">What does over-the-counter syphilis testing mean for syphilis prevention and control?</div>
     <a href="https://doi.org/10.1128/jcm.00982-25" target="_blank"
        style="color: #1b153e; text-decoration: underline;">Read More</a>
   </div>
