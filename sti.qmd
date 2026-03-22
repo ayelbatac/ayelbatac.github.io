@@ -55,7 +55,7 @@ This research contributes to the growing global evidence base on how social inno
 
 ## Methodological Approach
 
-The research applies a **mixed-methods design** to capture both impact and implementation outcomes:
+The research applies a **mixed methods** design to capture both impact and implementation outcomes:
 
 - Quantitative analysis: Randomized controlled trials assess behavioural and clinical outcomes, including testing uptake and donation patterns.  
 - Qualitative inquiry: In-depth interviews with participants and providers explore motivations, perceived barriers, and emotional responses.  
@@ -77,6 +77,12 @@ By framing STI testing as a **collective act of care**, the pay-it-forward appro
 $~$
 
 *Stay tuned — publications and data visualizations related to this work will be made available here soon.*
+
+$~$
+
+<small>
+This research is conducted in my capacity as a graduate researcher at the London School of Hygiene & Tropical Medicine. It forms part of an investigator-led study led by Drs. Joseph Tucker and Weiming Tang and reflects collaboration with academic and clinical partners at the University of North Carolina at Chapel Hill, the Dermatology Hospital of Southern Medical University, and SESH Global (Social Innovation in Health Initiative China).
+</small>
 
 <style>
   h1, h2, h3, p {

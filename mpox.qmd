@@ -80,6 +80,12 @@ $~$
 
 This mpox research supports public health professionals in navigating a rapidly shifting outbreak landscape, ensuring that response efforts remain **timely**, **evidence-informed**, and **tailored to the populations most at risk**. The work also contributes to broader conversations on how national health systems can proactively adapt to emerging infectious diseases through applied epidemiology and actionable knowledge dissemination.
 
+$~$
+
+<small>
+This research is conducted in my capacity as a researcher with the National Collaborating Centre for Infectious Diseases (NCCID) at the Rady Faculty of Health Sciences, University of Manitoba. NCCID is one of six National Collaborating Centres for Public Health funded by the Public Health Agency of Canada, each focusing on a distinct area of public health, with the University of Manitoba serving as its host institution. This work reflects collaboration with academic, clinical, and public health partners to support timely, evidence-informed public health responses to mpox through accessible knowledge translation.
+</small>
+
 <style>
   h1, h2, h3, p {
     color: #1B153E;

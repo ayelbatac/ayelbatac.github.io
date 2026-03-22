@@ -72,7 +72,7 @@ $~$
 $~$
 
 <small>
-This research is conducted in collaboration with the Government of Nunavut, reflecting a shared commitment to advancing community-led and culturally grounded approaches to tuberculosis prevention and control in northern Canada.
+This research is conducted in my capacity as a researcher with the National Collaborating Centre for Infectious Diseases (NCCID), in collaboration with the Government of Nunavut’s Office of the Chief Public Health Officer and Department of Health, and reflects a shared commitment to advancing community-led and culturally grounded approaches to tuberculosis prevention and control in northern Canada.
 </small>
 
 <style>
