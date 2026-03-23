@@ -16,7 +16,7 @@ format:
 
 $~$
 
-**Anaphylaxis** is an acute and **potentially life-threatening systemic allergic reaction** that requires rapid recognition and immediate treatment with **intramuscular adrenaline (epinephrine)**. Despite the availability of clinical guidelines and increasing global awareness, the management of anaphylaxis remains **inconsistent**, particularly in low-resource settings. Several barriers contribute to this gap, including limited access to adrenaline, delays in diagnosis, and inadequate emergency response systems. These challenges continue to drive preventable morbidity and mortality worldwide.
+**Anaphylaxis** is an acute and potentially **life-threatening** systemic allergic reaction that requires rapid recognition and immediate treatment with **intramuscular adrenaline (epinephrine)**. Despite the availability of clinical guidelines and increasing global awareness, the management of anaphylaxis remains **inconsistent**, particularly in low-resource settings. Several barriers contribute to this gap, including limited access to adrenaline, delays in diagnosis, and inadequate emergency response systems. These challenges continue to drive preventable morbidity and mortality worldwide.
 
 ## Understanding Global Variation in Anaphylaxis Treatment
 
@@ -25,15 +25,84 @@ There is growing recognition of **global variation** in how anaphylaxis is treat
 Our current research is synthesizing global evidence on:
 
 - **International differences** in anaphylaxis treatment and outcomes  
-- **Access to adrenaline**, including auto-injectors (AAIs) and ampoules  
+- **Access to adrenaline**, including adrenaline auto-injectors (AAIs) and ampoules  
 - **Alignment with clinical guidelines** across healthcare systems  
 - **Barriers to timely care**, including regulatory, cost, and training constraints  
 
-This research aims to characterize diverse treatment practices across global contexts. The findings are intended to **inform policy recommendations** that support more consistent, evidence-based emergency care for anaphylaxis worldwide.
+This research aims to characterize diverse treatment practices across global contexts. The findings are intended to inform policy recommendations that support more consistent, evidence-based emergency care for anaphylaxis worldwide.
+
+```{=html}
+<p style="font-size: 1.5rem; font-weight: 600; color: #1B153E; margin-bottom: 1rem;">
+  Featured Publication
+</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 1.5rem;">
+
+  <!-- Infographic Image -->
+  <div style="flex: 0 0 400px;">
+    <a href="https://doi.org/10.1111/cea.70273" target="_blank" rel="noopener noreferrer">
+      <img src="cea_protocol.jpg" alt="Clinical & Experimental Allergy" 
+           style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.3s ease;"
+           onmouseover="this.style.transform='scale(1.05)'" 
+           onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+
+  <!-- Publication Description -->
+  <div style="flex: 1; min-width: 250px;">
+
+    <!-- Title -->
+    <h3 style="font-weight: 600; color: #1B153E; margin: 0 0 1rem 0; font-size: 1.05rem;">
+      <a href="https://doi.org/10.1111/cea.70273"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color: inherit; text-decoration: none; font-weight: inherit;"
+        onmouseover="this.style.color='#DE2221'"
+        onmouseout="this.style.color='#1B153E'">
+        Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol
+      </a>
+    </h3>
+
+    <!-- Description -->
+    <p>
+      This protocol presents a scoping review investigating global variation in the emergency management of anaphylaxis. The forthcoming review will map differences in treatment practices and evaluate alignment with international guidelines, particularly regarding adrenaline use. The review will also examine contextual factors driving variation and identify evidence gaps to inform future research and health system improvements. The findings will provide a structured overview of current practice and areas requiring further investigation.
+    </p>
+    
+<div style="margin-top: 1rem; margin-bottom: 1rem;">
+  <a href="https://doi.org/10.1111/cea.70273"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="explore-button"
+     style="
+       flex: 0 0 auto;
+       padding: 0.4rem 1rem !important;
+       font-size: 0.9rem !important;
+       width: auto !important;
+       min-width: unset !important;
+       white-space: nowrap !important;
+       text-align: center;
+       display: inline-block !important;
+     ">
+    Read article
+  </a>
+</div>
+
+    <!-- Citation -->
+    <p style="font-size: 0.70rem;">
+      <a href="https://doi.org/10.1111/cea.70273" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
+        <strong>Batac ALR</strong>, Wong-Pack A, Lê ML, Reyes JCR, Bhamra MK, Hong B, Feldman LY, Fong AT, Bégin P. Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol. Clin Exp Allergy. 2026 Mar 6. doi: 10.1111/cea.70273. Epub ahead of print. PMID: 41792974.
+      </a>
+    </p>
+
+  </div>
+</div>
+```
+
+$~$
 
 ## Anaphylaxis Treatment in China
 
-In this work, I examined the introduction and integration of adrenaline auto-injectors (AAIs) in mainland China, highlighting several persistent challenges in a context where access had historically been limited:
+In this work, I examined the introduction and integration of AAIs in mainland China, highlighting several persistent challenges in a context where access had historically been limited:
 
 - Outlined the evolving landscape of anaphylaxis management in China    
 - Highlighted systemic barriers to AAI access and implementation  
@@ -42,22 +111,6 @@ In this work, I examined the introduction and integration of adrenaline auto-inj
 - Contributed to broader discussions on health equity and emergency preparedness  
 
 This work underscores the need for sustained policy attention, enhanced clinical training, and system-level adaptation to expand access to life-saving anaphylaxis treatment and strengthen emergency preparedness.
-
-## Contribution to Public Health
-
-Anaphylaxis is both a clinical emergency and a public health concern. Our research addresses critical gaps in how anaphylaxis is recognized, treated, and prevented across diverse health systems. By examining variations in treatment practices and barriers to adrenaline access, this work informs strategies to reduce preventable morbidity and mortality on a population level.
-
-Key public health contributions include:
-
-- Generating evidence to support **policy and regulatory reform** on adrenaline access  
-- Informing **training and education strategies** for clinicians, emergency responders, and the public  
-- Identifying opportunities to **standardize emergency care protocols** in alignment with global best practices  
-- Contributing to **health equity initiatives** by addressing disparities in access to life-saving treatment  
-- Supporting **international collaboration** on anaphylaxis research and response planning  
-
-This work aims to bridge clinical insight with system-level action, reinforcing the importance of coordinated, evidence-based approaches to allergy emergencies in public health planning and preparedness.
-
-$~$
 
 ```{=html}
 <p style="font-size: 1.5rem; font-weight: 600; color: #1B153E; margin-bottom: 1rem;">
@@ -81,13 +134,39 @@ $~$
 
     <!-- Title -->
     <h3 style="font-weight: 600; color: #1B153E; margin: 0 0 1rem 0; font-size: 1.05rem;">
-      From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China
+      <a href="https://doi.org/10.1111/cea.70028"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="color: inherit; text-decoration: none; font-weight: inherit;"
+        onmouseover="this.style.color='#DE2221'"
+        onmouseout="this.style.color='#1B153E'">
+        From Ampoules to Auto-Injectors: Advancing Anaphylaxis Management in China
+      </a>
     </h3>
 
     <!-- Description -->
     <p>
-      This publication examines the evolving landscape of anaphylaxis treatment in mainland China, with particular attention to the introduction of adrenaline auto-injectors. It highlights persistent challenges, such as regulatory barriers, cost constraints, and limited provider awareness, and offers policy recommendations to support the integration of standardized, life-saving interventions into national emergency response systems.
+      This publication explores anaphylaxis treatment in mainland China, focusing on the introduction of adrenaline auto-injectors. It highlights key challenges such as regulatory barriers, cost, and limited awareness, and proposes policy solutions to improve access to life-saving care within national emergency response systems.
     </p>
+    
+<div style="margin-top: 1rem; margin-bottom: 1rem;">
+  <a href="https://doi.org/10.1111/cea.70028"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="explore-button"
+     style="
+       flex: 0 0 auto;
+       padding: 0.4rem 1rem !important;
+       font-size: 0.9rem !important;
+       width: auto !important;
+       min-width: unset !important;
+       white-space: nowrap !important;
+       text-align: center;
+       display: inline-block !important;
+     ">
+    Read article
+  </a>
+</div>
 
     <!-- Citation -->
     <p style="font-size: 0.70rem;">
@@ -99,6 +178,22 @@ $~$
   </div>
 </div>
 ```
+
+$~$
+
+## Contribution to Public Health
+
+Anaphylaxis is both a clinical emergency and a public health concern. Our research addresses critical gaps in how anaphylaxis is recognized, treated, and prevented across diverse health systems. By examining variations in treatment practices and barriers to adrenaline access, this work informs strategies to reduce preventable morbidity and mortality on a population level.
+
+Key public health contributions include:
+
+- Generating evidence to support **policy and regulatory reform** on adrenaline access  
+- Informing **training and education strategies** for clinicians, emergency responders, and the public  
+- Identifying opportunities to **standardize emergency care protocols** in alignment with global best practices  
+- Contributing to **health equity initiatives** by addressing disparities in access to life-saving treatment  
+- Supporting **international collaboration** on anaphylaxis research and response planning  
+
+This work aims to bridge clinical insight with system-level action, reinforcing the importance of coordinated, evidence-based approaches to allergy emergencies in public health planning and preparedness.
 
 $~$
 
