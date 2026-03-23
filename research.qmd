@@ -7,7 +7,6 @@ format:
     anchor-links: false
     include-in-header: 
       text: |
-        <title>Ayel L. R. Batac - Research</title>
         <meta name="description" content="Explore Ayel L. R. Batac’s current research in allergy and clinical immunology, infectious diseases, and global health." />
         <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, allergy and clinical immunology, allergy, anaphylaxis, asthma, atopic dermatitis, food allergy, infectious diseases, STI, HIV, mpox, tuberculosis, COVID-19, vaccine hesitancy, public health, global health, epidemiology, health economics, mixed methods, evidence synthesis, systematic review, scoping review, knowledge translation, health equity" />
 ---
@@ -105,7 +104,7 @@ $~$
 
 ## KEYWORDS
 
-Allergy, clinical immunology, anaphylaxis, atopic dermatitis, drug allergy, food allergy, infectious diseases, sexually transmitted infections (STI), HIV/AIDS, respiratory tract infections, COVID-19, tuberculosis, diagnostics, sexual health, stigma, public health, global health, mixed methods research, implementation science, healthy systems research, knowledge synthesis, low- and middle-income countries (LMIC), health equity
+Allergy, clinical immunology, anaphylaxis, atopic dermatitis, drug allergy, food allergy, infectious diseases, sexually transmitted infections, STI, gonorrhea, chlamydia, syphilis, HIV/AIDS, respiratory tract infections, COVID-19, tuberculosis, diagnostics, sexual health, stigma, public health, global health, mixed methods research, implementation science, healthy systems research, knowledge synthesis, low- and middle-income countries, LMIC, health equity
 
 $~$
 
