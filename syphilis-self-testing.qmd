@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Syphilis Self-Testing: Access Is the Intervention"
+title: "Syphilis Self-Testing: Access Is the Intervention | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/syphilis-self-testing
+description: "A reflection on syphilis self-testing, diagnostic systems, and why access to testing remains a public health challenge even in well-resourced settings."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - Syphilis Self-Testing: Access Is the Intervention</title>
-        <meta name="description" content="A reflection on syphilis self-testing, diagnostic systems, and why access to testing remains a public health challenge even in well-resourced settings." />
-        <meta name="keywords" content="Ayel Batac, blog, syphilis, syphilis self-testing, treponema, treponemal, diagnostics, sexually transmitted infection, STI, STI testing, point-of-care testing, infectious diseases, public health, global health, health equity" />
 ---
 
 <style>

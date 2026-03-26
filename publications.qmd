@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Publications"
+title: "Publications | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/publications
+description: "A collection of Ayel L. R. Batac’s scholarly work in allergy and clinical immunology, infectious diseases, and global health."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - Publications</title>
-        <meta name="description" content="A collection of Ayel L. R. Batac’s scholarly work in allergy and clinical immunology, infectious diseases, and global health." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, publications, peer-reviewed, allergy and clinical immunology, anaphylaxis, atopic dermatitis, food allergy, vaccine hesitancy, infectious diseases, STI, sexually transmitted infections, HIV, mpox, tuberculosis, COVID-19, pediatrics, epidemiology, implementation science, systematic review, evidence synthesis, public health, global health" />
 ---
 
 # PUBLICATIONS

@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Diagnostics"
+title: "Diagnostics Research | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/diagnostics
+description: "Research on diagnostic innovation by Ayel L. R. Batac, focusing on self-testing technologies, infectious disease detection, and expanding equitable access to diagnostics."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - Diagnostics</title>
-        <meta name="description" content="Research on diagnostic innovations by Ayel L. R. Batac, focusing on self-testing technologies, infectious disease detection, and strategies to expand equitable access to diagnostics." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, diagnostics, sexually transmitted infections, STI, syphilis, HIV, stigma, low- and middle-income countries, LMIC, public health, global health, sexual health, Guangzhou, China, SESH Global, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina, UNC, Southern Medical University" />
 ---
 
 # DIAGNOSTICS

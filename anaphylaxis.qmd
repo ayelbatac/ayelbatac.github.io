@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Anaphylaxis Research"
+title: "Anaphylaxis Research | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/anaphylaxis
+description: "Research on anaphylaxis by Ayel L. R. Batac, focusing on prevention, emergency treatment access, and public health strategies to improve management of severe allergic reactions."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header: 
-      text: |
-        <title>Ayel L. R. Batac - Anaphylaxis Research</title>
-        <meta name="description" content="Research on anaphylaxis by Ayel L. R. Batac, focusing on prevention, emergency treatment access, and public health strategies to improve management of severe allergic reactions." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, anaphylaxis, allergy, allergic reaction, adrenaline, epinephrine, emergency, public health, global health, health policy, health equity, health evaluation, China" />
 ---
 
 # ANAPHYLAXIS

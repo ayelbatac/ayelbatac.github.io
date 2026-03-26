@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Get In Touch"
+title: "Contact | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/contact
+description: "Get in touch with Ayel L. R. Batac for research inquiries, collaborations, or knowledge translation opportunities."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header: 
-      text: |
-        <title>Ayel L. R. Batac - Get In Touch</title>
-        <meta name="description" content="Get in touch with Ayel L. R. Batac for research inquiries, collaborations, or knowledge translation opportunities." />
-        <meta name="keywords" content="Ayel Batac, contact, get in touch, research inquiries, collaborations, knowledge translation, global health, public health, epidemiologist, allergy, clinical immunology, pediatrics, STBBIs, HIV" />
 ---
 
 # GET IN TOUCH

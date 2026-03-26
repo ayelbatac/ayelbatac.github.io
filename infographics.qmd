@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Knowledge Translation - Infographics"
+title: "Infographics | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/infographics
+description: "Explore infographics by Ayel L. R. Batac that translate research into accessible visual summaries for knowledge translation."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header: 
-      text: |
-        <title>Ayel L. R. Batac - Knowledge Translation - Infographics</title>
-        <meta name="description" content="Explore infographics by Ayel L. R. Batac translating research into accessible visual summaries for knowledge translation." />
-        <meta name="keywords" content="Ayel Batac, Ayel Luis R. Batac, infographics, knowledge translation, public health communication, health communication, data visualization, infectious diseases, STI, sexually transmitted infections, HIV, mpox, COVID-19, vaccine hesitancy, allergy and clinical immunology, food allergy, anaphylaxis, pediatrics, public health, global health, health equity" />
 ---
 
 # INFOGRAPHICS

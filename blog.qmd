@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Knowledge Translation - Blog"
+title: "Blog | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/blog
+description: "Explore blog posts by Ayel L. R. Batac with reflections on global health and knowledge translation in public health research."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header: 
-      text: |
-        <title>Ayel L. R. Batac - Knowledge Translation - Blog</title>
-        <meta name="description" content="Explore blog posts by Ayel L. R. Batac with reflections on global health and knowledge translation in public health research." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, blog, global health, public health, epidemiology, implementation science, infectious diseases, STI, sexually transmitted infections, HIV, mpox, COVID-19, knowledge translation, science communication, health equity, public health research, Canada, Philippines, China" />
 ---
 
 # BLOG

@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do"
+title: "Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/sti-talk
+description: "An accessible introduction to sexually transmitted infections (STIs), why they matter, and how individuals and communities can take action."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do</title>
-        <meta name="description" content="An accessible introduction to sexually transmitted infections (STIs), why they matter, and how individuals and communities can take action." />
-        <meta name="keywords" content="Ayel Batac, blog, sexually transmitted infections, STI, gonorrhea, chlamydia, HIV, condoms, protection, public health, health education, knowledge translation, global health" />
 ---
 
 <style>

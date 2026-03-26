@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment"
+title: "Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/guidelines-global-acess-structural-gaps-anaphylaxis-treatment
+description: "A reflection on global variation in anaphylaxis treatment, adrenaline access, and how structural inequities shape emergency care despite international guideline consensus."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment</title>
-        <meta name="description" content="A reflection on global variation in anaphylaxis treatment, adrenaline access, and why structural inequities shape emergency care despite international guideline consensus." />
-        <meta name="keywords" content="Ayel Batac, blog, anaphylaxis, epinephrine, adrenaline, epinephrine auto-injector, adrenaline auto-injector, intranasal epinephrine, intranasal adrenaline, neffy, emergency, allergy, food allergy, drug allergy" />
 ---
 
 <style>

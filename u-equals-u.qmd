@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - U = U: The Science, the Message, and Why It Matters"
+title: "U = U: The Science, the Message, and Why It Matters | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/u-equals-u
+description: "An accessible explanation of Undetectable = Untransmittable (U = U), the science behind it, and why it matters for HIV prevention, stigma reduction, and public health."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - U = U: The Science, the Message, and Why It Matters</title>
-        <meta name="description" content="An accessible explanation of Undetectable = Untransmittable (U = U), the science behind it, and why it matters for HIV prevention, stigma reduction, and public health." />
-        <meta name="keywords" content="Ayel Batac, blog, U=U, U = U, HIV, AIDS, HIV prevention, antiretroviral therapy, pre-exposure prophylaxis, stigma, public health, global health, knowledge translation" />
 ---
 
 <style>

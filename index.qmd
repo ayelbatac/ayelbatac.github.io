@@ -1,6 +1,9 @@
 ---
-title: "Ayel L. R. Batac - Implementation Scientist and Health Systems Researcher"
+title: "Ayel L. R. Batac | Public Health Scientist"
 title-block: false
+canonical-url: https://ayelbatac.github.io
+description: "Ayel L. R. Batac is a public health scientist and health systems researcher working at the intersection of global health, allergy and clinical immunology, infectious diseases, and evidence-informed public health."
+
 format:
   html:
     toc: false
@@ -8,8 +11,6 @@ format:
     include-in-header: 
       text: |
         <meta name="google-site-verification" content="N1wLhwkq2kEpvFepxx8U30XxFHpsgKQDqCwYJtTHPuY" />
-        <meta name="description" content="Ayel L. R. Batac is a public health scientist and health systems researcher working at the intersection of global health, allergy and clinical immunology, infectious diseases, and evidence-informed public health." />
-        <meta name="keywords" content="Ayel L. R. Batac, Ayel Batac, implementation scientist, epidemiologist, health economist, epidemiology, implementation science, health economics, allergy and clinical immunology, allergy, anaphylaxis, asthma, atopic dermatitis, food allergy, infectious diseases, STI, HIV, mpox, tuberculosis, COVID-19, public health, global health, mixed methods, evidence synthesis, systematic review, scoping review, knowledge translation, health equity, University of Manitoba, London School of Hygiene and Tropical Medicine, LSHTM, University of North Carolina, UNC, National Collaborating Centre for Infectious Diseases, NCCID, Winnipeg, Manitoba, Canada, London, UK, China" />
 ---
 
 ```{=html}

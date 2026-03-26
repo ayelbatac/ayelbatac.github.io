@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Mpox Research"
+title: "Mpox Research | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/mpox
+description: "Research on mpox by Ayel L. R. Batac, focusing on public health response, surveillance, and knowledge translation."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header: 
-      text: |
-        <title>Ayel L. R. Batac - Mpox Research</title>
-        <meta name="description" content="Research on mpox by Ayel L. R. Batac, focusing on public health response, surveillance, and knowledge translation." />
-        <meta name="keywords" content="Ayel Batac, mpox, infectious diseases, outbreak, surveillance, public health, global health, knowledge translation, National Collaborating Centre for Infectious Diseases, NCCID" />
 ---
 
 # MPOX
