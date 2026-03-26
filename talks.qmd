@@ -1,15 +1,13 @@
 ---
-title: "Ayel L. R. Batac - Talks and Presentations"
+title: "Talks and Presentations | Ayel L. R. Batac"
 title-block: false
+canonical-url: https://ayelbatac.github.io/talks
+description: "Invited talks and presentations by Ayel L. R. Batac on public health, infectious diseases, and allergy and clinical immunology."
+
 format:
   html:
     toc: false
     anchor-links: false
-    include-in-header:
-      text: |
-        <title>Ayel L. R. Batac - Talks and Presentations</title>
-        <meta name="description" content="Presentations and invited talks by Ayel L. R. Batac on allergy and clinical immunology." />
-        <meta name="keywords" content="Ayel Batac, talks, presentations, public health, HIV, STBBIs, knowledge translation, global health, data science, mpox, tuberculosis, anaphylaxis, oral presentations, poster presentations, Canada, Europe, Germany, Quebec" />
 ---
 
 # TALKS AND PRESENTATIONS
