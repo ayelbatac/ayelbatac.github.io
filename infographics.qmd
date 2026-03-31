@@ -38,23 +38,23 @@ $~$
   </a>
 
   <!-- 3 image -->
-  <a href="prep_pep.png" target="_blank">
-    <img src="prep_pep.png" alt="PrEP and PEP Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="hiv_prevention_for_before_and_after_exposure.png" target="_blank">
+    <img src="hiv_prevention_for_before_and_after_exposure.png" alt="PrEP and PEP Infographic" style="width: 100%; border-radius: 8px;">
   </a>
   
   <!-- 4 image -->
-  <a href="prep_pep_fr.png" target="_blank">
-    <img src="prep_pep_fr.png" alt="Infographie : PPrE et PPE" style="width: 100%; border-radius: 8px;">
+  <a href="prevention_du_VIH.png" target="_blank">
+    <img src="prevention_du_VIH.png" alt="Infographie : PPrE et PPE" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 5 image -->
-  <a href="hiv.png" target="_blank">
-    <img src="hiv.png" alt="U=U Infographic" style="width: 100%; border-radius: 8px;">
+  <a href="u_equals_u.png" target="_blank">
+    <img src="u_equals_u.png" alt="U=U Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 6 image -->
-  <a href="hiv_fr.png" target="_blank">
-    <img src="hiv_fr.png" alt="Infographie : I=I" style="width: 100%; border-radius: 8px;">
+  <a href="i_egale_i.png" target="_blank">
+    <img src="i_egale_i.png" alt="Infographie : I=I" style="width: 100%; border-radius: 8px;">
   </a>
   
   <!-- 7 image -->

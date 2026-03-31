@@ -4,6 +4,7 @@ project:
 
 website:
   site-url: "https://ayelbatac.github.io"
+  page-navigation: true
 
   navbar:
     title: "<a href='/' style='display: flex; align-items: center; gap: 0.5rem; text-decoration: none; color: white;'>
