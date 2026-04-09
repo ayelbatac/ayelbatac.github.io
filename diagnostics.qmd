@@ -103,7 +103,7 @@ $~$
 $~$
 
 <small>
-This work is conducted in my capacity as a researcher at the London School of Hygiene & Tropical Medicine and reflects collaboration with academic, clinical, and public health partners to advance equitable and evidence-informed approaches to diagnostic innovation and implementation.
+This work is conducted in my capacity as a researcher at the London School of Hygiene and Tropical Medicine and reflects collaboration with academic, clinical, and public health partners to advance equitable and evidence-informed approaches to diagnostic innovation and implementation.
 </small>
 
 <style>
