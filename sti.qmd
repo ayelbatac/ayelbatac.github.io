@@ -79,7 +79,7 @@ $~$
 $~$
 
 <small>
-This research is conducted in my capacity as a researcher at the London School of Hygiene & Tropical Medicine. It forms part of an investigator-led study led by Drs. Joseph Tucker and Weiming Tang and reflects collaboration with academic and clinical partners at the University of North Carolina at Chapel Hill, the Dermatology Hospital of Southern Medical University, and SESH Global (Social Innovation in Health Initiative China).
+This research is conducted in my capacity as a researcher at the London School of Hygiene and Tropical Medicine. It forms part of an investigator-led study led by Drs. Joseph Tucker and Weiming Tang and reflects collaboration with academic and clinical partners at the University of North Carolina at Chapel Hill, the Dermatology Hospital of Southern Medical University, and SESH Global (China hub of the Social Innovation in Health Initiative, TDR, the Special Programme for Research and Training in Tropical Diseases).
 </small>
 
 <style>
