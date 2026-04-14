@@ -8,9 +8,9 @@ website:
 
   navbar:
     title: "<a href='/' style='display: flex; align-items: center; gap: 0.5rem; text-decoration: none; color: white;'>
-              <img src='/logo.png' alt='Logo' style='height: 60px;'>
-              <strong>Ayel L. R. Batac</strong>
-            </a>"
+          <img src='/logo.png' alt='Logo' style='height: 60px;'>
+          <span style='font-weight: 500; letter-spacing: 0.08em;'>AYEL L. R. BATAC</span>
+        </a>"
     right:
       - text: "Home"
         href: index.qmd
