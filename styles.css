@@ -1,82 +1,103 @@
-/* Navbar/header background color */
-.navbar {
-  background-color: #1B153E;  /* Main color (deep indigo) */
+/* ==========================================================
+   GLOBAL STYLES (FONT + BASE)
+   ========================================================== */
+
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background-color: #1B153E !important; /* Indigo background */
+  color: #1B153E;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  font-size: 1.05rem;
 }
 
-/* Align navbar content: brand on left, links and search bar on right */
+/* Keep main content area white */
+main,
+.page-content,
+.content,
+body > div,
+body > main {
+  background-color: white;
+}
+
+/* ==========================================================
+   NAVBAR
+   ========================================================== */
+
+.navbar {
+  background-color: #1B153E;
+}
+
+/* Align navbar content */
 .navbar .container-fluid {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-/* Navbar links aligned to the right */
+/* Navbar links aligned right */
 .navbar-nav {
   margin-left: auto;
   display: flex;
   align-items: center;
 }
 
-/* Navbar collapse ensures right alignment */
 .navbar-collapse {
   justify-content: flex-end;
 }
 
-/* Navbar link styles */
+/* Navbar links */
 .navbar .nav-link {
-  color: white;               
-  padding: 0.5rem 1rem;        
-  border-radius: 0.25rem;      
-  transition: background-color 0.3s ease;  
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  transition: background-color 0.3s ease;
 }
 
-/* Navbar link hover effect */
 .navbar .nav-link:hover {
-  background-color: #DE2221;   /* Complementary color (red) */
-  color: white;                
+  background-color: #DE2221;
+  color: white;
 }
 
-/* Navbar brand (site title) color */
+/* Navbar brand */
 .navbar .navbar-brand {
   color: white;
 }
 
-/* Page background color */
-body {
-  background-color: white;
-  color: #1B153E; /* Indigo for all text */
-}
+/* ==========================================================
+   LINKS
+   ========================================================== */
 
-/* Global link styles (default body text links) */
 a {
-  color: #1B153E;              /* Main color for links */
-  text-decoration: none;       
+  color: #1B153E;
+  text-decoration: none;
 }
 
-/* Body text links hover effect (not navbar) */
 body a:hover {
-  color: #DE2221;              /* Complementary color on hover */
+  color: #DE2221;
 }
 
-/* Recent Publications section link hover effect */
 .recent-pubs a:hover {
-  color: #DE2221 !important;  /* Complementary red */
+  color: #DE2221 !important;
 }
 
-/* Entire footer background and text color */
+/* ==========================================================
+   FOOTER
+   ========================================================== */
+
 footer,
 footer .container,
 footer .container-fluid,
 footer .page-footer {
-  background-color: #1B153E !important;  /* Indigo background */
-  color: white !important;               /* White text */
+  background-color: #1B153E !important;
+  color: white !important;
   padding: 1rem 0;
   text-align: center;
   border: none !important;
   box-shadow: none !important;
 }
 
-/* Ensure all nested elements in footer remain styled correctly */
 footer *,
 footer a,
 footer p,
@@ -92,38 +113,12 @@ footer h6 {
   background-color: transparent !important;
 }
 
-/* Set body background to indigo to fill space below footer */
-body {
-  background-color: #1B153E !important;
-  color: #1B153E;
-  margin: 0;
-  padding: 0;
-}
-
-/* Keep main content area white if needed */
-main,
-.page-content,
-.content,
-body > div,
-body > main {
-  background-color: white;
-}
-
-/* Completely hide all anchor link icons on headings */
-a.header-anchor,
-a.quarto-anchor,
-.anchorjs-link {
-  display: none !important;
-  visibility: hidden !important;
-  pointer-events: none !important;
-  opacity: 0 !important;
-  width: 0 !important;
-  height: 0 !important;
-  overflow: hidden !important;
-}
+/* ==========================================================
+   BUTTONS
+   ========================================================== */
 
 .explore-button {
-  background-color: #1B153E; /* Deep indigo */
+  background-color: #1B153E;
   color: white;
   font-weight: 600;
   padding: 1rem 2rem;
@@ -137,11 +132,28 @@ a.quarto-anchor,
 }
 
 .explore-button:hover {
-  background-color: #DE2221; /* Red hover */
+  background-color: #DE2221;
   color: white;
 }
 
-/* Hide automatic page title blocks if they still appear */
+/* ==========================================================
+   CLEANUP / HIDING ELEMENTS
+   ========================================================== */
+
+/* Hide anchor icons */
+a.header-anchor,
+a.quarto-anchor,
+.anchorjs-link {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Hide automatic page titles */
 .quarto-title, 
 .quarto-title-block, 
 .quarto-title-banner, 
@@ -153,7 +165,6 @@ a.quarto-anchor,
    FIXED NAVBAR
    ========================================================== */
 
-/* Keep navbar/header fixed at top while scrolling */
 .navbar,
 header.navbar,
 header.site-header {
@@ -161,19 +172,18 @@ header.site-header {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 1000; /* Keeps navbar above all content */
-  background-color: #1B153E; /* Ensure background is solid when fixed */
+  z-index: 1000;
+  background-color: #1B153E;
   transition: box-shadow 0.3s ease;
 }
 
-/* Prevent content from being hidden under the fixed navbar */
+/* Prevent content overlap */
 main.content,
 .page-content,
 #quarto-content {
-  padding-top: 80px; /* Adjust based on your navbar height (100–130px usually works well) */
+  padding-top: 80px;
 }
 
-/* Adjust spacing for mobile screens if navbar is smaller */
 @media (max-width: 768px) {
   main.content,
   .page-content,
@@ -182,12 +192,11 @@ main.content,
   }
 }
 
-/* Optional: subtle shadow when scrolling (for depth) */
 .navbar.scrolled {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-/* Smooth scrolling for internal anchor links */
+/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
