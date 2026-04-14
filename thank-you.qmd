@@ -1,0 +1,38 @@
+---
+title: "Thank You | Ayel L. R. Batac"
+title-block: false
+canonical-url: https://ayelbatac.github.io/thank-you
+description: "Confirmation that your message has been successfully submitted."
+listing: false
+search: false
+
+format:
+  html:
+    toc: false
+    anchor-links: false
+---
+
+<div style="margin-top: 3.5rem;">
+
+## ✅ Message Received
+
+Thank you for reaching out.
+
+Your message has been received successfully. I will review it and get back to you within 24–48 hours.
+
+</div>
+
+```{=html}
+
+<!-- Back to Home Section -->
+<div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff; text-align: center;">
+
+  <div style="display: flex; justify-content: center; max-width: 1200px; margin: 0 auto;">
+
+    <a href="/" class="explore-button">Return Home</a>
+
+  </div>
+
+</div>
+
+```

@@ -19,7 +19,12 @@ Please fill out the form below to get in touch.
 ```{=html}
 <form action="https://formsubmit.co/ayel.batac@gmail.com" method="POST" id="contact-form" style="width: 100%; max-width: 600px; margin-top: 2rem; padding: 2rem; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
-  <!-- First Name and Last Name side by side -->
+  <!-- FormSubmit Config -->
+  <input type="hidden" name="_next" value="https://ayelbatac.github.io/thank-you">
+  <input type="hidden" name="_autoresponse" value="Thank you for reaching out! I have received your message and will get back to you within 24–48 hours.">
+  <input type="hidden" name="_captcha" value="true">
+
+  <!-- First Name and Last Name -->
   <div style="display: flex; gap: 1rem;">
     <div style="flex: 1;">
       <label for="first-name" style="font-weight: bold; color: #1B153E;">First Name <span style="color: #DE2221;">*</span></label><br>
@@ -31,47 +36,56 @@ Please fill out the form below to get in touch.
     </div>
   </div>
 
-  <!-- Email field -->
+  <!-- Email -->
   <div style="margin-top: 1.5rem;">
     <label for="email" style="font-weight: bold; color: #1B153E;">Email <span style="color: #DE2221;">*</span></label><br>
     <input type="email" id="email" name="Email" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
   </div>
 
-  <!-- Subject field -->
+  <!-- Subject -->
   <div style="margin-top: 1.5rem;">
     <label for="subject" style="font-weight: bold; color: #1B153E;">Subject <span style="color: #DE2221;">*</span></label><br>
     <input type="text" id="subject" name="Subject" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
   </div>
 
-  <!-- Message field -->
+  <!-- Message -->
   <div style="margin-top: 1.5rem;">
     <label for="message" style="font-weight: bold; color: #1B153E;">Message <span style="color: #DE2221;">*</span></label><br>
     <textarea id="message" name="Message" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem; min-height: 150px;"></textarea>
   </div>
 
-  <!-- Hidden field to activate Formsubmit's CAPTCHA -->
-  <input type="hidden" name="_captcha" value="true">
-
-  <!-- Submit button -->
+  <!-- Submit -->
   <div style="margin-top: 2rem; text-align: center;">
     <button type="submit" style="background-color: #1B153E; color: white; padding: 0.8rem 2rem; border: none; border-radius: 30px; font-size: 1rem; cursor: pointer; transition: all 0.3s ease;">
       Submit
     </button>
   </div>
 
+  <!-- Status Message -->
+  <p id="form-status" style="text-align:center; margin-top:1rem; color:#1B153E;"></p>
+
 </form>
 
 <script>
-// Button hover effect
+// Hover effect
 const submitButton = document.querySelector('#contact-form button');
 submitButton.addEventListener('mouseover', function() {
-  this.style.backgroundColor = '#DE2221'; // Red hover
+  this.style.backgroundColor = '#DE2221';
   this.style.transform = 'scale(1.05)';
 });
 submitButton.addEventListener('mouseout', function() {
-  this.style.backgroundColor = '#1B153E'; // Indigo normal
+  this.style.backgroundColor = '#1B153E';
   this.style.transform = 'scale(1)';
+});
+
+// Prevent multiple submissions + show feedback
+const form = document.getElementById('contact-form');
+const status = document.getElementById('form-status');
+
+form.addEventListener('submit', function() {
+  submitButton.disabled = true;
+  submitButton.innerText = 'Sending...';
+  status.innerText = 'Please wait, your message is being sent...';
 });
 </script>
 ```
-
