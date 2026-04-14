@@ -190,11 +190,12 @@ ul.task-list li input[type="checkbox"] {
 <h1>GET IN TOUCH</h1>
 <p>Please fill out the form below to get in touch.</p>
 <p><span style="color: #DE2221; font-size: 0.9rem;">* indicates required field</span></p>
+
 <form action="https://formsubmit.co/ayel.batac@gmail.com" method="POST" id="contact-form" style="width: 100%; max-width: 600px; margin-top: 2rem; padding: 2rem; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
   <!-- FormSubmit Config -->
-  <input type="hidden" name="_next" value="https://ayelbatac.github.io/thank-you">
-  <input type="hidden" name="_autoresponse" value="Thank you for reaching out! I have received your message and will get back to you within 24–48 hours.">
+  <input type="hidden" name="_next" value="https://ayelbatac.github.io/thank-you.html">
+  <input type="hidden" name="_autoresponse" value="Thank you for reaching out. I have received your message and will get back to you within 24–48 hours.">
   <input type="hidden" name="_captcha" value="true">
 
   <!-- First Name and Last Name -->
@@ -212,7 +213,7 @@ ul.task-list li input[type="checkbox"] {
   <!-- Email -->
   <div style="margin-top: 1.5rem;">
     <label for="email" style="font-weight: bold; color: #1B153E;">Email <span style="color: #DE2221;">*</span></label><br>
-    <input type="email" id="email" name="Email" required="" style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
+    <input type="email" id="email" name="email" required="" style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 8px; margin-top: 0.5rem;">
   </div>
 
   <!-- Subject -->
@@ -261,6 +262,7 @@ form.addEventListener('submit', function() {
   status.innerText = 'Please wait, your message is being sent...';
 });
 </script>
+
 
 
 </section>
