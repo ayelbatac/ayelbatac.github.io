@@ -21,7 +21,7 @@ Please fill out the form below to get in touch.
 <form action="https://formsubmit.co/ayel.batac@gmail.com" method="POST" id="contact-form" style="width: 100%; max-width: 600px; margin-top: 2rem; padding: 2rem; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
 
   <!-- FormSubmit Config -->
-  <input type="hidden" name="_next" value="https://ayelbatac.github.io/thank-you.html">
+  <input type="hidden" name="_next" value="https://ayelbatac.github.io/thank-you">
   <input type="hidden" name="_autoresponse" value="Thank you for reaching out. I have received your message and will get back to you within 24–48 hours.">
   <input type="hidden" name="_captcha" value="true">
 
