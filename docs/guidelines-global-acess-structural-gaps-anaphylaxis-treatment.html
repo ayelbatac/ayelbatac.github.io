@@ -88,6 +88,35 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&amp;display=swap" rel="stylesheet">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <link rel="canonical" href="https://ayelbatac.github.io/guidelines-global-acess-structural-gaps-anaphylaxis-treatment">
@@ -326,6 +355,8 @@ Where do evidence gaps persist?</p>
 <p><strong>Disclaimer:</strong> Mention of specific medications, drugs, or therapeutic agents in this blog is for informational and educational purposes only and does not constitute endorsement, recommendation, or promotion by the author. Clinical decisions should be made in consultation with qualified healthcare professionals and based on current evidence and applicable regulatory guidance.</p>
 <p>The author declares no financial relationships with manufacturers of any drugs or medications mentioned in this post.</p>
 </div>
+<p><span class="math inline">\(~\)</span></p>
+<p><span class="math inline">\(~\)</span></p>
 
 
 </section>
