@@ -83,34 +83,123 @@ body a:hover {
 }
 
 /* ==========================================================
-   FOOTER
+   FINAL FOOTER — CORRECT + STABLE
    ========================================================== */
 
-footer,
-footer .container,
-footer .container-fluid,
-footer .page-footer {
-  background-color: #1B153E !important;
-  color: white !important;
-  padding: 1rem 0;
-  text-align: center;
-  border: none !important;
-  box-shadow: none !important;
+/* Full-width */
+.custom-footer {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  background-color: #1B153E;
+  color: white;
+  padding: 4rem 2rem;
 }
 
-footer *,
-footer a,
-footer p,
-footer span,
-footer div,
-footer h1,
-footer h2,
-footer h3,
-footer h4,
-footer h5,
-footer h6 {
+/* Layout */
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 3rem;
+}
+
+/* LEFT */
+.footer-left {
+  width: 340px;
+  padding-top: 1.5rem;   /* ✅ HEAD SPACE FIX */
+}
+
+/* 🔥 SPACER CONTROLS POSITION */
+.footer-spacer {
+  flex: 0.8;   /* increase/decrease to move middle column */
+}
+
+/* COLUMNS */
+.footer-col {
+  min-width: 220px;
+  padding-top: 1.8rem;   /* ✅ HEAD SPACE FIX */
+}
+
+/* LOGO */
+.footer-logo-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.footer-logo {
+  height: 60px;
+}
+
+.footer-name {
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  font-size: 1.1rem;
+}
+
+/* TEXT */
+.footer-tagline {
+  margin: 0.8rem 0;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
+.footer-copy {
+  font-size: 0.85rem;
+  margin-bottom: 1.2rem;
+  white-space: nowrap;
+}
+
+/* BUTTON */
+.footer-cta {
+  display: inline-block;
+  background-color: #DE2221;   /* red */
+  border: 1px solid #DE2221;
+  padding: 0.6rem 1.4rem;
+  border-radius: 6px;
   color: white !important;
-  background-color: transparent !important;
+  text-decoration: none;
+  font-weight: 700;
+  transition: all 0.25s ease;
+}
+
+.footer-cta:hover {
+  background-color: white;     /* ✅ turns white */
+  border-color: white;
+  color: #1B153E !important;   /* ✅ text turns indigo */
+}
+
+/* LINKS */
+.footer-heading {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.footer-col a {
+  display: block;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.footer-col a:hover {
+  color: #DE2221;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .footer-inner {
+    flex-direction: column;
+  }
+
+  .footer-spacer {
+    display: none;
+  }
+
+  .footer-tagline {
+    white-space: normal;
+  }
 }
 
 /* ==========================================================

@@ -8,7 +8,7 @@ website:
 
   navbar:
     title: "<a href='/' style='display: flex; align-items: center; gap: 0.5rem; text-decoration: none; color: white;'>
-          <img src='/logo.png' alt='Logo' style='height: 60px;'>
+          <img src='logo.png' alt='Logo' style='height: 60px;'>
           <span style='font-weight: 500; letter-spacing: 0.08em;'>AYEL L. R. BATAC</span>
         </a>"
     right:
@@ -31,15 +31,17 @@ website:
       - text: "Contact"
         href: contact.qmd
 
-  page-footer:
-    center: "© 2025–2026 Ayel L. R. Batac. All rights reserved."
-
 format:
   html:
     css: styles.css
     anchor-links: false
     favicon: favicon.ico
+
     include-in-header:
       - meta.html
       - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    include-after-body: footer.html
