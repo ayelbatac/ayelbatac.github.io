@@ -95,6 +95,12 @@ body a:hover {
   padding: 4rem 2rem;
 }
 
+/* 🔥 FIX: force ALL footer text to stay white on ALL pages */
+.custom-footer,
+.custom-footer * {
+  color: white !important;
+}
+
 /* Layout */
 .footer-inner {
   max-width: 1200px;
@@ -107,18 +113,18 @@ body a:hover {
 /* LEFT */
 .footer-left {
   width: 340px;
-  padding-top: 1.5rem;   /* ✅ HEAD SPACE FIX */
+  padding-top: 1.5rem;
 }
 
 /* 🔥 SPACER CONTROLS POSITION */
 .footer-spacer {
-  flex: 0.8;   /* increase/decrease to move middle column */
+  flex: 0.8;
 }
 
 /* COLUMNS */
 .footer-col {
   min-width: 220px;
-  padding-top: 1.8rem;   /* ✅ HEAD SPACE FIX */
+  padding-top: 1.8rem;
 }
 
 /* LOGO */
@@ -155,7 +161,7 @@ body a:hover {
 /* BUTTON */
 .footer-cta {
   display: inline-block;
-  background-color: #DE2221;   /* red */
+  background-color: #DE2221;
   border: 1px solid #DE2221;
   padding: 0.6rem 1.4rem;
   border-radius: 6px;
@@ -166,9 +172,9 @@ body a:hover {
 }
 
 .footer-cta:hover {
-  background-color: white;     /* ✅ turns white */
+  background-color: white;
   border-color: white;
-  color: #1B153E !important;   /* ✅ text turns indigo */
+  color: #1B153E !important;
 }
 
 /* LINKS */
@@ -179,12 +185,12 @@ body a:hover {
 
 .footer-col a {
   display: block;
-  color: white;
+  color: white !important;
   margin-bottom: 0.5rem;
 }
 
 .footer-col a:hover {
-  color: #DE2221;
+  color: #DE2221 !important;
 }
 
 /* MOBILE */
