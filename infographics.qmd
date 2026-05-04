@@ -59,12 +59,12 @@ $~$
   
   <!-- 7 image -->
   <a href="eai_approved_china.png" target="_blank">
-    <img src="eai_approved_china.png" alt="EAI China Infographic" style="width: 100%; border-radius: 8px;">
+    <img src="eai_approved_china.png" alt="Epinephrine Autoinjectors in China Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 8 image -->
   <a href="maternal_infant_bonding.png" target="_blank">
-    <img src="maternal_infant_bonding.png" alt="Maternal Infant Bonding Infographic" style="width: 100%; border-radius: 8px;">
+    <img src="maternal_infant_bonding.png" alt="Atopic Dermatitis and Maternal–Infant Bonding Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
   <!-- 9 image -->
@@ -84,7 +84,7 @@ $~$
 
   <!-- 12 image -->
   <a href="child_burden.jpg" target="_blank">
-    <img src="child_burden.jpg" alt="Child Burden Infographic" style="width: 100%; border-radius: 8px;">
+    <img src="child_burden.jpg" alt="Psychosocial Burden of Food Allergy Infographic" style="width: 100%; border-radius: 8px;">
   </a>
 
 </div>
