@@ -1,0 +1,142 @@
+---
+title: "Manitoba’s HIV Emergency: When Evidence Doesn’t Reach People | Ayel L. R. Batac"
+title-block: false
+canonical-url: https://ayelbatac.github.io/manitoba-hiv-emergency-evidence-doesnt-reach-people
+description: "A reflection on Manitoba’s HIV public health emergency, access to prevention and treatment, harm reduction, and why evidence only matters when it reaches people in real life."
+
+format:
+  html:
+    toc: false
+    anchor-links: false
+---
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+  a.study-button {
+    background-color: #1B153E;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  a.study-button:hover {
+    background-color: #DE2221;
+    color: white;
+  }
+</style>
+
+# Manitoba’s HIV Emergency: When Evidence Doesn’t Reach People
+
+May 9, 2026
+
+<div style="
+  border-left: 6px solid #1B153E;
+  background-color: #F4F3FA;
+  padding: 1.2rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+">
+  <strong style="color:#1B153E; font-size:1.05rem;">
+    TL;DR
+  </strong>
+  <ul style="margin-top: 0.75rem; color:#1B153E;">
+    <li>Manitoba has declared a public health emergency in response to rising HIV cases.</li>
+    <li><strong>HIV is preventable and treatable</strong>, and people living with HIV who are on effective treatment can live long, healthy lives.</li>
+    <li>Manitoba already has important tools: <strong>HIV testing, PrEP, PEP, treatment, harm reduction, outreach, and community-based care.</strong></li>
+    <li>The challenge is whether people can access these tools early enough, consistently enough, and safely enough.</li>
+    <li>This is not simply an individual behaviour issue. <strong>It's a systems issue.</strong></li>
+  </ul>
+</div>
+
+What does it mean to declare a public health emergency for a virus we already know how to prevent and treat?
+
+That is the tension at the centre of Manitoba’s HIV emergency. [On May 7, 2026, Manitoba declared a public health emergency in response to rising HIV cases](https://news.gov.mb.ca/news/?archive=&item=73717). New diagnoses increased from 90 in 2019 to 328 in 2025, and Manitoba’s 2024 HIV diagnosis rate was more than three-and-a-half times the national rate. Rates are highest in Prairie Mountain Health and Northern Health, while Winnipeg has the largest number of diagnoses.
+
+As someone from Winnipeg, this feels close to home. As someone shaped by living between the Philippines and Canada, it also makes me cautious about what we mean when we say “access”.
+
+Growing up across two health system contexts taught me that a service can exist on paper and still be difficult to reach in real life. Access depends on whether someone has a provider, transportation, stable housing, health literacy, trust in the system, time away from work, and the safety to ask for care without judgment. In the Philippines, I saw how seeking care could depend on whether someone had money for a consultation, transportation to a clinic, or enough information to know what a provider could do for them. In Canada, the barriers may look different, but the core question remains: can people realistically reach the care that public health tells them is available?
+
+This is why I do not read Manitoba’s HIV emergency as a failure of HIV science. The science is strong. The harder question is whether the tools we already have are reaching people early enough, consistently enough, and in ways that feel safe enough to keep them connected to care.
+
+### HIV Has Changed. Stigma Has Not Always Caught Up.
+
+For many people, HIV is still surrounded by fear, shame, and outdated assumptions. But HIV prevention and treatment have changed dramatically.
+
+A person living with HIV who takes treatment and maintains viral suppression cannot sexually transmit HIV. [The Public Health Agency of Canada describes viral suppression as a viral load of less than 200 copies of virus per millilitre of blood, usually measured regularly as part of clinical care](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/preventing-hiv-transmission-undetectable-equals-untransmittable-health-professionals-fact-sheet.html).
+
+This matters because stigma is not just a social issue. It's a public health barrier. Stigma affects whether people test, disclose, ask about prevention, start treatment, and return for follow-up. If public communication around an HIV emergency increases fear without increasing understanding, it can make the response harder.
+
+The message needs to be clear: HIV is preventable, HIV is treatable, and people living with HIV deserve dignity, care, relationships, families, and futures.
+
+### Access Is More Than Availability
+
+Manitoba is not starting from nothing. The province has already invested in HIV prevention and care, including free pre-exposure prophylaxis (PrEP), post-exposure prophylaxis (PEP), and antiretroviral therapy through the Manitoba Enhanced Pharmacare Program, expanded Indigenous-led and community-based services, regional communicable disease staff, and outreach models such as the Program to Access Treatment for HIV and Support (PATHS).
+
+That matters. Many people across government, public health, clinical care, Indigenous organizations, and community organizations have been working on HIV prevention and care for years. The emergency declaration should not erase that work. It should create the urgency to scale what is working and identify where people are still being missed.
+
+PrEP is medication that HIV-negative people can take to prevent HIV. PEP is medication that can prevent HIV after a possible exposure, but it must be started quickly, within 72 hours. Treatment is also prevention: when people living with HIV are diagnosed early, connected to care, and supported to stay on treatment, they can live long and healthy lives while also preventing onward sexual transmission when virally suppressed.
+
+But each of these tools depends on access. A test does not help if someone avoids a clinic because of stigma. PrEP does not help if someone does not know it exists or cannot find a provider. PEP does not help if someone learns about it after the 72-hour window has passed. Treatment cannot prevent transmission if people are diagnosed late or fall out of care because the system is difficult to navigate.
+
+This is where implementation science offers a useful lens. The question is not only “what works?” but “what works for whom, under what conditions, and what needs to change so that people can actually use it?”
+
+### Why Harm Reduction Belongs in the HIV Response
+
+Public health messaging often focuses on individual actions: get tested, use condoms, take PrEP, seek PEP after exposure, do not share injection equipment, and start treatment. These messages are important, but they are incomplete when separated from people’s real lives.
+
+Manitoba’s HIV context makes this especially clear. The province has identified injection drug use and unprotected heterosexual sex as common routes of HIV transmission, alongside homelessness, mental health concerns, substance use, socio-economic inequality, stigma, and misinformation as barriers to care.
+
+That means harm reduction is not separate from HIV prevention. It is HIV prevention. In plain language, harm reduction includes practical supports such as sterile needles and drug-use equipment, safer-use supplies, overdose prevention, nonjudgmental care, and pathways into testing and treatment. These services do not require people to be perfect before receiving care. They keep people safer while creating opportunities for connection.
+
+This matters because someone may know that testing is important and still avoid care because they have been judged before. Someone may want PrEP but not have a regular provider. Someone may start HIV treatment but struggle to stay connected because of housing instability, substance use, mental health, transportation, racism, or previous harm in healthcare settings.
+
+These are not simply individual failures. They are signals about how systems are designed.
+
+### When Evidence Does Not Reach People
+
+This access problem is not unique to Manitoba. Around the world, rising HIV cases can occur even when effective prevention and treatment tools already exist. The gap is often not knowledge. It is whether prevention and care are accessible, trusted, timely, and sustained.
+
+In the Philippines, where I grew up for part of my life, UNAIDS has described the country as experiencing the fastest-growing HIV epidemic in the Asia-Pacific region. [Estimated new HIV infections increased by 543% from 2010 to 2023, and 33% of new infections occurred among youth aged 15 to 24](https://unaids-ap.org/2025/06/04/unaids-calls-for-urgent-action-as-philippines-faces-fastest-growing-hiv-epidemic-in-asia-pacific/).
+
+Fiji offers another example of the same implementation challenge. The Government of Fiji declared an HIV outbreak in January 2025 after a sharp increase in newly diagnosed cases. [UNAIDS emphasized that the response needed stigma-free HIV prevention, testing, and treatment services, alongside harm reduction for people who inject drugs, condom distribution, PrEP, and community leadership](https://pacific.un.org/en/288058-fiji-announces-hiv-outbreak-unaids-echoes-calls-non-discriminatory-approach).
+
+These examples are not comparisons in scale or context. Manitoba is not the Philippines or Fiji. But they point to a recurring lesson: public health emergencies do not always mean we lack evidence. Sometimes they mean we have not yet built systems that allow evidence to become care people can realistically use.
+
+### After the Declaration
+
+A public health emergency declaration matters. It can create urgency, coordination, public attention, and permission to move faster. But the real test begins after the announcement.
+
+For Manitoba, the next step is not simply to tell people that HIV testing, PrEP, PEP, harm reduction, and treatment exist. It is to make them easier to find, easier to start, and easier to stay connected to.
+
+In practice, that means routine and stigma-free HIV testing. It means PrEP conversations happening proactively in the places people already seek care: primary care, sexual health clinics, prenatal care, correctional settings, emergency departments, and harm reduction programs. It means PEP pathways that people can navigate quickly, including after hours. It means treatment programs that do not lose people when life becomes unstable. It means harm reduction treated as core HIV prevention infrastructure. It means Indigenous-led and community-led services resourced as central parts of the response, not peripheral supports.
+
+For healthcare providers, it means seeing missed appointments not only as non-adherence, but sometimes as evidence that the model of care needs to adapt. For the public, it means replacing fear with facts. HIV is not spread through coughing, touching, or shared surfaces. People living with HIV are not a threat to their communities.
+
+### The Bottom Line
+
+Manitoba’s HIV emergency should not be read as a failure of individual morality or a failure of biomedical knowledge. It is better understood as a systems warning.
+
+We have the tools. Testing works. PrEP prevents HIV. PEP can prevent HIV after a recent exposure. Treatment saves lives. U=U is real. Harm reduction prevents infections. Community expertise exists.
+
+The question is whether these tools can reach people in time, in places they trust, and in ways they can continue to use.
+
+That is what access means. It's not just having a program listed on a website. It's whether someone can get tested without shame, start PrEP without unnecessary barriers, receive PEP before the window closes, begin treatment early, use safer supplies without judgment, stay connected during instability, and return to care without being blamed.
+
+Access is not a soft issue. It's not a secondary concern. In Manitoba’s HIV emergency, access is what will determine whether prevention and treatment work in real life.
+
+Thank you for being here. Let’s keep talking.
+
+-Ayel
+
+<div style="font-size: 0.70em; margin-top: 3rem;">
+
+**Disclaimer:** Mention of specific medications, drugs, prevention strategies, or therapeutic agents is for informational and educational purposes only and does not constitute endorsement, recommendation, or promotion by the author. Clinical decisions should be made in consultation with qualified healthcare professionals and based on current evidence and applicable regulatory guidance.
+
+</div>
+
+$~$

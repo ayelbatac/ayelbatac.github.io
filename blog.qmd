@@ -16,7 +16,18 @@ format:
 
 <ul style="list-style: none; padding: 0; margin-top: 1rem;">
 
-  <!-- Blog Post 5 (Most Recent) -->
+
+  <!-- Blog Post 6 (Most Recent) -->
+  <li style="margin-bottom: 1.5rem;">
+    <a href="manitoba-hiv-emergency-evidence-doesnt-reach-people.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
+       onmouseover="this.style.color='#DE2221'" 
+       onmouseout="this.style.color='#1B153E'">
+      Manitoba’s HIV Emergency: When Evidence Doesn’t Reach People
+    </a>
+    <div style="font-size: 0.9rem; color: #555;">Published: May 9, 2026</div>
+  </li>
+  
+  <!-- Blog Post 5 -->
   <li style="margin-bottom: 1.5rem;">
     <a href="guidelines-global-acess-structural-gaps-anaphylaxis-treatment.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 
