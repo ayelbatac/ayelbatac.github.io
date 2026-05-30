@@ -79,8 +79,9 @@ $~$
 - Dermatoepidemiology  
 - Behavioural interventions for health service uptake (e.g., pay-it-forward)  
 - Diagnostics research    
-- Knowledge synthesis in allergy and infectious diseases  
-- Knowledge translation and knowledge mobilization (KT/KMb)  
+- Evidence synthesis in allergy and infectious diseases  
+- Knowledge translation
+- Knowledge mobilization    
 - Implementation science  
 - Infectious disease and health economic modelling  
 - Pharmacoeconomics (allergy and infectious diseases)  
@@ -97,12 +98,13 @@ $~$
 - Global Health  
 - Epidemiology (Communicable and Non-Communicable Diseases)  
 - Health Systems Research  
+- Health Policy   
+- Health Economics  
 - Implementation Science  
-- Health Economics and Outcomes Research  
 
 ## KEYWORDS
 
-Allergy, clinical immunology, anaphylaxis, atopic dermatitis, drug allergy, food allergy, infectious diseases, sexually transmitted infections, STI, gonorrhea, chlamydia, syphilis, HIV/AIDS, respiratory tract infections, COVID-19, tuberculosis, diagnostics, sexual health, stigma, public health, global health, mixed methods research, implementation science, healthy systems research, knowledge synthesis, low- and middle-income countries, LMIC, health equity
+Allergy, clinical immunology, anaphylaxis, atopic dermatitis, drug allergy, food allergy, infectious diseases, sexually transmitted infections, STI, gonorrhea, chlamydia, syphilis, HIV/AIDS, coronavirus disease 2019, COVID-19, tuberculosis, TB, diagnostics, sexual health, stigma, public health, global health, mixed methods research, implementation science, health systems research, health policy, evidence synthesis, low- and middle-income countries, LMIC, health equity
 
 $~$
 
