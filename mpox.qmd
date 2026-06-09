@@ -16,7 +16,7 @@ format:
 
 **Mpox** is an emerging zoonotic disease that has re-entered the global spotlight due to recent multi-country outbreaks. Once geographically confined, the current epidemiological landscape is marked by the **rise of new viral clades**, necessitating updated approaches to surveillance, clinical guidance, and risk communication.
 
-Outbreaks have disproportionately affected **gay, bisexual, and other men who have sex with men (GBMSM)**, and responses have required a balance of urgency, equity, and clarity in public health messaging. Amid this evolving context, my work aims to inform national-level responses in Canada through applied research and knowledge translation.
+Outbreaks have disproportionately affected gay, bisexual, and other men who have sex with men (GBMSM), and responses have required a balance of urgency, equity, and clarity in public health messaging. Amid this evolving context, my work aims to inform national-level responses in Canada through applied research and knowledge translation.
 
 ## Research Focus
 
@@ -36,6 +36,7 @@ As part of my work with the [**National Collaborating Centre for Infectious Dise
 This work culminated in the development of a [**disease debrief**](https://nccid.ca/debrief/mpox/) published by the [National Collaborating Centre for Infectious Diseases](https://nccid.ca/). The debrief serves as a practical, evidence-based guide for public health professionals and primary care physicians, offering up-to-date information on mpox case definitions, transmission trends, and emerging clade characteristics.
 
 ```{=html}
+
 <p style="font-size: 1.5rem; font-weight: 600; color: #1B153E; margin-bottom: 1rem;">
   Featured Resource
 </p>
@@ -56,7 +57,7 @@ This work culminated in the development of a [**disease debrief**](https://nccid
     <p style="font-weight: bold; color: #1B153E;">Mpox Disease Debrief</p>
 
     <p>
-      A knowledge translation resource for Canadian public health professionals, this debrief synthesises current evidence on mpox epidemiology, emerging clades, and clinical guidance for frontline response and risk communication.
+      A knowledge translation resource for Canadian public health professionals, this debrief synthesizes current evidence on mpox epidemiology, emerging clades, and clinical guidance for frontline response and risk communication.
     </p>
 
     <p style="font-size: 0.85rem;">
@@ -76,7 +77,7 @@ $~$
 
 ## Contribution to Public Health
 
-This mpox research supports public health professionals in navigating a rapidly shifting outbreak landscape, ensuring that response efforts remain **timely**, **evidence-informed**, and **tailored to the populations most at risk**. The work also contributes to broader conversations on how national health systems can proactively adapt to emerging infectious diseases through applied epidemiology and actionable knowledge dissemination.
+This mpox research supports public health professionals in navigating a rapidly shifting outbreak landscape, ensuring that response efforts remain timely, evidence-informed, and tailored to the populations most at risk. The work also contributes to broader conversations on how national health systems can proactively adapt to emerging infectious diseases through applied epidemiology and actionable knowledge dissemination.
 
 $~$
 

@@ -2,7 +2,7 @@
 title: "Sexually Transmitted Infections Research | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/sti
-description: "Research on sexually transmitted infections (STIs) by Ayel L. R. Batac, focusing on public health, diagnostics, surveillance, and knowledge translation in global contexts."
+description: "Research on sexually transmitted infections (STI) by Ayel L. R. Batac, focusing on public health, diagnostics, surveillance, and knowledge translation in global contexts."
 
 format:
   html:
@@ -14,13 +14,13 @@ format:
 
 $~$
 
-**Sexually transmitted infections (STIs)** continue to represent a major global public health challenge. Despite increasing awareness, **testing rates** for infections such as gonorrhoea and chlamydia **remain low worldwide**, particularly among marginalized populations including **men who have sex with men (MSM)**. Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
+**Sexually transmitted infections (STI)** continue to represent a major global public health challenge. Despite increasing awareness, testing rates for infections such as gonorrhoea and chlamydia remain low worldwide, particularly among marginalized populations including men who have sex with men (MSM). Asymptomatic infections frequently go undiagnosed, delaying treatment and hindering effective prevention and control.
 
-In many low- and middle-income countries (LMICs), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalization often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
+In many low- and middle-income countries (LMIC), stigma, financial barriers, and limited access to culturally appropriate services contribute to low testing uptake. Structural exclusion and social marginalization often prevent MSM and other key populations from engaging with formal health systems, perpetuating inequalities in access to care.
 
-## Social Innovation for Health: The Pay-It-Forward Approach
+## Social Innovation in Health: The Pay-It-Forward Strategy
 
-The **pay-it-forward approach** is a social innovation that links public health service delivery with prosocial behaviour. Within STI prevention and testing, it offers individuals free diagnostic services, such as testing for gonorrhea and chlamydia, and then invites them to support another person’s access to testing through voluntary contributions.
+The **pay-it-forward** strategy is a social innovation that links public health service delivery with prosocial behaviour. Within STI prevention and testing, it offers individuals free diagnostic services, such as testing for gonorrhea and chlamydia, and then invites them to support another person’s access to testing through voluntary contributions.
 
 The approach is grounded in three key principles:
 
@@ -30,7 +30,7 @@ The approach is grounded in three key principles:
 
 Unlike traditional fee-for-service or centrally funded systems, the pay-it-forward approach promotes solidarity and empowerment within communities. It provides a practical model for improving access to essential services in settings where stigma, financial constraints, or mistrust of institutions restrict care.
 
-## Integrating Social Innovation in STI Testing
+## Integrating Pay-It-Forward in STI Testing
 
 The pay-it-forward approach represents more than a mechanism for service delivery—it redefines how communities participate in public health. When combined with community engagement, it creates enabling environments where testing becomes accessible, supportive, and responsive to stigma.
 

@@ -14,15 +14,13 @@ format:
 
 $~$
 
-Tuberculosis (TB) remains a major public health concern in remote Arctic communities across Canada, where incidence rates are consistently the highest in the country. Despite long-standing efforts to control and eliminate the disease, TB continues to re-emerge in the form of outbreaks, particularly in geographically isolated settings where social and structural challenges persist.
+**Tuberculosis (TB)** remains a major public health concern in remote Arctic communities across Canada, where incidence rates are consistently the highest in the country. Despite long-standing efforts to control and eliminate the disease, TB continues to re-emerge in the form of outbreaks, particularly in geographically isolated settings where social and structural challenges persist.
 
-In these contexts, barriers such as **limited access to healthcare**, **overcrowded housing**, and **long-standing distrust in public health systems** undermine prevention and control efforts. These challenges are often compounded by logistical obstacles—such as seasonal mobility, infrastructure limitations, and staff turnover—that constrain timely diagnosis and treatment.
-
-$~$
+In these contexts, barriers such as limited access to healthcare, overcrowded housing, and long-standing distrust in public health systems undermine prevention and control efforts. These challenges are often compounded by logistical obstacles such as seasonal mobility, infrastructure limitations, and staff turnover, that constrain timely diagnosis and treatment.
 
 ## Community-Wide Screening as a Public Health Strategy
 
-One of the most promising interventions to disrupt TB transmission in high-burden regions is **community-wide screening**. This approach involves proactively offering screening to all members of a community, regardless of symptoms, to detect both **latent TB infection (LTBI)** and **active TB disease**.
+One of the most promising interventions to disrupt TB transmission in high-burden regions is **community-wide screening**. This approach involves proactively offering screening to all members of a community, regardless of symptoms, to detect both latent TB infection (LTBI) and active TB disease.
 
 The benefits of community-wide screening include:
 
@@ -56,10 +54,10 @@ By combining epidemiological findings with high-level insights into operational 
 
 This research advances understanding of how community-wide screening can serve as an effective and context-sensitive strategy for TB control in remote Arctic communities. Key contributions include:
 
-- Providing **real-world evidence** on the epidemiological impact of community-wide screening in a high-incidence, underserved setting  
-- Highlighting the role of **community engagement** in increasing screening uptake and reducing barriers to participation  
-- Demonstrating how operational planning, when informed by **local knowledge** and **interagency collaboration**, can enhance intervention effectiveness  
-- Informing future TB response strategies that centre **cultural safety**, **community leadership**, and **adaptability to local realities**  
+- Providing real-world evidence on the epidemiological impact of community-wide screening in a high-incidence, underserved setting  
+- Highlighting the role of community engagement in increasing screening uptake and reducing barriers to participation  
+- Demonstrating how operational planning, when informed by local knowledge and interagency collaboration, can enhance intervention effectiveness  
+- Informing future TB response strategies that centre cultural safety, community leadership, and adaptability to local realities 
 
 By emphasizing trust, collaboration, and responsiveness to community needs, this work supports the broader vision of TB elimination in Nunavut and contributes to national public health goals rooted in equity and reconciliation.
 
