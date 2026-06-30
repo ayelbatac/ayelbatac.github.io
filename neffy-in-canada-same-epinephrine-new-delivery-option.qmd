@@ -53,67 +53,69 @@ May 15, 2026
   </ul>
 </div>
 
-What changes when the medication is the same, but the delivery option changes?
+What changes when the medication is the same, but the way it's delivered changes?
 
-That is the question I keep coming back to as neffy becomes available in Canada. neffy is still epinephrine. It is still intended for emergency treatment of severe allergic reactions, including anaphylaxis. But instead of being injected into the thigh, it is sprayed into one nostril.
+That is the question I keep coming back to as neffy becomes available in Canada.
 
-[Health Canada has authorized neffy for emergency treatment of allergic reactions, including anaphylaxis, in adults and children who weigh 30 kg or more](https://dhpp.hpfb-dgpsa.ca/review-documents/resource/RDS1776867861872). These reactions may be triggered by insect stings or bites, foods, medications, or other allergens, or may be idiopathic or exercise-induced. [Health Canada has not authorized neffy for patients under 30 kg](https://pdf.hres.ca/dpd_pm/00084260.PDF).
+neffy is still epinephrine. It's still used for emergency treatment of severe allergic reactions, including anaphylaxis. The difference is how it's given: instead of being injected into the thigh, it's sprayed into one nostril.
 
-This is not only a product story. It's a preparedness story.
+[Health Canada has authorized neffy for emergency treatment of allergic reactions, including anaphylaxis, in adults and children who weigh 30 kg or more](https://dhpp.hpfb-dgpsa.ca/review-documents/resource/RDS1776867861872). These reactions may be triggered by insect stings or bites, foods, medications, or other allergens. They may also be idiopathic or exercise-induced. [Health Canada has not authorized neffy for patients under 30 kg](https://pdf.hres.ca/dpd_pm/00084260.PDF).
 
-### What neffy Is, and What It Is Not
+But this is not just a story about a new product. It's also about whether people are prepared to use it correctly when an emergency happens.
 
-neffy is a needle-free epinephrine nasal spray for emergencies. It is not an allergy cure. It does not prevent allergic reactions. It does not replace allergen avoidance, an anaphylaxis emergency plan, or contacting emergency services after epinephrine is used.
+### What neffy is, and what it is not
 
-[According to the Canadian product monograph, the recommended dose is one spray, containing 2 mg of epinephrine, into one nostril](https://pdf.hres.ca/dpd_pm/00084260.PDF). If symptoms do not improve or worsen after the first dose, a second dose may be given in the same nostril using a new nasal spray starting five minutes after the first dose. The product monograph also recommends that patients have immediate access to two neffy nasal sprays at all times.
+neffy is a needle-free epinephrine nasal spray for emergencies. It's not an allergy cure. It doesn't prevent allergic reactions. It doesn't replace allergen avoidance, an anaphylaxis emergency plan, or the need to contact emergency services after epinephrine is used.
 
-The device may look simple, but the situation is not simple. Anaphylaxis can progress quickly. A nasal spray may feel familiar, but neffy is still epinephrine for a potentially life-threatening emergency.
+[According to the Canadian product monograph, the recommended dose is one spray, containing 2 mg of epinephrine, into one nostril](https://pdf.hres.ca/dpd_pm/00084260.PDF). If symptoms do not improve or symptoms worsen after the first dose, a second dose may be given in the same nostril using a new nasal spray, starting five minutes after the first dose. The product monograph also recommends that patients have immediate access to two neffy nasal sprays at all times.
 
-For some people, neffy may become an alternative to an auto-injector. For others, the right choice may depend on clinical history, preferences, availability, and the emergency plan.
+A nasal spray may seem simple. Anaphylaxis is not.
 
-### The Device Is Part of the Intervention
+In an emergency, symptoms can progress quickly. People may panic, hesitate, or second-guess what they are seeing. So even though neffy may look more familiar than an injectable device, it is still epinephrine for a potentially life-threatening situation.
 
-In health systems research, it's easy to describe a medication by its active ingredient. In real life, the delivery device also shapes behaviour.
+For some people, neffy may be a welcome alternative to an auto-injector. For others, the best option will depend on their clinical history, preferences, access, and emergency plan.
 
-A person may know that epinephrine is recommended and still hesitate. They may be afraid of needles. A parent or caregiver may worry about using an injectable device incorrectly or causing harm because they are unsure of the steps. They may be uncertain whether symptoms are severe enough. They may not remember what to do under stress.
+### Why the device matters
 
-That's why neffy matters beyond pharmacology. A needle-free delivery device may feel less intimidating for some patients, caregivers, teachers, or bystanders. It may also be easier to explain in some community settings.
+On paper, neffy is still epinephrine. In real life, the device matters.
 
-But a different device also creates a different training need. The practical question is not only, “does this person carry epinephrine?”. The better question is, “which epinephrine device does this person carry, where is it kept, who knows how to use it, and who calls emergency services afterward?”.
+A person may know they are supposed to use epinephrine and still hesitate. They may be afraid of needles. A parent or caregiver may worry about using an injectable device incorrectly. Someone nearby may not be sure whether the symptoms are “bad enough”. In the middle of an emergency, even a simple set of instructions can feel harder to follow.
 
-That is device-specific preparedness.
+That is one reason neffy is important. A needle-free option may feel less intimidating for some patients, caregivers, teachers, or bystanders. It may also be easier to explain in certain community settings.
 
-### What the Evidence Can and Cannot Say
+But a different device also means different training. It's not enough to ask whether someone “carries epinephrine”. We need to know which device they carry, where it's kept, who knows how to use it, and who will call emergency services afterward.
 
-The key evidence question is not whether epinephrine works. Epinephrine is already the first-line emergency treatment for anaphylaxis.
+### What the evidence shows so far
 
-The key question is whether a nasal spray can deliver epinephrine into the body in a way that supports emergency use. [Health Canada’s product monograph states that controlled clinical trials for treatment of anaphylaxis have not been performed with epinephrine, and that after one nasal dose of neffy 2 mg, the epinephrine concentration profile was overall within the range seen after intramuscular epinephrine injection over 60 minutes](https://pdf.hres.ca/dpd_pm/00084260.PDF).
+The question is not whether epinephrine has a role in anaphylaxis. It does. Epinephrine is already the first-line emergency treatment.
 
-Published neffy research provides supportive pharmacologic evidence. [In a repeat-dosing study, neffy produced epinephrine levels and physiologic responses within a comparable range to intramuscular epinephrine, including during induced allergic rhinitis with nasal symptoms](https://doi.org/10.1016/j.jaip.2026.02.005). The same study supported same-nostril repeat dosing.
+The more specific question for neffy is whether a nasal spray can deliver epinephrine into the body in a way that supports emergency use.
 
-These are drug-level and body-response studies. They help answer whether epinephrine reaches the body. They do not prove that neffy will improve outcomes in real-world emergencies compared with existing epinephrine devices, or that every person will carry it consistently and use it correctly.
+[Health Canada’s product monograph states that controlled clinical trials for the treatment of anaphylaxis have not been performed with epinephrine. It also states that after one 2 mg nasal dose of neffy, epinephrine levels in the body were generally within the range seen after an epinephrine injection into the muscle over 60 minutes](https://pdf.hres.ca/dpd_pm/00084260.PDF). 
 
-Broader intranasal adrenaline research also supports the scientific plausibility of nasal delivery, but not all of that research is neffy-specific. [A recent review concluded that clinical efficacy data remain limited and that long-term real-world effectiveness and adherence data in community settings are not yet available](https://doi.org/10.1111/pai.70316).
+Published neffy studies provide supportive evidence about how the medication moves through the body and affects the body after use. [In a repeat-dosing study, neffy produced epinephrine levels and physiologic responses within a comparable range to intramuscular epinephrine, including in people with allergy-related nasal symptoms](https://doi.org/10.1016/j.jaip.2026.02.005). The same study also supported repeat dosing in the same nostril.
 
-The careful summary is this: current evidence supports neffy as an emergency epinephrine delivery option, but confidence in the device still needs to be matched with training, clear instructions, and real-world follow-up.
+These studies mainly tell us what happens to epinephrine levels in the body after neffy is used. They help answer whether the medication reaches the body. They don't prove that neffy will improve real-world emergency outcomes compared with existing epinephrine devices. They also don't tell us whether every person will carry it consistently, recognize anaphylaxis quickly, or use it correctly under stress.
 
-### What Canadians Should Do Next
+Broader research on intranasal adrenaline supports the scientific plausibility of nasal delivery, but not all of that evidence is specific to neffy. [A recent review concluded that clinical efficacy data remain limited, and that long-term real-world evidence on effectiveness and adherence in community settings is still needed](https://doi.org/10.1111/pai.70316).
 
-Before neffy becomes part of someone’s emergency plan, three details need to be clear.
+Based on the evidence so far, neffy appears to be a reasonable emergency epinephrine option for eligible patients. But it still needs to be paired with training, clear instructions, and follow-up in real-world settings.
+
+### What Canadians should consider next
+
+For Canadians considering neffy, there are three practical details to sort out.
 
 First, check eligibility. [neffy 2 mg is authorized in Canada for people who weigh 30 kg or more](https://foodallergycanada.ca/neffy-epinephrine-nasal-spray-canadian-approval-faqs/). The 1 mg dose for children under 30 kg is not available in Canada at this time.
 
-Second, ask about cost and availability. [Food Allergy Canada reports that neffy is expected to be available in Canadian pharmacies starting in summer 2026, and that price will depend on coverage and reimbursement arrangements with provinces and insurance companies](https://foodallergycanada.ca/neffy-epinephrine-nasal-spray-canadian-approval-faqs/).
+Second, ask about cost and availability. [Food Allergy Canada has reported that neffy is expected to be available in Canadian pharmacies starting in summer 2026](https://foodallergycanada.ca/neffy-epinephrine-nasal-spray-canadian-approval-faqs/). The price will depend on coverage and reimbursement arrangements with provinces and insurance companies.
 
-Third, update the emergency plan by device. If a person carries neffy, the plan should state that it is a single-use nasal spray, that a second dose may be given in the same nostril with a new device after five minutes if symptoms do not improve or worsen, and that 911 or local emergency services should be called after epinephrine is used. The device should be named in the emergency plan, not just the medication.
+Third, update the emergency plan around the actual device. If someone carries neffy, the plan should name neffy specifically. It should say that it's a single-use nasal spray, that a second dose may be given in the same nostril with a new device after five minutes if symptoms do not improve or worsen, and that 911 or local emergency services should be called after epinephrine is used.
 
-For patients and families, the next step is not to decide alone. Ask your allergist, family physician, nurse practitioner, or pharmacist whether neffy is appropriate for your weight, allergy history, daily settings, preferences, and emergency plan.
+The device should be named in the plan, not just the medication.
 
-As neffy becomes available in Canada, its importance will not be only that it offers another epinephrine option. Its importance will be whether people know how to use that option before an emergency happens.
+Patients and families do not need to make this decision alone. An allergist, primary care provider, or pharmacist can help determine whether neffy fits their allergy history, daily life, and emergency plan.
 
-Confidence is not something families should have to find in the middle of an emergency; it should be built before the emergency happens. A new epinephrine delivery option only helps if the person carrying it, and the people around them, know exactly when and how to use it.
-
-Preparedness starts before the emergency.
+As neffy becomes available in Canada, access is only part of the story. What matters most is whether the people closest to an allergic emergency are ready to recognize it, use the device, and act without hesitation.
 
 -Ayel
 
