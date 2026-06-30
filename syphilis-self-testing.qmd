@@ -45,155 +45,103 @@ January 2, 2026
     TL;DR
   </strong>
   <ul style="margin-top: 0.75rem; color:#1B153E;">
-    <li><strong>Syphilis is treatable</strong>, yet cases continue to rise.</li>
-    <li>The problem is not treatment. <strong>It’s access to timely testing.</strong></li>
-    <li>Centralized diagnostic systems work well for many, but still miss people at highest risk.</li>
-    <li>Decentralized approaches, including <strong>syphilis self-testing</strong>, have expanded access in many global settings.</li>
-    <li>Self-testing is not a replacement for healthcare, but a <strong>powerful entry point into care</strong> when designed with equity in mind.</li>
+    <li><strong>Syphilis is curable</strong>, yet cases continue to rise.</li>
+    <li>The problem is not the lack of treatment. It's whether people can get tested early enough.</li>
+    <li>Centralized diagnostic systems work well for many people, but they can still miss those who face the greatest barriers to care.</li>
+    <li>Decentralized approaches, including <strong>syphilis self-testing</strong>, have helped expand access in many settings.</li>
+    <li>Self-testing does not replace healthcare. It works best when people know what to do next and can actually get care afterward.</li>
   </ul>
 </div>
 
-What happens when a health system is designed to work well, but not for everyone?
+Syphilis is curable. That is exactly why rising cases should unsettle us.
 
-I have lived in both Southeast Asia and North America, and have experienced health systems that approach access and diagnostics in very different ways. Growing up across these two contexts shaped how I understand health, access, and who systems are really built for, long before I had the language of public health to describe it.
+When a treatable infection continues to spread, we have to look beyond the medicine itself. The harder question is whether testing systems are actually reaching the people who need them.
 
-The contrast between these settings is striking. In many countries in Southeast Asia, access to healthcare often depends on proximity, cost, and community. In Canada and the United States, healthcare is more structured and centralized, accessed through clinics, hospitals, and laboratories. Over time, and through training and experience in public health, these differences became clearer, especially in how diagnostic systems influence who is reached and who is missed.
+I think about this often because I have seen how differently testing and care work in the Philippines and Canada. Living first in the Philippines and later in Canada taught me that a service can exist on paper and still be difficult to reach in real life. I noticed that long before I knew how to describe it as a public health problem.
 
-That perspective has stayed with me, and it shaped a [**recent invited commentary**](https://doi.org/10.1128/jcm.00982-25) I co-authored with colleagues in the [**Journal of Clinical Microbiology**](https://journals.asm.org/journal/jcm).
+In the Philippines, I saw how much care could depend on what was nearby and what people could afford. In Canada and the United States, STI testing is usually routed through more formal clinic and laboratory systems. Those systems can be strong, but they also shape whether testing happens early enough and whether people can return for care.
 
-I was fortunate to work on this commentary with colleagues who are global leaders in diagnostics and infectious disease research: [**Dr. Michael Marks**](https://www.lshtm.ac.uk/aboutus/people/marks.michael), [**Dr. Joseph Tucker**](https://www.lshtm.ac.uk/aboutus/people/tucker.joe), and [**Dr. Rosanna Peeling**](https://www.lshtm.ac.uk/aboutus/people/peeling.rosanna). Their work has helped shape how we think about diagnostics, self-testing, and health system design across diverse settings.
+[That perspective shaped a recent invited commentary I co-authored in the Journal of Clinical Microbiology with Drs. Michael Marks, Joseph Tucker, and Rosanna Peeling, whose work has influenced how many of us think about diagnostics and self-testing.](https://doi.org/10.1128/jcm.00982-25)
 
-At the heart of our commentary is a deceptively simple question:
+In the commentary, we focused on a simple but difficult question:
 
-> **If syphilis is treatable, why are cases still rising, and who is being missed by the way we test?**
+> **Who is being missed by the way we currently test for syphilis?**
 
-### Centralized Diagnostics: Strengths and Limits
+### When testing depends on the clinic
 
-In Canada, sexually transmitted infections (STIs) testing relies heavily on a centralized diagnostic model. Most testing occurs in labs and hospitals. Specimens are sent to central laboratories, confirmatory testing follows established algorithms, and results are reviewed by clinicians who can initiate treatment and arrange follow-up care.
+In Canada, STI testing usually means entering the formal healthcare system. A person gets tested through a clinic or hospital, the sample goes to a laboratory, and treatment depends on the result getting back to the right place at the right time.
 
-This system has real strengths. Centralized diagnostics support high-quality laboratory confirmation, clinical oversight, and strong linkage to care. For many people, this model works well.
+This model has real strengths. It gives clinicians reliable results and creates a clear pathway for follow-up care. For many people, it works well.
 
-But it also assumes something that is not always true. It assumes people can and will engage with clinic-based care.
+But it also assumes that people can get to care and feel safe using it. That is not always true.
 
-[**Across Canada, STIs have increased steadily over the past decade**](https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/sexually-transmitted-blood-borne-infections-activities-2018-2019-to-2022-2023.html), including ongoing rises in syphilis. These trends have drawn attention to longstanding challenges in ensuring timely access to testing, follow-up, and prevention services.
+For someone who lives far from services, expects judgment, or has had bad experiences with healthcare, clinic-based testing may be technically available but practically out of reach. A system can be strong on paper and still miss the people who need it most.
 
-Centralized systems can contribute to delayed diagnoses, uneven geographic access, and limited surge capacity during outbreaks. For individuals facing stigma, geographic isolation, limited mobility, housing precarity, or mistrust in healthcare systems, laboratory-based testing can be difficult to access or avoided altogether. The result is fewer opportunities for testing, longer intervals between infection and diagnosis, and reduced effectiveness of surveillance and outbreak response.
+That is why rising syphilis rates are not only about treatment. They are also about how testing is organized.
 
-Over time, I have come to see that these are not failures of individuals, but failures of design. A system can be technically strong and still miss those at highest risk.
+### What decentralized testing can teach us
 
-### What Decentralized Diagnostics Have Shown Us
+In many parts of Asia and Africa, decentralized testing did not emerge simply because it was convenient. It emerged because the usual clinic-and-lab model was not enough.
 
-In many parts of Asia and Africa, decentralized diagnostic strategies have emerged not as a convenience, but as a necessity. Rapid self-tests for STIs are common across much of Asia not because prevalence is higher, but because these tools fit the region’s public health realities.
+Rapid tests can be used outside large laboratories and give results quickly. That matters when travel is difficult, when people may not return for follow-up, or when stigma makes clinic visits feel unsafe.
 
-Several practical reasons explain their widespread use.
+There is an important trade-off. Rapid syphilis tests are useful for screening, but reactive results still need confirmatory testing. That does not mean the standard is lower. It means the testing strategy is being shaped around the reality of who can be reached.
 
-<div style="margin-left: 1rem;">
+I see this clearly through my work in China.
 
-**1. Large populations and limited laboratory access**
+[In one randomized trial among men who have sex with men, distributing dual HIV and syphilis self-testing kits through social networks increased testing compared with site-based testing. People with reactive results still accessed confirmatory testing, and the study did not find evidence of social harm.](https://doi.org/10.2196/70775)
 
-Many countries across Asia serve very large and diverse populations, including rural and remote communities where access to full laboratory infrastructure is limited. Rapid tests do not require advanced equipment, can be used in small clinics or outreach settings, and deliver results within minutes rather than days.
+[Evidence from Zimbabwe points in a similar direction. In a study comparing facility-based syphilis testing with community-based self-testing among gay, bisexual, and transgender men, self-testing increased uptake and lowered the cost per test for users.](https://doi.org/10.1071/sh23038)
 
-**2. A public health focus on “test and treat”**
+These studies do not mean self-testing solves everything. They show something more practical: testing reaches more people when it is easier to use.
 
-Rapid tests support same-day diagnosis and treatment. This is critical where patients may not return for follow-up visits, where travel costs and time off work are real barriers, and where delays increase the risk of onward transmission.
+For me, that is the central lesson. The design of a testing system affects who gets diagnosed and who gets care.
 
-**3. Cost and scalability**
+### Where syphilis self-testing fits
 
-Compared to laboratory-based polymerase chain reaction (PCR) or culture testing, rapid tests are generally cheaper per patient, easier to distribute at scale, and less dependent on highly trained laboratory personnel.
+Syphilis self-testing allows a person to test outside a clinic, usually with a finger-prick blood sample, and receive a result within minutes.
 
-**4. Integration into existing programs**
+[In 2024, the first at-home, over-the-counter syphilis self-test was authorized in the United States](https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis). That matters because high-income countries have long relied on centralized laboratory testing for STI diagnosis.
 
-Rapid self-tests for STIs are often bundled with HIV self-testing, antenatal care, and services for sex workers, migrants, and other key populations to prevent congenital syphilis and reduce HIV transmission.
+But a self-test is not the same as a diagnosis. [Current syphilis self-tests detect treponemal antibodies, which can remain positive even after a past infection has been treated](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/syphilis/screening-diagnostic-testing.html). A reactive result still needs confirmatory laboratory testing and clinical follow-up.
 
-**5. Stigma and discretion**
+That point is important. Self-testing should not leave people on their own.
 
-In some settings, STI-related stigma discourages clinic visits. Rapid self-tests help by enabling fast, private testing, reducing the need for multiple visits, and supporting outreach-based or anonymous testing models.
+Used well, it can be a first step into care for people who might not walk into a clinic. Used poorly, it can create confusion, anxiety, or a result with nowhere to go.
 
-</div>
+Experience with HIV self-testing offers a useful lesson. The test itself is only one part of the intervention. What matters is whether people know what to do next and can actually get care afterward.
 
-There is an important nuance here. Rapid tests trade some diagnostic precision for access. They are excellent tools for screening, but reactive results often require confirmatory laboratory testing. This is not a sign of lower standards, but of context-appropriate medicine that prioritizes reach, timeliness, and public health impact.
+Syphilis self-testing has to follow the same principle.
 
-This is something I see clearly through my work in China.
+### Designing testing around real life
 
-Multiple randomized controlled trials in China have demonstrated the promise of syphilis self-testing, particularly when integrated with HIV testing. One pragmatic trial among men who have sex with men evaluated the secondary distribution of dual HIV and syphilis self-testing kits within social networks. Compared with site-based testing, participants who received self-testing kits tested more frequently and were more likely to motivate others in their networks to test. Importantly, individuals with reactive self-test results accessed laboratory-based confirmatory testing, and no adverse events were reported, including no evidence of social harm, coercion, or negative impacts on mental health.
+Self-testing can still leave people behind if we are not careful.
 
-<div style="margin: 1rem 0;"><a href="https://doi.org/10.2196/70775" class="study-button">Read the China Study here</a></div>
+If tests are only sold online or in pharmacies, they may never reach the people who face the biggest barriers to clinic-based testing. If a person gets a reactive result but has no affordable way to confirm it or receive treatment, the system has still failed them.
 
-Similar evidence comes from Zimbabwe. A randomized controlled trial comparing facility-based syphilis testing with community-based self-testing among gay, bisexual, and transgender men found higher uptake in the self-testing arm, along with lower costs per test. While barriers remained, bringing testing into communities increased uptake and reduced costs for users.
+The answer is not to replace laboratories. It is to make testing easier to reach while keeping strong pathways into care.
 
-<div style="margin: 1rem 0;"><a href="https://doi.org/10.1071/sh23038" class="study-button">Read the Zimbabwe Study here</a></div>
+That means thinking beyond the test kit: how people will get it, what happens after a reactive result, and whether confirmatory testing feels reachable.
 
-Across settings, decentralized approaches have expanded diagnostic reach, shortened the time from testing to results, reduced pressure on central laboratories, and improved responsiveness during outbreaks. Most importantly, they have reached people who were not being reached before.
+Those questions matter because syphilis is not difficult to treat. The harder problem is often getting people tested and connected to care early enough.
 
-> **For me, this reinforces a simple truth: how we design testing systems determines who gets counted, and who gets care.**
+### The bigger question
 
-### Where Syphilis Self-Testing Fits In
+Health systems often work best for people who can move through them easily. But many people do not experience care that way.
 
-Syphilis self-testing allows individuals to test themselves, typically using a finger-prick blood sample, outside of a clinic setting and receive results within minutes.
+People do not avoid STI testing for one reason. Sometimes it is shame. Sometimes it is work, distance, or not having a regular provider. Sometimes it is because healthcare has not felt safe before.
 
-Recently, the [**first over-the-counter syphilis self-test was authorized in the United States**](https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis). This represents a meaningful shift in how we think about STI diagnostics, particularly in high-income countries that have long relied almost exclusively on centralized laboratory models.
+A diagnostic system that only works for people who can comfortably enter the clinic will always miss someone.
 
-Evidence from multiple countries shows that syphilis self-tests are accurate, usable, and acceptable. Many users are first-time testers, meaning people who had not previously accessed clinic-based testing at all.
+That is why syphilis self-testing is worth taking seriously. Not because it is perfect, and not because it can replace clinical care. It matters because it asks a different question: what would testing look like if we designed it around the people least likely to be reached by the current system?
 
-That alone makes syphilis self-testing worth paying attention to.
+### The bottom line
 
-### Self-Testing as an Entry Point to Care
+Syphilis self-testing will not solve rising syphilis rates on its own.
 
-Syphilis self-testing is not a stand-alone solution.
+But it can help reach people who are not being reached by clinic-based testing alone. It can make testing feel more private and less dependent on whether someone is willing or able to enter the healthcare system first.
 
-Current self-tests detect [**treponemal antibodies**](https://www.canada.ca/en/public-health/services/infectious-diseases/sexual-health-sexually-transmitted-infections/canadian-guidelines/syphilis/screening-diagnostic-testing.html), which can remain positive for life. Reactive results always require confirmatory laboratory testing. Clear instructions and strong linkage to care are essential to avoid confusion or harm.
-
-When positioned correctly, self-testing can function as a powerful entry point into care, particularly for people who are underserved by centralized systems.
-
-Experience with HIV self-testing offers a clear lesson. Impact depends not only on the test itself, but on the system around it. Community distribution, user support, referral pathways, and public investment are what turn diagnostics into effective public health tools.
-
-Syphilis self-testing must follow the same principle.
-
-### Designing for Equity
-
-Self-testing is not automatically equitable.
-
-If syphilis self-tests are only available online, in pharmacies, or at a cost, they risk excluding people without internet access, stable housing, or disposable income. If linkage to care is not embedded, individuals may be left with results but no support.
-
-From my perspective, shaped by lived experience and global public health work, the goal should not be to choose between centralized or decentralized diagnostics. The goal should be to combine their strengths.
-
-**We need systems that preserve strong linkage to care while also meeting people where they are.**
-
-<div style="
-  border: 1.5px solid #1B153E;
-  background-color: #FFFFFF;
-  padding: 1.5rem;
-  margin: 2.5rem 0;
-  border-radius: 6px;
-">
-  <strong style="
-    display: block;
-    color: #1B153E;
-    font-size: 1.05rem;
-    margin-bottom: 0.75rem;
-  ">
-    What This Means in Practice
-  </strong>
-
-  <ul style="color:#1B153E; margin-left: 1.1rem;">
-    <li><strong>For policymakers:</strong> invest in hybrid diagnostic models that combine accessibility with strong linkage to care.</li>
-    <li><strong>For clinicians and public health practitioners:</strong> view self-testing as an entry point, not a threat to care.</li>
-    <li><strong>For communities and advocates:</strong> push for testing options that reflect how people actually live, move, and seek care.</li>
-    <li><strong>For all of us:</strong> question who is being missed when systems are designed for convenience rather than equity.</li>
-  </ul>
-</div>
-
-
-### The Bottom Line
-
-Syphilis self-testing is not a silver bullet, but it is a meaningful intervention.    
-
-Used thoughtfully, it can expand access, normalize testing, activate social networks, and help reach people who are currently being missed, even in countries with well-established healthcare systems.
-
-**Access without equity is not access.**    
-**Testing that works for some, but not for all, is not enough.**
-
-Thank you for being here. Let’s keep talking.
+The promise is not the test by itself. The promise is what becomes possible when testing is easier to reach and care is ready to respond.
 
 -Ayel
 
@@ -205,7 +153,7 @@ $~$
 
 #### Read the Commentary
 
-The [**full commentary**](https://doi.org/10.1128/jcm.00982-25) is available in the [**Journal of Clinical Microbiology**](https://journals.asm.org/journal/jcm) (Editor’s Pick).
+The [full commentary](https://doi.org/10.1128/jcm.00982-25) is available in the [**Journal of Clinical Microbiology**](https://journals.asm.org/journal/jcm) (Editor’s Pick).
 
 <div style="margin: 1rem 0;"><a href="https://doi.org/10.1128/jcm.00982-25" class="study-button">Read the full commentary here</a></div>
 
@@ -213,9 +161,9 @@ The [**full commentary**](https://doi.org/10.1128/jcm.00982-25) is available in 
 
 **Commentary Authors**
 
-This commentary was written by a team of researchers whose work spans diagnostics, infectious diseases, and global public health, with a shared focus on access, equity, and real-world impact.
+This commentary was written by a team of researchers whose work spans diagnostics, infectious diseases, and global health, with a shared focus on access, equity, and real-world impact.
 
-[**Ayel L. R. Batac**](https://ayelbatac.github.io/about) is a public health researcher at the London School of Hygiene and Tropical Medicine, and an affiliated researcher with the University of North Carolina at Chapel Hill and SESH Global, the China hub of the Social Innovation in Health Initiative (TDR, the Special Programme for Research and Training in Tropical Diseases). His research focuses on the social epidemiology of sexually transmitted infections, with an emphasis on inequities in access to testing and prevention among marginalized populations.
+[**Ayel L. R. Batac**](https://ayelbatac.github.io/about) is a public health researcher at the London School of Hygiene and Tropical Medicine, and a researcher with the University of North Carolina at Chapel Hill and SESH Global, the China hub of the Social Innovation in Health Initiative (TDR, the Special Programme for Research and Training in Tropical Diseases). His research focuses on the social epidemiology of sexually transmitted infections, with an emphasis on inequities in access to testing and prevention among marginalized populations.
 
 [**Dr. Michael Marks**](https://www.lshtm.ac.uk/aboutus/people/marks.michael) is a Professor of Medicine at the London School of Hygiene and Tropical Medicine and an infectious diseases consultant at the Hospital for Tropical Diseases, University College London Hospitals NHS Foundation Trust. His research focuses on the epidemiology, diagnosis, and control of infectious diseases, including syphilis and other neglected tropical diseases, with particular emphasis on community-based treatment strategies and integrated approaches to disease control.
 
