@@ -1,7 +1,7 @@
 ---
 title: "Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment | Ayel L. R. Batac"
 title-block: false
-canonical-url: https://ayelbatac.github.io/guidelines-global-acess-structural-gaps-anaphylaxis-treatment
+canonical-url: https://ayelbatac.github.io/structural-gaps-in-anaphylaxis-treatment
 description: "A reflection on global variation in anaphylaxis treatment, epinephrine access, and how structural inequities shape emergency care despite international guideline consensus."
 
 format:
