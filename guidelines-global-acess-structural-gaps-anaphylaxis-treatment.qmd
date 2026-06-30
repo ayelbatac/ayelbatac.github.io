@@ -45,10 +45,10 @@ March 10, 2026
     TL;DR
   </strong>
   <ul style="margin-top: 0.75rem; color:#1B153E;">
-    <li><strong>Anaphylaxis is life-threatening</strong> and requires immediate treatment with <strong>epinephrine</strong>.</li>
-    <li>International guidelines are clear, but <strong>access</strong> to recommended treatment varies widely across health systems.</li>
-    <li>New options like <strong>intranasal epinephrine</strong> expand what is possible.</li>
-    <li>Yet possibility without access is not protection.</li>
+    <li>Anaphylaxis is life-threatening and requires immediate treatment with <strong>epinephrine</strong>.</li>
+    <li>International guidelines are clear, but access to recommended treatment still varies across health systems.</li>
+    <li>New options like <strong>intranasal epinephrine</strong> may make emergency treatment easier for some people.</li>
+    <li>But a treatment only protects people if they can actually reach it when they need it.</li>
   </ul>
 </div>
 
