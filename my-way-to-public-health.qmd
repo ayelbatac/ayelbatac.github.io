@@ -1,0 +1,81 @@
+---
+title: "How I Found My Way to Public Health | Ayel L. R. Batac"
+title-block: false
+canonical-url: https://ayelbatac.github.io/my-way-to-public-health
+description: "A personal and professional reflection on working in HIV and STI research, and what drives a career in global public health."
+
+format:
+  html:
+    toc: false
+    anchor-links: false
+---
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+</style>
+
+# How I Found My Way to Public Health
+
+May 7, 2025
+
+$~$
+
+When I began studying molecular biology as an undergraduate, I came in with a very clear dream. I wanted to help cure cancer.
+
+At the time, that felt like the most meaningful way I could use science. I thought that if I could understand disease at the level of cells, genes, and molecules, I could contribute, even in a small way, to one of the world’s biggest medical challenges.
+
+What drew me in was the human body itself. Even when everything was working normally, there was so much to understand. Once disease entered the picture, it became even harder. I remember sitting with that complexity and realizing how difficult science really is. That realization made me respect the scientific process more, but it also made me question whether this was the kind of work I wanted to spend my life doing.
+
+The more I learned, the more I understood that cancer is not one disease, and that many cancers remain difficult to prevent, treat, or cure despite decades of research and extraordinary progress. Science can be powerful and still painfully slow. I started to wonder whether I was on the right path.
+
+Fortunately, I had the chance to step outside the lab and explore something new.
+
+I began working as a research assistant at the Children’s Hospital Research Institute of Manitoba, contributing to studies in population health. That was my first real exposure to public health, and it changed how I thought about impact. I saw that public health was not only about studying disease. It was about changing the conditions that make people sick in the first place.
+
+Then the COVID-19 pandemic arrived.
+
+I was given the opportunity to work as an infectious disease epidemiologist for the Government of Manitoba. In that role, I worked alongside people across the public health response, from epidemiology and laboratory teams to medical officers of health. Decisions had to be made quickly. The work moved fast, and the stakes were real. For the first time, I felt like I had found where I belonged.
+
+Infectious diseases brought together the parts of science I cared about most. Biology mattered, but it was never enough on its own. The work felt immediate. It also felt deeply human.
+
+After my experience with COVID-19, my attention turned to another crisis. One that had been ongoing for decades, but still demanded far more action: HIV and sexually transmitted infections.
+
+From my molecular biology background, I understood how formidable HIV is as a virus. Its error-prone reverse transcriptase allows it to mutate quickly, which is one reason a cure and a long-lasting vaccine have remained so difficult. But I also knew that HIV is not only a scientific challenge anymore. In many places, the harder problem is whether people can actually reach the help we already know works.
+
+I began to think about my role differently. I may not be the person who cures HIV, but I can still contribute to preventing transmission, reducing harm, and making care more reachable for people who need it.
+
+This work became even more personal when I reflected on where I came from. Growing up in a Filipino context, I saw how rarely sexual health was discussed openly. It was often treated as shameful, something to avoid rather than something people should be able to ask about safely.
+
+In the Philippines, HIV incidence has been rising, especially among the youth. Despite progress in many parts of the world, stigma continues to stand between many people and the prevention or care they need.
+
+But culture is only part of the story. Systems also shape who receives information, who feels safe seeking care, and who is left to struggle alone.
+
+I think about people who avoid testing because they expect judgment, and communities that are blamed long before they are supported. I think about how poverty can narrow a person’s choices before public health ever reaches them.
+
+When I was seven years old, I knew of children my age who were being sexually exploited. Not because they had real choices, but because they were trying to survive, help their families, or stay in school. I have never forgotten that.
+
+I think about those children often. They deserved protection, safety, and a future. They still do.
+
+At the London School of Hygiene and Tropical Medicine, I have found a way to bring my scientific training closer to the kind of public health work I care about. Through my work in HIV and STI, I want my research to be grounded in evidence without losing sight of the people that evidence is meant to serve.
+
+My goal is not only to publish academic papers. Academic research matters, but it is not enough on its own. I also want to create work that people outside academia can use and understand. Sometimes that means writing. Sometimes it means teaching or making complex evidence easier to understand.
+
+This site is one place where I share what I am learning, what I am working on, and what I am still trying to understand.
+
+Most importantly, it's a space to keep asking the questions that matter:
+
+- How do we reduce transmission – not just scientifically, but *equitably*?
+
+- How do we support people living with HIV – medically, *emotionally*, and *socially*?
+
+- How do we *dismantle* the stigma that continues to surround sexual health?
+
+Public health is never neutral. It is shaped by who has power, whose suffering is noticed, and whose needs are ignored. That is what makes the work complicated. It is also what makes it necessary.
+
+I don't have all the answers. But I know I want to keep doing work that makes care more possible for the people who need it most.
+
+-Ayel
+
+$~$
