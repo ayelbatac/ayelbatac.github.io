@@ -14,7 +14,7 @@ format:
 
 ## Peer-Reviewed Publications
 
-Xie XT, **Batac ALR**, Wills O, Kulleperuma K, Dhillon A, Palaniappan S, Agyemang EA. Planning and implementation of a community-wide tuberculosis screening intervention: A case study from Naujaat, Nunavut, Canada. Int J Circumpolar Health. Forthcoming 2026.
+[Xie XT, **Batac ALR**, Wills O, Kulleperuma K, Dhillon A, Palaniappan S, Agyemang EA. Planning and implementation of a community-wide tuberculosis screening intervention: A case study from Naujaat, Nunavut, Canada. Int J Circumpolar Health. 2026 Jul 14;85(1):2700154. doi: 10.1080/22423982.2026.2700154.](https://doi.org/10.1080/22423982.2026.2700154)
 
 [**Batac ALR**, Wong-Pack A, Lê ML, Reyes JCR, Bhamra MK, Hong B, Feldman LY, Fong AT, Bégin P. Global Variation in Anaphylaxis Treatment: A Scoping Review Protocol. Clin Exp Allergy. 2026 May;56(5):556-558. doi: 10.1111/cea.70273. Epub 2026 Mar 6. PMID: 41792974.](https://doi.org/10.1111/cea.70273)
 
