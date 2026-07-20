@@ -298,20 +298,41 @@ window.Quarto = {
 <!-- Full-width News and Stories Section -->
 <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: #ffffff;">
 
-  <!-- Section Header and Button -->
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap;">
-    <h2 style="color: #1B153E; font-weight: bold; margin: 0; border: none;" class="anchored">NEWS AND STORIES</h2>
+<!-- Section Header and Button -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap;">
 
-    <a href="./blog.html" style="background-color: white; border: 2px solid #DE2221; padding: 0.6rem 1.2rem; text-decoration: none; color: #DE2221; font-weight: bold; border-radius: 6px; transition: background-color 0.3s ease;">
-      View more stories
-    </a>
-  </div>
+  <h2 style="color: #1B153E; font-weight: bold; margin: 0; border: none;" class="anchored">
+    NEWS AND STORIES
+  </h2>
+  
+  <a href="./blog.html" style="
+    background-color: white;
+    border: 2px solid #1B153E;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+    color: #1B153E;
+    font-weight: bold;
+    border-radius: 6px;
+    transition:
+      background-color 0.3s ease,
+      color 0.3s ease;
+  " onmouseover="
+    this.style.backgroundColor='#1B153E';
+    this.style.color='white';
+  " onmouseout="
+    this.style.backgroundColor='white';
+    this.style.color='#1B153E';
+  ">
+  View more stories
+</a>
+
+</div>
 
   <!-- News Cards -->
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
     <!-- Blog Tile -->
-    <a href="structural-gaps-in-anaphylaxis-treatment" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a href="./structural-gaps-in-anaphylaxis-treatment.html" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 
         <img src="epinephrine.png" alt="Epinephrine" style="width: 100%; height: 200px; object-fit: cover;">
@@ -410,10 +431,28 @@ window.Quarto = {
   <!-- Section Header and Button -->
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap;">
     <h2 style="color: #1B153E; font-weight: bold; margin: 0; border: none;" class="anchored">MY RESEARCH</h2>
+    
+    <a href="./research.html" style="
+    background-color: white;
+    border: 2px solid #1B153E;
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+    color: #1B153E;
+    font-weight: bold;
+    border-radius: 6px;
+    transition:
+      background-color 0.3s ease,
+      color 0.3s ease;
+  " onmouseover="
+    this.style.backgroundColor='#1B153E';
+    this.style.color='white';
+  " onmouseout="
+    this.style.backgroundColor='white';
+    this.style.color='#1B153E';
+  ">
+  Learn more about my work
+</a>
 
-    <a href="./research.html" style="background-color: white; border: 2px solid #DE2221; padding: 0.6rem 1.2rem; text-decoration: none; color: #DE2221; font-weight: bold; border-radius: 6px; transition: background-color 0.3s ease;">
-      Learn more about my work
-    </a>
   </div>
 
   <!-- Research Theme Cards -->
