@@ -39,15 +39,16 @@ format:
     "
   >
 
-  <!-- Red gradient with decreased opacity and 20% coverage -->
+  <!-- Indigo gradient extending upward -->
   <div style="
     position: absolute;
     inset: 0;
     background: linear-gradient(
       to top,
-      rgba(222, 34, 33, 0.45),
-      rgba(222, 34, 33, 0.2),
-      transparent 20%
+      rgba(27, 21, 62, 0.96) 0%,
+      rgba(27, 21, 62, 0.82) 25%,
+      rgba(27, 21, 62, 0.48) 48%,
+      rgba(27, 21, 62, 0) 68%
     );
   "></div>
 
@@ -63,18 +64,22 @@ format:
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    color: #1b153e;
+    color: #ffffff;
   ">
 
     <div style="
       margin-bottom: 0.5rem;
       font-size: 1.8rem;
+      line-height: 1.2;
       font-weight: bold;
     ">
       Bringing tuberculosis screening to the community
     </div>
 
-    <div style="margin-bottom: 0.5rem;">
+    <div style="
+      margin-bottom: 0.5rem;
+      line-height: 1.4;
+    ">
       Lessons from implementing community-wide tuberculosis screening in a remote Arctic community.
     </div>
 
@@ -83,8 +88,10 @@ format:
       target="_blank"
       rel="noopener noreferrer"
       style="
-        color: #1b153e;
+        width: fit-content;
+        color: #ffffff;
         text-decoration: underline;
+        text-underline-offset: 3px;
       "
     >
       Read More
