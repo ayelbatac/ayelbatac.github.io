@@ -220,14 +220,37 @@ window.Quarto = {
 
 
 <!-- Full-width Banner Section -->
-<div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%); height: 500px; overflow: hidden; margin-top: -4rem; margin-bottom: 1.5rem; background-color: #FFFFFF;">
-  <img src="sst1.png" alt="Syphilis self-test infographic" style="width: 100%; height: 100%; object-fit: contain; object-position: center;">
+<div style="
+  position: relative;
+  width: 100vw;
+  height: 500px;
+  margin-left: calc(-50vw + 50%);
+  margin-top: -4rem;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  background-color: #ffffff;
+">
+
+  <img src="tb_cws4.png" alt="Tuberculosis Community-Wide Screening" style="
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center bottom;
+    ">
+
   <!-- Red gradient with decreased opacity and 20% coverage -->
   <div style="
     position: absolute;
     inset: 0;
-    background: linear-gradient(to top, rgba(222,34,33,0.45), rgba(222,34,33,0.2), transparent 20%);
+    background: linear-gradient(
+      to top,
+      rgba(222, 34, 33, 0.45),
+      rgba(222, 34, 33, 0.2),
+      transparent 20%
+    );
   "></div>
+
   <!-- Text content at the bottom -->
   <div style="
     position: absolute;
@@ -235,17 +258,33 @@ window.Quarto = {
     left: 0;
     right: 0;
     height: 100%;
-    padding: 0 2rem 2rem 2rem;
+    box-sizing: border-box;
+    padding: 0 2rem 1.5rem 2rem;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     color: #1b153e;
   ">
-    <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 0.5rem;">
-      Syphilis Self-Testing Is Here
+
+    <div style="
+      margin-bottom: 0.5rem;
+      font-size: 1.8rem;
+      font-weight: bold;
+    ">
+      Bringing tuberculosis screening to the community
     </div>
-    <div style="margin-bottom: 0.5rem;">What does over-the-counter syphilis testing mean for syphilis prevention and control?</div>
-    <a href="https://doi.org/10.1128/jcm.00982-25" target="_blank" style="color: #1b153e; text-decoration: underline;">Read More</a>
+
+    <div style="margin-bottom: 0.5rem;">
+      Lessons from implementing community-wide tuberculosis screening in a remote Arctic community.
+    </div>
+
+    <a href="https://doi.org/10.1080/22423982.2026.2700154" target="_blank" rel="noopener noreferrer" style="
+        color: #1b153e;
+        text-decoration: underline;
+      ">
+      Read More
+    </a>
+
   </div>
 </div>
 
@@ -258,7 +297,18 @@ window.Quarto = {
 
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
-    <!-- Tile 1: ACCORD Review -->
+        <!-- Tile 1: Syphilis -->
+    <a href="https://doi.org/10.1128/jcm.00982-25" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
+        <img src="sst1.png" alt="Syphilis self-testing" style="width: 100%; height: 230px; object-fit: cover;">
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Syphilis Self-Testing Is Here</div>
+          <p style="margin-top: 0.5rem; color: #444;">What does over-the-counter syphilis testing mean for syphilis prevention and control?</p>
+        </div>
+      </div>
+    </a>
+    
+    <!-- Tile 2: ACCORD Review -->
     <a href="https://doi.org/10.1016/j.jacig.2025.100522" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="vaccine_hesitancy.png" alt="Update on COVID-19 vaccine hesitancy" style="width: 100%; height: 230px; object-fit: cover;">
@@ -269,24 +319,13 @@ window.Quarto = {
       </div>
     </a>
     
-    <!-- Tile 2: Anaphylaxis -->
+    <!-- Tile 3: Anaphylaxis -->
     <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="idx.png" alt="Anaphylaxis Research" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
           <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Autoinjectors in China?</div>
           <p style="margin-top: 0.5rem; color: #444;">China joins the global standard—bringing life-saving anaphylaxis care within reach.</p>
-        </div>
-      </div>
-    </a>
-
-    <!-- Tile 3: Mpox -->
-    <a href="https://nccid.ca/debrief/mpox/" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
-      <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
-        <img src="mpox_idx.png" alt="Mpox Research" style="width: 100%; height: 230px; object-fit: cover;">
-        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Mpox: A Canadian Risk Update</div>
-          <p style="margin-top: 0.5rem; color: #444;">New global variants are emerging—what should Canadian public health professionals know?</p>
         </div>
       </div>
     </a>
@@ -402,6 +441,24 @@ window.Quarto = {
         </div>
       </div>
     </a>
+    
+        <!-- Mpox Tile -->
+    <a href="https://nccid.ca/debrief/mpox/" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+      <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+
+        <img src="mpox_idx.png" alt="Mpox Disease Debrief" style="width: 100%; height: 200px; object-fit: cover;">
+
+        <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;" class="anchored">
+            Mpox: A Canadian Risk Update
+          </h3>
+          <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
+            New global variants are emerging. What should Canadian public health professionals know?
+          </p>
+          <div style="font-size: 0.8rem; color: #777;">Resource · Feb 3, 2025</div>
+        </div>
+      </div>
+    </a>
 
     <!-- Physician's Weekly Feature -->
     <a href="https://www.physiciansweekly.com/exploring-the-relationship-between-maternal-infant-bonding-and-infantile-atopic-dermatitis-a-mixed-methods-study/" target="_blank" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
@@ -414,7 +471,7 @@ window.Quarto = {
             Featured in Physician’s Weekly
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-            Exploring maternal-infant bonding and eczema—a lead-author study in the spotlight.
+            Exploring maternal-infant bonding and eczema–a lead-author study in the spotlight.
           </p>
           <div style="font-size: 0.8rem; color: #777;">News Feature · Dec 8, 2023</div>
         </div>
