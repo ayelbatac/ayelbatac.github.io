@@ -28,7 +28,7 @@ format:
 ">
 
   <img
-    src="tb_cws4.png"
+    src="tb_cws.png"
     alt="Tuberculosis Community-Wide Screening"
     style="
       display: block;
