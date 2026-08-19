@@ -1187,6 +1187,13 @@ const rawCollaborators = [
     city: "London, United Kingdom",
     institution: "Department of Global Health and Development, Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine",
     names: ["Yang Zhao, PhD"]
+  },
+  {
+    lat: -37.8018,
+    lng: 144.9632,
+    city: "Melbourne, Australia",
+    institution: "School of Translational Medicine, Monash University",
+    names: ["Eric P. F. Chow, MApplSc, MBiostat, MPH, MScMed, PhD", "Phyu Mon Latt, MBBS, MPH, PhD"]
   }
 ];
 
