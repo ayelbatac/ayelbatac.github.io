@@ -34,7 +34,7 @@ format:
 
 [**Batac ALR**, Merrill KA, Askin N, Golding MA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. Vaccine confidence among those living with allergy during the COVID pandemic (ACCORD): A scoping review. J Allergy Clin Immunol Glob. 2023 May;2(2):100079. doi: 10.1016/j.jacig.2023.100079.](https://doi.org/10.1016/j.jacig.2023.100079) **(Invited submission; article ranked among the most-read in Journal of Allergy and Clinical Immunology: Global, May 2023)**
 
-[Protudjer JLP, **Batac ALR**, Merrill KA, Golding MA, Knibb RC. Guidance to enhance participant validity during virtual qualitative interviews and focus groups. Ann Allergy Asthma Immunol. 2023 Apr;130(4):522-524. doi: 10.1016/j.anai.2023.01.005. Epub 2023 Jan 14. PMID: 36649832.](https://doi.org/10.1016/j.anai.2023.01.005)
+[Protudjer JLP, **Batac ALR**, Merrill KA, Golding MA, Knibb RC. Guidance to enhance participant validity during virtual qualitative interviews and focus groups. Ann Allergy Asthma Immunol. 2023 Apr;130(4):522-524. doi: 10.1016/j.anai.2023.01.005.](https://doi.org/10.1016/j.anai.2023.01.005)
 
 [Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the COVID pandemic (ACCORD): a scoping review protocol. Allergy Asthma Clin Immunol. 2022 Sep 18;18(1):83. doi: 10.1186/s13223-022-00723-w.](https://doi.org/10.1186/s13223-022-00723-w)
 
