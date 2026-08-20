@@ -46,11 +46,11 @@ format:
 
 ### Preprints
 
-[Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the coviD pandemic (ACCORD): a scoping review protocol. Version: 1. Research Square [Preprint]. 2022 Apr 19. Available from: https://doi.org/10.21203/rs.3.rs-1555382/v1](https://doi.org/10.21203/rs.3.rs-1555382/v1)
+[Golding MA, Askin N, **Batac ALR**, Merrill KA, Abrams EM, Bégin P, Ben-Shoshan M, Ladouceur E, Roos LE, Protudjer V, Protudjer JLP. vACcine COnfidence amongst those living with alleRgy during the coviD pandemic (ACCORD): a scoping review protocol. Version: 1. Research Square [Preprint]. 2022 Apr 19. Available from: https://doi.org/10.21203/rs.3.rs-1555382/v1](https://doi.org/10.21203/rs.3.rs-1555382/v1).
 
 ### Registered Protocols
 
-[**Batac ALR**, Wong-Pack A, Lê ML, Reyes JCR, Bhamra M, Hong B, Feldman LY, Fong AT, Bégin P. Global variation in anaphylaxis treatment: a scoping review protocol. Open Science Framework [Registration]. 2025 Oct 31. Available from: https://doi.org/10.17605/osf.io/rme3y](https://doi.org/10.17605/osf.io/rme3y)
+[**Batac ALR**, Wong-Pack A, Lê ML, Reyes JCR, Bhamra M, Hong B, Feldman LY, Fong AT, Bégin P. Global variation in anaphylaxis treatment: a scoping review protocol. Open Science Framework [Registration]. 2025 Oct 31. Available from: https://doi.org/10.17605/osf.io/rme3y](https://doi.org/10.17605/osf.io/rme3y).
 
 ### Published Abstracts
 
@@ -74,7 +74,7 @@ format:
 
 ### Institutional Reports
 
-[**Batac A**. Mpox [Internet]. Winnipeg (MB): National Collaborating Centre for Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba; 2025 Feb 3. Available from: https://nccid.ca/debrief/mpox](https://nccid.ca/debrief/mpox)
+[**Batac A**. Mpox [Internet]. Winnipeg (MB): National Collaborating Centre for Infectious Diseases, Rady Faculty of Health Sciences, University of Manitoba; 2025 Feb 3. Available from: https://nccid.ca/debrief/mpox](https://nccid.ca/debrief/mpox).
 
 $~$
 
