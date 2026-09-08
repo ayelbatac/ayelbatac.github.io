@@ -3,7 +3,6 @@ title: "Anaphylaxis Research | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/anaphylaxis
 description: "Research on anaphylaxis by Ayel L. R. Batac, focusing on prevention, emergency treatment access, and public health strategies to improve management of severe allergic reactions."
-
 format:
   html:
     toc: false
