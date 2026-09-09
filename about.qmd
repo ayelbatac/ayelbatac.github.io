@@ -481,6 +481,21 @@ const rawCollaborators = [
     }
   ]
 },
+  {
+    lat: 49.89335,
+    lng: -97.14638,
+    city: "Winnipeg, Canada",
+    institution: "Epidemiology and Surveillance, Provincial Information Management and Analytics, Health Policy and Planning Division, Department of Health, Seniors and Long-Term Care, Government of Manitoba",
+    names: ["Carla Loeppky, PhD", "Shannon Struck, MSc"],
+    papers: [
+    {
+      title: "COVID-19 in Children, Schools, and Early Learning and Child Care Facilities: 2021–2022 Annual Report"
+    },
+    {
+      title: "COVID-19 in Children, Schools, and Early Learning and Child Care Facilities: 2020–2021 Annual Report"
+    }
+    ]
+  },
 {
   lat: 57.7815,
   lng: 14.1562,
@@ -1023,6 +1038,19 @@ const rawCollaborators = [
     city: "Iqaluit, Canada",
     institution: "Department of Health, Government of Nunavut",
     names: ["Ardamanreet Dhillon, MPH", "Ekua A. Agyemang, MBChB, MPH, FRCPC", "Kethika Kulleperuma, PhD", "Odette Wills, MSc", "Shanthi Palaniappan, MN"],
+    papers: [
+    {
+      title: "Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada",
+      url: "https://doi.org/10.1080/22423982.2026.2700154"
+    }
+    ]
+  },
+  {
+    lat: 63.7467,
+    lng: -68.5219,
+    city: "Iqaluit, Canada",
+    institution: "Indigenous Services Canada, Government of Canada",
+    names: ["Ardamanreet Dhillon, MPH"],
     papers: [
     {
       title: "Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada",
