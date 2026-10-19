@@ -107,7 +107,7 @@ $~$
        text-align: center;
        display: inline-block !important;
      ">
-    Read article
+    Read the article
   </a>
 </div>
 

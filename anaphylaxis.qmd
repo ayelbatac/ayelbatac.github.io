@@ -80,7 +80,7 @@ This research aims to characterize diverse treatment practices across global con
        text-align: center;
        display: inline-block !important;
      ">
-    Read article
+    Read the article
   </a>
 </div>
 
@@ -161,7 +161,7 @@ This work underscores the need for sustained policy attention, enhanced clinical
        text-align: center;
        display: inline-block !important;
      ">
-    Read article
+    Read the article
   </a>
 </div>
 
