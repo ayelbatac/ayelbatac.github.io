@@ -126,19 +126,19 @@ Supervision: [Joseph D\. Tucker, MD, AM, PhD](https://www.lshtm.ac.uk/aboutus/pe
 
 <div style="margin-top: 2rem;"></div>
 
-[**Canadian Association for HIV Research**](https://www.cahr-acrv.ca/), Academic Researcher
-
 [**British Association for Sexual Health and HIV**](https://www.bashh.org/), Student Member
 
 [**British Infection Association**](https://www.britishinfection.org/), Associate Member
 
-[**International Union Against Sexually Transmitted Infections**](https://iusti.org/), Associate Member
+[**Canadian Association for HIV Research**](https://www.cahr-acrv.ca/), Academic Researcher
 
-[**World Allergy Organization**](https://www.worldallergy.org/), Junior Member
+[**Canadian Society of Allergy and Clinical Immunology**](https://www.csaci.ca/), Scientific Student Associate
 
 [**European Academy of Allergy and Clinical Immunology**](https://eaaci.org/), Junior Member
 
-[**Canadian Society of Allergy and Clinical Immunology**](https://www.csaci.ca/), Scientific Student Associate
+[**International Union Against Sexually Transmitted Infections**](https://iusti.org/), Associate Member
+
+[**World Allergy Organization**](https://www.worldallergy.org/), Junior Member
 
 <div style="margin-top: 2rem;"></div>
 
@@ -231,7 +231,7 @@ const rawCollaborators = [
     lng: -97.1466,
     city: "Winnipeg, Canada",
     institution: "Department of Pediatrics and Child Health, Max Rady College of Medicine, Rady Faculty of Health Sciences, University of Manitoba",
-    names: ["Billy Hong, MD", "Elinor Simons, MD, PhD", "Elissa M. Abrams, MD, MPH, FRCPC", "Jill A. Keddy-Grant, MD, FRCPC", "Kaitlyn A. Merrill, BSc(Hons)", "Manvir Bhamra, BSc, RD", "Michael A. Golding, MA", "Michelle A. Halbrich, MD, FRCPC", "Thomas V. Gerstner, MD, FRCPC", "Zoe Harbottle, BSc, MAHN"],
+    names: ["Billy Hong, MD", "Elinor Simons, MD, PhD", "Elissa M. Abrams, MD, MPH, FRCPC", "Jill A. Keddy-Grant, MD, FRCPC", "Kaitlyn A. Merrill, BSc(Hons)", "Manvir Bhamra, BSc", "Michael A. Golding, MA", "Michelle A. Halbrich, MD, FRCPC", "Thomas V. Gerstner, MD, FRCPC", "Zoe Harbottle, BSc, MAHN"],
     papers: [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
@@ -315,7 +315,7 @@ const rawCollaborators = [
     lng: -97.1466,
     city: "Winnipeg, Canada",
     institution: "Children's Hospital Research Institute of Manitoba",
-    names: ["Elinor Simons, MD, PhD", "Elissa M. Abrams, MD, MPH, FRCPC", "Kaitlyn A. Merrill, BSc(Hons)", "Leslie E. Roos, PhD, CPsych", "Manvir Bhamra, BSc, RD", "Michael A. Golding, MA", "Zoe Harbottle, BSc, MAHN"],
+    names: ["Elinor Simons, MD, PhD", "Elissa M. Abrams, MD, MPH, FRCPC", "Kaitlyn A. Merrill, BSc(Hons)", "Leslie E. Roos, PhD, CPsych", "Manvir Bhamra, BSc", "Michael A. Golding, MA", "Zoe Harbottle, BSc, MAHN"],
     papers: [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
@@ -489,21 +489,6 @@ const rawCollaborators = [
     }
   ]
 },
-  {
-    lat: 49.89335,
-    lng: -97.14638,
-    city: "Winnipeg, Canada",
-    institution: "Epidemiology and Surveillance, Provincial Information Management and Analytics, Health Policy and Planning Division, Department of Health, Seniors and Long-Term Care, Government of Manitoba",
-    names: ["Carla Loeppky, PhD", "Shannon Struck, MSc"],
-    papers: [
-    {
-      title: "COVID-19 in Children, Schools, and Early Learning and Child Care Facilities: 2021–2022 Annual Report"
-    },
-    {
-      title: "COVID-19 in Children, Schools, and Early Learning and Child Care Facilities: 2020–2021 Annual Report"
-    }
-    ]
-  },
 {
   lat: 57.7815,
   lng: 14.1562,
@@ -1254,6 +1239,48 @@ const rawCollaborators = [
     city: "Melbourne, Australia",
     institution: "School of Translational Medicine, Monash University",
     names: ["Eric P. F. Chow, MApplSc, MBiostat, MPH, MScMed, PhD", "Nyi Nyi Soe, MBBS, PhD", "Phyu Mon Latt, MBBS, MPH, PhD"]
+  },
+  {
+    lat: 35.691024,
+    lng: 139.708932,
+    city: "Tokyo, Japan",
+    institution: "Community Center akta",
+    names: ["Kota Iwahashi, MPH"]
+  },
+  {
+    lat: 35.138722,
+    lng: 136.934926,
+    city: "Nagoya, Japan",
+    institution: "Department of Global and Community Health, School of Nursing, Nagoya City University",
+    names: ["Noriyo Kaneko, MPH, PhD"]
+  },
+  {
+    lat: 35.761369,
+    lng: 140.295894,
+    city: "Narita, Japan",
+    institution: "Department of Infectious Diseases, School of Medicine, International University of Health and Welfare",
+    names: ["Junko Tanuma, MD, PhD"]
+  },
+  {
+    lat: 35.676510,
+    lng: 139.734750,
+    city: "Tokyo, Japan",
+    institution: "Department of Global Health and Infectious Diseases, Graduate School of Public Health, International University of Health and Welfare",
+    names: ["Junko Tanuma, MD, PhD"]
+  },
+  {
+    lat: 22.269370,
+    lng: 114.130130,
+    city: "Pok Fu Lam, Hong Kong",
+    institution: "School of Nursing, Li Ka Shing Faculty of Medicine, University of Hong Kong",
+    names: ["Zhuoheng Yin, MA"]
+  },
+  {
+    lat: 32.772785,
+    lng: 129.866337,
+    city: "Nagasaki, Japan",
+    institution: "School of Tropical Medicine and Global Health, Nagasaki University",
+    names: ["Yoshiko Sakuma, MPH"]
   }
 ];
 
