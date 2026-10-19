@@ -2,7 +2,7 @@
 title: "Research | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/research
-description: "Explore Ayel L. R. Batac’s research in allergy and clinical immunology, infectious diseases, and global health."
+description: "Explore Ayel L. R. Batac’s research addressing global health challenges, with a focus on health systems and clinical medicine."
 format:
   html:
     toc: false

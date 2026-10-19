@@ -2,7 +2,7 @@
 title: "Ayel L. R. Batac | Public Health Scientist"
 title-block: false
 canonical-url: https://ayelbatac.github.io
-description: "Ayel L. R. Batac is a public health scientist and health systems researcher working at the intersection of global health, allergy and clinical immunology, infectious diseases, and evidence-informed public health."
+description: "Ayel L. R. Batac is a public health scientist and health systems researcher focused on global health, with research connecting population health and clinical medicine."
 
 format:
   html:

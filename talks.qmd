@@ -2,7 +2,7 @@
 title: "Talks and Presentations | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/talks
-description: "Invited talks and presentations by Ayel L. R. Batac on public health, infectious diseases, and allergy and clinical immunology."
+description: "Explore Ayel L. R. Batac’s invited talks and presentations, featuring research and perspectives on contemporary public health challenges."
 
 format:
   html:

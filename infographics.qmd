@@ -2,8 +2,7 @@
 title: "Infographics | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/infographics
-description: "Explore infographics by Ayel L. R. Batac that translate research into accessible visual summaries for knowledge translation."
-
+description: "Explore Ayel L. R. Batac’s infographics, translating public health research and scientific evidence into clear, accessible visual summaries."
 format:
   html:
     toc: false
