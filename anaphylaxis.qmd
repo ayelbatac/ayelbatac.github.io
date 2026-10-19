@@ -38,7 +38,7 @@ This research aims to characterize diverse treatment practices across global con
   <!-- Infographic Image -->
   <div style="flex: 0 0 400px;">
     <a href="https://doi.org/10.1111/cea.70273" target="_blank" rel="noopener noreferrer">
-      <img src="cea_cover.pdf" alt="Clinical & Experimental Allergy" 
+      <img src="cea_cover.png" alt="Clinical & Experimental Allergy" 
            style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); transition: transform 0.3s ease;"
            onmouseover="this.style.transform='scale(1.05)'" 
            onmouseout="this.style.transform='scale(1)'">
