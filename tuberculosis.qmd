@@ -114,7 +114,7 @@ $~$
 $~$
 
 <small>
-My work with the [**National Collaborating Centre for Infectious Diseases (NCCID)**](https://nccid.ca) includes collaboration with the **Government of Nunavut Department of Health and the Office of the Chief Public Health Officer**, alongside partners involved in TB prevention and control in Nunavut.
+This research is conducted in my capacity as a researcher at the [**National Collaborating Centre for Infectious Diseases (NCCID)**](https://nccid.ca), in collaboration with the **Government of Nunavut Department of Health**, the **Chief Public Health Officer of Nunavut**, and community partners involved in tuberculosis prevention and control in Nunavut.
 </small>
 
 <style>
