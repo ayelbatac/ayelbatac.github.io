@@ -20,7 +20,7 @@ For **sexually transmitted infections (STIs)**, delayed or missed diagnoses can 
 
 Expanding access requires diagnostic approaches that reduce reliance on facility-based testing without compromising diagnostic accuracy or access to treatment and follow-up care.
 
-## Decentralising diagnostics through self-testing
+## Decentralising Diagnostics Through Self-Testing
 
 My research examines how diagnostic testing can be made more accessible beyond conventional healthcare facilities. One approach is **self-testing**, which allows individuals to perform diagnostic tests and interpret the results themselves, often at home.
 
@@ -28,7 +28,7 @@ In August 2024, the US Food and Drug Administration authorised the first over-th
 
 For people who find clinic visits difficult or are concerned about stigma, self-testing can provide a more private way to access testing. A positive result still requires further assessment by a healthcare professional to determine whether additional testing or treatment is needed.
 
-## Expanding access to STI testing
+## Expanding Access to STI Testing
 
 Studies of HIV self-testing have shown that offering people the option to test themselves can increase testing rates compared with conventional services alone. Research on syphilis self-testing has produced similar findings, suggesting that it could help reach people who might otherwise miss out on testing.
 
@@ -36,13 +36,13 @@ Studies of HIV self-testing have shown that offering people the option to test t
 
 People who receive a positive self-test result still need access to **confirmatory testing** to determine whether they have an active infection and require treatment. Without this connection to healthcare services, increased testing may not translate into earlier treatment or better health outcomes.
 
-## Implementation and health system integration
+## Implementation and Health System Integration
 
 Decentralising STI testing does not eliminate the need for integration with healthcare services. Individuals who receive a positive syphilis self-test result still require further clinical assessment and confirmatory testing to determine whether treatment is needed. Without clear referral pathways connecting self-testing to appropriate care, increased testing may have limited impact on disease transmission and health outcomes.
 
 These referral pathways must also be accessible to the communities they are intended to serve. Community engagement can help identify barriers to follow-up care and ensure that referral processes reflect local needs. Integrating self-testing into existing health systems is therefore essential to maintaining continuity of care, even as testing moves beyond conventional healthcare facilities.
 
-## Contribution to public health
+## Contribution to Public Health
 
 When self-testing reaches people who might otherwise remain untested, it creates opportunities to identify STIs earlier. If those results lead to appropriate treatment, earlier diagnosis may help prevent complications and reduce further transmission. The public health benefit therefore depends on more than simply increasing the number of tests performed.
 
