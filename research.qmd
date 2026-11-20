@@ -74,39 +74,34 @@ $~$
 
 ## RESEARCH INTERESTS
 
-- Social epidemiology of sexually transmitted infections (STIs)  
-- Infectious disease prevention and control in low- and middle-income countries (LMICs) and low-resource settings  
-- Respiratory tract infections (COVID-19, respiratory syncytial virus, tuberculosis)  
-- Community-based and participatory research    
-- Allergy (anaphylaxis, asthma, atopic dermatitis, drug allergy, food allergy)  
-- Allergen immunotherapy (subcutaneous immunotherapy, sublingual immunotherapy)  
-- Dermatoepidemiology  
-- Behavioural interventions for health service uptake  
-- Diagnostics   
-- Evidence synthesis in allergy and infectious diseases  
-- Implementation science  
-- Mathematical modelling    
-- Health economic evaluation
+- Social and behavioural dimensions of infectious diseases 
+- Behavioural interventions to improve health service uptake  
+- Decentralised diagnostics and linkage to care 
+- Implementation science and health systems research  
+- Community-based infectious disease screening and prevention 
+- Social innovation and collective intelligence in health 
+- Vaccine confidence and health risk perception 
+- Allergy and anaphylaxis, particularly treatment access and the burden of disease  
 
 ## RESEARCH AREAS
 
-- Allergy and Clinical Immunology   
-- Infectious Diseases  
+- Public Health 
+- Global Health 
+- Social and Behavioural Sciences 
+- Social Epidemiology 
 - Sexually Transmitted Infections (STIs)  
 - HIV/AIDS  
-- Dermatology  
-- Pediatrics  
-- Public Health  
-- Global Health  
-- Epidemiology (Communicable and Non-Communicable Diseases)  
-- Health Systems Research  
-- Health Policy   
-- Health Economics  
+- Infectious Diseases 
+- Health Systems Research 
 - Implementation Science  
+- Participatory Research  
+- Social Innovation in Health 
+- Allergy and Clinical Immunology 
+- Paediatrics 
 
 ## KEYWORDS
 
-Allergy, anaphylaxis, atopic dermatitis, drug allergy, food allergy, infectious diseases, sexually transmitted infections, STI, gonorrhea, chlamydia, syphilis, HIV/AIDS, coronavirus disease 2019, COVID-19, tuberculosis, TB, diagnostics, sexual health, stigma, public health, global health, mixed methods, implementation science, health systems research, health policy, evidence synthesis, low- and middle-income countries, LMIC, health equity
+Infectious diseases, sexually transmitted infections, STI, syphilis, gonorrhoea, chlamydia, HIV/AIDS, tuberculosis, COVID-19, allergy and clinical immunology, anaphylaxis, food allergy, atopic dermatitis, vaccine confidence, health risk perception, stigma, behavioural interventions, health service uptake, diagnostics, diagnostic self-testing, treatment access, social innovation in health, collective intelligence, crowdsourcing, low-resource settings, low- and middle-income countries, LMIC, mixed methods, participatory research, implementation science, health systems research, evidence synthesis
 
 $~$
 
