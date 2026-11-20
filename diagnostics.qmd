@@ -124,7 +124,7 @@ $~$
 $~$
 
 <small>
-This work is conducted in my capacity as a researcher at the London School of Hygiene and Tropical Medicine and reflects collaboration with academic, clinical, and public health partners to advance equitable and evidence-informed approaches to diagnostic innovation and implementation.
+This research is conducted in my capacity as a researcher at **[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk)**. The work has involved collaboration with researchers from the **[International Diagnostics Centre](https://diagnosticsgroup.org)** to examine how diagnostic innovations can improve access to STI testing and be integrated into existing healthcare systems.
 </small>
 
 <style>
