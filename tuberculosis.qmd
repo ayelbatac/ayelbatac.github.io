@@ -13,33 +13,36 @@ format:
 
 $~$
 
-My research focuses on public health approaches to **tuberculosis (TB)** prevention and control. I am interested in how evidence can inform TB programs and how evaluation can guide improvements in practice. The broader objective is to support TB elimination by examining the gap between an intervention’s intended purpose and the experience of delivering that intervention.
+Early detection of **tuberculosis (TB)** is essential to preventing severe illness and reducing transmission. Yet access to TB screening remains uneven, particularly in remote and underserved communities where healthcare services may have limited capacity.
 
-A central concern is whether TB services meet the needs of the people they are intended to reach. The availability of screening does not, by itself, establish whether people can access care. Similarly, identifying someone who needs treatment does not resolve the challenges that may affect follow up. These distinctions inform my interest in how public health programs function beyond their immediate service outputs.
+My research examines how TB screening interventions can be delivered within existing health systems while responding to the needs of the communities they serve. I am particularly interested in the practical demands of community-wide screening and how these interventions function alongside routine healthcare services.
 
-## Research Focus
+## Community-Wide Screening for Tuberculosis
 
-My research interests centre on the relationship between TB prevention strategies and public health practice. An intervention needs to be understood within the health system responsible for delivery. A screening initiative, for example, creates responsibilities for follow up that continue after screening has ended. Evaluating the initiative therefore requires consideration of how the additional activity fits within existing care.
+Routine approaches to detecting TB often depend on people seeking care when symptoms develop or being identified through contact tracing. During some outbreaks, these approaches may miss individuals with undetected TB, particularly when symptoms are absent or connections between cases are difficult to establish. **Community-wide screening** offers a more proactive approach by extending screening to a broader population. It can identify people who require further assessment for TB disease, while screening for TB infection may identify those who could benefit from preventive treatment once active disease has been excluded.
 
-**Program evaluation** provides a means of examining that relationship. Quantitative findings can describe participation and recorded outcomes. Evidence about **implementation** adds insight into the practical challenges encountered during delivery. Bringing these perspectives together can help identify where a response needs improvement without assuming that every outcome can be attributed to the intervention.
+Community-wide screening may be particularly valuable when ongoing transmission suggests that routine testing and contact tracing alone are insufficient. However, delivering screening at this scale can place considerable demands on healthcare services. In remote settings, additional personnel and diagnostic resources may be needed while local facilities continue providing routine care.
 
-**Community-informed practice** is another important focus. I am interested in how community priorities can influence the design of TB services, rather than treating engagement solely as a means of increasing participation. Understanding how people experience care requires their perspectives to be sought directly. Descriptions of engagement activities cannot substitute for evidence about those experiences.
+## Community Engagement and Access to Screening
 
-## Methodological Approach
+TB-related stigma and concerns about confidentiality can discourage people from participating in screening, even when services are available. Practical barriers may also differ between communities, particularly when the location or timing of screening activities makes participation difficult. Involving community members in planning can help public health teams identify these challenges and adapt how screening is delivered.
 
-My approach combines epidemiological analysis with qualitative inquiry in the evaluation of public health interventions. Quantitative findings can describe program reach and recorded outcomes. Qualitative methods can examine how implementation unfolded and how people involved in an intervention understood that experience. Bringing these forms of evidence together helps place outcomes within the conditions of service delivery.
+Local leaders and residents can influence how information about TB is communicated and how screening services are organised. Their involvement is particularly meaningful when communities have opportunities to shape decisions during planning, rather than being consulted only after an intervention has been designed.
 
-A particular interest is how evaluation can inform subsequent decisions. Quantitative patterns can identify where a program may require attention, while qualitative findings can help explain the circumstances behind those patterns. Together, the evidence can guide changes to service delivery. Recommendations need to remain proportionate to the study design, especially when an evaluation describes experience in a single setting. The aim is to support adaptation without assuming that one model of TB prevention will suit every community.
+## Beyond Screening: Implementation and Continuity of Care
+
+People identified through community-wide screening may require further diagnostic assessment, while treatment for TB disease or infection may continue long after a temporary screening clinic closes. Clear referral pathways are essential to connect these individuals with existing TB services and ensure access to appropriate follow-up care. Without sufficient capacity to provide ongoing care, the benefits of expanded screening may be limited.
+
+Screening participation and case detection figures provide only part of the evidence needed to evaluate an intervention. Examining how screening was organised and delivered can reveal challenges that may not be apparent from these outcomes alone. Understanding where difficulties arose can help public health teams identify practical improvements for future screening responses.
 
 ## Contribution to Public Health
 
-My research contributes knowledge about how TB interventions operate in practice. The emphasis is on making evaluation useful to those responsible for improving services, while recognizing the limits of what individual studies can establish.
+Community-wide screening can create opportunities to identify tuberculosis earlier and reach people who might otherwise remain undiagnosed. When supported by appropriate healthcare services, these interventions have the potential to contribute to TB prevention and control by:
 
-- **Developing implementation evidence.** Documenting the practical demands of TB interventions adds knowledge that outcome measures alone cannot provide. Evidence about delivery can help public health teams assess the preparation and support required for a proposed response.   
-
-- **Strengthening the interpretation of program reach.** Participation totals describe the scale of an intervention, but can obscure gaps in access. Examining who remains unreached helps identify priorities for further investigation and more focused outreach.    
-
-- **Informing decisions about intervention design.** Evaluation findings provide a basis for considering how additional interventions should complement existing TB services. The contribution is to support decisions grounded in the circumstances of care, rather than promote a uniform approach across settings.
+- Supporting earlier diagnosis and treatment of TB disease, with the potential to reduce further transmission.  
+- Expanding opportunities for preventive treatment among people with TB infection who might otherwise remain unidentified.  
+- Reducing inequities in access to TB screening among populations underserved by conventional healthcare services.  
+- Strengthening public health preparedness by informing more effective and locally responsive approaches to future TB outbreaks.  
 
 $~$
 
@@ -78,7 +81,7 @@ $~$
 
     <!-- Description -->
     <p>
-      This study provides a detailed account of how a community-wide screening (CWS) clinic was planned and implemented during a TB outbreak in Nunavut. The article explains how engagement with community leadership informed preparations for the clinic. It then connects screening and treatment outcomes with the operational experience of delivering the intervention. Lessons from an internal After Action Review offer practical insights for public health teams considering future CWS responses in remote settings.
+      This study, published in the <i>International Journal of Circumpolar Health</i>, examines the planning and delivery of a community-wide TB screening clinic during an outbreak in Naujaat, Nunavut. The clinic reached 89.2% of its original screening target and identified individuals requiring treatment for TB infection or disease. Drawing on findings from an internal After Action Review, the article explores how community engagement and operational experience can inform future screening responses in remote northern settings.
     </p>
 
     <div style="margin-top: 1rem; margin-bottom: 1rem;">
@@ -103,7 +106,7 @@ $~$
     <!-- Citation -->
     <p style="font-size: 0.70rem;">
       <a href="https://doi.org/10.1080/22423982.2026.2700154" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
-        Xie XT, <strong>Batac ALR</strong>, Wills O, et al. Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada. Int J Circumpolar Health. 2026 Dec 31;85(1):2700154. doi: 10.1080/22423982.2026.2700154.
+        Xie XT, <strong>Batac ALR</strong>, et al. Planning and implementation of a community-wide tuberculosis screening intervention: a case study from Naujaat, Nunavut, Canada. Int J Circumpolar Health. 2026 Dec;85(1):2700154. doi: 10.1080/22423982.2026.2700154.
       </a>
     </p>
 
@@ -114,7 +117,12 @@ $~$
 $~$
 
 <small>
-This research is conducted in my capacity as a researcher at the [**National Collaborating Centre for Infectious Diseases (NCCID)**](https://nccid.ca), in collaboration with the **Government of Nunavut Department of Health**, the **Chief Public Health Officer of Nunavut**, and community partners involved in tuberculosis prevention and control in Nunavut.
+  This research is conducted in my capacity as a researcher at the
+  <a href="https://nccid.ca" style="font-weight: 600 !important;">National Collaborating Centre for Infectious Diseases</a>,
+  in collaboration with the
+  <span style="font-weight: 600;">Government of Nunavut Department of Health</span>,
+  the <span style="font-weight: 600;">Chief Public Health Officer of Nunavut</span>,
+  and community partners involved in tuberculosis prevention and control in Nunavut.
 </small>
 
 <style>
