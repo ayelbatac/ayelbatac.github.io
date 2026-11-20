@@ -123,9 +123,16 @@ $~$
 
 $~$
 
+
 <small>
-This research is conducted in my capacity as a researcher at **[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk)**. The work has involved collaboration with researchers from the **[International Diagnostics Centre](https://diagnosticsgroup.org)** to examine how diagnostic innovations can improve access to STI testing and be integrated into existing healthcare systems.
+  This research is conducted in my capacity as a researcher at
+  <strong><a href="https://www.lshtm.ac.uk">London School of Hygiene &amp; Tropical Medicine</a></strong>.
+  The work has involved collaboration with researchers from the
+  <strong><a href="https://diagnosticsgroup.org">International Diagnostics Centre</a></strong>
+  to examine how diagnostic innovations can improve access to STI testing
+  and be integrated into existing healthcare systems.
 </small>
+
 
 <style>
   h1, h2, h3, p {
