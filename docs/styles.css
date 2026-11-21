@@ -1,3 +1,4 @@
+
 /* ==========================================================
    GLOBAL STYLES (FONT + BASE)
    ========================================================== */
@@ -69,15 +70,18 @@ body > main {
    LINKS
    ========================================================== */
 
+/* Default hyperlinks */
 a {
   color: #1B153E;
   text-decoration: none;
 }
 
+/* Change color on hover */
 body a:hover {
   color: #DE2221;
 }
 
+/* Recent publications links */
 .recent-pubs a:hover {
   color: #DE2221 !important;
 }
@@ -95,7 +99,7 @@ body a:hover {
   padding: 4rem 2rem;
 }
 
-/* 🔥 FIX: force ALL footer text to stay white on ALL pages */
+/* Force ALL footer text to stay white on ALL pages */
 .custom-footer,
 .custom-footer * {
   color: white !important;
@@ -116,7 +120,7 @@ body a:hover {
   padding-top: 1.5rem;
 }
 
-/* 🔥 SPACER CONTROLS POSITION */
+/* SPACER CONTROLS POSITION */
 .footer-spacer {
   flex: 0.8;
 }
@@ -249,9 +253,9 @@ a.quarto-anchor,
 }
 
 /* Hide automatic page titles */
-.quarto-title, 
-.quarto-title-block, 
-.quarto-title-banner, 
+.quarto-title,
+.quarto-title-block,
+.quarto-title-banner,
 .quarto-title-block.default {
   display: none !important;
 }
@@ -294,4 +298,24 @@ main.content,
 /* Smooth scrolling */
 html {
   scroll-behavior: smooth;
+}
+
+/* ==========================================================
+   ACCESSIBILITY — HYPERLINK HOVER & KEYBOARD FOCUS
+   ========================================================== */
+
+/* Underline ALL hyperlinks when hovered over */
+a:hover {
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+}
+
+/* Underline links when navigating with a keyboard */
+a:focus-visible {
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
 }
