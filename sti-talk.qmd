@@ -1,9 +1,8 @@
 ---
-title: "Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do | Ayel L. R. Batac"
+title: "Let’s Talk About STIs | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/sti-talk
-description: "An accessible introduction to sexually transmitted infections (STIs), why they matter, and how individuals and communities can take action."
-
+description: "An introduction to sexually transmitted infections, why testing matters and how to look after your sexual health, with reflections on the value of sex education."
 format:
   html:
     toc: false
@@ -16,127 +15,89 @@ format:
   }
 </style>
 
-# Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do
+# Let’s Talk About STIs
 
 May 10, 2025
 
 $~$
 
-Sexual health is a part of health. Full stop.
-Yet even in 2025, sexually transmitted infections (STIs) remain heavily stigmatized, misunderstood, and under-discussed. And because we don't talk about them enough, we allow misinformation, fear, and shame to take the place of facts, care, and prevention.
+Sexual health is part of looking after ourselves, but it's not always something people feel comfortable talking about.
 
-This blog post is my small way of changing that – by starting with the basics, and by sharing some of my own perspective.
+Working on HIV and STI prevention has made me think about how much we assume people already know about sexual health. Even knowing when to get tested isn't necessarily obvious if no one's explained it.
 
-### What Are STIs?
+### What are STIs?
 
-STIs – short for **sexually transmitted infections** – are infections that are primarily spread through sexual contact or exposure to infected blood. They can be passed through vaginal, anal, or oral sex, as well as through needle sharing, blood transfusions (where screening is limited), or from a birthing parent to child during pregnancy or childbirth.
+**STIs**, or **sexually transmitted infections**, are infections that can be passed from one person to another through sexual contact. Depending on the infection, this can happen during **vaginal, anal or oral sex**. Some can also spread through close **skin-to-skin contact**.
 
-Some of the most common STIs include:
+Certain infections can also spread through exposure to infected blood, such as when needles are shared. Some, including HIV, can also pass from a parent to a baby during pregnancy, **childbirth or breastfeeding**.
 
-- Chlamydia
+Some of the most common STIs include: 
 
-- Gonorrhea
+- Chlamydia 
 
-- Syphilis
+- Gonorrhoea  
 
-- HPV (Human Papillomavirus)
+- Syphilis  
+- Trichomoniasis  
 
-- Herpes Simplex Virus (HSV-1 and HSV-2)
+- Human papillomavirus (HPV)  
 
-- HIV (Human Immunodeficiency Virus)
+- Genital herpes (herpes simplex virus) 
 
-- Hepatitis B and C
+- Human immunodeficiency virus (HIV)  
 
-Each of these infections is different – in symptoms, transmission, and treatment – but they share one thing in common: **they are all manageable, preventable, and in many cases, treatable**.
+- Hepatitis B 
 
-### How Common Are STIs?
+Hepatitis C can also be transmitted sexually in some circumstances, although it's more commonly spread through blood.
 
-Very common. More common than most people think.
-[**According to the World Health Organization, more than 1 million STIs are acquired every day worldwide**](https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)). Many people living with STIs do not even know they have one, because symptoms are often mild or absent. This is why testing is so important.
+These infections aren't all the same. Some, such as chlamydia and syphilis, can usually be cured with **antibiotics**. Others, including HIV and herpes, can be managed with treatment.
 
-The reality is: **if you are sexually active, you could be at risk**. Regardless of age, gender, relationship status, or sexual orientation.
+### How common are STIs?
 
-### Why Should We Care?
+According to the [**World Health Organization**](https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)), more than one million new infections with four curable STIs (chlamydia, gonorrhoea, syphilis and trichomoniasis) occur every day worldwide among people aged 15 to 49.
 
-STIs do not always cause symptoms right away. But left untreated, they can lead to serious health consequences:
+Many STIs don't cause noticeable symptoms. You can feel perfectly healthy and still have an infection.
 
-- Infertility
+### Why does testing matter?
 
-- Chronic pain
+Depending on the infection, leaving an STI untreated can have consequences beyond the initial infection. Some can affect **fertility**, while others may cause complications during **pregnancy**. Certain infections, including HPV and hepatitis B, can also increase the risk of developing **cancer**.
 
-- Liver disease and cancer (especially from hepatitis B and C)
+Testing can help identify infections that might otherwise go unnoticed. Many STIs can be treated effectively, and early diagnosis can help prevent complications.
 
-- Neurological complications
+For HIV, getting tested can also be the first step towards treatment. Someone living with HIV who maintains an **undetectable viral load**, meaning the amount of virus in their blood is too low for standard tests to detect, **cannot transmit HIV through sex**. This is known as **Undetectable = Untransmittable**, or **U=U**.
 
-- Increased risk of acquiring or transmitting HIV
+### What sex education meant to me
 
-For pregnant women, some STIs can lead to complications like miscarriage, stillbirth, or congenital infections passed on to the baby.
+I received sex education in high school in Canada. We learned about contraception, including condoms and birth control pills, and where to access sexual health services.
 
-But here is the good news: **Most STIs can be easily tested for, and many can be cured or effectively managed with treatment**. Early detection truly makes all the difference.
+I still remember a demonstration involving a condom and a model. There was plenty of nervous laughter in the classroom, as you might expect. But looking back, I appreciate how useful that lesson was.
 
-### A Personal Perspective: Living Between Two Worlds
+That was quite different from what I remember of growing up in the Philippines, where conversations about sex were often avoided. Even asking basic questions about sexual health could be difficult, despite how important those conversations were.
 
-As someone who has lived in both a high-income country like **Canada** and a lower-middle-income country like the **Philippines**, I have seen firsthand the contrast in how sexual health is treated, taught, and accessed.
+That's one reason I value the sex education I received in Canada. It wasn't always comfortable, but we were encouraged to ask questions.
 
-In **Canada**, I was fortunate to receive **comprehensive sexual education** in high school. We were taught about family planning methods like condoms and birth control pills, how to access them, and even how to use them properly. I still remember the condom demonstration using a model. A moment filled with nervous laughter from students, but also one that left a lasting impression. That education, awkward or not, was useful – and lifesaving.
+### Why can getting tested still be difficult?
 
-Canada’s public health system also provides access to **free sexual health clinics**, where youth, including young girls, can access **contraceptives**, **STI testing**, and counselling without stigma or barriers. We were taught how to **test**, why it matters to know our status, and how to protect ourselves through safer sex or abstinence.
+One thing I've learned through my research is that knowing what to do doesn't always mean someone feels able to do it.
 
-In the **Philippines**, the contrast is stark. Sexual health remains a **deeply taboo topic**, especially in schools and within families. Comprehensive sexual education is rare, and public conversations around STIs are even rarer. Access to testing, treatment, and prevention tools like pre-exposure prophylaxis (PrEP) or even condoms can be limited. Not just logistically, but culturally. The silence is loud, and the stigma can be overwhelming.
+Someone might want to get tested but worry about being recognised at a clinic. They might not know where testing is available or whether they can afford it. For others, fear of judgement can be enough to put off testing altogether.
 
-That contrast continues to fuel my commitment to public health. Because education should not be a luxury. Testing should not be a privilege. And silence should never be the barrier that keeps people from knowing their status and protecting themselves.
+### What can you do?
 
-### What’s Holding Us Back?
+There are several ways to look after your sexual health, and you don't need to know everything before taking the first step.
 
-The biggest barriers are not scientific. They are social.
+- **Find out whether STI testing is recommended for you.** Testing may be recommended if you have symptoms, a partner has been diagnosed with an STI or you've had a possible exposure. Some people also benefit from routine testing even when they feel well. Which tests you need and how often you should get tested depend on your individual circumstances. STI testing might involve a urine sample, a swab or a blood test, depending on the infection. A sexual health clinic can help you work out which tests are appropriate for you and when to get tested after a possible exposure.
 
-Many people delay or avoid testing not because they lack access, but because of fear. Fear of being judged. Fear of what others might think. Fear of being associated with something “dirty” or “irresponsible”.
+- **Use condoms consistently and correctly.** Condoms are one of the most effective ways to reduce the risk of many STIs, including HIV, gonorrhoea and chlamydia. They don't eliminate all risk, particularly for infections such as genital herpes, which can spread through contact with skin that a condom doesn't cover.
 
-That stigma can be even more intense in communities where sex is rarely discussed openly. I have seen this play out personally, especially in Southeast Asian and religious contexts. But staying silent only allows the problem to grow.
+- **Know what prevention options are available.** Vaccines can prevent HPV and hepatitis B infections. For HIV, pre-exposure prophylaxis (PrEP) can help prevent infection before exposure. If you think you've been exposed to HIV, seek medical advice about post-exposure prophylaxis (PEP) straight away. It needs to be started as soon as possible, and no later than 72 hours after exposure.
 
-The truth is, **STIs do NOT discriminate**. They can affect anyone, regardless of how many partners you have had, how careful you are, or who you are. Risk is not about identity. It's about biology and behaviour, and more importantly, about access to information and care.
+- **Make space for conversations about sexual health.** This might mean asking a healthcare professional a question you've been hesitant to raise, or having an honest conversation with a partner. These discussions might feel uncomfortable at first, but they can help people make more informed decisions.
 
-### What You Can Do: Take Care, Without Shame
+Different approaches will suit different people. What matters is having reliable information and being able to find the support you need.
 
-Here is what we can all do to protect ourselves and each other:
+There's a difference between being told to use a condom and being shown how. I'm glad we had the opportunity to learn something practical, rather than being expected to figure it out on our own.
 
-- **Get tested regularly**. If you are sexually active, routine testing is part of responsible healthcare – just like going to the dentist or getting a physical.
-
-- **Use protection**. Condoms and dental dams help prevent many STIs. They are not perfect, but they are effective.
-
-- **Know your options**. Vaccines exist for HPV and hepatitis B. HIV prevention tools like PrEP and PEP are life-changing for many.
-
-- **Talk about it**. Honest conversations with partners – and within our communities – can break down stigma and build trust.
-
-- **Get informed**. The more we understand, the less room there is for shame.
-
-### A Final Word: Knowledge Is Power, and Silence Is a Risk We Can’t Afford
-
-Talking about STIs should not be controversial. It should be **standard practice**. These infections are common, treatable, and preventable. Yet every day, people are put at risk not because they lack protection, but because they lack **information**, **access**, and **support**.
-
-I have seen how the silence around sexual health can cause real harm.
-I have lived in systems that empower people to make informed choices; and systems that shame them into silence. And I can tell you this: **When we stay quiet, we do not keep people safe. We leave them behind**.
-
-But we can choose something different.
-
-We can choose to create communities where talking about sexual health is a sign of care, not shame.
-We can choose to push for better education, stronger services, and a healthcare system that leaves no one out.
-We can choose to get tested, get informed, and speak up. Not just for ourselves, but for those who cannot yet do so safely.
-
-Because knowledge is more than power. It's protection. It's freedom. And it's a form of love.
-
-Thank you for being here. Let’s keep talking.
-
--Ayel
-
-<div style="font-size: 0.70em; margin-top: 3rem;">
-
-**Disclaimer:** Mention of specific medications, drugs, or therapeutic agents in this blog is for informational and educational purposes only and does not constitute endorsement, recommendation, or promotion by the author. Clinical decisions should be made in consultation with qualified healthcare professionals and based on current evidence and applicable regulatory guidance.
-
-The author declares no financial relationships with manufacturers of any drugs or medications mentioned in this post.
-
-</div>
-
-$~$
+–Ayel
 
 $~$

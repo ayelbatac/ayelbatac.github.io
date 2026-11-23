@@ -71,7 +71,7 @@ format:
     <a href="sti-talk.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 
        onmouseout="this.style.color='#1B153E'">
-      Let’s Talk About STIs: What They Are, Why They Matter, and What You Can Do
+      Let’s Talk About STIs
     </a>
     <div style="font-size: 0.9rem; color: #555;">Published: May 10, 2025</div>
   </li>
