@@ -3,7 +3,6 @@ title: "Ayel L. R. Batac | Public Health Scientist"
 title-block: false
 canonical-url: https://ayelbatac.github.io
 description: "Ayel L. R. Batac is a public health scientist and health systems researcher focused on global health, with research connecting population health and clinical medicine."
-
 format:
   html:
     toc: false
@@ -113,39 +112,39 @@ format:
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
         <!-- Tile 1: Syphilis -->
-    <a href="https://doi.org/10.1128/jcm.00982-25" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="https://doi.org/10.1128/jcm.00982-25" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" 
         onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" 
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="sst1.png" alt="Syphilis self-testing" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Syphilis self-testing is here</div>
+          <div class="home-tile-title" style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Syphilis self-testing is here</div>
           <p style="margin-top: 0.5rem; color: #444;">What does over-the-counter syphilis testing mean for syphilis prevention and control?</p>
         </div>
       </div>
     </a>
     
     <!-- Tile 2: ACCORD Review -->
-    <a href="https://doi.org/10.1016/j.jacig.2025.100522" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="https://doi.org/10.1016/j.jacig.2025.100522" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" 
         onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" 
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="vaccine_hesitancy.png" alt="Update on COVID-19 vaccine hesitancy" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Facts in, fear out</div>
+          <div class="home-tile-title" style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Facts in / Fear out</div>
           <p style="margin-top: 0.5rem; color: #444;">How real is the risk of COVID-19 vaccine–induced anaphylaxis vs. the fear it causes?</p>
         </div>
       </div>
     </a>
     
     <!-- Tile 3: Anaphylaxis -->
-    <a href="https://doi.org/10.1111/cea.70028" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="https://doi.org/10.1111/cea.70028" target="_blank" style="flex: 1; min-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.08); transition: transform 0.3s, box-shadow 0.3s;" 
         onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.12)'" 
         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)'">
         <img src="idx.png" alt="Anaphylaxis Research" style="width: 100%; height: 230px; object-fit: cover;">
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <div style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Autoinjectors in China?</div>
+          <div class="home-tile-title" style="font-weight: bold; color: #1B153E; font-size: 1.1rem;">Autoinjectors in China?</div>
           <p style="margin-top: 0.5rem; color: #444;">China joins the global standard—bringing life-saving anaphylaxis care within reach.</p>
         </div>
       </div>
@@ -200,7 +199,7 @@ format:
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
     <!-- Blog Tile -->
-    <a href="structural-gaps-in-anaphylaxis-treatment.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="structural-gaps-in-anaphylaxis-treatment.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -208,7 +207,7 @@ format:
         <img src="epinephrine.png" alt="Epinephrine" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Structural gaps in anaphylaxis treatment
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
@@ -220,7 +219,7 @@ format:
     </a>
 
     <!-- Blog Tile -->
-    <a href="syphilis-self-testing.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="syphilis-self-testing.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -228,7 +227,7 @@ format:
         <img src="syphilis-self-test.png" alt="Syphilis Self-Testing" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Syphilis self-testing: Access is the intervention
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
@@ -240,7 +239,7 @@ format:
     </a>
 
     <!-- Blog Tile -->
-    <a href="sti-talk.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="sti-talk.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -248,7 +247,7 @@ format:
         <img src="sti-talk.png" alt="Let’s Talk About STIs" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Let’s talk about STIs
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
@@ -260,7 +259,7 @@ format:
     </a>
 
     <!-- Blog Tile -->
-    <a href="my-way-to-public-health.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="my-way-to-public-health.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -268,7 +267,7 @@ format:
         <img src="public-health.png" alt="Why I Work in Public Health" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Why I work in public health
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
@@ -280,7 +279,7 @@ format:
     </a>
     
         <!-- Mpox Tile -->
-    <a href="https://nccid.ca/debrief/mpox/" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="https://nccid.ca/debrief/mpox/" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -288,7 +287,7 @@ format:
         <img src="mpox_idx.png" alt="Mpox Disease Debrief" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Mpox: A Canadian Risk Update
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
@@ -300,7 +299,7 @@ format:
     </a>
 
     <!-- Physician's Weekly Feature -->
-    <a href="https://www.physiciansweekly.com/exploring-the-relationship-between-maternal-infant-bonding-and-infantile-atopic-dermatitis-a-mixed-methods-study/" 
+    <a class="home-tile" href="https://www.physiciansweekly.com/exploring-the-relationship-between-maternal-infant-bonding-and-infantile-atopic-dermatitis-a-mixed-methods-study/" 
        target="_blank"
        style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
@@ -310,7 +309,7 @@ format:
         <img src="physiciansweekly_thumb.png" alt="Physician's Weekly Atopic Dermatitis" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Featured in Physician’s Weekly
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
@@ -367,7 +366,7 @@ format:
   <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
     <!-- Theme Tile -->
-    <a href="sti.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="sti.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -375,11 +374,11 @@ format:
         <img src="stbbi2.png" alt="STI" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Sexually Transmitted Infections
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-            Reimagining STI testing through community, equity, and innovation.
+            Improving access to STI testing through social innovation.
           </p>
           
         </div>
@@ -387,7 +386,7 @@ format:
     </a>
 
     <!-- Theme Tile -->
-    <a href="diagnostics.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="diagnostics.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -395,11 +394,11 @@ format:
         <img src="diagnostics3.png" alt="Diagnostics" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Diagnostics
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-            Advancing diagnostic access through self-testing and decentralized care.
+            Transforming how people access diagnostic testing.
           </p>
           
         </div>
@@ -407,7 +406,7 @@ format:
     </a>
 
     <!-- Theme Tile -->
-    <a href="tuberculosis.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="tuberculosis.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -415,18 +414,18 @@ format:
         <img src="tb2.png" alt="Tuberculosis" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Tuberculosis
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-            Strengthening tuberculosis outbreak response in remote Arctic communities.
+            Informing community-based approaches to tuberculosis control.
           </p>
         </div>
       </div>
     </a>
 
     <!-- Mpox -->
-    <a href="mpox.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="mpox.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -434,18 +433,18 @@ format:
         <img src="mpox2.png" alt="Mpox" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Mpox
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-            Translating emerging mpox evidence into public health action.
+            Translating emerging evidence into actionable public health insights.
           </p>
         </div>
       </div>
     </a>
     
    <!-- Anaphylaxis -->
-    <a href="anaphylaxis.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
+    <a class="home-tile" href="anaphylaxis.qmd" style="flex: 1; min-width: 280px; max-width: 300px; text-decoration: none; color: inherit; display: flex; flex-direction: column;">
       <div style="display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.02)'" 
         onmouseout="this.style.transform='scale(1)'">
@@ -453,11 +452,11 @@ format:
         <img src="anaphylaxis2.png" alt="Anaphylaxis" style="width: 100%; height: 200px; object-fit: cover;">
 
         <div style="padding: 1rem; display: flex; flex-direction: column; flex-grow: 1;">
-          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
+          <h3 class="home-tile-title" style="margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: bold; color: #1B153E;">
             Anaphylaxis
           </h3>
           <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #444;">
-            Improving access to life-saving anaphylaxis treatment worldwide.
+            Investigating barriers to timely access to life-saving treatment.
           </p>
         </div>
       </div>

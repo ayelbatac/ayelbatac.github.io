@@ -319,3 +319,22 @@ a:focus-visible {
   outline: 2px solid currentColor;
   outline-offset: 3px;
 }
+
+
+/* ==========================================================
+   HOMEPAGE TILES — UNDERLINE ONLY THE TITLE
+   ========================================================== */
+
+/* Override the global link underline on the tile itself. */
+a.home-tile:hover,
+a.home-tile:focus-visible {
+  text-decoration: none !important;
+}
+
+/* Underline only the title when the tile is hovered or focused. */
+a.home-tile:hover .home-tile-title,
+a.home-tile:focus-visible .home-tile-title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+}
