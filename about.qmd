@@ -30,7 +30,7 @@ $~$
   </a>
 
   <!-- Web of Science -->
-  <a href="https://www.webofscience.com/wos/author/record/KUF-3735-2024" target="_blank" title="Web of Science (Publons)">
+  <a href="https://www.webofscience.com/wos/author/record/KUF-3735-2024" target="_blank" title="Web of Science">
     <img src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1720244491"
          alt="Web of Science (Publons)"
          style="width: 38px; height: 38px; padding: 6px; border-radius: 50%; background-color: white; border: 1px solid #e0e0e0;">
@@ -107,14 +107,14 @@ I value research conducted with, rather than simply about, the communities and p
 <div style="margin-top: 2rem;"></div>
 
 **Master of Science (MSc), Public Health** (Expected 2026)  
-[London School of Hygiene \& Tropical Medicine, London, United Kingdom](https://www.lshtm.ac.uk/)  
+[London School of Hygiene \& Tropical Medicine](https://www.lshtm.ac.uk/), London, United Kingdom  
 <div style="font-size: 0.9em; margin-top: 0.5rem;">
 Supervision: [Joseph D\. Tucker, MD, AM, PhD](https://www.lshtm.ac.uk/aboutus/people/tucker.joe)
 
 </div>
 
 **Bachelor of Science (BSc)**  
-[University of Manitoba, Winnipeg, Canada](https://umanitoba.ca/)
+[University of Manitoba](https://umanitoba.ca/), Winnipeg, Canada
 
 <div style="margin-top: 2rem;"></div>
 
@@ -150,23 +150,23 @@ Supervision: [Joseph D\. Tucker, MD, AM, PhD](https://www.lshtm.ac.uk/aboutus/pe
 
 <div style="margin-top: 2rem;"></div>
 
-[**Allergy** (Online ISSN: 1398-9995; Print ISSN: 0105-4538)](https://onlinelibrary.wiley.com/journal/13989995)
+[**Allergy**](https://onlinelibrary.wiley.com/journal/13989995) (John Wiley \& Sons)
 
-[**BMC Pediatrics** (Online ISSN: 1471-2431)](https://link.springer.com/journal/12887)
+[**BMC Pediatrics**](https://link.springer.com/journal/12887) (BMC)
 
-[**Clinical Reviews in Allergy & Immunology** (Online ISSN: 1559-0267; Print ISSN: 1080-0549)](https://link.springer.com/journal/12016)
+[**Clinical Reviews in Allergy & Immunology**](https://link.springer.com/journal/12016) (Springer Science+Business Media)
 
-[**Frontiers in Medicine** (Online ISSN: 2296-858X)](https://www.frontiersin.org/journals/medicine)
+[**Frontiers in Medicine**](https://www.frontiersin.org/journals/medicine) (Frontiers Media)
 
-[**Journal of Nursing Management** (Online ISSN: 1365-2834)](https://onlinelibrary.wiley.com/journal/jonm) 
+[**Journal of Nursing Management**](https://onlinelibrary.wiley.com/journal/jonm) (John Wiley \& Sons)
 
-[**Pediatric Allergy and Immunology** (Online ISSN: 1399-3038; Print ISSN: 0905-6157)](https://onlinelibrary.wiley.com/journal/13993038)
+[**Pediatric Allergy and Immunology**](https://onlinelibrary.wiley.com/journal/13993038) (John Wiley \& Sons)
 
-[**Psychology, Health & Medicine** (Online ISSN: 1465-3966; Print ISSN: 1354-8506)](https://www.tandfonline.com/journals/cphm20)
+[**Psychology, Health & Medicine**](https://www.tandfonline.com/journals/cphm20) (Taylor \& Francis Group)
 
-[**PLOS One** (Online ISSN: 1932-6203)](https://journals.plos.org/plosone/)
+[**PLOS One**](https://journals.plos.org/plosone/) (Public Library of Science)
 
-[**Sexual Health** (Online ISSN: 1449-8987; Print ISSN: 1448-5028)](https://connectsci.au/sh)
+[**Sexual Health**](https://connectsci.au/sh) (CSIRO Publishing)
 
 <div style="margin-top: 2rem;"></div>
 

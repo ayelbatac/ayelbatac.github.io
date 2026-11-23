@@ -61,7 +61,7 @@ format:
     <a href="u-equals-u.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 
        onmouseout="this.style.color='#1B153E'">
-      U = U: The Science, the Message, and Why It Matters
+      U=U: What It Means and Why It Matters
     </a>
     <div style="font-size: 0.9rem; color: #555;">Published: May 23, 2025</div>
   </li>
