@@ -23,13 +23,13 @@ Expanding access requires diagnostic approaches that reduce reliance on facility
 
 My research examines how diagnostic testing can be made more accessible beyond conventional healthcare facilities. One approach is **self-testing**, which allows individuals to perform diagnostic tests and interpret the results themselves, often at home.
 
-In August 2024, the US Food and Drug Administration authorised the first over-the-counter syphilis self-test in the United States. The test uses a finger-prick blood sample to detect antibodies to *Treponema pallidum*, with results available in approximately 15 minutes. Evidence suggests that quality-assured syphilis self-tests can provide good diagnostic accuracy and are generally acceptable to users. However, because these antibodies can persist after treatment, a positive result does not necessarily indicate an active infection.
+<a class="blog-source-link" href="https://www.fda.gov/news-events/press-announcements/fda-marketing-authorization-enables-increased-access-first-step-syphilis-diagnosis"><span class="blog-link-text">In August 2024, the US Food and Drug Administration authorised the first over-the-counter syphilis self-test in the United States</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. The test uses a finger-prick blood sample to detect antibodies to *Treponema pallidum*, with results available in approximately 15 minutes. Evidence suggests that quality-assured syphilis self-tests can provide good diagnostic accuracy and are generally acceptable to users. However, because these antibodies can persist after treatment, a positive result does not necessarily indicate an active infection.
 
 For people who find clinic visits difficult or are concerned about stigma, self-testing can provide a more private way to access testing. A positive result still requires further assessment by a healthcare professional to determine whether additional testing or treatment is needed.
 
 ## Expanding Access to STI Testing
 
-Studies of HIV self-testing have shown that offering people the option to test themselves can increase testing rates compared with conventional services alone. Research on syphilis self-testing has produced similar findings, suggesting that it could help reach people who might otherwise miss out on testing.
+<a class="blog-source-link" href="https://doi.org/10.7448/ias.20.1.21594"><span class="blog-link-text">Studies of HIV self-testing have shown that offering people the option to test themselves can increase testing rates compared with conventional services alone</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. Research on syphilis self-testing has produced similar findings, suggesting that it could help reach people who might otherwise miss out on testing.
 
 **Community-based distribution** can extend access to self-testing beyond conventional healthcare facilities, building on experience from existing HIV self-testing programmes. Digital tools may provide additional support by helping people understand their results and find appropriate care when needed.
 
@@ -124,9 +124,9 @@ $~$
 
 <small>
   This research is conducted in my capacity as a researcher at
-  <a href="https://www.lshtm.ac.uk" style="font-weight: 600 !important;">London School of Hygiene &amp; Tropical Medicine</a>.
+  <a class="blog-source-link" href="https://www.lshtm.ac.uk" style="font-weight: 600 !important;"><span class="blog-link-text">London School of Hygiene &amp; Tropical Medicine</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
   The work has involved collaboration with researchers from the
-  <a href="https://diagnosticsgroup.org" style="font-weight: 600 !important;">International Diagnostics Centre</a>
+  <a class="blog-source-link" href="https://diagnosticsgroup.org" style="font-weight: 600 !important;"><span class="blog-link-text">International Diagnostics Centre</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>
   to examine how diagnostic innovations can improve access to STI testing
   and be integrated into existing healthcare systems.
 </small>
@@ -134,6 +134,41 @@ $~$
 <style>
   h1, h2, h3, p {
     color: #1B153E;
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.blog-source-link,
+  a.blog-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.blog-source-link,
+  a.blog-source-link:hover,
+  a.blog-source-link:focus,
+  a.blog-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.blog-source-link .blog-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.blog-source-link .blog-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.blog-source-link:hover,
+  a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.blog-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
   }
 </style>
 

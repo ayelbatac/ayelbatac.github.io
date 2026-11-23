@@ -233,7 +233,7 @@ window.Quarto = {
 Public health professionals need access to reliable information as evidence about mpox continues to develop. Changes in epidemiological understanding can have practical implications for assessing suspected infections and determining appropriate public health responses.
 </p>
 <p>
-Through my work at <a href="https://nccid.ca" style="font-weight: 600 !important;">National Collaborating Centre for Infectious Diseases</a>, I synthesised available evidence and public health guidance into a resource intended for Canadian practitioners. The aim was to make emerging research accessible and relevant to public health decisions, particularly where recommendations must account for uncertainty in the available evidence.
+Through my work at <a class="blog-source-link" href="https://nccid.ca" style="font-weight: 600 !important;"><span class="blog-link-text">National Collaborating Centre for Infectious Diseases</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, I synthesised available evidence and public health guidance into a resource intended for Canadian practitioners. The aim was to make emerging research accessible and relevant to public health decisions, particularly where recommendations must account for uncertainty in the available evidence.
 </p>
 
 <p style="font-size: 1.5rem; font-weight: 600; color: #1B153E; margin-bottom: 1rem;">
@@ -254,9 +254,7 @@ Through my work at <a href="https://nccid.ca" style="font-weight: 600 !important
 
     <!-- Title -->
     <h3 style="font-weight: 600; color: #1B153E; margin: 0 0 1rem 0; font-size: 1.05rem;" class="anchored">
-      <a href="https://nccid.ca/debrief/mpox/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; font-weight: inherit;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
-        Mpox Disease Debrief
-      </a>
+      <a class="mpox-resource-link" href="https://nccid.ca/debrief/mpox/" target="_blank" rel="noopener noreferrer">Mpox Disease Debrief</a>
     </h3>
 
     <!-- Description -->
@@ -282,9 +280,7 @@ Through my work at <a href="https://nccid.ca" style="font-weight: 600 !important
 
     <!-- Citation -->
     <p style="font-size: 0.70rem;">
-      <a href="https://nccid.ca/debrief/mpox/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #1B153E;" onmouseover="this.style.color='#DE2221'" onmouseout="this.style.color='#1B153E'">
-        <span style="font-weight: 600;">Batac A.</span> Mpox [Internet]. Winnipeg (MB): National Collaborating Centre for Infectious Diseases; 2025 Feb. Available from: https://nccid.ca/debrief/mpox/
-      </a>
+      <a class="mpox-resource-link" href="https://nccid.ca/debrief/mpox/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 600;">Batac A.</span> Mpox [Internet]. Winnipeg (MB): National Collaborating Centre for Infectious Diseases; 2025 Feb. Available from: https://nccid.ca/debrief/mpox/</a>
     </p>
 
   </div>
@@ -302,10 +298,66 @@ Through my work at <a href="https://nccid.ca" style="font-weight: 600 !important
 <li>Supporting risk communication that reflects the circumstances of affected populations without reinforcing stigma.</li>
 </ul>
 <p><span class="math inline">\(~\)</span></p>
-<p><small> This work was conducted in my capacity as a researcher with the <a href="https://nccid.ca" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;">National Collaborating Centre for Infectious Diseases (NCCID)</a>. NCCID is funded by the Public Health Agency of Canada, and the views expressed herein may not necessarily represent the views of the Agency. </small></p>
+<p><small> This work was conducted in my capacity as a researcher with the <a class="blog-source-link" href="https://nccid.ca" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;"><span class="blog-link-text">National Collaborating Centre for Infectious Diseases (NCCID)</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. NCCID is funded by the Public Health Agency of Canada, and the views expressed herein may not necessarily represent the views of the Agency. </small></p>
 <style>
   h1, h2, h3, p {
     color: #1B153E;
+  }
+
+  /* Clickable resource title and citation, without underlines or arrows. */
+  a.mpox-resource-link,
+  a.mpox-resource-link:visited {
+    color: #1B153E;
+  }
+
+  a.mpox-resource-link,
+  a.mpox-resource-link:visited,
+  a.mpox-resource-link:hover,
+  a.mpox-resource-link:focus,
+  a.mpox-resource-link:focus-visible,
+  a.mpox-resource-link:active {
+    font-weight: inherit;
+    text-decoration: none !important;
+  }
+
+  a.mpox-resource-link:hover,
+  a.mpox-resource-link:focus-visible {
+    color: #DE2221;
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.blog-source-link,
+  a.blog-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.blog-source-link,
+  a.blog-source-link:hover,
+  a.blog-source-link:focus,
+  a.blog-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.blog-source-link .blog-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.blog-source-link .blog-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.blog-source-link:hover,
+  a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.blog-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
   }
 </style>
 <p><span class="math inline">\(~\)</span></p>

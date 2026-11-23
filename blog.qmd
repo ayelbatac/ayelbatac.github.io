@@ -3,7 +3,6 @@ title: "Blog | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/blog
 description: "Explore blog posts by Ayel L. R. Batac with reflections on global health and knowledge translation in public health research."
-
 format:
   html:
     toc: false

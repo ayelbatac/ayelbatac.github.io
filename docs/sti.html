@@ -287,7 +287,7 @@ window.Quarto = {
 <section id="meningococcal-vaccines-and-gonorrhoea-prevention" class="level3">
 <h3 data-anchor-id="meningococcal-vaccines-and-gonorrhoea-prevention">Meningococcal Vaccines and Gonorrhoea Prevention</h3>
 <p>The <span style="font-weight: 600;">four-component meningococcal serogroup B (4CMenB) vaccine</span> was originally developed to prevent <span style="font-weight: 600;">meningococcal disease</span>, a serious bacterial infection that can cause meningitis (inflammation of the lining around the brain and spinal cord) or bloodstream infections. The bacterium responsible for meningococcal disease is closely related to the one that causes <span style="font-weight: 600;">gonorrhoea</span>, an STI. Because these bacteria share certain proteins, researchers began investigating whether meningococcal B vaccines might also provide protection against gonorrhoea. Earlier studies found lower rates of gonorrhoea among people who had received these vaccines, suggesting possible partial protection, although the findings did not establish that vaccination itself caused the difference.</p>
-<p>In August 2025, <a href="https://www.gov.uk/government/news/nhs-begins-rollout-of-world-first-gonorrhoea-vaccine-programme" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;">England introduced a targeted 4CMenB vaccination programme</a>, primarily for MSM at increased risk of gonorrhoea, including those with a recent bacterial STI diagnosis or multiple recent sexual partners. The decision followed concerns about high gonorrhoea rates and growing antibiotic resistance, alongside evidence suggesting that even partial vaccine protection could have public health benefits. However, more recent clinical trials have not confirmed the protection suggested by earlier studies, leaving uncertainty about the vaccine’s effectiveness against gonorrhoea. Understanding how people interpret this evolving evidence is therefore important for communicating the potential benefits and limitations of vaccination as an STI prevention strategy.</p>
+<p>In August 2025, <a class="sti-source-link" href="https://www.gov.uk/government/news/nhs-begins-rollout-of-world-first-gonorrhoea-vaccine-programme" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;"><span class="sti-link-text">England introduced a targeted 4CMenB vaccination programme</span><span class="sti-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, primarily for MSM at increased risk of gonorrhoea, including those with a recent bacterial STI diagnosis or multiple recent sexual partners. The decision followed concerns about high gonorrhoea rates and growing antibiotic resistance, alongside evidence suggesting that even partial vaccine protection could have public health benefits. However, more recent clinical trials have not confirmed the protection suggested by earlier studies, leaving uncertainty about the vaccine’s effectiveness against gonorrhoea. Understanding how people interpret this evolving evidence is therefore important for communicating the potential benefits and limitations of vaccination as an STI prevention strategy.</p>
 </section>
 <section id="ongoing-research-1" class="level3">
 <h3 data-anchor-id="ongoing-research-1">Ongoing Research</h3>
@@ -316,7 +316,7 @@ window.Quarto = {
 <p><span class="math inline">\(~\)</span></p>
 <p><em>Stay tuned – publications and data visualisations related to this work will be made available here soon.</em></p>
 <p><span class="math inline">\(~\)</span></p>
-<p><small> This work is conducted in my capacity as a researcher at the <a href="https://www.lshtm.ac.uk" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;">London School of Hygiene &amp; Tropical Medicine</a> and the <a href="https://globalhealth.unc.edu" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;">University of North Carolina at Chapel Hill</a>. </small></p>
+<p><small> This work is conducted in my capacity as a researcher at the <a class="sti-source-link" href="https://www.lshtm.ac.uk" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;"><span class="sti-link-text">London School of Hygiene &amp; Tropical Medicine</span><span class="sti-link-arrow" aria-hidden="true">&nbsp;↗</span></a> and the <a class="sti-source-link" href="https://globalhealth.unc.edu" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;"><span class="sti-link-text">University of North Carolina at Chapel Hill</span><span class="sti-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. </small></p>
 <style>
   h1, h2, h3, p {
     color: #1B153E;
@@ -452,6 +452,41 @@ window.Quarto = {
     .sti-back-link:focus-visible {
       outline-color: Highlight;
     }
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.sti-source-link,
+  a.sti-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.sti-source-link,
+  a.sti-source-link:hover,
+  a.sti-source-link:focus,
+  a.sti-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.sti-source-link .sti-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.sti-source-link .sti-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.sti-source-link:hover,
+  a.sti-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.sti-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
   }
 </style>
 <p><span class="math inline">\(~\)</span></p>

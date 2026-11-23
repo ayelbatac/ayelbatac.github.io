@@ -303,10 +303,45 @@ window.Quarto = {
   </div>
 </div>
 <p><span class="math inline">\(~\)</span></p>
-<p><small> This research was conducted in my capacity as a researcher with the <a href="https://nccid.ca" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;">National Collaborating Centre for Infectious Diseases (NCCID)</a>, in collaboration with the <span style="font-weight: 600;">Government of Nunavut Department of Health</span>, the <span style="font-weight: 600;">Chief Public Health Officer of Nunavut</span>, and community partners involved in tuberculosis prevention and control in Nunavut. NCCID is funded by the Public Health Agency of Canada, and the views expressed herein may not necessarily represent the views of the Agency. </small></p>
+<p><small> This research was conducted in my capacity as a researcher with the <a class="blog-source-link" href="https://nccid.ca" target="_blank" rel="noopener noreferrer" style="font-weight: 600 !important;"><span class="blog-link-text">National Collaborating Centre for Infectious Diseases (NCCID)</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, in collaboration with the <a class="blog-source-link" href="https://www.gov.nu.ca/en/health" target="_blank" rel="noopener noreferrer" style="font-weight: 600;"><span class="blog-link-text">Government of Nunavut Department of Health</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, the <a class="blog-source-link" href="https://www.gov.nu.ca/en/department-health/public-health" target="_blank" rel="noopener noreferrer" style="font-weight: 600;"><span class="blog-link-text">Chief Public Health Officer of Nunavut</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, and community partners involved in tuberculosis prevention and control in Nunavut. NCCID is funded by the Public Health Agency of Canada, and the views expressed herein may not necessarily represent the views of the Agency. </small></p>
 <style>
   h1, h2, h3, p {
     color: #1B153E;
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.blog-source-link,
+  a.blog-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.blog-source-link,
+  a.blog-source-link:hover,
+  a.blog-source-link:focus,
+  a.blog-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.blog-source-link .blog-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.blog-source-link .blog-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.blog-source-link:hover,
+  a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.blog-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
   }
 </style>
 <p><span class="math inline">\(~\)</span></p>
