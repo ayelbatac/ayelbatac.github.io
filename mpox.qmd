@@ -3,6 +3,7 @@ title: "Mpox Research | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/mpox
 description: "Research on mpox by Ayel L. R. Batac, focusing on public health response, surveillance, and knowledge translation."
+
 format:
   html:
     toc: false
@@ -127,18 +128,10 @@ $~$
     color: #1B153E;
   }
 
-  /* Clickable resource title and citation, without underlines or arrows. */
+  /* Resource title and citation: underline on hover, without arrows. */
   a.mpox-resource-link,
   a.mpox-resource-link:visited {
     color: #1B153E;
-  }
-
-  a.mpox-resource-link,
-  a.mpox-resource-link:visited,
-  a.mpox-resource-link:hover,
-  a.mpox-resource-link:focus,
-  a.mpox-resource-link:focus-visible,
-  a.mpox-resource-link:active {
     font-weight: inherit;
     text-decoration: none !important;
   }
@@ -146,6 +139,9 @@ $~$
   a.mpox-resource-link:hover,
   a.mpox-resource-link:focus-visible {
     color: #DE2221;
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
   }
 
   /* Dotted source links with a separate external-link arrow */

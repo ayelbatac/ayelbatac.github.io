@@ -123,7 +123,7 @@ $~$
 $~$
 
 <small>
-  This research is conducted in my capacity as a researcher at
+  This research is conducted in my capacity as a researcher at the
   <a class="blog-source-link" href="https://www.lshtm.ac.uk" style="font-weight: 600 !important;"><span class="blog-link-text">London School of Hygiene &amp; Tropical Medicine</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
   The work has involved collaboration with researchers from the
   <a class="blog-source-link" href="https://diagnosticsgroup.org" style="font-weight: 600 !important;"><span class="blog-link-text">International Diagnostics Centre</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>
