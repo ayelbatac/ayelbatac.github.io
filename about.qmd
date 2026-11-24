@@ -529,6 +529,14 @@ const rawCollaborators = [
     {
       title: "The burden of food allergy on children and teens: A systematic review",
       url: "https://doi.org/10.1111/pai.13743"
+    },
+    {
+      title: "A scoping review protocol for evaluating cost questionnaires aimed at measuring the household financial burden of food allergy",
+      url: "https://doi.org/10.1111/cea.14493"
+    },
+    {
+      title: "A Scoping Review of Cost Questionnaires Aimed at Measuring the Household Financial Burden of Food Allergy",
+      url: "https://doi.org/10.1111/cea.14622"
     }
   ]
 },
