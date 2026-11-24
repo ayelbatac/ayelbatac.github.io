@@ -812,8 +812,8 @@ const rawCollaborators = [
   names: ["Rebecca C. Knibb, PhD"],
   papers: [
     {
-      title: "A qualitative investigation into vaccine hesitancy and confidence among people managing allergy",
-      url: "https://doi.org/10.1016/j.anai.2023.08.600"
+      title: "Guidance to enhance participant validity during virtual qualitative interviews and focus groups",
+      url: "https://doi.org/10.1016/j.anai.2023.01.005"
     }
           ]
 },
