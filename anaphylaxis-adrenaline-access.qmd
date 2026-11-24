@@ -1,0 +1,171 @@
+---
+title: "Anaphylaxis: Why Access to Adrenaline Matters | Ayel L. R. Batac"
+title-block: false
+canonical-url: https://ayelbatac.github.io/anaphylaxis-adrenaline-access
+description: "A reflection on access to adrenaline, differences in anaphylaxis treatment, and the potential role of new delivery methods."
+format:
+  html:
+    toc: false
+    anchor-links: false
+---
+
+# Anaphylaxis: Why Access to Adrenaline Matters
+
+March 10, 2026
+
+$~$
+
+**Adrenaline**, also known as **epinephrine**, is the recommended first treatment for **anaphylaxis**, a severe allergic reaction that can quickly become life-threatening. I'm interested in why it can be harder to obtain adrenaline in some places than in others.
+
+Growing up in the Philippines, I was used to seeing nebulisers in homes and clinics. These machines turn liquid medication into a mist that can be inhaled. Salbutamol, a medication used to relieve breathing difficulties associated with asthma, was commonly used and relatively inexpensive where I lived. Once a family had bought a nebuliser, they could reuse the machine and purchase the medication separately as needed.
+
+When I moved to Canada, I noticed how much more common metered-dose inhalers, often called puffers, were. I hadn't given much thought before to how cost and availability could influence which medications families kept at home.
+
+### Access to adrenaline
+
+It's particularly important for people at risk of anaphylaxis to have adrenaline available before an emergency occurs. Someone experiencing anaphylaxis may need adrenaline before medical help arrives.
+
+During anaphylaxis, the **airways can swell and narrow**, and blood pressure can fall dangerously low. Adrenaline helps reduce this swelling, improve breathing, and raise blood pressure.
+
+Signs of anaphylaxis can include **sudden difficulty breathing**, **swelling of the throat or tongue**, and **feeling faint**. Some people also develop raised, itchy patches on their skin, known as **hives**, although anaphylaxis can occur without any skin symptoms.
+
+<a class="blog-source-link" href="https://doi.org/10.1016/j.waojou.2020.100472"><span class="blog-link-text"><strong>International guidelines on anaphylaxis management</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> recommend giving adrenaline promptly by injecting it into the muscle of the outer thigh.
+
+Anaphylaxis is a medical emergency. If anaphylaxis is suspected, administer adrenaline promptly using the person's recommended emergency device, if available, and <a class="blog-source-link" href="https://foodallergycanada.ca/wp-content/uploads/5-emergency-steps-EN-3.pdf"><span class="blog-link-text">call emergency services immediately</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
+
+**Adrenaline auto-injectors** allow people at risk of anaphylaxis to carry the medication with them and administer it without having to prepare an injection themselves. People who have been advised to carry adrenaline auto-injectors should <a class="blog-source-link" href="https://www.nhs.uk/conditions/anaphylaxis/"><span class="blog-link-text"><strong>carry two with them, know how to use them and check regularly that they haven’t expired</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
+
+Adrenaline may be available in a country even when auto-injectors are not.
+
+In a <a class="blog-source-link" href="https://doi.org/10.1016/j.waojou.2023.100821"><span class="blog-link-text">2023 survey</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, the World Allergy Organization received responses from members in 66 countries. Adrenaline auto-injectors were reported to be available in only 60% of the countries surveyed. In some countries, people had to rely on importing the devices themselves.
+
+In 2025, I wrote an <a class="blog-source-link" href="https://doi.org/10.1111/cea.70028"><span class="blog-link-text"><strong>editorial in Clinical &amp; Experimental Allergy</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> examining the introduction of adrenaline auto-injectors in mainland China.
+
+Adrenaline auto-injectors were approved for clinical use in the Guangdong-Hong Kong-Macao Greater Bay Area in 2023. At the time I wrote the editorial, their availability elsewhere in mainland China remained limited.
+
+Before auto-injectors were introduced in the region, adrenaline was commonly given using a syringe. The medication had to be drawn from an ampoule, a small sealed container, and prepared for injection. This generally required a trained healthcare professional.
+
+Even where these devices are available, the cost of obtaining and replacing them can make it difficult for some families to keep adrenaline on hand.
+
+### Why treatment can differ from guidelines
+
+The availability of adrenaline is only one part of anaphylaxis management. Recognising anaphylaxis and knowing when to administer the medication are also important.
+
+A <a class="blog-source-link" href="https://doi.org/10.1111/all.14090"><span class="blog-link-text">study published in 2020</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> reviewed medical reports describing 819 cases of anaphylaxis in China. The reports were published between 2014 and 2018. Adrenaline was the first medication given in approximately 39% of cases, while corticosteroids, which are medications used to reduce inflammation, were given first in approximately 44%.
+
+More than two-thirds of the episodes occurred in people who were already in hospital, and almost all involved severe reactions. These cases don't necessarily reflect how anaphylaxis was managed across China, but they show that treatment didn't always follow international recommendations.
+
+**Antihistamines** can help relieve **itching and hives** once the life-threatening symptoms have been addressed, while **salbutamol** can help relieve **wheezing**. Corticosteroids are no longer recommended for routine emergency treatment of anaphylaxis under <a class="blog-source-link" href="https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment-anaphylactic-reactions"><span class="blog-link-text">current UK resuscitation guidance</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. None of these medications should replace or delay adrenaline.
+
+It's easy to describe differences in treatment as a failure to follow guidelines. I'm interested in understanding what might explain those differences.
+
+In some settings, healthcare professionals may have limited access to particular medications or devices. In others, they may have difficulty recognising anaphylaxis or may not have enough training to respond to it promptly.
+
+For people at risk of anaphylaxis, being prescribed adrenaline doesn't necessarily mean they can afford to obtain it or feel confident using it.
+
+### Adrenaline without an injection
+
+Until recently, people who needed to administer adrenaline themselves generally relied on injectable devices.
+
+In August 2024, the <a class="blog-source-link" href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-nasal-spray-treatment-anaphylaxis"><span class="blog-link-text">United States Food and Drug Administration approved neffy</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, an adrenaline nasal spray for the emergency treatment of severe allergic reactions, including anaphylaxis.
+
+The nasal spray was also <a class="blog-source-link" href="https://www.gov.uk/government/news/mhra-approves-adrenaline-nasal-spray-the-first-needle-free-emergency-treatment-for-anaphylaxis-in-the-uk"><span class="blog-link-text">authorised in the United Kingdom in July 2025</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> under the name EURneffy.
+
+The manufacturer <a class="blog-source-link" href="https://ir.ars-pharma.com/news-releases/news-release-details/ars-pharmaceuticals-files-approval-neffyr-canada-and-united/"><span class="blog-link-text">applied for approval in Canada in January 2025</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, although the nasal spray has not yet been authorised.
+
+For someone who is afraid of needles, having the option to administer adrenaline through a nasal spray may make treatment feel less intimidating.
+
+In a <a class="blog-source-link" href="https://pubmed.ncbi.nlm.nih.gov/37604314/"><span class="blog-link-text">manufacturer-sponsored study published in 2023</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, researchers compared nasal adrenaline with two methods of injecting adrenaline in 59 healthy volunteers. On average, the highest level of adrenaline reached in the bloodstream after using the nasal spray fell between the levels reached with the two injection methods.
+
+The researchers also examined changes in blood pressure and heart rate. Both increased after nasal or injectable adrenaline was given, although the effects varied. However, the participants weren't experiencing anaphylaxis, so the study can't tell us whether nasal and injectable adrenaline work equally well during an emergency.
+
+A small, <a class="blog-source-link" href="https://pubmed.ncbi.nlm.nih.gov/40639499/"><span class="blog-link-text">manufacturer-sponsored study published in 2025</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> examined nasal adrenaline in 15 children and adolescents who experienced moderate anaphylaxis during supervised food challenges.
+
+<a class="blog-source-link" href="https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/what-do-patients-and-caregivers-need-to-know-about"><span class="blog-link-text">Food challenges</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> involve giving someone small, gradually increasing amounts of a food under medical supervision to determine whether they're allergic to it. Although the reactions in this study were classified as moderate, they still required prompt treatment with adrenaline.
+
+None of the participants required a second dose of adrenaline to treat the initial reaction. One participant's symptoms returned nearly three hours later, and they were given an adrenaline injection.
+
+The study didn't directly compare nasal adrenaline with injectable adrenaline. We also don't know whether the results would be the same if someone had to recognise and treat anaphylaxis themselves at home.
+
+I'm also interested in what happens after a new treatment is authorised. Will people who struggle with injectable adrenaline be able to obtain the nasal spray? Will it be affordable enough for them to carry and replace when necessary?
+
+### Understanding variation in anaphylaxis treatment
+
+Earlier this month, my colleagues in Canada and Australia and I published a <a class="blog-source-link" href="https://doi.org/10.1111/cea.70273"><span class="blog-link-text"><strong>scoping review protocol in Clinical &amp; Experimental Allergy</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
+
+A scoping review allows us to bring together existing research on a particular subject and identify areas where evidence is still limited. The protocol sets out how we plan to conduct the review.
+
+We want to understand how adrenaline is being used in practice, how treatment differs across healthcare settings and what might explain those differences.
+
+When someone at risk of anaphylaxis is advised to carry adrenaline, I would like them to be able to obtain it and feel confident using it when they need it.
+
+–Ayel
+
+$~$
+
+<div class="blog-disclaimer">
+  <p><small><strong>Disclaimer:</strong> This blog is for informational and educational purposes only and is not a substitute for professional medical advice.</small></p>
+</div>
+
+$~$
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.blog-source-link,
+  a.blog-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.blog-source-link,
+  a.blog-source-link:hover,
+  a.blog-source-link:focus,
+  a.blog-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.blog-source-link .blog-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.blog-source-link .blog-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.blog-source-link:hover,
+  a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.blog-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
+  }
+
+  /* Match bold article text to the semibold source links. */
+  #quarto-document-content strong,
+  #quarto-document-content b,
+  a.blog-source-link .blog-link-text strong {
+    font-weight: 600;
+  }
+
+  .blog-disclaimer {
+    margin-top: 2rem;
+    overflow-wrap: break-word;
+  }
+
+  .blog-disclaimer small {
+    font-size: 0.85em;
+  }
+
+  .blog-disclaimer strong {
+    font-weight: 600;
+  }
+</style>

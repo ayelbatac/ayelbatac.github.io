@@ -37,10 +37,10 @@ format:
   
   <!-- Blog Post 5 -->
   <li style="margin-bottom: 1.5rem;">
-    <a href="structural-gaps-in-anaphylaxis-treatment.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
+    <a href="anaphylaxis-adrenaline-access.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 
        onmouseout="this.style.color='#1B153E'">
-      Guidelines Are Global. Access Is Not: Structural Gaps in Anaphylaxis Treatment
+      Anaphylaxis: Why Access to Adrenaline Matters
     </a>
     <div style="font-size: 0.9rem; color: #555;">Published: Mar 10, 2026</div>
   </li>
