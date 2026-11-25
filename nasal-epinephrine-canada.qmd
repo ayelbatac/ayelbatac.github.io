@@ -1,0 +1,335 @@
+---
+title: "Nasal Epinephrine in Canada: What We Know So Far | Ayel L. R. Batac"
+title-block: false
+canonical-url: https://ayelbatac.github.io/nasal-epinephrine-canada
+description: "An exploration of nasal epinephrine in Canada, its scientific evidence, and implications for anaphylaxis care."
+format:
+  html:
+    toc: false
+    anchor-links: false
+---
+
+# Nasal Epinephrine in Canada: What We Know So Far
+
+May 15, 2026
+
+$~$
+
+On April 9, 2026, <a class="blog-source-link" href="https://dhpp.hpfb-dgpsa.ca/review-documents/resource/RDS1776867861872"><span class="blog-link-text">Health Canada authorised neffy</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, a nasal spray containing epinephrine (also known as adrenaline) for the emergency treatment of severe allergic reactions, including anaphylaxis.
+
+I briefly discussed nasal epinephrine in an <a class="blog-source-link" href="https://ayelbatac.github.io/anaphylaxis-adrenaline-access"><span class="blog-link-text">earlier blog on anaphylaxis treatment</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, when it was still awaiting approval in Canada. For someone who hesitates to use an auto-injector because they're afraid of needles, having another option could make a difference.
+
+### What is neffy?
+
+Anaphylaxis is a severe allergic reaction that can quickly become life-threatening. Epinephrine is the first-line treatment for anaphylaxis, meaning it's the medication that should be given first. It helps reduce swelling in the airways, improve breathing, and raise blood pressure when it falls dangerously low.
+
+Symptoms of anaphylaxis can include difficulty breathing, swelling of the tongue or throat, and feeling faint. Anaphylaxis can also occur without hives (raised, itchy patches on the skin).
+
+An auto-injector delivers epinephrine into the muscle of the outer thigh. With neffy, epinephrine is absorbed through the **lining of the nose** into the bloodstream.
+
+<a class="blog-source-link" href="https://pdf.hres.ca/dpd_pm/00084260.PDF#page=4"><span class="blog-link-text">Health Canada has authorised the 2 mg nasal spray for adults and children weighing at least 30 kg</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. It has not yet authorised neffy for people below this weight.
+
+The nasal spray contains 2 mg of epinephrine, compared with 0.3 mg in a commonly used auto-injector. These doses aren't directly comparable because epinephrine is absorbed differently depending on how it's given.
+
+```{=html}
+<figure class="epinephrine-methods" aria-labelledby="epinephrine-methods-title">
+  <figcaption id="epinephrine-methods-title" class="epinephrine-methods-title">
+    Epinephrine: Two methods of administration
+  </figcaption>
+
+  <div class="epinephrine-methods-grid">
+    <div class="epinephrine-method" role="group" aria-labelledby="epinephrine-injector-label">
+      <p id="epinephrine-injector-label" class="epinephrine-method-label">Auto-injector</p>
+      <p class="epinephrine-method-dose">0.3 mg</p>
+      <p class="epinephrine-method-context">Commonly used dose</p>
+      <ol class="epinephrine-method-steps" role="list">
+        <li>
+          Injected into the muscle of the outer thigh
+          <span class="epinephrine-method-arrow" aria-hidden="true">↓</span>
+        </li>
+        <li>Absorbed from the muscle into the bloodstream</li>
+      </ol>
+    </div>
+
+    <div class="epinephrine-method" role="group" aria-labelledby="epinephrine-nasal-label">
+      <p id="epinephrine-nasal-label" class="epinephrine-method-label">Nasal spray</p>
+      <p class="epinephrine-method-dose">2 mg</p>
+      <p class="epinephrine-method-context">Canadian-authorised strength</p>
+      <ol class="epinephrine-method-steps" role="list">
+        <li>
+          Sprayed into one nostril
+          <span class="epinephrine-method-arrow" aria-hidden="true">↓</span>
+        </li>
+        <li>Absorbed through the lining of the nose into the bloodstream</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="epinephrine-methods-notes">
+    <p>Epinephrine is delivered and absorbed differently depending on the device. The difference in dose does not indicate which device is more effective during anaphylaxis.</p>
+    <p>Source: <a class="blog-source-link" href="https://pdf.hres.ca/dpd_pm/00084260.PDF"><span class="blog-link-text">Canadian product monograph for neffy</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, April 9, 2026.</p>
+  </div>
+</figure>
+```
+
+The nasal spray does NOT prevent allergic reactions. People with known allergies still need to avoid the substances that trigger their reactions (allergens).
+
+People with nasal polyps (growths inside the nose), previous nasal injuries or nasal surgery were not included in the studies examining how neffy is absorbed. These conditions may affect absorption, so an injectable device may be more appropriate for some people. People with these nasal conditions should discuss which device to carry with their healthcare professional before an emergency occurs.
+
+### How do you use neffy?
+
+According to the <a class="blog-source-link" href="https://pdf.hres.ca/dpd_pm/00084260.PDF"><span class="blog-link-text">Canadian product monograph</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, which contains prescribing information and instructions for patients, the recommended dose is a single 2 mg spray into one nostril.
+
+If <a class="blog-source-link" href="https://www.foodallergycanada.ca/food-allergy-basics/preventing-and-treating-allergic-reactions/reaction-signs-and-symptoms/"><span class="blog-link-text">anaphylaxis is suspected</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, administer epinephrine promptly using the person's recommended emergency device and call 911 or local emergency services immediately. Even if symptoms go away, the person still needs emergency medical care.
+
+When administering the nasal spray, insert the nozzle fully into the nostril and keep it pointing straight towards the forehead rather than towards the sides of the nose. Press the plunger firmly and avoid sniffing during or immediately after administration.
+
+If symptoms don't improve, worsen or return, a second dose can be given as early as five minutes after the first. Use a new nasal spray in the same nostril. Further doses should only be given under direct medical supervision.
+
+Each device contains a single dose and should not be tested beforehand. People prescribed neffy should **carry at least two nasal sprays** and learn how to use them before an emergency occurs.
+
+The nasal spray can cause side effects, including discomfort inside the nose, throat irritation, headache, and shakiness. Concerns about potential side effects should not delay the use of epinephrine during anaphylaxis.
+
+<a class="blog-source-link" href="https://pdf.hres.ca/dpd_pm/00084260.PDF#page=23"><span class="blog-link-text">The Canadian product monograph</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> contains illustrated instructions for using the device. <a class="blog-source-link" href="https://www.foodallergycanada.ca/food-allergy-basics/preventing-and-treating-allergic-reactions/treating-reactions/"><span class="blog-link-text">Food Allergy Canada</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> also provides guidance on responding to anaphylaxis.
+
+### What does the research tell us?
+
+Much of the research supporting the authorisation of nasal epinephrine has examined how much of the medication reaches the bloodstream and how it affects blood pressure and heart rate. Researchers can compare these findings with those from injectable epinephrine without participants experiencing anaphylaxis.
+
+One question researchers have explored is whether having a blocked nose affects how well the medication is absorbed.
+
+A <a class="blog-source-link" href="https://doi.org/10.1016/j.jaip.2026.02.005"><span class="blog-link-text">manufacturer-sponsored study published in 2026</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> compared repeated doses of nasal and injectable epinephrine in 43 adults with hay fever (seasonal allergic rhinitis).
+
+During separate study visits, participants received nasal epinephrine and epinephrine injections, both under normal nasal conditions and after researchers triggered their nasal allergy symptoms.
+
+Even when participants had a blocked nose, repeated nasal doses produced similar or higher peak levels of epinephrine in the blood compared with injections. Peak levels refer to the highest concentrations measured in the blood.
+
+When participants had nasal allergy symptoms, giving both doses in the same nostril also kept epinephrine levels higher for longer than giving the doses in opposite nostrils.
+
+The researchers gave the two doses 10 minutes apart, rather than the five-minute minimum interval recommended for emergency use in Canada.
+
+The participants weren't experiencing anaphylaxis, so these findings alone can't establish whether the two methods work equally well during an emergency.
+
+In 2025, researchers in Japan published a <a class="blog-source-link" href="https://doi.org/10.1016/j.jaip.2025.06.038"><span class="blog-link-text">small study funded by the manufacturer of the nasal spray</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>. It involved 15 children and adolescents aged 6 to 17 who experienced moderate anaphylaxis during supervised food challenges.
+
+<a class="blog-source-link" href="https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/what-do-patients-and-caregivers-need-to-know-about"><span class="blog-link-text">Food challenges</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> involve giving someone gradually increasing amounts of a food under medical supervision to determine whether they're allergic to it. Although the reactions in this study were classified as moderate, they still required urgent treatment with epinephrine.
+
+Six participants received the 1 mg nasal spray and nine received the 2 mg formulation authorised in Canada.
+
+None required a second dose of epinephrine to treat their initial reaction, although seven participants received additional treatments after the nasal spray was given. These included antihistamines (medicines that can relieve itching and hives) and medication to help with breathing. One participant's symptoms returned nearly three hours later, and they were given an epinephrine injection.
+
+The study involved only 15 participants and did not directly compare nasal epinephrine with injectable epinephrine. We don't know whether the findings would be similar in more severe reactions or when someone has to recognise and treat anaphylaxis outside a clinical setting.
+
+### Access and emergency preparedness
+
+In April, <a class="blog-source-link" href="https://foodallergycanada.org/neffy-epinephrine-nasal-spray-receives-health-canada-approval/"><span class="blog-link-text">Food Allergy Canada reported</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> that neffy was expected to become available in Canadian pharmacies in summer 2026.
+
+I'm interested in whether people who find auto-injectors difficult to use will be able to obtain the nasal spray and afford to replace it when needed.
+
+Someone who has carried an auto-injector for years will need to learn how to use the nasal spray if they switch devices. Parents, teachers, and others who might administer epinephrine on their behalf will need to learn too.
+
+For those of us in Canada, storing the nasal spray during winter is also worth considering. The nasal spray should be stored **between 15°C and 30°C** and protected from freezing. The device won't work while frozen. In an emergency, don't wait for it to thaw. Use another recommended epinephrine device if one is available and seek emergency medical assistance immediately.
+
+If you're considering switching to the nasal spray, discuss this with your healthcare professional and update your anaphylaxis emergency plan. The people who might need to help you during an emergency should know which device you carry, where you keep it, and how to use it.
+
+–Ayel
+
+$~$
+
+<div class="blog-disclaimer">
+  <p><small><strong>Disclaimer:</strong> This blog is for informational and educational purposes only and is not a substitute for professional medical advice. The discussion of specific medications does not constitute commercial endorsement.</small></p>
+</div>
+
+$~$
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.blog-source-link,
+  a.blog-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.blog-source-link,
+  a.blog-source-link:hover,
+  a.blog-source-link:focus,
+  a.blog-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.blog-source-link .blog-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.blog-source-link .blog-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.blog-source-link:hover,
+  a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.blog-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
+  }
+
+  /* Match bold article text to the semibold source links. */
+  #quarto-document-content strong,
+  #quarto-document-content b,
+  a.blog-source-link .blog-link-text strong {
+    font-weight: 600;
+  }
+
+  .blog-disclaimer {
+    margin-top: 2rem;
+    overflow-wrap: break-word;
+  }
+
+  .blog-disclaimer small {
+    font-size: 0.85em;
+  }
+
+  .blog-disclaimer strong {
+    font-weight: 600;
+  }
+
+  /* Epinephrine comparison: two columns on desktop, stacked on mobile. */
+  .epinephrine-methods {
+    --epinephrine-ink: #1B153E;
+    --epinephrine-accent: #DE2221;
+    width: 100%;
+    margin: 2.5rem 0;
+    color: var(--epinephrine-ink);
+    font-family: inherit;
+    line-height: 1.5;
+  }
+
+  .epinephrine-methods,
+  .epinephrine-methods * {
+    box-sizing: border-box;
+  }
+
+  .epinephrine-methods .epinephrine-methods-title {
+    margin: 0 0 1.5rem;
+    padding: 0;
+    color: var(--epinephrine-ink);
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: center;
+  }
+
+  .epinephrine-methods-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+
+  .epinephrine-method {
+    display: grid;
+    grid-template-rows: auto auto minmax(2.8em, auto) 1fr;
+    gap: 0.6rem;
+    min-width: 0;
+    text-align: center;
+  }
+
+  .epinephrine-methods .epinephrine-method-label {
+    margin: 0;
+    color: var(--epinephrine-ink);
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  .epinephrine-methods .epinephrine-method-dose {
+    margin: 0;
+    color: var(--epinephrine-accent);
+    font-size: 2.6rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+
+  .epinephrine-methods .epinephrine-method-context {
+    margin: 0;
+    color: var(--epinephrine-ink);
+    font-size: 0.9rem;
+  }
+
+  .epinephrine-method-steps {
+    display: grid;
+    grid-template-rows: repeat(2, minmax(6rem, 1fr));
+    gap: 2.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.95rem;
+  }
+
+  .epinephrine-method-steps > li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 1.25rem 1rem;
+    border: 1px solid rgba(27, 21, 62, 0.2);
+    border-radius: 0.65rem;
+    color: var(--epinephrine-ink);
+    background: #fff;
+    overflow-wrap: break-word;
+  }
+
+  .epinephrine-method-arrow {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--epinephrine-accent);
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+
+  .epinephrine-methods-notes {
+    margin-top: 2rem;
+    font-size: 0.85rem;
+    text-align: left;
+  }
+
+  .epinephrine-methods .epinephrine-methods-notes p {
+    margin: 0 0 1rem;
+    color: var(--epinephrine-ink);
+  }
+
+  .epinephrine-methods-notes p:last-child {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 600px) {
+    .epinephrine-methods .epinephrine-methods-title {
+      font-size: 1.25rem;
+    }
+
+    .epinephrine-methods-grid {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 2.5rem;
+    }
+
+    .epinephrine-method {
+      grid-template-rows: auto auto auto 1fr;
+    }
+
+    .epinephrine-methods .epinephrine-method-context {
+      margin-bottom: 0.5rem;
+    }
+  }
+</style>
