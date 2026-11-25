@@ -27,10 +27,10 @@ format:
   
   <!-- Blog Post 6 -->
   <li style="margin-bottom: 1.5rem;">
-    <a href="when-evidence-doesnt-reach-people.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
+    <a href="manitoba-hiv-emergency.qmd" style="color: #1B153E; font-size: 1.1rem; font-weight: bold; text-decoration: none;" 
        onmouseover="this.style.color='#DE2221'" 
        onmouseout="this.style.color='#1B153E'">
-      Manitoba’s HIV Emergency: When Evidence Doesn’t Reach People
+      Understanding Manitoba's HIV Emergency
     </a>
     <div style="font-size: 0.9rem; color: #555;">Published: May 9, 2026</div>
   </li>

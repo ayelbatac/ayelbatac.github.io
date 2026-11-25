@@ -1,0 +1,347 @@
+---
+title: "Understanding Manitoba's HIV Emergency | Ayel L. R. Batac"
+title-block: false
+canonical-url: https://ayelbatac.github.io/manitoba-hiv-emergency
+description: "An exploration of Manitoba's HIV emergency, the evidence behind HIV prevention and treatment, and the challenges of making these services accessible to those who need them."
+format:
+  html:
+    toc: false
+    anchor-links: false
+---
+
+# Understanding Manitoba's HIV Emergency
+
+May 9, 2026
+
+$~$
+
+On May 7, 2026, Manitoba <a class="blog-source-link" href="https://news.gov.mb.ca/news/index.html?item=73717"><span class="blog-link-text">declared a public health emergency</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> in response to rising HIV diagnoses. The number of new diagnoses increased from 90 in 2019 to 328 in 2025. These figures tell us how many people were newly diagnosed with HIV, not necessarily how many acquired the virus during those years.
+
+In 2024, Manitoba recorded 19.5 HIV diagnoses per 100,000 people, more than three-and-a-half times the national rate of 5.5. Diagnosis rates are highest in Prairie Mountain Health and Northern Health, while Winnipeg has the largest number of diagnoses.
+
+I'm from Winnipeg, and seeing these figures worries me, particularly given how much we already know about preventing and treating HIV.
+
+### What we know about HIV
+
+**HIV**, or **human immunodeficiency virus**, attacks the immune system. Effective treatment allows people living with HIV to live long and healthy lives.
+
+Treatment also reduces the amount of HIV in the blood, known as the viral load. When HIV treatment reduces the viral load to below 200 copies per mL of blood, this is called **viral suppression**. People who maintain viral suppression through effective treatment cannot transmit HIV through sex. This is known as <a class="blog-source-link" href="https://www.canada.ca/en/public-health/services/publications/diseases-conditions/preventing-hiv-transmission-undetectable-equals-untransmittable-health-professionals-fact-sheet.html"><span class="blog-link-text"><strong>Undetectable = Untransmittable (U=U)</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
+
+<a class="blog-source-link" href="https://mbhiv.ca/prep/"><span class="blog-link-text"><strong>Pre-exposure prophylaxis (PrEP)</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> is medication that people without HIV can take **before a possible exposure**. It's highly effective at preventing HIV when taken as prescribed.
+
+<a class="blog-source-link" href="https://doi.org/10.1503/cmaj.250511"><span class="blog-link-text"><strong>Post-exposure prophylaxis (PEP)</strong></span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> is a 28-day course of medication that can help prevent HIV **after a possible exposure**. It needs to be started as soon as possible and no later than 72 hours after exposure.
+
+Condoms and new, sterile injecting equipment also remain important approaches to HIV prevention.
+
+Stigma and misunderstandings about HIV can make it more difficult for people to seek testing and care. HIV cannot be transmitted through ordinary contact, such as hugging someone or sharing a meal, regardless of whether they're receiving treatment.
+
+### What's already being done in Manitoba?
+
+Since April 2025, the <a class="blog-source-link" href="https://www.manitoba.ca/health/pharmacare/mepp.html"><span class="blog-link-text">Manitoba Enhanced Pharmacare Program</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> has provided eligible residents with no-cost coverage for most HIV prevention and treatment medications.
+
+On May 8, 2026, <a class="blog-source-link" href="https://www.gov.mb.ca/health/publichealth/cdc/docs/hcp/2026/hcp_letter_hiv_ph_emergency.pdf"><span class="blog-link-text">Manitoba Health confirmed</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> that eligible residents can access PrEP as tablets or as a long-acting injection at no cost. Any licensed Manitoba prescriber can prescribe PrEP.
+
+Even when the medication is free, someone may not know about PrEP or have a healthcare provider they can discuss it with.
+
+Another example is the <a class="blog-source-link" href="https://mbhiv.ca/paths/"><span class="blog-link-text">Program to Access Treatment for HIV and Support (PATHS)</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, launched in July 2024. It supports people living with HIV who have difficulty accessing regular care, including by delivering services in community spaces, shelters and people's homes.
+
+The <a class="blog-source-link" href="https://mbhiv.ca/wp-content/uploads/2025/11/2025-MB-HIV-Program-Report-Final.pdf"><span class="blog-link-text">2025 Manitoba HIV Program report</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> compared outcomes among 60 people assigned to PATHS and 180 on its waiting list between July 2024 and June 2025.
+
+```{=html}
+<figure class="paths-outcomes" aria-labelledby="paths-outcomes-title">
+  <figcaption id="paths-outcomes-title" class="paths-outcomes-title">
+    HIV care outcomes reported by the Manitoba HIV Program
+  </figcaption>
+
+  <ul class="paths-outcomes-legend" aria-label="Comparison groups">
+    <li><span class="paths-outcomes-key paths-outcomes-key-paths" aria-hidden="true"></span>Assigned to PATHS</li>
+    <li><span class="paths-outcomes-key paths-outcomes-key-waiting" aria-hidden="true"></span>On the waiting list</li>
+  </ul>
+
+  <div class="paths-outcomes-group" role="group" aria-labelledby="paths-treatment-label">
+    <p id="paths-treatment-label" class="paths-outcomes-label">Receiving HIV treatment</p>
+    <div class="paths-outcomes-rows">
+      <div class="paths-outcomes-row" style="--value: 65%;">
+        <span class="paths-outcomes-sr-only">Assigned to PATHS: </span>
+        <span class="paths-outcomes-bar paths-outcomes-bar-paths" aria-hidden="true"></span>
+        <span class="paths-outcomes-value">65%</span>
+      </div>
+      <div class="paths-outcomes-row" style="--value: 42%;">
+        <span class="paths-outcomes-sr-only">On the waiting list: </span>
+        <span class="paths-outcomes-bar paths-outcomes-bar-waiting" aria-hidden="true"></span>
+        <span class="paths-outcomes-value">42%</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="paths-outcomes-group" role="group" aria-labelledby="paths-suppression-label">
+    <p id="paths-suppression-label" class="paths-outcomes-label">Documented viral suppression</p>
+    <div class="paths-outcomes-rows">
+      <div class="paths-outcomes-row" style="--value: 45%;">
+        <span class="paths-outcomes-sr-only">Assigned to PATHS: </span>
+        <span class="paths-outcomes-bar paths-outcomes-bar-paths" aria-hidden="true"></span>
+        <span class="paths-outcomes-value">45%</span>
+      </div>
+      <div class="paths-outcomes-row" style="--value: 18%;">
+        <span class="paths-outcomes-sr-only">On the waiting list: </span>
+        <span class="paths-outcomes-bar paths-outcomes-bar-waiting" aria-hidden="true"></span>
+        <span class="paths-outcomes-value">18%</span>
+      </div>
+    </div>
+  </div>
+
+  <p class="paths-outcomes-note">
+    July 2024–June 2025. Assigned to PATHS: 60 people; waiting list: 180 people.
+    Adapted from the <a class="blog-source-link" href="https://mbhiv.ca/wp-content/uploads/2025/11/2025-MB-HIV-Program-Report-Final.pdf"><span class="blog-link-text">Manitoba HIV Program, 2025 report</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, Figure 4, p. 17.
+  </p>
+</figure>
+```
+
+A higher proportion of people assigned to PATHS were receiving HIV treatment and had documented viral suppression than those on the waiting list.
+
+People weren't randomly assigned to the two groups, and outcomes were recorded differently, so we can't determine how much of the difference was due to PATHS. As of October 31, 2025, 185 eligible people were still waiting for its services.
+
+### HIV prevention in Manitoba
+
+According to <a class="blog-source-link" href="https://news.gov.mb.ca/news/index.html?item=73717"><span class="blog-link-text">Manitoba Health</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>, the most common reported routes of HIV transmission in the province are **unprotected heterosexual sex** and the **sharing of injecting equipment**.
+
+**Harm reduction** involves reducing the health risks associated with drug use without requiring people to stop using drugs before receiving support. Providing sterile needles and other injecting equipment reduces the risk of HIV transmission and can help connect people to testing and care.
+
+Another concern is HIV transmission during pregnancy and childbirth. Manitoba reported one infant acquiring HIV around the time of birth in 2024 and another in 2025.
+
+Effective HIV treatment can greatly reduce this risk. Manitoba Health now recommends offering HIV testing to all pregnant people at their first appointment for pregnancy care, again during the final three months of pregnancy and at delivery if their HIV status is unknown.
+
+### What happens after the emergency declaration?
+
+Manitoba has announced an HIV Response Steering Committee. Its proposed priorities include expanding HIV testing, increasing awareness and use of PrEP, and improving access to care.
+
+For someone living with HIV, keeping appointments and taking medication regularly may become more difficult without stable housing or reliable transport. Rather than simply recording that someone has missed an appointment, it might be more useful to understand why they weren't able to attend.
+
+Healthcare professionals and community organisations have been working on HIV prevention and care in Manitoba for years. I would like to see the emergency response build on that work.
+
+### Where to access HIV services in Manitoba
+
+- **HIV testing:** HIV testing is free and confidential in Manitoba. Visit the <a class="blog-source-link" href="https://www.gov.mb.ca/health/publichealth/cdc/sti/stbbi-testing.html"><span class="blog-link-text">Government of Manitoba website</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> to find testing locations.
+
+- **Harm reduction:** The <a class="blog-source-link" href="https://www.streetconnections.ca/service_map.php"><span class="blog-link-text">Street Connections service map</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> can help you find services.
+
+- **PrEP and HIV treatment:** <a class="blog-source-link" href="https://mbhiv.ca/services-map/"><span class="blog-link-text">Manitoba HIV Program services directory</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
+
+- **PEP:** Seek medical advice immediately after a possible exposure. Emergency departments and hospital-based urgent care centres can assess whether you need PEP. <a class="blog-source-link" href="https://sexfriendlymb.ninecircles.ca/pep-after-sex/"><span class="blog-link-text">Sex Friendly Manitoba</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a> provides further guidance.
+
+- **Medication coverage:** <a class="blog-source-link" href="https://www.manitoba.ca/health/pharmacare/mepp.html"><span class="blog-link-text">Manitoba Enhanced Pharmacare Program</span><span class="blog-link-arrow" aria-hidden="true">&nbsp;↗</span></a>.
+
+If you're unsure where to seek care, you can also contact Health Links–Info Santé at 1-888-315-9257.
+
+I'll be following Manitoba's response over the coming months. I'm particularly interested in whether more people will be able to get tested and receive treatment closer to where they live.
+
+–Ayel
+
+$~$
+
+<div class="blog-disclaimer">
+  <p><small><strong>Disclaimer:</strong> This blog is for informational and educational purposes only and is not a substitute for professional medical advice.</small></p>
+</div>
+
+$~$
+
+<style>
+  h1, h2, h3, p {
+    color: #1B153E;
+  }
+
+  /* Dotted source links with a separate external-link arrow */
+  a.blog-source-link,
+  a.blog-source-link:visited {
+    color: #1B153E;
+  }
+
+  a.blog-source-link,
+  a.blog-source-link:hover,
+  a.blog-source-link:focus,
+  a.blog-source-link:focus-visible {
+    text-decoration: none !important;
+  }
+
+  a.blog-source-link .blog-link-text {
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a.blog-source-link .blog-link-arrow {
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  a.blog-source-link:hover,
+  a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  a.blog-source-link:focus-visible {
+    outline: 2px solid #DE2221;
+    outline-offset: 3px;
+  }
+
+  /* Match bold article text to the semibold source links. */
+  #quarto-document-content strong,
+  #quarto-document-content b,
+  a.blog-source-link .blog-link-text strong {
+    font-weight: 600;
+  }
+
+  .blog-disclaimer {
+    margin-top: 2rem;
+    overflow-wrap: break-word;
+  }
+
+  .blog-disclaimer small {
+    font-size: 0.85em;
+  }
+
+  .blog-disclaimer strong {
+    font-weight: 600;
+  }
+
+  /* PATHS comparison: HTML bars on a shared 0–100% scale. */
+  .paths-outcomes {
+    --paths-colour: #1B153E;
+    --waiting-colour: #DE2221;
+    --chart-ink: #1B153E;
+    --chart-muted: #1B153E;
+    width: 100%;
+    margin: 2rem 0;
+    color: var(--chart-ink);
+    font-family: inherit;
+    line-height: 1.5;
+  }
+
+  .paths-outcomes .paths-outcomes-title {
+    margin: 0 0 1.25rem;
+    padding: 0;
+    color: var(--chart-ink);
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: left;
+  }
+
+  .paths-outcomes .paths-outcomes-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.4rem;
+    margin: 0 0 1.75rem;
+    padding: 0;
+    list-style: none;
+    font-size: 0.95rem;
+  }
+
+  .paths-outcomes-legend li {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0;
+  }
+
+  .paths-outcomes-key {
+    flex: 0 0 0.85rem;
+    width: 0.85rem;
+    height: 0.85rem;
+    border-radius: 50%;
+  }
+
+  .paths-outcomes-key-paths,
+  .paths-outcomes-bar-paths {
+    background-color: var(--paths-colour);
+  }
+
+  .paths-outcomes-key-waiting,
+  .paths-outcomes-bar-waiting {
+    background-color: var(--waiting-colour);
+  }
+
+  .paths-outcomes-group + .paths-outcomes-group {
+    margin-top: 1.5rem;
+  }
+
+  .paths-outcomes .paths-outcomes-label {
+    margin: 0 0 0.8rem;
+    color: var(--chart-ink);
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .paths-outcomes-rows {
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  .paths-outcomes-row {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 2rem;
+    /* Reserve space for the value beyond the end of any bar. */
+    padding-right: 3.5rem;
+  }
+
+  .paths-outcomes-bar {
+    display: block;
+    flex: 0 0 var(--value);
+    height: 0.65rem;
+    border-radius: 999px;
+  }
+
+  .paths-outcomes-value {
+    flex: 0 0 auto;
+    font-size: 1rem;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .paths-outcomes .paths-outcomes-note {
+    margin: 1.75rem 0 0;
+    padding-top: 1.25rem;
+    border-top: none;
+    color: var(--chart-muted);
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+
+  .paths-outcomes-note a.blog-source-link,
+  .paths-outcomes-note a.blog-source-link:visited {
+    color: inherit;
+  }
+
+  .paths-outcomes-note a.blog-source-link:hover,
+  .paths-outcomes-note a.blog-source-link:focus-visible {
+    color: #DE2221;
+  }
+
+  .paths-outcomes-sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  @media (max-width: 480px) {
+    .paths-outcomes .paths-outcomes-title {
+      font-size: 1.2rem;
+    }
+
+    .paths-outcomes .paths-outcomes-legend {
+      gap: 0.5rem 1rem;
+    }
+  }
+</style>
