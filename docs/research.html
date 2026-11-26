@@ -239,7 +239,7 @@ window.Quarto = {
           <span class="research-card-kicker">Featured research</span>
           <h3 id="research-sti-title" class="anchored">
             <span class="research-card-title">Sexually Transmitted Infections</span>
-            <span class="research-card-arrow" aria-hidden="true">→</span>
+            <svg class="research-card-arrow" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"></path></svg>
           </h3>
           <p>Social and behavioural approaches to STI prevention, including pay-it-forward testing, perspectives on gonorrhoea vaccination, and syphilis self-testing.</p>
         </div>
@@ -252,7 +252,7 @@ window.Quarto = {
         <div class="research-card-body">
           <h3 id="research-diagnostics-title" class="anchored">
             <span class="research-card-title">Diagnostics</span>
-            <span class="research-card-arrow" aria-hidden="true">→</span>
+            <svg class="research-card-arrow" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"></path></svg>
           </h3>
           <p>Expanding access to testing and strengthening connections to appropriate clinical care.</p>
         </div>
@@ -265,7 +265,7 @@ window.Quarto = {
         <div class="research-card-body">
           <h3 id="research-tb-title" class="anchored">
             <span class="research-card-title">Tuberculosis</span>
-            <span class="research-card-arrow" aria-hidden="true">→</span>
+            <svg class="research-card-arrow" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"></path></svg>
           </h3>
           <p>Community engagement and the implementation of tuberculosis screening in remote settings.</p>
         </div>
@@ -278,7 +278,7 @@ window.Quarto = {
         <div class="research-card-body">
           <h3 id="research-mpox-title" class="anchored">
             <span class="research-card-title">Mpox</span>
-            <span class="research-card-arrow" aria-hidden="true">→</span>
+            <svg class="research-card-arrow" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"></path></svg>
           </h3>
           <p>Interpreting emerging evidence to support public health preparedness and practice.</p>
         </div>
@@ -291,7 +291,7 @@ window.Quarto = {
         <div class="research-card-body">
           <h3 id="research-anaphylaxis-title" class="anchored">
             <span class="research-card-title">Anaphylaxis</span>
-            <span class="research-card-arrow" aria-hidden="true">→</span>
+            <svg class="research-card-arrow" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14m-6-6 6 6-6 6"></path></svg>
           </h3>
           <p>Understanding access to treatment and preparedness for anaphylaxis emergencies.</p>
         </div>
@@ -500,6 +500,9 @@ window.Quarto = {
   }
 
   .research-card-arrow {
+    display: block;
+    width: 1.1em;
+    height: 1.1em;
     flex-shrink: 0;
     color: var(--research-red);
     transition: transform 0.2s ease;
