@@ -2,7 +2,7 @@
 title: "Research | Ayel L. R. Batac"
 title-block: false
 canonical-url: https://ayelbatac.github.io/research
-description: "Explore Ayel L. R. Batac’s research addressing global health challenges, with a focus on health systems and clinical medicine."
+description: "Explore Ayel L. R. Batac’s research on the social and behavioural dimensions of health, with a focus on infectious disease prevention and access to care."
 format:
   html:
     toc: false
